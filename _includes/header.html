@@ -17,25 +17,8 @@
 	<link rel="apple-touch-icon" sizes="512x512" href="{{ '/assets/img/icons/icon-512x512.png' | relative_url }}">
 	<link rel="stylesheet" href="{{ '/assets/search/tipuesearch/tipuesearch.css' | relative_url }}">
 
-	<script type="text/javascript">
-		if(location.hostname === "mediasuite.clariah.nl") {
-			var _paq = _paq || [];
-			_paq.push(['trackPageView']);
-			_paq.push(['enableLinkTracking']);
-			(function() {
-				var u="//clariah-mediasuite.innocraft.cloud/";
-				_paq.push(['setTrackerUrl', u+'piwik.php']);
-				_paq.push(['setSiteId', '1']);
-				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-				g.type='text/javascript';
-				g.async=true;
-				g.defer=true;
-				g.src=u+'piwik.js';
-				s.parentNode.insertBefore(g,s);
-			})();
-		}
+	{% include site_tracking.html %}
 
-	</script>
 </head>
 <body{% if page.id %} id="{{ page.id }}"{% endif %} class="d-flex flex-column h-100">
 
