@@ -107,7 +107,7 @@ defaults:
     vimeo_url: 
     other_urls: []
     pdf_file: 
-version: v5.0 test
+version: v5.0 test2
 url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl
 markdown: kramdown
