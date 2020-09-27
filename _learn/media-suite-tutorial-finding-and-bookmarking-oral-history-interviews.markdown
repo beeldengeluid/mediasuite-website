@@ -101,9 +101,13 @@ In the previous step, you found out which search queries produced fruitful resul
 In the previous steps, you have explored which search queries have had fruitful results, and how you may filter these results using facets. For various reasons - for instance for reasons of transparency, being able to explain the steps of your research to others or to easily continue your research at a later stage- it may be useful to store the useful search queries. In this step, you will learn how this works in the Media Suite.
 
 * **Enter a query** that you would like to be able to use again at a later stage in your research.
+
 * **Use facets** to filter the query.
-* **Click “Save Query” in the upper right corner to save your query parameters.** Your query parameters do not only entail your search term, but also the facets you have selected. 
+
+* **Click “Save Query” in the upper right corner to save your query parameters.** Your query parameters do not only entail your search term, but also the facets you have selected.
+
 * Once you have clicked the “Save Query” button, the query will have been saved to your active user project
+
 * **NB!** Even with a saved query that you have used before, research results may not always be the same every time, for instance if new metadata or ASR data have been added to the environment since you last worked in it.
 
 ## 5. Bookmark Items
@@ -112,4 +116,56 @@ In the previous steps, you have explored which search queries have had fruitful 
 
 Not only are you able to store search queries in your user projects; you can also store specific items, in the case of oral history research primarily case interviews. By doing this, you will be creating a personal corpus of interviews.
 
+* Repeat some of your most fruitful searches.
 
+* **Click on an interview** that looks relevant for your research.
+
+* If you decide that this interview is relevant for your research, **click the bookmark button** in the upper right corner.
+
+* You will be presented with the following screen, on which you will have to **create a bookmark group** that fits your interview. Here, I chose “Workspace”, as the interview in question has to do with being the sole woman at a certain workspace.
+
+**![](https://lh5.googleusercontent.com/T3sWeK5Z0uTqwl5ERMbGxD48Eu5fD9RjhWEZRHqb1-mi_Kgqh_pFI0WULbK8ZHD2LzBjJYLmHbn41kPdhzUR74F0vajRkqjnlcJCEVuSb_TUsCwbdEwx7_itEkHdd1PAfLKc3Gey)**
+
+* **Click save** and go back to your search results using the “back to results” button in the top right corner. As you can see, the interview you bookmarked is highlighted in orange in the search results now.
+
+**![](https://lh5.googleusercontent.com/jHnHyrsY4BFHb2j4JB8SI3TZfZ4w6w2Fn_Ind6YWkTfsFeWK0NjIt2XngXTVwEaW-EAQHQOmJe60QZS90o7lv66itIv5FYSAZh5OIzsWZ9WaayuKeH9dDBln44-auku0VEcMS3Yn)**
+
+* It is also possible to **bookmark multiple search results** at the same time. To do this, check the desired items in the search results and press the blue checkmark at the top of the list when you are done. In the small dropdown menu, click “bookmark selection”.
+
+## 6. Exploring your corpus
+
+{% include embed.html src='https://vimeo.com/451147929' ratio='16by9' %}
+
+Now that you have created a corpus through bookmarks, it is time to take a look at this corpus. In this step, you will familiarize yourself with your personal workspace within the Media Suite, as well as with ways in which you may gather context relating to the interviews in your corpus.
+
+* Hover over the “Workspace” tab
+
+* Click on “user projects”
+
+* Click the project you made for this tutorial.
+
+* Now you will see different tabs that are all part of your user project.
+
+1. **Details**: information about your user project
+
+2. **Bookmarks**: your corpus, all the interviews you have decided to bookmark in step 3
+
+3. **Queries**: the search queries you saved in step 4
+
+4. **Annotations and Tool Sessions**: these are irrelevant for this tutorial, consult other tutorials for more information.
+
+* **Go to the bookmarks tab** and look at the titles of the interviews. You will see that almost all interview titles consist of a collection name, a number, and sometimes further information such as location or the interviewee’s name.
+
+* What collection names stand out to you? In my bookmarks, the **“Vrouwen van de CPN” (Women of the Dutch Communist Party)** collection is particularly represented.
+
+* To learn more about a collection, **click the “Data” button** in the top bar.
+
+* **Click “available collections”** to go to CKAN. CKAN is the CLARIAH-NL’s collection registry, and contains descriptions of every collection that is available in the Media Suite.
+
+**![](https://lh3.googleusercontent.com/AGmWDiQ4b8Z_MUsw66nA7RHwgCYtYa9bVlIYJrpEQWjCra2IMbYRkVwaahA5P8CO2vt9vDlKfhiwkOW8zZZ_xdsxyEWx2cX1jyb3iiZUS3pI79ZHMhJpNTSDHeYmZ-Be8sDd8T5t)**
+
+* **Search for a collection** you want to know more about. I will look for “Vrouwen van de CPN”
+
+* Here, I learn some valuable information and context about the collection. I see that it was created by Aletta, the institute for Women’s History, which has since changed its name to Atria. I also learn the general interview subjects, the date of creation and something about the reason for creation.
+
+**![](https://lh4.googleusercontent.com/5Hwd0j1StdpBaXRyJyBdP2Dimj54HGX5aSlg7PzK3SDulykqUWxpu4Rz-66g1bq57OIliexWsr1831UcSL62de7JQHZlNkRNj7mPKzLJdZNHaWyyjJJ6xEO_ESxBWmU1BJhuEYNm)**
