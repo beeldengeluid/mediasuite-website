@@ -18,13 +18,13 @@ Tutorial made by Max Broekhuizen, April 2020
 
 # Tutorial Description, Case and Objectives
 
-In this tutorial, you will learn how to compile a corpus of oral history interviews around a specific subject, using the Media Suite search tool and User Project. With this tutorial, you will learn:
+In this tutorial, you will learn how to **compile a corpus of oral history interviews** around a specific theme, using the Media Suite search tool and User Project. With this tutorial, you will learn:
 
-* How to search for individual oral history interviews in the Media Suite
+* How to **search for individual oral history interviews** in the Media Suite
 
-* How to bookmark items into a personal user project as to create a corpus of interviews
+* How to **bookmark items** into a personal user project as to **create a corpus** of interviews
 
-* How to use the Media Suite for approaching interviews on an individual level, rather than interacting with them through different collections.
+* How to use the Media Suite for **approaching interviews on a thematic level**, rather than interacting with them through different collections.
 
 Before beginning this tutorial, it is a prerequisite that you know how to log in to and create a user project in the Media Suite. If you are not yet familiar with these aspects of using the Media Suite, please consult the tutorial “Logging In, Workspace and Creating a User Project”.
 
@@ -34,7 +34,7 @@ The main take-away from this tutorial should be that the Media Suite allows you 
 
 If you are not yet familiar with working in the Media Suite, it is recommended to follow this tutorial verbatim. If, however, you feel comfortable experimenting it is highly encouraged to do so, as this may be the best way to get a sense of how the search tool works and how to get relevant results that best meet your needs.
 
-This tutorial was also turned into a video series, with one video representing each step. These videos will be embedded in this text. It is up to you if you want to watch each steps video, read its text, or do both.
+**This tutorial was also turned into a video series, with one video presenting each step. These videos will be embedded in this text. It is up to you if you want to watch each step's video, read its text, or do both.**
 
 # Steps
 
