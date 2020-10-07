@@ -12,7 +12,7 @@ tags:
 
 **![](https://lh5.googleusercontent.com/Xd7DjmL-4q_z6r6J5nEtC85VXcAD4cATdeKUiZFaN9tWtMOYHLpPp3MIi1gwZx_xoNPPow66gZicyZoXk_mVKwETP5oci5fAi95fGsLfnIbqrBja9TifSgo8MXYaHp_k3zHASY1X)**
 
-Tutorial for CLARIAH Media Suite V4.12 and up\
+Tutorial for CLARIAH Media Suite V4.12 and up
 Tutorial made by Max Broekhuizen, April 2020
 
 # Tutorial Description, Case and Objectives
