@@ -1,7 +1,6 @@
 ---
 title: 'Media Suite Tutorial: Finding and Bookmarking Oral History Interviews'
 date: 2020-09-27 16:10:00 +02:00
-published: false
 tags:
 - Oral History
 - Bookmarking
