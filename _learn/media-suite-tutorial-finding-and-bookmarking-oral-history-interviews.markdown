@@ -39,7 +39,8 @@ If you are not yet familiar with working in the Media Suite, it is recommended t
 
 ## 1. Search tool and Oral History (aggregated collections)
 
-{% include embed.html src='https://vimeo.com/451141215' ratio='16by9' %}
+<iframe src="https://player.vimeo.com/video/451141215" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/451141215">Finding and Bookmarking Oral History Interviews (Part 1 of 6)</a> from <a href="https://vimeo.com/user115309374">Media Suite</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 * **Hover over the “Tools” tab**
 
