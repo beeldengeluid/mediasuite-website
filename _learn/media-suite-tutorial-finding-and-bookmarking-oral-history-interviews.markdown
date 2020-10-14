@@ -54,7 +54,8 @@ If you are not yet familiar with working in the Media Suite, it is recommended t
 
 ## 2. Finding Items in the aggregated Oral History collections
 
-{% include embed.html src='https://vimeo.com/451142115' ratio='16by9' %}
+<iframe src="https://player.vimeo.com/video/451142115" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/451142115">Finding and Bookmarking Oral History Interviews (Part 2 of 6)</a> from <a href="https://vimeo.com/user115309374">Media Suite</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 In this step, you will learn to use the search tool to find interviews pertaining to a certain subject. In this step you will not yet catalogue specific interviews, but instead explore the search results and get to know the search tool.
 
@@ -72,7 +73,8 @@ In this step, you will learn to use the search tool to find interviews pertainin
 
 ## 3. Search queries and facets
 
-{% include embed.html src='https://vimeo.com/451144221' ratio='16by9' %}
+<iframe src="https://player.vimeo.com/video/451144221" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/451144221">Finding and Bookmarking Oral History Interviews (Part 3 of 6)</a> from <a href="https://vimeo.com/user115309374">Media Suite</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 In the previous step, you found out which search queries produced fruitful results, and which did not. There is more to the search tool than just querying terms, however: it is possible to use facets to narrow down your search results further.
 
@@ -96,7 +98,8 @@ In the previous step, you found out which search queries produced fruitful resul
 
 ## 4. Saving queries and opening saved queries
 
-{% include embed.html src='https://vimeo.com/451145687' ratio='16by9' %}
+<iframe src="https://player.vimeo.com/video/451145687" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/451145687">Finding and Bookmarking Oral History Interviews (Part 4 of 6)</a> from <a href="https://vimeo.com/user115309374">Media Suite</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 In the previous steps, you have explored which search queries have had fruitful results, and how you may filter these results using facets. For various reasons - for instance for reasons of transparency, being able to explain the steps of your research to others or to easily continue your research at a later stage- it may be useful to store the useful search queries. In this step, you will learn how this works in the Media Suite.
 
@@ -112,7 +115,8 @@ In the previous steps, you have explored which search queries have had fruitful 
 
 ## 5. Bookmark Items
 
-{% include embed.html src='https://vimeo.com/451146530' ratio='16by9' %}
+<iframe src="https://player.vimeo.com/video/451146530" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/451146530">Finding and Bookmarking Oral History Interviews (Part 5 of 6)</a> from <a href="https://vimeo.com/user115309374">Media Suite</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Not only are you able to store search queries in your user projects; you can also store specific items, in the case of oral history research primarily case interviews. By doing this, you will be creating a personal corpus of interviews.
 
@@ -134,7 +138,8 @@ Not only are you able to store search queries in your user projects; you can als
 
 ## 6. Exploring your corpus
 
-{% include embed.html src='https://vimeo.com/451147929' ratio='16by9' %}
+<iframe src="https://player.vimeo.com/video/451147929" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/451147929">Finding and Bookmarking Oral History Interviews (Part 6 of 6)</a> from <a href="https://vimeo.com/user115309374">Media Suite</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Now that you have created a corpus through bookmarks, it is time to take a look at this corpus. In this step, you will familiarize yourself with your personal workspace within the Media Suite, as well as with ways in which you may gather context relating to the interviews in your corpus.
 
