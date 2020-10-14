@@ -6,6 +6,7 @@ tags:
 - Bookmarking
 - Searching
 - Corpus
+author: Max Broekhuizen
 ---
 
 # Media Suite Tutorial: Finding and Bookmarking Oral History Interviews
