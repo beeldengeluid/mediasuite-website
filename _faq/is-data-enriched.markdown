@@ -43,4 +43,3 @@ This type of automatic enrichment is available for these collections:
 
 
    *(Last update: April 4, 2019)*. *If you have any questions, please [contact us.]( /contact )*
-
