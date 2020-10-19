@@ -34,3 +34,5 @@ As a research environment, the CLARIAH Media Suite aims to support scholars in a
 ### Workspace
 
 The CLARIAH Media Suite offers a “virtual work space” to its users. It allows researchers to store bookmarks, annotations, saved queries, personal collections, or automatic enrichments. The workspace thus provides researchers with novel ways for making transparent and managing their research process.
+
+test
