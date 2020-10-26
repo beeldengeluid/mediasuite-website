@@ -7,6 +7,8 @@ tags:
 - Searching
 - Corpus
 author: Max Broekhuizen
+introduction: In this tutorial, you will learn how to compile a corpus of oral history
+  interviews around a specific theme, using the Media Suite search tool and User Project.
 ---
 
 # Media Suite Tutorial: Finding and Bookmarking Oral History Interviews
