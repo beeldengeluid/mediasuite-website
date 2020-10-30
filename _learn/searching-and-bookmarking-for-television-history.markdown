@@ -11,10 +11,14 @@ disciplines:
 - Television Studies
 version: V4.9
 user_level: Beginner
-user_skills: 
 language: English/Dutch
-vimeo_url: 
 other_url: 
+Introduction: This tutorial introduces you to using the CLARIAH Media Suite's search
+  tool and bookmarking functionality for television studies and/or television history
+  research. Upon completing this tutorial, you will have learned to use the Media
+  Suite for searching and building a corpus consisting of television materials from
+  Netherlands Institute for Sound and Vision's Television Collection and bookmarking
+  and entering items into a personal user project.
 ---
 
 # Media Suite Tutorial: Searching and Bookmarking for Television History
