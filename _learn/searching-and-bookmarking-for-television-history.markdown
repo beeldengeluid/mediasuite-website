@@ -13,7 +13,7 @@ version: V4.9
 user_level: Beginner
 language: English/Dutch
 other_url: 
-Introduction: This tutorial introduces you to using the CLARIAH Media Suite's search
+introduction: This tutorial introduces you to using the CLARIAH Media Suite's search
   tool and bookmarking functionality for television studies and/or television history
   research. Upon completing this tutorial, you will have learned to use the Media
   Suite for searching and building a corpus consisting of television materials from
