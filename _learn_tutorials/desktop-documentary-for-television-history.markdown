@@ -1,11 +1,7 @@
 ---
 title: 'Media Suite Tutorial: Desktop Documentary for Television History'
 date: 2020-05-01 00:00:00 +02:00
-categories:
-- tutorial
 author: Christian Olesen
-categories:
-- tutorial
 functionalities:
 - Screen recording
 - Search
