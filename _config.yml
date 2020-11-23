@@ -27,10 +27,18 @@ collections:
   labo-help:
     title: Labo help
     output: true
-  learn:
-    title: Learn
+  learn_tutorials:
+    title: Learn - Research tutorials
     output: true
-    permalink: "/learn/:name"
+    permalink: "/learn/tutorials/:name"
+  learn_projects:
+    title: Learn - Example projects
+    output: true
+    permalink: "/learn/projects/:name"
+  learn_tools:
+    title: Learn - Tool criticism
+    output: true
+    permalink: "/learn/tool-criticism/:name"
   release-notes:
     title: Release notes
     output: true
@@ -91,10 +99,11 @@ defaults:
     menu: help
 - scope:
     path: ''
-    type: learn
+    type: learn_tutorials
   values:
-    layout: tutorial
+    layout: learn_item
     menu: learn
+    introduction:
     author: 
     media_type: 
     functionalities: []
@@ -107,7 +116,21 @@ defaults:
     vimeo_url: 
     other_urls: []
     pdf_file: 
-version: v5.0 test2
+- scope:
+    path: ''
+    type: learn_projects
+  values:
+    layout: learn_item
+    menu: learn
+    introduction:
+- scope:
+    path: ''
+    type: learn_tools
+  values:
+    layout: learn_item
+    menu: learn
+    introduction:
+version: v5.3
 url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl
 markdown: kramdown
