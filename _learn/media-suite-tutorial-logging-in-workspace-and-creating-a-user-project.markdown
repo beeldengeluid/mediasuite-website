@@ -1,6 +1,18 @@
 ---
 title: 'Media Suite Tutorial: Logging in, Workspace and Creating a User Project'
 date: 2020-11-27 11:18:00 +01:00
+author: Christian Olesen
+functionalities:
+- Workspace
+- User Project
+collections:
+- 
+disciplines:
+- All disciplines
+version: 5.3
+user_level: Beginner
+user_skills: None required
+language: English
 pdf_file: "/uploads/Tutorial_Logging_in_Creating_a_User_Project.pdf"
 ---
 
