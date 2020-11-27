@@ -44,11 +44,16 @@ The functionalities described in this tutorial are essential for using the Media
 ![image2.png](/uploads/image2.png)
 
 * Use a Chrome or Firefox browser (the Media Suite has been tested primarily in Chrome so this is the browser that works best)
-Go to mediasuite.clariah.nl
+  Go to mediasuite.clariah.nl
+
 * Click on the “Log in” button at the top right of the page
+
 * In the SURFConext interface, search for the name of your institution, or scroll through the list
+
 * Select your institution
+
 * Use your institutional credentials - either student or employee login - to log in. Wait until the service connects (NB when logging in the first time, you will have to accept Terms of Use and Privacy)
+
 * You will now enter the Media Suite
 
 ### 2. Entering The Media Suite Workspace
