@@ -6,7 +6,7 @@ date: 2020-11-27 15:48:00 +01:00
 
 # Media Suite Tutorial: Searching, annotating and linking for film historical research
 
-
+![image7-73b4a3.png](/uploads/image7-73b4a3.png)
 
 Tutorial for CLARIAH Media Suite V5.3
 Tutorial made by Christian Olesen, November 2020
