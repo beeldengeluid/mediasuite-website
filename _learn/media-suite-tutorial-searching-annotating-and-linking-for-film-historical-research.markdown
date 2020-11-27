@@ -6,6 +6,8 @@ date: 2020-11-27 15:48:00 +01:00
 
 # Media Suite Tutorial: Searching, annotating and linking for film historical research
 
+
+
 Tutorial for CLARIAH Media Suite V5.3
 Tutorial made by Christian Olesen, November 2020
 
@@ -34,6 +36,8 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 1. Accessing the Media Suite
 
+![image3-e1c293.png](/uploads/image3-e1c293.png)
+
 * Before you can build a corpus you first need to log in to the Media Suite. In order to do so, first go to mediasuite.clariah.nl
 
 * Click on the “Log in” button (top right of the page)
@@ -48,6 +52,8 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 2. Create a project
 
+![image9-696e17.png](/uploads/image9-696e17.png)
+
 * After having logged in, you need to create a user project
 
 * In order to so, hover over the “Workspace” tab
@@ -59,6 +65,8 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 * Click the “Create” button
 
 ### 3. Find and select film with Search tool Desmet Film Collection
+
+![image1-59a930.png](/uploads/image1-59a930.png)
 
 * Now you can begin building your corpus
 
@@ -78,6 +86,8 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 4. Search tool Desmet Paper Collection I - finding the collection
 
+![image1-580c7c.png](/uploads/image1-580c7c.png)
+
 * After having added the Filibus film to your corpus, you need to add related contextual paper materials
 
 * To do so, open a new tab in your browser and go to mediasuite.clariah.nl. In this way you will be able to search film and paper materials simultaneously in two different tabs
@@ -96,6 +106,8 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 5. Search tool Desmet Paper Collection II - searching the collection
 
+![image4-ab477d.png](/uploads/image4-ab477d.png)
+
 * You are now ready to add paper materials to your corpus. Moreover, you have created two open tabs that you can use to search the two chosen Desmet collections simultaneously or to view items in the two collections next to each other so as to be able to establish connections between them
 
 * Try multiple Filibus-related search terms in various combinations. There are several relevant terms you can use, to get started you may try the following:
@@ -112,12 +124,16 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 6. Search tool Desmet Paper Collection III - storing and retrieving queries
 
+![image2-3668ff.png](/uploads/image2-3668ff.png)
+
 * After you have created and tried different search queries, you may want to save some of your queries for later. Doing so allows you to reproduce and find many of the items that came up in your previous searches (NB: please note that even though saving queries allows you to largely the same results as in previous searches, the results may also differ, for instance when new data or new items have been added to the Media Suite since you last used it the research results will be different)
 
 * In order to save one or more query parameters (including search term, filters, etc. that you have used) click “Save Query” button in the upper right corner. A window appears which allows for naming your query and confirming that you wish to save it.
   After having saved the query, the query will appear in the project overview in your personal workspace (for an example of how this looks, see the image above)
 
 ### 7. Annotate a video item - item level
+
+![image8.png](/uploads/image8.png)
 
 * After having worked with the Desmet Paper Collection for a bit and saved queries, you now need to go back to the browser tab in which you have the film Filibus open in order to begin annotating the video material(s) in your corpus
 
@@ -128,7 +144,9 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 * Clicking on “Resource” opens a drop-down menu with four options: “Code”, “Comment”, “Link” and “Metadata”. “Code” allows you to label the media item using terms from existing thesauri (such as GTAA and UNESCO) or using your own custom-made taxonomy. “Comment” gives you the possibility to enter your own comments about the item without a set word limit. “Link” allows you to include links to items in the Media Suite or outside of it. “Metadata” allows you to devise your own metadata scheme for the item. Try to use the different options and add annotations to the item with them. Once you have added annotations they will appear in the project overview in your workspace just as your saved queries.
 
-### 1. Annotating a video item segment level 1 - creating a segment
+### 8. Annotating a video item segment level 1 - creating a segment
+
+![image7.png](/uploads/image7.png)
 
 * Once you have added annotations on item level, you are now ready to take the next step and make annotations on segment level. In order to do so, you first need to create a segment.
 
@@ -138,7 +156,9 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 * In order to make a new segment, you neeed to press “\+” in the “My Segments” on the right hand side next to the segment (see image above). This is important, because it makes sure that your segment is saved. If you proceed to setting new in and out points using the “i” and “o” keys without first pressing “\+” you will end up modifying the segment you just made instead of creating a new one.
 
-### 1. Annotating a video item on segment level 2 - annotating a segment
+### 9. Annotating a video item on segment level 2 - annotating a segment
+
+![image11.png](/uploads/image11.png)
 
 * Now you have created a segment in your video item and are ready to annotate it
   On order to do so, you first need to find and select the segment in the “Segments” overview in the “My Annotations” column on your right hand side
@@ -150,11 +170,13 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 * Saved annotations will appear in the project overview in the workspace
 
-### 1. Annotate image section 1
+### 10. Annotate image section 1
+
+![image10.png](/uploads/image10.png)
 
 * The next step is to annotate an image in the Desmet Paper Collection
 
-* To do this, you need to go back to the browser tab in which you searched the Desmet \* Paper Collection
+* To do this, you need to go back to the browser tab in which you searched the Desmet Paper Collection
 
 * Choose an item from one of the results of your searches (in the image above can be seen a document relating to the promotional material for Filibus)
 
@@ -162,7 +184,9 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 * Once you have defined a region press the check mark symbol in the selection to confirm that you wish to save it as a segment. The segment now appears in “Segments” overview of the “My Annotations” column.
 
-### 1. Annotate image section 2
+### 11. Annotate image section 2
+
+![image6-f95cfc.png](/uploads/image6-f95cfc.png)
 
 * Now you have created a segment in your image item and are ready to annotate it
 
