@@ -14,6 +14,10 @@ user_level: Beginner
 user_skills: None required
 language: English
 pdf_file: "/uploads/Tutorial_Logging_in_Creating_a_User_Project.pdf"
+introduction: This tutorial introduces you to the use of the CLARIAH Media Suite’s
+  work space and guides you through creating a user project. Before using the Media
+  Suite at any level in course work or in research it is essential for you to familiarize
+  yourself with these functionalities of the Media Suite environment.
 ---
 
 # Media Suite Tutorial: Logging in, Workspace and Creating a User Project
