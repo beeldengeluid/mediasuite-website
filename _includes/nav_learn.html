@@ -5,9 +5,9 @@
 	</button>
 	<div class="collapse navbar-collapse justify-content-md-end" id="subNavbarCollapse">
 		<ul class="navbar-nav mr-auto">
-			<li class="nav-item"><a class="nav-link" href="{{ '/learn/tutorials' | relative_url }}">Research tutorials</a></li>
-			<li class="nav-item"><a class="nav-link" href="{{ '/learn/projects' | relative_url }}">Example projects</a></li>
-			<li class="nav-item"><a class="nav-link" href="{{ '/learn/tool-criticism' | relative_url }}">Tool criticism</a></li>
+			{% for item in site.data.nav_learn.pages %}
+				<li><li class="nav-item"><a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+			{% endfor %}
 		</ul>
 	</div>
 </nav>
