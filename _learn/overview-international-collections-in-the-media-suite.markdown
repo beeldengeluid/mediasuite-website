@@ -7,6 +7,7 @@ introduction: This page contains an overview of collections in the Media Suite t
 ---
 
 # Overview International collections and English language content in the Media Suite
+Contributors: Christian Olesen, Max Broekhuizen, Alec Badenoch & Jasmijn van Gorp
 
 In this section, we offer an overview of collections embedded in the Media Suite that contain English language content, content in other languages as well as content produced in other countries. The page is updated regularly as we identify and add more international collections to the Media Suite.The page was last updated on the 3rd of December 2020.
 
@@ -25,6 +26,8 @@ The approximately 127.000 documents which make up Desmet’s business archive fo
 ### Radio and television collection (Sound and Vision)
 
 The Netherlands Institute for Sound and Vision offers a range of collections via the Media Suite: the radio, television, and Sound and Vision Open Images collections.  For all three collections there exists a language metadata field ‘English’.  However, while this is useful as a starting point for English-language research, for all three collections the metadata field yields mixed results: programmes that are partially or totally in spoken English.  In the radio collections, it is mostly music programmes, which often contain interviews with English-language artists.  The Media Suite also offers access to the ‘international news exchange’ which are integral broadcasts of live speeches (eg Donald Trump, Theresa May).
+
+# Newspaper Collections
 
 # Oral History Collections
 
