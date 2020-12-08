@@ -1,13 +1,12 @@
 ---
 title: Overview International Collections in the Media Suite
 date: 2020-10-26 15:14:00 +01:00
-author: Christian Olesen & Max Broekhuizen
+author: Christian Olesen, Max Broekhuizen, Alec Badenoch & Jasmijn van Gorp
 introduction: This page contains an overview of collections in the Media Suite that
   feature international content in English and other languages.
 ---
 
 # Overview International collections and English language content in the Media Suite
-Contributors: Christian Olesen, Max Broekhuizen, Alec Badenoch & Jasmijn van Gorp
 
 In this section, we offer an overview of collections embedded in the Media Suite that contain English language content, content in other languages as well as content produced in other countries. The page is updated regularly as we identify and add more international collections to the Media Suite.The page was last updated on the 3rd of December 2020.
 
