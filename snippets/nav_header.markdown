@@ -1,6 +1,6 @@
 ---
 title: Template navheader
-position: 20
+position: 19
 layout: nav_header
 ---
 
