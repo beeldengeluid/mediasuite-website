@@ -27,22 +27,22 @@ collections:
   labo-help:
     title: Labo help
     output: true
-  learn_tutorials_subject:
-    title: Learn - Subject tutorials
-    output: true
-    permalink: "/learn/subject-tutorials/:name"
-  learn_tutorials_tool:
-    title: Learn - Tool tutorials
-    output: true
-    permalink: "/learn/tool-tutorials/:name"
   learn_example_projects:
     title: Learn - Example projects
     output: true
     permalink: "/learn/example-projects/:name"
+  learn_tutorials_subject:
+    title: Learn - Subject tutorials
+    output: true
+    permalink: "/learn/subject-tutorials/:name"
   learn_tool_criticism:
     title: Learn - Tool criticism
     output: true
     permalink: "/learn/tool-criticism/:name"
+  learn_tutorials_tool:
+    title: Learn - Tool tutorials
+    output: true
+    permalink: "/learn/tool-tutorials/:name"
   release-notes:
     title: Release notes
     output: true
@@ -107,7 +107,7 @@ defaults:
   values:
     layout: learn_item
     menu: learn
-    introduction:
+    introduction: 
     author: 
     media_type: 
     functionalities: []
@@ -126,7 +126,7 @@ defaults:
   values:
     layout: learn_item
     menu: learn
-    introduction:
+    introduction: 
     author: 
     media_type: 
     functionalities: []
@@ -145,7 +145,7 @@ defaults:
   values:
     layout: learn_item
     menu: learn
-    introduction:
+    introduction: 
     author: 
 - scope:
     path: ''
@@ -153,7 +153,7 @@ defaults:
   values:
     layout: learn_item
     menu: learn
-    introduction:
+    introduction: 
     author: 
 version: v5.3
 url: https://mediasuite.clariah.nl
