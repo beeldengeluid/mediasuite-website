@@ -1,9 +1,9 @@
 ---
-title: Learn tutorials
+title: Tool criticism
 permalink: "/learn/tool-criticism"
 position: 24
-layout: learn_tool_criticism
 menu: learn
+layout: learn_tool_criticism
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
