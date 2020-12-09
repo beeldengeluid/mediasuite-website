@@ -1,14 +1,20 @@
 {% include header.html %}
-<main role="main" class="flex-shrink-0 my-5">
+<main role="main" class="flex-shrink-0 mb-5">
 	<div class="container">
-		<h1>{{ page.title }}</h1>
-		{% assign items = site.learn | sort: 'date' | reverse %}
-		{% for item in items %}
-		<h4><a href="{{ item.url | relative_url }}" title="{{ item.title }}">{{ item.title }}</a></h4>
-		<p>by {{ item.author}}, {{ item.date | date: "%B %Y" }}</p>
-		<p>{{ item.introduction }}</p>
-		<hr>
-		{% endfor %}
+		{% include nav_learn.html %}
+		<div class="row">
+			<div class="col-md-4">
+				<div class="list-group">
+					{% for item in site.data.nav_learn.pages %}
+					<a class="list-group-item list-group-item-action" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+					{% endfor %}
+				</div>
+			</div>
+			<div class="col-md-8">
+				<h1>{{ page.title }}</h1>
+				{{ content }}
+			</div>
+		</div>
 	</div>
 </main>
 {% include footer.html %}

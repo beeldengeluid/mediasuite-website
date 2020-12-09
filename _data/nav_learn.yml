@@ -1,0 +1,14 @@
+nav_learn_title: Learn
+pages:
+
+- title: Subject tutorials
+  url: /learn/subject-tutorials
+
+- title: Tool tutorials
+  url: /learn/tool-tutorials
+
+- title: Example projects
+  url: /learn/example-projects
+
+- title: Tool criticism
+  url: /learn/tool-criticism

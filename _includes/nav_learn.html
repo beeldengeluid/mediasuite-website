@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-md navbar-light bg-light rounded mb-4">
+	<a class="navbar-brand" href="{{ '/learn' | relative_url }}">Learn</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#subNavbarCollapse" aria-controls="subNavbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse justify-content-md-end" id="subNavbarCollapse">
+		<ul class="navbar-nav mr-auto">
+			{% for item in site.data.nav_learn.pages %}
+				<li><li class="nav-item"><a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>
+</nav>
