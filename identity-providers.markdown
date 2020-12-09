@@ -1,6 +1,7 @@
 ---
 title: Identity providers
 permalink: "/documentation/identity-providers"
+position: 3
 layout: help
 menu: help
 ---

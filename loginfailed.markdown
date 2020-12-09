@@ -1,5 +1,6 @@
 ---
 title: Login failed
+position: 1
 layout: loginfailed
 menu: help
 ---

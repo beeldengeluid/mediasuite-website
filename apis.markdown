@@ -1,6 +1,7 @@
 ---
 title: APIs
 permalink: "/documentation/apis"
+position: 4
 layout: help
 menu: help
 ---

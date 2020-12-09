@@ -1,6 +1,7 @@
 ---
 title: 500 Internal Server Error
 permalink: "/500.html"
+position: 2
 layout: default
 ---
 

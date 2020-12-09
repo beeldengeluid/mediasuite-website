@@ -1,6 +1,6 @@
 ---
 title: Learn
-position: 4
+position: 19
 layout: learn
 menu: learn
 ---

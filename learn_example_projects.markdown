@@ -1,7 +1,7 @@
 ---
 title: Example projects
 permalink: "/learn/example-projects"
-position: 22
+position: 23
 layout: learn_example_projects
 menu: learn
 ---

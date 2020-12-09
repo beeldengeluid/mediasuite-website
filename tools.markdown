@@ -1,7 +1,7 @@
 ---
 title: Tools
 permalink: "/tools"
-position: 2
+position: 7
 layout: tools
 menu: tools
 ---

@@ -1,7 +1,7 @@
 ---
 title: Documentation search
 permalink: "/documentation/search"
-position: 10
+position: 15
 menu: help
 layout: help_search
 ---

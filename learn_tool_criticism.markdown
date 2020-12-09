@@ -1,7 +1,7 @@
 ---
 title: Learn tutorials
 permalink: "/learn/tool-criticism"
-position: 23
+position: 24
 layout: learn_tool_criticism
 menu: learn
 ---
