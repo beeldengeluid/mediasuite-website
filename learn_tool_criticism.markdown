@@ -1,8 +1,8 @@
 ---
-title: Tool tutorials
-permalink: "/learn/tool-tutorials"
-position: 21
-layout: learn_tutorials_tool
+title: Learn tutorials
+permalink: "/learn/tool-criticism"
+position: 23
+layout: learn_tool_criticism
 menu: learn
 ---
 

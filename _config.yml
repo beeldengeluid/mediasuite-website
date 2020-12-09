@@ -27,15 +27,19 @@ collections:
   labo-help:
     title: Labo help
     output: true
-  learn_tutorials:
-    title: Learn - Research tutorials
+  learn_tutorials_subject:
+    title: Learn - Subject tutorials
     output: true
-    permalink: "/learn/tutorials/:name"
-  learn_projects:
+    permalink: "/learn/subject-tutorials/:name"
+  learn_tutorials_tool:
+    title: Learn - Tool tutorials
+    output: true
+    permalink: "/learn/tool-tutorials/:name"
+  learn_example_projects:
     title: Learn - Example projects
     output: true
-    permalink: "/learn/projects/:name"
-  learn_tools:
+    permalink: "/learn/example-projects/:name"
+  learn_tool_criticism:
     title: Learn - Tool criticism
     output: true
     permalink: "/learn/tool-criticism/:name"
@@ -99,7 +103,7 @@ defaults:
     menu: help
 - scope:
     path: ''
-    type: learn_tutorials
+    type: learn_tutorials_subject
   values:
     layout: learn_item
     menu: learn
@@ -118,18 +122,39 @@ defaults:
     pdf_file: 
 - scope:
     path: ''
-    type: learn_projects
+    type: learn_tutorials_tool
   values:
     layout: learn_item
     menu: learn
     introduction:
+    author: 
+    media_type: 
+    functionalities: []
+    collections: []
+    disciplines: []
+    version: 
+    user_level: 
+    user_skills: 
+    language: 
+    vimeo_url: 
+    other_urls: []
+    pdf_file: 
 - scope:
     path: ''
-    type: learn_tools
+    type: learn_example_projects
   values:
     layout: learn_item
     menu: learn
     introduction:
+    author: 
+- scope:
+    path: ''
+    type: learn_tool_criticism
+  values:
+    layout: learn_item
+    menu: learn
+    introduction:
+    author: 
 version: v5.3
 url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl

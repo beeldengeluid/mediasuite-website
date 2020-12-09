@@ -1,8 +1,8 @@
 ---
-title: Tool tutorials
-permalink: "/learn/tool-tutorials"
-position: 21
-layout: learn_tutorials_tool
+title: Example projects
+permalink: "/learn/example-projects"
+position: 22
+layout: learn_example_projects
 menu: learn
 ---
 
