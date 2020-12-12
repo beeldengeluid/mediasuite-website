@@ -1,7 +1,7 @@
 ---
 title: Learn
 position: 20
-layout: learn
+layout: learn_main
 menu: learn
 ---
 

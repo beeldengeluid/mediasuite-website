@@ -27,6 +27,10 @@ collections:
   labo-help:
     title: Labo help
     output: true
+  learn_main:
+    title: Learn - Main
+    output: true
+    permalink: "/learn/main/:name"
   learn_example_projects:
     title: Learn - Example projects
     output: true
@@ -101,6 +105,14 @@ defaults:
   values:
     layout: help
     menu: help
+- scope:
+    path: ''
+    type: learn_main
+  values:
+    layout: learn_item
+    menu: learn
+    introduction: 
+    author: 
 - scope:
     path: ''
     type: learn_tutorials_subject
