@@ -1,8 +1,8 @@
 ---
 title: Learn
 position: 20
-layout: learn_main
 menu: learn
+layout: learn_main
 ---
 
-Here you find different tutorials to train yourself and your students in using the Media Suite. First time users are advised to first work through the tutorial. If you want to know how a tool works, please go to Help.
+Welcome to Media Suite Learn. Media Suite Learn is a resource that offers examples of how the collections and tools made available within the Media Suite environment may be used and implemented in teaching and research. Supporting a wide array of approaches and areas of teaching and research, Media Suite Learn offers both written and video tutorials, as well as a repository of projects and articles focussing on concrete cases and research questions.
