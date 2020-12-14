@@ -2,13 +2,8 @@
 title: Example projects
 permalink: "/learn/example-projects"
 position: 23
-layout: learn_example_projects
 menu: learn
+layout: learn_example_projects
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+On this page we provide an overview of projects that have made use of the collections and tools of the Media Suite in either teaching or research.
