@@ -1,9 +1,10 @@
 ---
 title: Overview International Collections in the Media Suite
 date: 2020-10-26 15:14:00 +01:00
-author: Christian Olesen, Max Broekhuizen, Alec Badenoch & Jasmijn van Gorp
 introduction: This page contains an overview of collections in the Media Suite that
   feature international content in English and other languages.
+author: Christian Olesen, Max Broekhuizen, Tom Slootweg, Alec Badenoch & Jasmijn van
+  Gorp
 ---
 
 # Overview International collections and English language content in the Media Suite
