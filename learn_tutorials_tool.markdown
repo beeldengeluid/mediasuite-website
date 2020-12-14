@@ -2,13 +2,8 @@
 title: Tool tutorials
 permalink: "/learn/tool-tutorials"
 position: 22
-layout: learn_tutorials_tool
 menu: learn
+layout: learn_tutorials_tool
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+On this page you can access Media Suite tutorials per tool or functionality. Several of these tutorials are also accessible via the "Subject tutorials" page but have been ordered according to tool on this page so as to create an overview of how the same tools are used differently in different disciplines. In doing so we wish to stimulate interdisciplinary exchange and discussion among researchers and students using the Media Suite. 
