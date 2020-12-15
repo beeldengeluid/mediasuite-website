@@ -1,10 +1,13 @@
 ---
 title: Test example project
 date: 2020-11-23 10:00:00 +01:00
-author: Frank Sträter
+categories:
+- publications
+- data stories
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+author: Frank Sträter
 ---
 
 # Test tool example
