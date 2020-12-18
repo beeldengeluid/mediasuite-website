@@ -29,6 +29,14 @@ The Netherlands Institute for Sound and Vision offers a range of collections via
 
 # Newspaper Collections
 
+### Newspaper collection (National Library of the Netherlands) 
+
+In the current version of Delpher it is not possible to search the digitized Royal Library newspaper collections for English-language content. Alternative search strategies for English-language content can be done by filtering “United States” as “country of publication”.  Using this strategy will yield a mix of English-language results with some interesting examples of immigrant newspapers that feature bilingual content. Using these search queries the following newspaper of Dutch-American immigration (published under various titles) appears: 
+
+* Onze Toekomst (bilingual, 1920-1952) 1258 issues 
+* The Weekly Observer (1952-1953) 45 issues 
+* The Illinois Observer (1954-1959) 43 issues 
+
 # Oral History Collections
 
 ### Bystander Memories
