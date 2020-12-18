@@ -29,13 +29,15 @@ The Netherlands Institute for Sound and Vision offers a range of collections via
 
 # Newspaper Collections
 
-### Newspaper collection (National Library of the Netherlands) 
+### Newspaper collection (National Library of the Netherlands)
 
-In the current version of Delpher it is not possible to search the digitized Royal Library newspaper collections for English-language content. Alternative search strategies for English-language content can be done by filtering “United States” as “country of publication”.  Using this strategy will yield a mix of English-language results with some interesting examples of immigrant newspapers that feature bilingual content. Using these search queries the following newspaper of Dutch-American immigration (published under various titles) appears: 
+In the current version of Delpher it is not possible to search the digitized Royal Library newspaper collections for English-language content. Alternative search strategies for English-language content can be done by filtering “United States” as “country of publication”.  Using this strategy will yield a mix of English-language results with some interesting examples of immigrant newspapers that feature bilingual content. Using these search queries the following newspaper of Dutch-American immigration (published under various titles) appears:
 
-* Onze Toekomst (bilingual, 1920-1952) 1258 issues 
-* The Weekly Observer (1952-1953) 45 issues 
-* The Illinois Observer (1954-1959) 43 issues 
+* [Onze Toekomst](https://www.delpher.nl/nl/kranten/results?query=&facets%5Bspatial%5D%5B%5D=Verenigde\+Staten&facets%5Btitle%5D%5B%5D=Onze\+toekomst&page=1&sortfield=datedesc&coll=dddtitel) (bilingual, 1920-1952) 1258 issues
+
+* [The Weekly Observer](https://www.delpher.nl/nl/kranten/results?query=&facets%5Bspatial%5D%5B%5D=Verenigde\+Staten&facets%5Btitle%5D%5B%5D=The\+weekly\+observer&page=1&sortfield=datedesc&coll=dddtitel) (1952-1953) 45 issues
+
+* [The Illinois Observer](https://www.delpher.nl/nl/kranten/results?query=&facets%5Bspatial%5D%5B%5D=Verenigde\+Staten&facets%5Btitle%5D%5B%5D=The\+Illinois\+observer&page=1&sortfield=datedesc&coll=dddtitel) (1954-1959) 43 issues
 
 # Oral History Collections
 
