@@ -3,6 +3,10 @@ title: |-
   Annotating EYE’s Jean Desmet Collection:
   Towards Mixed Media Analysis in Digital Media History (MIMEHIST)
 date: 2021-01-13 14:45:00 +01:00
+introduction: 'The project "Annotating EYE’s Jean Desmet Collection: Towards Mixed
+  Media Analysis in Digital Media History" (University of Amsterdam) used the CLARIAH
+  Media Suite components’ annotation functionalities to analyse the heterogeneous
+  materials of EYE Filmmuseum’s collection of cinema owner and distributor Jean Desmet.'
 ---
 
 \# Annotating EYE’s Jean Desmet Collection: Towards Mixed Media Analysis in Digital Media History
