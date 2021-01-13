@@ -4,9 +4,11 @@ date: 2020-11-23 10:00:00 +01:00
 categories:
 - publications
 - data stories
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+introduction: Funded through the CLARIAH Research Pilot grant scheme which ran between
+  2017-2018, the project "Cross-Medial Analysis of WW2 Eyewitness Testimonies" sought
+  to address the issue that although eyewitnesses have become ever more prominent
+  in the media, there was little systematic research about which topics are actually
+  being addressed in their accounts at the time.
 ---
 
 # Cross-Medial Analysis of WW2 Eyewitness Testimonies
