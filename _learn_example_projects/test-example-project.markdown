@@ -1,5 +1,5 @@
 ---
-title: Test example project
+title: Cross-Medial Analysis of WW2 Eyewitness Testimonies (CrossEWT)
 date: 2020-11-23 10:00:00 +01:00
 categories:
 - publications
@@ -10,11 +10,12 @@ introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e
 author: Frank Sträter
 ---
 
-# Test tool example
+# Cross-Medial Analysis of WW2 Eyewitness Testimonies
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![crossewt_image.png](/uploads/crossewt_image.png)
+
+Funded through the CLARIAH Research Pilot grant scheme which ran between 2017-2018, the project "Cross-Medial Analysis of WW2 Eyewitness Testimonies" sought to address the issue that although eyewitnesses have become ever more prominent in the media, there was little systematic research about which topics are actually being addressed in their accounts at the time. Such knowledge, the project argued, can enhance our understanding of the different functions and values attributed to testimonies.
+
+The project aimed for a cross-medial and diachronic content analysis of eyewitness testimonies (EWTs) in newspapers, on radio and television, and in oral history interviews in the Netherlands since 1945, using a thematic thesaurus (WW2 thesaurus, NOB), while seeking to further emancipate oral history as historical source, within the field of digital humanities.
+
+You can read the original project description and overview [here](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/crossewt#abstract).
