@@ -1,5 +1,6 @@
 ---
 title: What are the CLARIAH research pilot projects?
+published: false
 position: 14
 ---
 
