@@ -2,8 +2,7 @@
 title: Cross-Medial Analysis of WW2 Eyewitness Testimonies (CrossEWT)
 date: 2020-11-23 10:00:00 +01:00
 categories:
-- publications
-- data stories
+- Research Pilot Projects 2017-2018
 introduction: Funded through the CLARIAH Research Pilot grant scheme which ran between
   2017-2018, the project "Cross-Medial Analysis of WW2 Eyewitness Testimonies" sought
   to address the issue that although eyewitnesses have become ever more prominent
