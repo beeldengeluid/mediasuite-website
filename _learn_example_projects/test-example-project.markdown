@@ -19,4 +19,4 @@ Funded through the CLARIAH Research Pilot grant scheme which ran between 2017-20
 
 The project aimed for a cross-medial and diachronic content analysis of eyewitness testimonies (EWTs) in newspapers, on radio and television, and in oral history interviews in the Netherlands since 1945, using a thematic thesaurus (WW2 thesaurus, NOB), while seeking to further emancipate oral history as historical source, within the field of digital humanities.
 
-You can read the original project description and overview [here](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/crossewt#abstract).
+You can access the original project description and overview [here](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/crossewt#abstract).
