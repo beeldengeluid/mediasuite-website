@@ -1,15 +1,12 @@
 ---
-title: 'Media Suite Tutorial: Finding and Bookmarking Oral History Interviews'
+title: Finding and Bookmarking Oral History Interviews
 date: 2020-09-27 16:10:00 +02:00
-tags:
+categories:
 - Oral History
-- Bookmarking
-- Searching
-- Corpus
-author: Max Broekhuizen
 introduction: In this tutorial, you will learn how to build a corpus of oral history
   interviews focussing on a specific theme, using the Media Suite Search tool and
   User Project functionalities.
+author: Max Broekhuizen
 ---
 
 # Media Suite Tutorial: Finding and Bookmarking Oral History Interviews
