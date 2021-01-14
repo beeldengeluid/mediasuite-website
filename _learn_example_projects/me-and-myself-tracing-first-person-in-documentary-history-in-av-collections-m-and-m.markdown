@@ -10,7 +10,7 @@ introduction: '"Me and Myself: Tracing first person in documentary history in AV
   and subjective style.'
 ---
 
-\# Me and Myself: Tracing first person in documentary history in AV-collections (M&M)
+# Me and Myself: Tracing first person in documentary history in AV-collections (M&M)
 
 ![menm_image.png](/uploads/menm_image.png)
 
