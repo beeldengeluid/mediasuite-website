@@ -1,10 +1,11 @@
 ---
-title: 'Media Suite Tutorial: Searching, annotating and linking for film historical
-  research'
+title: Searching, annotating and linking for film historical research
 date: 2020-11-27 15:48:00 +01:00
-author: Christian Olesen
+categories:
+- Film Studies
 introduction: This tutorial introduces you to using the Media Suite’s annotation and
   linking functionalities in film studies teaching and/or film historical research.
+author: Christian Olesen
 ---
 
 # Media Suite Tutorial: Searching, annotating and linking for film historical research
