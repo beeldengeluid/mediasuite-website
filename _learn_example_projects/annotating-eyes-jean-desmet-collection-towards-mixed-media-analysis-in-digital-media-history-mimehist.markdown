@@ -11,7 +11,7 @@ introduction: 'The project "Annotating EYE’s Jean Desmet Collection: Towards M
   materials of EYE Filmmuseum’s collection of cinema owner and distributor Jean Desmet.'
 ---
 
-\# Annotating EYE’s Jean Desmet Collection: Towards Mixed Media Analysis in Digital Media History
+# Annotating EYE’s Jean Desmet Collection: Towards Mixed Media Analysis in Digital Media History
 
 ![mimehist_image.png](/uploads/mimehist_image.png)
 
