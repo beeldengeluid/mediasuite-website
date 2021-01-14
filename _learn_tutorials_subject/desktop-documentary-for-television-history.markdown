@@ -1,6 +1,13 @@
 ---
-title: 'Media Suite Tutorial: Desktop Documentary for Television History'
+title: Desktop Documentary for Television History
 date: 2020-05-01 00:00:00 +02:00
+categories:
+- Television Studies
+introduction: This tutorial introduces you to making a desktop documentary that critically
+  compares and reflects on the different ways in which the Media Suite and other platforms
+  give access to historical television content. The aim is to learn how to document
+  and reflect on your research process with critical attention to the affordances
+  of different research environments.
 author: Christian Olesen
 functionalities:
 - Screen recording
@@ -15,11 +22,6 @@ version: V4.9
 user_level: Intermediate
 user_skills: Video recording and editing skills
 language: English/Dutch
-introduction: This tutorial introduces you to making a desktop documentary that critically
-  compares and reflects on the different ways in which the Media Suite and other platforms
-  give access to historical television content. The aim is to learn how to document
-  and reflect on your research process with critical attention to the affordances
-  of different research environments.
 other_url: 
 ---
 
