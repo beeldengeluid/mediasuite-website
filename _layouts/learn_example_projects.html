@@ -8,7 +8,7 @@
 		{% for item in items %}
 		<hr>
 		<h4><a href="{{ item.url | relative_url }}" title="{{ item.title }}">{{ item.title }}</a></h4>
-		<p>by {{ item.author}}, {{ item.date | date: "%B %Y" }}</p>
+		<p class="text-muted">{% if item.author %}by {{ item.author }}, {% endif %}{{ item.date | date: "%B %Y" }}</p>
 		<p>{{ item.introduction }}</p>
 		{% for category in item.categories %}
 		<span class="badge badge-primary">{{ category }}</span> 
