@@ -11,4 +11,4 @@ The Media Suite Data Stories can be viewed [here](https://mediasuitedatastories.
 
 ![Screenshot 2021-01-22 at 12.13.05.png](/uploads/Screenshot%202021-01-22%20at%2012.13.05.png)
 
-*Example of combined GIF and data visualization in the data story "Factual divergences in Dutch television news: comparisons between AIDS/HIV, SARS and COVID-19 news reportings"*
+*Example of combined GIF and data visualization in the Media Suite data story "Factual divergences in Dutch television news: comparisons between AIDS/HIV, SARS and COVID-19 news reportings"*
