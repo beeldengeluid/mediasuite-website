@@ -2,10 +2,11 @@
 title: 'Article: Koolen, M., Van Gorp, J., Van Ossenbruggen, J., "Toward a model for
   digital tool criticism: Reflection as integrative practice"'
 date: 2021-01-22 12:48:00 +01:00
-introduction: This article aims to contribute to a better understanding of digital
-  tools and the discussion of how to evaluate and incorporate them in research, based
-  on findings from a digital tool criticism workshop held at the 2017 Digital Humanities
-  Benelux conference.
+introduction: 'This article aims to contribute to a better understanding of digital
+  tools and the discussion of how to evaluate and incorporate them in research. It
+  offers a ready-made format for a workshop on digital tool criticism, including assignments
+  (e.g. the "research-process-visualization), tools, and methods for analysis, that
+  can be reused for training and education. '
 ---
 
 This article can be accessed [here](https://academic.oup.com/dsh/article-abstract/34/2/368/5127711?redirectedFrom=fulltext).
