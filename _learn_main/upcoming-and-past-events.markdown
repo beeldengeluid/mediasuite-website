@@ -1,6 +1,7 @@
 ---
 title: Upcoming and Past Events
 date: 2021-01-27 10:42:00 +01:00
+author: Christian Olesen
 ---
 
 ![Afb3 Blog ComViz](https://www.clariah.nl/images/blogs/Afb3_Blog_ComViz.jpg)\
