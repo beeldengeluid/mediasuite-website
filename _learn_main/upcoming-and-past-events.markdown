@@ -3,6 +3,9 @@ title: Upcoming and Past Events
 date: 2021-01-27 10:42:00 +01:00
 ---
 
+![Afb3 Blog ComViz](https://www.clariah.nl/images/blogs/Afb3_Blog_ComViz.jpg)\
+*Lauren Tilton (University of Richmond) and Taylor Arnold (University of Richmond) during the public lecture "Distant Viewing and Audiovisual Data" (Utrecht University, 2019).*
+
 **Upcoming Events**
 
 * **17 February, 2021, 15.00-17.00, via Zoom**: Webinar: "Cross-media corpus building and Oral History research in the Media Suite" - for registration details please see [Media Suite Webinar Series 2020-2021](http://mediasuite.clariah.nl/learn/main/media-suite-webinar-series-2020-2021)
