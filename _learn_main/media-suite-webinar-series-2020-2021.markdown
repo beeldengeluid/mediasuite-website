@@ -1,6 +1,8 @@
 ---
 title: Media Suite Webinar Series 2020-2021
 date: 2021-01-27 09:52:00 +01:00
+categories:
+- Webinar Series 2020-2021
 position: 0
 introduction: In the academic year 2020-2021, the CLARIAH Media Suite team offers
   a webinar series that introduces participants to working with the audiovisual collections,
