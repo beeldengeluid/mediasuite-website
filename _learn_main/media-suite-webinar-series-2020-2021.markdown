@@ -19,15 +19,15 @@ The Media Suite (https://mediasuite.clariah.nl) is an online research environmen
 
 ***Programme***
 
-* **28 October, 15.00-17.00**: "Introduction to the Media Suite version 5 – Searching collections, bookmarking items and creating a user project"
+* **28 October, 2020, 15.00-17.00, via Zoom**: "Introduction to the Media Suite version 5 – Searching collections, bookmarking items and creating a user project"
 
-* **16 December, 15.00-17.00**: "Video annotation of film and broadcast collections in the Media Suite"
+* **16 December, 2020, 15.00-17.00, via Zoom**: "Video annotation of film and broadcast collections in the Media Suite"
 
-* **17 February, 15.00-17.00**: "Cross-media corpus building and Oral History research in the Media Suite"
+* **17 February, 2021, 15.00-17.00, via Zoom**: "Cross-media corpus building and Oral History research in the Media Suite"
 
-* **21 April, 15.00-17.00 (tbc)**: "Mining historical viewing and listening rates in the Media Suite"
+* **21 April, 2021, 15.00-17.00 (tbc), via Zoom**: "Mining historical viewing and listening rates in the Media Suite"
 
-* **16 June, 15.00-17.00**: "Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite"
+* **16 June, 2021, 15.00-17.00, via Zoom**: "Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite"
 
 ***Registration***\
 Lecturers, researchers, PhD- and RMA-students from Dutch universities and research institutes are invited to participate in the sessions. The sessions will be held via Zoom. Registration open for all sessions. Please register via the following registration form: [https://bit.ly/346FpT8](https://bit.ly/346FpT8) For questions regarding the webinar series, please contact Christian Olesen (c.g.olesen_at_uu.nl) or Jasper Keijzer (j.j.keijzer1_at_uu.nl).
