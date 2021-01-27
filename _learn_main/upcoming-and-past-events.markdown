@@ -4,7 +4,7 @@ date: 2021-01-27 10:42:00 +01:00
 ---
 
 ![Afb3 Blog ComViz](https://www.clariah.nl/images/blogs/Afb3_Blog_ComViz.jpg)\
-*Lauren Tilton (University of Richmond) and Taylor Arnold (University of Richmond) during the public lecture "Distant Viewing and Audiovisual Data" (Utrecht University, 2019).*
+*Lauren Tilton (University of Richmond) and Taylor Arnold (University of Richmond) during the public lecture "Distant Viewing and Audiovisual Data" (Utrecht University, 18 November, 2019).*
 
 **Upcoming Events**
 
