@@ -2,7 +2,7 @@
 title: Analyzing Dutch Content In English - The Use of Online Translation Tools
 date: 2020-12-03 17:33:00 +01:00
 published: false
-author: Max Broekhuizen
+author: Max Broekhuizen, Erasmus University
 ---
 
 The problem of doing research with the Media Suite in English has two layers: firstly, of course, the majority of the data itself is Dutch-language. This makes it difficult for researchers with a limited grasp of the Dutch language to work with the data in the Media Suite. Secondly, then there are sources in which the English language appears, but where the metadata is still in Dutch. These could include news items where English footage is used and subtitled, English programs that are broadcasted on Dutch television with subtitles, or Oral History interviews with a non-native Dutch interviewee that is conducted in English. This data could very well be used by researchers, but since the data has been metadated in Dutch, and the language is often not specified, finding these English-language items is made very hard.
