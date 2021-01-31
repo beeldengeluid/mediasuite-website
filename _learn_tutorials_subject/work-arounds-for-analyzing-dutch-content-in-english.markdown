@@ -1,7 +1,6 @@
 ---
-title: Analyzing Dutch Content In English - The Use of Online Translation Tools
+title: Analyzing Dutch Content In English - Using Online Translation Tools
 date: 2020-12-03 17:33:00 +01:00
-published: false
 author: Max Broekhuizen, Erasmus University
 ---
 
