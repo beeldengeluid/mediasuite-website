@@ -27,7 +27,7 @@ The Media Suite (https://mediasuite.clariah.nl) is an online research environmen
 
 * **17 February, 2021, 15.00-17.00, via Zoom**: "Cross-media corpus building and Oral History research in the Media Suite", with Norah Karrouche (VU/EUR) & Max Broekhuizen (EUR)
 
-* **21 April, 2021, 15.00-17.00 (tbc), via Zoom**: "Mining historical viewing and listening rates in the Media Suite"
+* **21 April, 2021, 15.00-17.00, via Zoom**: "Mining historical viewing and listening rates in the Media Suite"
 
 * **16 June, 2021, 15.00-17.00, via Zoom**: "Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite"
 
