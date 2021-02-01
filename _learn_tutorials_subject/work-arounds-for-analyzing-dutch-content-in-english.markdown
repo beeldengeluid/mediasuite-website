@@ -12,6 +12,7 @@ A possible solution to finding English collection items with Dutch metadata in t
 # Translating search queries from English to Dutch
 
 The result of this experiment has been that using Google Translate for translating search queries before entering them is quite unreliable. Let us start with some examples of this unreliability.
+
 | Original | Translation | Notes |
 |-------|--------|-----------------------|
 | Florida recount | Florida vertellen | Incorrect: translated “recount” as “to tell someone something” instead of “to count again” |
