@@ -12,7 +12,7 @@ author: Christian Olesen, Max Broekhuizen, Tom Slootweg, Alec Badenoch & Jasmijn
 
 # Overview International collections and English language content in the Media Suite
 
-In this section, we offer an overview of collections embedded in the Media Suite that contain English language content, content in other languages than Dutch as well as content produced in other countries than the Netherlands. The overview offers an entry point for our international users. The page is updated regularly as we identify and add more international collections to the Media Suite.The page was last updated on the 3rd of December 2020.
+In this section, we offer an overview of collections embedded in the Media Suite that contain English language content, content in other languages than Dutch as well as content produced in other countries than the Netherlands. The overview offers an entry point for our international users. The page is updated regularly as we identify and add more international collections to the Media Suite. The page was last updated on the 4th of February 2021.
 
 # Film and Film-Related Collections
 
@@ -23,6 +23,10 @@ The Desmet Film Collection is an interesting collection for international users 
 ### The Desmet Paper Collection
 
 The approximately 127.000 documents which make up Desmet’s business archive form a highly comprehensive record of Jean Desmet’s business activities, as well as his personal interactions. The documents in the paper collection cover a time span dating back to 1875, beginning with Jean Desmet’s birth certificate, to the year of Desmet’s passing in 1956. As media historian Ivo Blom’s extensive research has shown, Desmet’s business archive is a rich resource for understanding film trade and exhibition in the Netherlands and its neighbouring countries. The documents and materials in this collection contain multiple languages. The Collection’s main language remains Dutch, but it also contains significant amounts of documents written in French, English, German, and Italian. There are handwritten and typewritten letters written in all of these languages as well as promotional materials and catalogues that Desmet received from all over Europe. All type-written documents in the Desmet Collection have been OCRed and made searchable in several languages. To search the OCRed documents of the paper collection choose “OCR” under “Enrichments” from the search field on the right hand side (see fig. 1).
+
+**![](https://lh6.googleusercontent.com/C7b2bAD2qijRMjE7SMym5pfuZwma6n3paCGN9QKtHsyrQUsYQ9oHggZohSg4kHK9yBkMmnIOc2-FztQgyH5bwf_1TMpIvHVUcSubeYbxs3uUznBQZ4qoJ4dblml0CDCP8RhbInLP)**
+
+*Fig. 1* OCR search in the Desmet paper collection.
 
 # Broadcast Collections
 
