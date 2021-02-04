@@ -12,7 +12,7 @@ author: Christian Olesen, Max Broekhuizen, Tom Slootweg, Alec Badenoch & Jasmijn
 
 # Overview International collections and English language content in the Media Suite
 
-In this section, we offer an overview of collections embedded in the Media Suite that contain English language content, content in other languages as well as content produced in other countries. The page is updated regularly as we identify and add more international collections to the Media Suite.The page was last updated on the 3rd of December 2020.
+In this section, we offer an overview of collections embedded in the Media Suite that contain English language content, content in other languages than Dutch as well as content produced in other countries than the Netherlands. The overview offers an entry point for our international users. The page is updated regularly as we identify and add more international collections to the Media Suite.The page was last updated on the 3rd of December 2020.
 
 # Film and Film-Related Collections
 
