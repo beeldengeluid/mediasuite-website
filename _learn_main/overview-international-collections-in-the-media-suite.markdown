@@ -34,7 +34,7 @@ The Netherlands Institute for Sound and Vision offers a range of collections via
 
 ### Newspaper collection (National Library of the Netherlands)
 
-In the current version of Delpher it is not possible to search the digitized Royal Library newspaper collections for English-language content. Alternative search strategies for English-language content can be done by filtering “United States” as “country of publication”.  Using this strategy will yield a mix of English-language results with some interesting examples of immigrant newspapers that feature bilingual content. Using these search queries the following newspaper of Dutch-American immigration (published under various titles) appears:
+In the current version of Delpher, of which the data is included in the Media Suite, it is not possible to search the digitized Royal Library newspaper collections for English-language content. Alternative search strategies for English-language content can be done by filtering “United States” as “country of publication”.  Using this strategy will yield a mix of English-language results with some interesting examples of immigrant newspapers that feature bilingual content. Using these search queries the following newspaper of Dutch-American immigration (published under various titles) appears:
 
 * [Onze Toekomst](https://www.delpher.nl/nl/kranten/results?query=&facets%5Bspatial%5D%5B%5D=Verenigde\+Staten&facets%5Btitle%5D%5B%5D=Onze\+toekomst&page=1&sortfield=datedesc&coll=dddtitel) (bilingual, 1920-1952) 1258 issues
 
