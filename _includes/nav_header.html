@@ -29,12 +29,7 @@
 						<div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownWorkspace">
 							<a class="dropdown-item" href="{{ '/workspace/projects' | relative_url }}">User Projects <span id="project_count" class="badge badge-pill badge-primary">0</span></a>
 							<a class="dropdown-item" href="{{ '/workspace/projects/create' | relative_url }}">Create User Project +</a>
-							<!-- if user and user.attributes and user.attributes.allowPersonalCollections -->
-							<a id="menu_workspace_user_collections" class="dropdown-item" href="{{ '/workspace/collections' | relative_url }}">User Collections <span id="collection_count" class="badge badge-pill badge-primary">0</span></a>
-							<a id="menu_workspace_user_collections_new" class="dropdown-item" href="{{ '/workspace/collections/create' | relative_url }}">Add user collection +</a>
-							<!-- endif  -->
 							<a class="dropdown-item" href="{{ '/documentation/howtos/jupyter-notebooks' | relative_url }}">Jupyter Notebooks</a>
-							<a class="dropdown-item" href="{{ '/workspace/projects?import_workspace=1' | relative_url }}">Import your old workspace</a>
 						</div>
 					</li>
 					<!-- endif -->
