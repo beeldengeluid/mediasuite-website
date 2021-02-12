@@ -1,10 +1,9 @@
 ---
-title: 'Media Suite Tutorial: Video Segmentation, Annotation and Structuralist Film
-  Analysis'
+title: Video Segmentation, Annotation and Structuralist Film Analysis
 date: 2021-02-12 15:53:00 +01:00
 categories:
 - Film Studies
-author: Klaas de Zwaan & Christian Olesen
+author: Klaas de Zwaan & Christian Olesen, February 2021
 version: 5
 user_level: Beginner
 ---
