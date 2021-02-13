@@ -3,7 +3,7 @@ title: Video Segmentation, Annotation and Structuralist Film Analysis
 date: 2021-02-12 15:53:00 +01:00
 categories:
 - Film Studies
-author: Klaas de Zwaan & Christian Olesen, February 2021
+author: Klaas de Zwaan & Christian Olesen
 version: 5
 user_level: Beginner
 ---
