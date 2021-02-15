@@ -14,7 +14,7 @@ user_level: Beginner
 
 Tutorial for CLARIAH Media Suite V 5
 
-**Tutorial Description, Case and Objectives**
+## Tutorial Description, Case and Objectives
 
 In this tutorial you will learn how to carry out a structuralist film analysis in the Media Suite using the environment’s video segmentation functionalities, based on principles from film theorist Raymond Bellour’s approach to film segmentation. After completing the tutorial, you will know how to make an overall analysis of the structure of a film by splitting it up into sequences, understood as a series of scenes linked by their content. In addition, using the Media Suite’s segmentation and annotation functionalities, you will also have learned how to segment a sequence shot-by-shot. Moreover, after completing the tutorial, you will know how to use the environment’s annotation functionalities to briefly summarize the content of each sequence, including a rationale of how you arrived at demarcating sequences. To sum up, you will be able to use the Media Suite for:
 
@@ -26,21 +26,21 @@ In this tutorial you will learn how to carry out a structuralist film analysis i
 
 For the tutorial you will be working with D.W. Griffiith’s *The Lonedale Operator* (1911). This film has a good length for an introductory structuralist film analysis exercise and is helpful in understanding basic principles of early continuity editing.
 
-**Types and levels of teaching and research**
+#### Types and levels of teaching and research
 
 This tutorial is intended for film and media students at BA level that are familiarizing themselves with segmentation-based analysis of films. The tutorial may support both film historical teaching, in particular teaching on film editing’s development, as well as film analysis.
 
-**Prerequisites**
+#### Prerequisites
 
 It is a prerequisite for this tutorial that you are familiar with the basic principles of Raymond Bellour’s structuralist approach to film analysis, in particular as it is developed in his classic article “System of a Fragment (on *The Birds*)” (1969) on Afred Hitchcock’s *The Birds* (1963). It may also be helpful to be familiar with the segmentation principles introduced in David Bordwell, Kristin Thompson and Jeff Smith’s *Film Art* (2017, eleventh edition).
 
-**Acknowledgements**
+#### Acknowledgements
 
-This tutorial has benefitted from the input and course development of Utrecht University’s Film Studies team within the BA course *Introduction to Film Studies*.
+This tutorial has benefitted from the input and course development of Utrecht University’s Film Studies team, in particular in relation to the BA course *Introduction to Film Studies*.
 
-**Steps**
+## Steps
 
-**1. Accessing the Media Suite**
+### 1. Accessing the Media Suite
 
 ![image1-512fc4.png](/uploads/image1-512fc4.png)
 
@@ -56,17 +56,17 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 * You will now enter the Media Suite workspace
 
-**2. Create a User Project**
+### 2. Create a User Project
 
 ![image9-696e17.png](/uploads/image9-696e17.png)
 
 * After having logged in, you need to create a user project. In order to so, hover over the “Workspace” tab. From the drop-down menu, choose “Create User Project”
 
-* Name your project and add a project description. As you will be working with *The Lonedale Operator *(1915)* *in this tutorial, you may for instance call the project “Lonedale Operator Segmentation” and add a description that describes your project’s aims, namely segmenting the film.
+* Name your project and add a project description. As you will be working with \*The Lonedale Operator *(1915)* \*in this tutorial, you may for instance call the project “Lonedale Operator Segmentation” and add a description that describes your project’s aims, namely segmenting the film.
 
 * Click the “Create” button to confirm
 
-**3. Find, select and bookmark a film with Search tool Desmet Film Collection**
+### 3. Find, select and bookmark a film with Search tool Desmet Film Collection
 
 ![image6-630a5e.png](/uploads/image6-630a5e.png)
 
@@ -86,7 +86,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 * In the bookmark window, add the film to a bookmark group. If needed create a bookmark group, for instance “Film” or “The Lonedale Operator”, since in this case you are adding a specific film title to your corpus
 
-**4. Creating a segment**
+### 4. Creating a segment
 
 ![image4-5f9d24.png](/uploads/image4-5f9d24.png)
 
@@ -104,17 +104,17 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 * If you subsequently wish to modify the beginning and end points of your segments, click on the segment you wish to change to make it active and then drag the beginning and end points to where you want to set them.
 
-**5. Shot segmentation**
+### 5. Shot segmentation
 
 ![image7-0d38a4.png](/uploads/image7-0d38a4.png)
 
 * Currently it is not possible to break down a segment into smaller analytical units. This means, that if you want to make a shot segmentation of a sequence in the Media Suite, you have two options.
 
-* The first option is to create a shot segmentation on top of an existing segment. You do this by creating a segment of each shot on top of a sequence segment (see the image above for an example). Visually, this is not the most practical way to proceed as it creates a cluttered timeline, as you currently only have one timeline to work with (**NB **in the upcoming version of the Media Suite, this will change with the introduction of multiple timelines, making it possible to work with different layers of segmentation, for instance on sequence and shot level respectively).
+* The first option is to create a shot segmentation on top of an existing segment. You do this by creating a segment of each shot on top of a sequence segment (see the image above for an example). Visually, this is not the most practical way to proceed as it creates a cluttered timeline, as you currently only have one timeline to work with (\*\*NB \*\*in the upcoming version of the Media Suite, this will change with the introduction of multiple timelines, making it possible to work with different layers of segmentation, for instance on sequence and shot level respectively).
 
 * The second option is to include a shot outline of a sequence in a written annotation on sequence level. In order to learn how to do this, go to the next step.
 
-**6. Annotating film on segment level I - Sequence**
+### 6. Annotating film on segment level I - Sequence
 
 ![image2-e4be27.png](/uploads/image2-e4be27.png)
 
@@ -150,7 +150,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 * You may do this for each segment created, until you feel you have exhausted your analysis of the material
 
-**7. Annotating film on segment level II - Shot**
+### 7. Annotating film on segment level II - Shot
 
 ![image3-563da0.png](/uploads/image3-563da0.png)
 
