@@ -24,7 +24,7 @@ In this tutorial you will learn how to carry out a structuralist film analysis i
 
 * Annotating video items on segment and shot levels to add your own comments, including an underlying rationale for your segmentation
 
-For the tutorial you will be working with D.W. Griffiith’s *The Lonedale Operator* (1911). This film has a good length for an introductory structuralist film analysis exercise and is helpful in understanding basic principles of early continuity editing.
+For the tutorial you will be working with D.W. Griffith’s *The Lonedale Operator* (1911). This film has a good length for an introductory structuralist film analysis exercise and is helpful in understanding basic principles of early continuity editing.
 
 #### Types and levels of teaching and research
 
