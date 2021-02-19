@@ -16,6 +16,8 @@ author: Christian Olesen
 
 **Past Events**
 
+* **17 February, 2021, 15.00-17.00, via Zoom **: “Cross-media corpus building and Oral History research in the Media Suite”, with Norah Karrouche (VU/EUR) & Max Broekhuizen (EUR) - for details please see [Media Suite Webinar Series 2020-2021](http://mediasuite.clariah.nl/learn/main/media-suite-webinar-series-2020-2021)
+
 * **16 December, 2020, 15.00-17.00, via Zoom**: Webinar: "Video annotation of film and broadcast collections in the Media Suite" - for details please see [Media Suite Webinar Series 2020-2021](http://mediasuite.clariah.nl/learn/main/media-suite-webinar-series-2020-2021)
 
 * **28 October, 2020, 15.00-17.00, via Zoom**: Webinar: "Introduction to the Media Suite version 5 – Searching collections, bookmarking items and creating a user project" - for details please see [Media Suite Webinar Series 2020-2021](http://mediasuite.clariah.nl/learn/main/media-suite-webinar-series-2020-2021)
