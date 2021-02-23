@@ -9,7 +9,11 @@ jobs:
   deploy:
     runs-on: self-hosted
     steps:
-    - name: install with ansible
+    - name: autodeploy to tst with ansible
       run: |
         cd /opt/git/rd_infra/scripts/ansible/
         ansible-playbook mediasuite-website-build-test.yml
+    - name: autodeploy to acc with ansible
+      run: |
+        cd /opt/git/rd_infra/scripts/ansible/
+        ansible-playbook mediasuite-website-acc.yml
