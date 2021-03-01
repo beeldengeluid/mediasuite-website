@@ -17,3 +17,4 @@ jobs:
       run: |
         cd /opt/git/x-omgeving/ansible/
         ansible-playbook mediasuite-website-production.yml
+
