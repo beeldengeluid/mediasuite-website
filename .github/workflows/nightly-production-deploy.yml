@@ -9,7 +9,11 @@ jobs:
   deploy:
     runs-on: self-hosted
     steps:
+    - name: Update ansible
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        sudo git pull
     - name: deploy to production with ansible
       run: |
-        cd /opt/git/rd_infra/scripts/ansible/
+        cd /opt/git/x-omgeving/ansible/
         ansible-playbook mediasuite-website-production.yml
