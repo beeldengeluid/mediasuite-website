@@ -6,6 +6,8 @@ categories:
 introduction: This tutorial introduces you to the Media Suite’s Automatic Speech Recognition
   search functionality for television studies and/or television history research from
   a tool and data critical perspective.
+author: Emelie de Keulenaar & Liliana Melgar
+version: 5
 ---
 
 # Media Suite Tutorial: Automatic Speech Recognition (ASR) Data as Data Layer in Television Collections
