@@ -1,5 +1,6 @@
 ---
-title: Automatic Speech Recognition (ASR) Data as Data Layer in Television Collections
+title: Searching and Analysing Automatic Speech Recognition (ASR) transcripts as Data
+  Layer in Television Collections
 date: 2021-03-17 15:11:00 +01:00
 categories:
 - Television Studies
@@ -10,7 +11,7 @@ author: Emelie de Keulenaar & Liliana Melgar
 version: 5
 ---
 
-# Media Suite Tutorial: Automatic Speech Recognition (ASR) Data as Data Layer in Television Collections
+# Media Suite Tutorial: Searching and Analysing Automatic Speech Recognition (ASR) transcripts as Data Layer in Television Collections
 
 ![image1-9df8f9.png](/uploads/image1-9df8f9.png)
 
