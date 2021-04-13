@@ -32,7 +32,7 @@ This tutorial is intended for film and media students at BA level that are famil
 
 #### Prerequisites
 
-It is a prerequisite for this tutorial that you are familiar with the basic principles of Raymond Bellour’s structuralist approach to film analysis, in particular as it is developed in his classic article “System of a Fragment (on *The Birds*)” (1969) on Afred Hitchcock’s *The Birds* (1963). It may also be helpful to be familiar with the segmentation principles introduced in David Bordwell, Kristin Thompson and Jeff Smith’s *Film Art* (2017, eleventh edition).
+It is a prerequisite for this tutorial that you are familiar with the basic principles of Raymond Bellour’s structuralist approach to film analysis, in particular as it is developed in his classic article “System of a Fragment (on *The Birds*)” (1969) on Alfred Hitchcock’s *The Birds* (1963). It may also be helpful to be familiar with the segmentation principles introduced in David Bordwell, Kristin Thompson and Jeff Smith’s *Film Art* (2017, eleventh edition).
 
 #### Acknowledgements
 
