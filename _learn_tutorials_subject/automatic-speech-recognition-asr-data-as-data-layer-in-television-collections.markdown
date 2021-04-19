@@ -1,6 +1,6 @@
 ---
-title: Searching and Analysing Automatic Speech Recognition (ASR) transcripts as Data
-  Layer in Television Collections
+title: 'Tutorial: Searching and Analysing Automatic Speech Recognition (ASR) transcripts
+  as Data Layer in Television Collections'
 date: 2021-03-17 15:11:00 +01:00
 categories:
 - Television Studies
@@ -11,7 +11,7 @@ author: Emelie de Keulenaar & Liliana Melgar
 version: 5
 ---
 
-# Media Suite Tutorial: Searching and Analysing Automatic Speech Recognition (ASR) transcripts as Data Layer in Television Collections
+# Tutorial: Searching and Analysing Automatic Speech Recognition (ASR) transcripts as Data Layer in Television Collections
 
 ![image1-9df8f9.png](/uploads/image1-9df8f9.png)
 
@@ -116,7 +116,7 @@ Supervision, editing and additional text: Christian Olesen and Jasmijn van Gorp.
 
 * In order to make such a comparison, **query the collection a second time, this time using archival metadata descriptions**. These descriptions include fields like item summaries (short, detailed, shot-by-shot), among others. The metadata are created manually by archivists after content inspection. Use the same queries as before, but this time using a collection metadata search layer, fx, descriptions. Save one or more queries.
 
-* Now you may **compare the results of your different queries using the Compare Tool**. To do so, hover over Tools and choose “Compare”. This directs you to an overview of your queries made within your user project. On the left-hand side of each query you may tick a box in order to select the query for comparison. Once you have selected the queries you wish to compare, a bar appears at the bottom of your screen with a “COMPARE”-button. Click the button.** A timeline chart visualisation appears that allows you to compare the amount of results - both absolute and relative - for the different queries chronologically** (see image above). In this visualisation the different visualisations have been colour-coded so as to allow distinguishing between them (hover over the bars to see which is which query)
+* Now you may **compare the results of your different queries using the Compare Tool**. To do so, hover over Tools and choose “Compare”. This directs you to an overview of your queries made within your user project. On the left-hand side of each query you may tick a box in order to select the query for comparison. Once you have selected the queries you wish to compare, a bar appears at the bottom of your screen with a “COMPARE”-button. Click the button.\*\* A timeline chart visualisation appears that allows you to compare the amount of results - both absolute and relative - for the different queries chronologically\*\* (see image above). In this visualisation the different visualisations have been colour-coded so as to allow distinguishing between them (hover over the bars to see which is which query)
 
 * Based on this visualisation ask yourself: do the two sets of search results have similar patterns, do they result in the same amount of results or are there significant differences?
 
