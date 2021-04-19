@@ -1,5 +1,5 @@
 ---
-title: Desktop Documentary for Television History
+title: 'Tutorial: Desktop Documentary for Television History'
 date: 2020-05-01 00:00:00 +02:00
 categories:
 - Television Studies
@@ -25,7 +25,7 @@ language: English/Dutch
 other_url: 
 ---
 
-# Media Suite Tutorial: Desktop Documentary for Television History
+# Tutorial: Desktop Documentary for Television History
 
 ![Desktop Documentary for Television History](/uploads/tut_desktop_documentary_0.png)
 
