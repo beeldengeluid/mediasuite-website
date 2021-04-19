@@ -19,13 +19,13 @@ Tutorial made by Christian Olesen, November 2020
 
 This tutorial introduces you to using the Media Suite’s annotation and linking functionalities in film studies teaching and/or film historical research. Upon completing this tutorial, you will know how to use the Media Suite for:
 
-* Building a corpus consisting of films and related materials from different collections available in the Media Suite
+* **Building a corpus consisting of films and related materials from different collections** available in the Media Suite
 
-* Annotating video items on item and segment level to add your own comments, tags and linking them to related materials
+* **Annotating video items on item and segment level **to add your own comments, tags and linking them to related materials
 
-* Annotating paper items on item and segment level to add your own comments, tags and linking them to related materials
+* **Annotating paper items on item and segment level **to add your own comments, tags and linking them to related materials
 
-The tutorial revolves around the case of the film Filibus (Italy, 1915), preserved in Eye Filmmuseum’s Jean Desmet film collection and embedded in the Media Suite. The film has been restored several times by Eye and remains a popular title at film festivals and for film historians. However, it is a film whose production and exhibition context history remains unclear. Several filmographic details - for instance who played in the film as well as the history of its production company Corona Film - remain unclear. For these reasons, it is an interesting film to dive into using the Media Suite’s search, annotation and linking functionalities to study film and paper items in the Desmet Collection to try to find more information about the film’s production and distribution history.
+The tutorial revolves around the case of the film Filibus (Italy, 1915), preserved in Eye Filmmuseum’s Jean Desmet film collection and embedded in the Media Suite. The film has been restored several times by Eye and remains a popular title at film festivals and among film historians. However, it is a film whose production and exhibition context history remains unclear. Several filmographic details - for instance who played in the film as well as the history of its production company Corona Film - remain unclear. For these reasons, it is an interesting film to dive into using the Media Suite’s search, annotation and linking functionalities to study film and paper items in the Desmet Collection to try to find more information about the film’s production and distribution history.
 
 #### Types and levels of teaching and research
 
@@ -150,15 +150,15 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 8. Annotating a video item segment level 1 - creating a segment
 
-![image7.png](/uploads/image7.png)
+![Filibus_segment.png](/uploads/Filibus_segment.png)
 
-* Once you have added annotations on item level, you are now ready to take the next step and make annotations on segment level. In order to do so, you first need to create a segment.
+* Once you have added annotations on item level, you are now ready to take the next step and make annotations on segment level. In order to do so, **you first need to create a segmentation layer**. In a segmentation layer, you group together manually created segments according to for example a motif or a theme.  You **create a segmentation layer by clicking on ADD LAYER** on the left hand side below the video player (see image above) and you can give the layer a name by double-clicking on the layer's text box.
 
-* To create a segment pause the video where you want to begin the segment. After having chosen a meaningful beginning point press “i” (“i” stands for “in”). A red line/time marker will appear at the point chosen.
+* To subsequently create a segment, first pause the video where you want to begin the segment. After having chosen a meaningful beginning point press “i” (“i” stands for “in”). A red line/time marker will appear at the point chosen.
 
-* Subsequently, you need to choose an endpoint for your segment. Use the cursor to choose an endpoint and press “o” (“o” stands for out) to confirm the end point. Pressing “o” turns the segment into a solid red bar confirming that the chosen area is now a segment.
+* Subsequently, you need to choose an endpoint for your segment. Use the cursor to choose an endpoint and press “o” (“o” stands for out) to confirm the end point. Alternately, you may simply drag the end point of the segment using your mouse to set the end point (the same goes for the beginning of the segment). You have now created a segment.
 
-* In order to make a new segment, you neeed to press “\+” in the “My Segments” on the right hand side next to the segment (see image above). This is important, because it makes sure that your segment is saved. If you proceed to setting new in and out points using the “i” and “o” keys without first pressing “\+” you will end up modifying the segment you just made instead of creating a new one.
+* In order to make a new segment, you neeed to press the “\+”-symbol in the layer you just made, or create a new layer consisting of new segments (see image above). This is important, because it makes sure that your segment is saved. If you proceed to setting new in and out points using the “i” and “o” keys without first pressing “\+” you will end up modifying the segment you just made instead of creating a new one.
 
 ### 9. Annotating a video item on segment level 2 - annotating a segment
 
