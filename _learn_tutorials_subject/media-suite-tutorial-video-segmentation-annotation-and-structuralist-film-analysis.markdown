@@ -110,25 +110,23 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 * If you subsequently wish to modify the beginning and end points of your segments, click on the segment you wish to change to make it active and then drag the beginning and end points to where you want to set them.
 
-### 5. Shot segmentation
+### 5. Shot and sequence segmentation and layers
 
-![image7-0d38a4.png](/uploads/image7-0d38a4.png)
+![Screenshot 2021-04-19 at 18.30.29.png](/uploads/Screenshot%202021-04-19%20at%2018.30.29.png)
 
-* Currently it is not possible to break down a segment into smaller analytical units. This means, that if you want to make a shot segmentation of a sequence in the Media Suite, you have two options.
+* In a structuralist film analysis you need to describe the internal mechanisms of sequences and explain the significance of shots and sequences in the film as a whole, using Bellour’s and/or Thompson & Bordwell principles. When doing this, you may think in terms of patterns (repetitions, mirror effects, breaks in series, locations, etc.) that you see in the framing and montage, image/sound coherence, mise-en-scène and so on. As part of a structuralist film analysis, you should ideally make both a shot outline and an overall sequence analysis 
 
-* The first option is to create a shot segmentation on top of an existing segment. You do this by creating a segment of each shot on top of a sequence segment (see the image above for an example). Visually, this is not the most practical way to proceed as it creates a cluttered timeline, as you currently only have one timeline to work with (\*\*NB \*\*in the upcoming version of the Media Suite, this will change with the introduction of multiple timelines, making it possible to work with different layers of segmentation, for instance on sequence and shot level respectively).
+* In order to do this, you have to create different layers that allow you to work with multiple timelines and different segmentation layers. In a segmentation layer, you group together manually created segments according to for example a motif or a theme, shots and sequences.  To **create a segmentation layer click on "ADD LAYER"** on the left hand side below the video player (see image above) and you give the layer a name by double-clicking on the layer's text box (for instance "shot segmentation" and "sequence segmentation"). In the image above you see an example of how segmentation layers have been used for grouping together shots/segments relating to different locations.
 
-* The second option is to include a shot outline of a sequence in a written annotation on sequence level. In order to learn how to do this, go to the next step.
+* Once you have created different layers, you can now use the different layers to **make shot and sequence segmentation by creating a segment for each shot and sequence** on the respective timelines following the steps discussed in point 4. 
 
 ### 6. Annotating film on segment level I - Sequence
 
 ![image2-e4be27.png](/uploads/image2-e4be27.png)
 
-* In a structuralist film analysis you need to describe the internal mechanisms of the sequence and explain its significance in the film as a whole, using Bellour’s and/or Thompson & Bordwell principles. When doing this, you may think in terms of patterns (repetitions, mirror effects, breaks in series, etc.) that you see in the framing and montage, image/sound coherence, mise-en-scène and so on. A shot outline may be part of such an explanation.
-
 * In the Media Suite, you can annotate items on item level and on segment level. By annotating on item level you add an annotation relating to the whole item. By annotating on segment level you add an annotation to a specific selection of that item.
 
-* In this step you will be annotating on segment level
+* In this step you will be annotating on sequence level so as to explain the reasoning behind a specific demarcation of a sequence. 
 
 * In order to annotate on segment level, go to “My Annotations” part on the right-hand side of the screen and click on “SEGMENTS”.
 
