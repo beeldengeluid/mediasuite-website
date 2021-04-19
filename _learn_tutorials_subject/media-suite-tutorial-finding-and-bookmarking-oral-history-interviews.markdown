@@ -1,5 +1,5 @@
 ---
-title: Finding and Bookmarking Oral History Interviews
+title: 'Tutorial: Finding and Bookmarking Oral History Interviews'
 date: 2020-09-27 16:10:00 +02:00
 categories:
 - Oral History
@@ -9,7 +9,7 @@ introduction: In this tutorial, you will learn how to build a corpus of oral his
 author: Max Broekhuizen
 ---
 
-# Media Suite Tutorial: Finding and Bookmarking Oral History Interviews
+# Tutorial: Finding and Bookmarking Oral History Interviews
 
 ![1.png](/uploads/1.png)
 
