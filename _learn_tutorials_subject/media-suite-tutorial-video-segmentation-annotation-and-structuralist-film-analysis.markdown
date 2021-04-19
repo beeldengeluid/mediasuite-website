@@ -1,5 +1,5 @@
 ---
-title: Video Segmentation, Annotation and Structuralist Film Analysis
+title: 'Tutorial: Video Segmentation, Annotation and Structuralist Film Analysis'
 date: 2021-02-12 15:53:00 +01:00
 categories:
 - Film Studies
@@ -8,7 +8,7 @@ version: 5
 user_level: Beginner
 ---
 
-# **Media Suite Tutorial: Video Segmentation, Annotation and Structuralist Film Analysis**
+# **Tutorial: Video Segmentation, Annotation and Structuralist Film Analysis**
 
 ![image4-5f9d24.png](/uploads/image4-5f9d24.png)
 
