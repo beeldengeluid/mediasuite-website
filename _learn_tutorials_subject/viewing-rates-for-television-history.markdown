@@ -1,5 +1,5 @@
 ---
-title: Viewing Rates for Television History
+title: 'Tutorial: Viewing Rates for Television History'
 date: 2021-04-13 13:07:00 +02:00
 published: false
 categories:
@@ -19,7 +19,7 @@ version: 5.3
 user_level: Beginner
 ---
 
-## MEDIA SUITE TUTORIAL: VIEWING RATES FOR TELEVISION HISTORY
+## TUTORIAL: VIEWING RATES FOR TELEVISION HISTORY
 
 ![image2-fb6d06.png](/uploads/image2-fb6d06.png)
 
