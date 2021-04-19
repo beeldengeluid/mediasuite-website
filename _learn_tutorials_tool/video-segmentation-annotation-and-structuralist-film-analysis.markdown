@@ -1,5 +1,5 @@
 ---
-title: Video Segmentation, Annotation and Structuralist Film Analysis
+title: 'Tutorial: Video Segmentation, Annotation and Structuralist Film Analysis'
 date: 2021-04-19 12:22:00 +02:00
 categories:
 - Segmentation
