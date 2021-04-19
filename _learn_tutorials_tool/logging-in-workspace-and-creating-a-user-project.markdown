@@ -1,5 +1,5 @@
 ---
-title: Logging in, Workspace and Creating a User Project
+title: 'Tutorial: Logging in, Workspace and Creating a User Project'
 date: 2021-04-19 12:11:00 +02:00
 categories:
 - User Project
