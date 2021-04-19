@@ -152,7 +152,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ![Filibus_segment.png](/uploads/Filibus_segment.png)
 
-* Once you have added annotations on item level, you are now ready to take the next step and make annotations on segment level. In order to do so, **you first need to create a segmentation layer**. In a segmentation layer, you group together manually created segments according to for example a motif or a theme.  You **create a segmentation layer by clicking on ADD LAYER** on the left hand side below the video player (see image above) and you can give the layer a name by double-clicking on the layer's text box.
+* Once you have added annotations on item level, you are now ready to take the next step and make annotations on segment level. In order to do so, **you first need to create a segmentation layer**. In a segmentation layer, you group together manually created segments according to for example a motif or a theme.  You **create a segmentation layer by clicking on "ADD LAYER"** on the left hand side below the video player (see image above) and you can give the layer a name by double-clicking on the layer's text box.
 
 * To subsequently create a segment, first pause the video where you want to begin the segment. After having chosen a meaningful beginning point press “i” (“i” stands for “in”). A red line/time marker will appear at the point chosen.
 
