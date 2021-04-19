@@ -1,5 +1,5 @@
 ---
-title: Searching, annotating and linking for film historical research
+title: 'Tutorial: Searching, annotating and linking for film historical research'
 date: 2021-04-19 12:13:00 +02:00
 categories:
 - Search
