@@ -6,6 +6,12 @@ categories:
 - Annotation
 - Bookmark
 - Screencasting
+introduction: This tutorial introduces you to making a desktop documentary that critically
+  compares and reflects on the different ways in which the Media Suite and other platforms
+  give access to historical television content. The aim is to learn how to document
+  and reflect on your research process with critical attention to the affordances
+  of different research environments.
+author: Christian Olesen
 collections:
 - Television Collection
 disciplines:
