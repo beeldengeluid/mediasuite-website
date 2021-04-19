@@ -1,5 +1,5 @@
 ---
-title: Logging in, Workspace and Creating a User Project
+title: 'Tutorial: Logging in, Workspace and Creating a User Project'
 date: 2020-11-27 11:18:00 +01:00
 introduction: This tutorial introduces you to the use of the CLARIAH Media Suite’s
   work space and guides you through creating a user project. Before using the Media
@@ -20,7 +20,7 @@ language: English
 pdf_file: "/uploads/Tutorial_Logging_in_Creating_a_User_Project.pdf"
 ---
 
-# Media Suite Tutorial: Logging in, Workspace and Creating a User Project
+# Tutorial: Logging in, Workspace and Creating a User Project
 
 ![image1-3f0e2b.png](/uploads/image1-3f0e2b.png)
 
