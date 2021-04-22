@@ -15,7 +15,7 @@ introduction: This tutorial introduces you to using the CLARIAH Media Suite’s 
   history.
 author: Jasper Keijzer
 version: 5.3
-user_level: Beginner
+user_level: Advanced
 ---
 
 ## TUTORIAL: VIEWING RATES FOR TELEVISION HISTORY
@@ -37,7 +37,16 @@ This tutorial introduces you to using the CLARIAH Media Suite’s search tool an
 This tutorial centres around an historical research project concerning television viewing during the Dutch Oil crisis of 1973. More specifically, this tutorial will focus on the historical television address by prime minister Joop Den Uyl in december 1973. In this speech Den Uyl informed the Dutch citizens about the measures the government had taken to account for the scarcity in Oil after Arabic countries boycotted the Netherlands from importing oil. A central point in the speech was the end of the Car-free Sundays, and the beginning of controlled distribution of oil through oil-stamps, which were interchangeable for petrol at the petrol stations.
 
 The television address is an iconic and historically unique moment in Dutch history and Dutch television history. It is rare for a Dutch Prime Minister to address the nation, even in times of crisis. Joop Den Uyl was the first, and during the corona pandemic in 2020 Mark Rutte was the second Prime Minister to address citizens directly in Dutch television history.
-For television history and historical viewing rates research the era of the 1970s is particularly relevant. It features a moment in Dutch media history where the integration of the television medium in news and information distribution is reaching a similar status to the radio. For example, the ‘oudejaarsconference’, a tradition of a cabaret show on december 31st discussing the previous years' events, was first televised in 1969 and surpassed radio figures by 1973 when comedian Wim Kan explicitly discussed the Oil Crisis. At the same time, viewing rates research and the collection of viewing figures was in its infancy. Starting in 1965, Intomart GfK began conducting audience research in The Netherlands under contract to the public broadcasting association. Until 1974, the main measurement method was through physical log-books or diaries, distributed and collected through the postal service. Each week, the participants would receive a personal diary with the television schedule, indicate which programmes were viewed, and then return the diary. If you wish to learn more about the Dutch history of viewing rates research you can watch a video of the presentation that was recorded for the webinar series [here.](http://www.vimeo.com)
+For television history and historical viewing rates research the era of the 1970s is particularly relevant. It features a moment in Dutch media history where the integration of the television medium in news and information distribution is reaching a similar status to the radio. For example, the ‘oudejaarsconference’, a tradition of a cabaret show on december 31st discussing the previous years' events, was first televised in 1969 and surpassed radio figures by 1973 when comedian Wim Kan explicitly discussed the Oil Crisis. At the same time, viewing rates research and the collection of viewing figures was in its infancy. Starting in 1965, Intomart GfK began conducting audience research in The Netherlands under contract to the public broadcasting association. The main measurement method was through physical log-books or diaries, distributed and collected through the postal service. Each week, the participants would receive a personal diary with the television schedule, indicate which programmes were viewed, and then return the diary.
+
+**Beware**\
+Before jumping into the tutorial it should be noted that working with digitized historical sources can be challenging. This tutorial is designed to mimic that process; you will be presented with hurdles aswell as the guidance to overcome them. 
+
+Historical sources are often decontextualized in the process of digitization. In order to interpret the sources adequately it is important to have a basic understanding  of the methodological process through which the viewing rates were produced. 
+
+To learn more about the Dutch history of viewing rates research I would advice you to watch this video presentation created for the Webinar series:
+
+[https://vimeo.com/540019757](https://vimeo.com/540019757)
 
 ## Prerequisites
 
@@ -125,7 +134,7 @@ Previous experience with the Media Suite is not necessary before beginning this 
 
 * Click on the link. A Depher web page will open and the newspaper clipping will be viewable.
 
-* Return to the Media Suite
+* Once you found the announcement make a note of the date and time. Return to the Media Suite
 
 * If you want to add the item to your corpus in your user project, click on the orange ‘bookmark’ button in the top right corner. This will open the bookmark options.
 
@@ -139,7 +148,11 @@ Previous experience with the Media Suite is not necessary before beginning this 
 
 ## 6. **Searching for a specific television broadcast**
 
-Now we have the date and time of Den Uyl’s speech, let us see if we can find the actual broadcast.
+In case you were not successful in the previous step the necessary information can be found in this image taken from 'NRC-Handelsblad' published 01-12-1973. 
+
+![KBNRC01_000031691_mpeg21_p001_image.jpg](/uploads/KBNRC01_000031691_mpeg21_p001_image.jpg)
+
+Now we have found the date and time of Den Uyl’s speech, let us see if we can find the actual broadcast.
 
 * Go back to the search tool by clicking on tools → search.
 
@@ -187,7 +200,7 @@ Now we are certain that Den Uyl’s speech was broadcast, let’s see if we can 
 
 * Take a moment to reflect on the relation between search terms and search results. How does the algorithm connect the two generally? How will the desired results influence your searching strategy?
 
-* Since we are looking for weekly viewing rate reports, let’s start by selecting a similar date field as in our last search (three weeks). Click on the ‘select date field’ tab. Which option would make the most sense?
+* Searching on keywords seems to produce mixed results. Perhaps we could use the search parameters to narrow down the results. Since we are looking for weekly viewing rate reports, let’s start by selecting a similar date field as in our last search (three weeks). Click on the ‘select date field’ tab. Which option would make the most sense?
 
 * Now click on search, leaving the search bar empty.
 
@@ -209,11 +222,11 @@ Now we are certain that Den Uyl’s speech was broadcast, let’s see if we can 
 
 * How big is the gap in the viewing figures at the supposed time of the television address? Consider the normal running time of STER by comparing the previous commercial blocks on the same date. Does the gap in figures correspond to the anticipated length of the speech?
 
-* Beyond the weekly reports on viewing rates the collection also contains bundled yearly reports. These are reports on a week to week basis that were bundled by the public broadcasters in the archiving process. Perhaps we can cross reference the weekly report data with the bundled year report of 1973. But first, let’s bookmark the item so we can find our way back easily.
+* Beyond the weekly reports on viewing rates the collection also contains bundled yearly reports. It should be noted that these reports were also produced on a weekly basis. The weekly reports were bundled by the public broadcasters in the archiving process. Perhaps we can cross reference the weekly report data with the bundled year report of 1973. But first, let’s bookmark the item so we can find our way back easily.
 
 * Click on the orange ‘bookmark’ button in the top right corner. Add a bookmark group named ‘viewing rates’ and click on the blue ‘save’ button.
 
-* Now close the resource viewer and return to the search tool.
+* Tip: You can leave the resource viewer open in a different tab, this will make the process of comparing sources much easier. 
 
 ## 9. **Searching for yearly viewing reports**
 
@@ -250,6 +263,8 @@ Now we are certain that Den Uyl’s speech was broadcast, let’s see if we can 
 * We have hit another dead end. Take a moment to reflect on what we found, and what we couldn’t find. Consider the methods of data-collection in relation to the information provided. Why would the program title be blank in the weekly reports, but not in the bundled yearly reports? And why does the viewing figure remain blank in the bundled yearly report?
 
 * Compare the programming schedule for December 1st channel 1 between the weekly and the bundled yearly report, and pay specific attention to the first few programs of the day. Which correlating factor do you see between the titles that are missing? How would this influence your research when you are using the reports?
+
+* (Hint: consider the audience measurement methodology of 1973. The programming schedule for a week of broadcasts would arrive 10 days prior, then they had to be manually typed into a computer in order to print the viewing diaries. Any break in the broadcasting schedule would then not be accounted for in the diaries and therefore not be measurable. None of the reports will therefore show the viewing rates of Den Uyl's television address. The weekly reports contain no information about programs that were not measured. These reports were designed for the advertising interests specifically. The yearly bundled reports contain a complete programming schedule because they were created for public broadcasting.)
 
 ## 11. **Patterned response as event ripples**
 
