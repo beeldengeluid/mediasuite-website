@@ -40,13 +40,13 @@ The television address is an iconic and historically unique moment in Dutch hist
 For television history and historical viewing rates research the era of the 1970s is particularly relevant. It features a moment in Dutch media history where the integration of the television medium in news and information distribution is reaching a similar status to the radio. For example, the ‘oudejaarsconference’, a tradition of a cabaret show on december 31st discussing the previous years' events, was first televised in 1969 and surpassed radio figures by 1973 when comedian Wim Kan explicitly discussed the Oil Crisis. At the same time, viewing rates research and the collection of viewing figures was in its infancy. Starting in 1965, Intomart GfK began conducting audience research in The Netherlands under contract to the public broadcasting association. The main measurement method was through physical log-books or diaries, distributed and collected through the postal service. Each week, the participants would receive a personal diary with the television schedule, indicate which programmes were viewed, and then return the diary.
 
 **Beware**\
-Before jumping into the tutorial it should be noted that working with digitized historical sources can be challenging. This tutorial is designed to mimic that process; you will be presented with hurdles aswell as the guidance to overcome them. 
+Before jumping into the tutorial it should be noted that working with digitized historical sources can be challenging. This tutorial is designed to mimic that process; you will be presented with hurdles aswell as the guidance to overcome them.
 
-Historical sources are often decontextualized in the process of digitization. In order to interpret the sources adequately it is important to have a basic understanding  of the methodological process through which the viewing rates were produced. 
+Historical sources are often decontextualized in the process of digitization. In order to interpret the sources adequately it is important to have a basic understanding  of the methodological process through which the viewing rates were produced.
 
 To learn more about the Dutch history of viewing rates research I would advice you to watch this video presentation created for the Webinar series:
 
-[https://vimeo.com/540019757](https://vimeo.com/540019757)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/540019757?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Presentation for Tutorial.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Prerequisites
 
@@ -148,7 +148,7 @@ Previous experience with the Media Suite is not necessary before beginning this 
 
 ## 6. **Searching for a specific television broadcast**
 
-In case you were not successful in the previous step the necessary information can be found in this image taken from 'NRC-Handelsblad' published 01-12-1973. 
+In case you were not successful in the previous step the necessary information can be found in this image taken from 'NRC-Handelsblad' published 01-12-1973.
 
 ![KBNRC01_000031691_mpeg21_p001_image.jpg](/uploads/KBNRC01_000031691_mpeg21_p001_image.jpg)
 
@@ -226,7 +226,7 @@ Now we are certain that Den Uyl’s speech was broadcast, let’s see if we can 
 
 * Click on the orange ‘bookmark’ button in the top right corner. Add a bookmark group named ‘viewing rates’ and click on the blue ‘save’ button.
 
-* Tip: You can leave the resource viewer open in a different tab, this will make the process of comparing sources much easier. 
+* Tip: You can leave the resource viewer open in a different tab, this will make the process of comparing sources much easier.
 
 ## 9. **Searching for yearly viewing reports**
 

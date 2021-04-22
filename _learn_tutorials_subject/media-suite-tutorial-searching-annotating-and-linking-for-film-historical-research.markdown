@@ -21,9 +21,9 @@ This tutorial introduces you to using the Media Suite’s annotation and linking
 
 * **Building a corpus consisting of films and related materials from different collections** available in the Media Suite
 
-* **Annotating video items on item and segment level **to add your own comments, tags and linking them to related materials
+* **Annotating video items on item and segment level** to add your own comments, tags and linking them to related materials
 
-* **Annotating paper items on item and segment level **to add your own comments, tags and linking them to related materials
+* **Annotating paper items on item and segment level** to add your own comments, tags and linking them to related materials
 
 The tutorial revolves around the case of the film Filibus (Italy, 1915), preserved in Eye Filmmuseum’s Jean Desmet film collection and embedded in the Media Suite. The film has been restored several times by Eye and remains a popular title at film festivals and among film historians. However, it is a film whose production and exhibition context history remains unclear. Several filmographic details - for instance who played in the film as well as the history of its production company Corona Film - remain unclear. For these reasons, it is an interesting film to dive into using the Media Suite’s search, annotation and linking functionalities to study film and paper items in the Desmet Collection to try to find more information about the film’s production and distribution history.
 
