@@ -46,7 +46,7 @@ Historical sources are often decontextualized in the process of digitization. In
 
 To learn more about the Dutch history of viewing rates research I would advice you to watch this video presentation created for the Webinar series:
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/540019757?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Presentation for Tutorial.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/540019757?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Presentation for Tutorial.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Prerequisites
 
@@ -192,7 +192,7 @@ Now we are certain that Den Uyl’s speech was broadcast, let’s see if we can 
 
 * Select the “Kijk en luistercijfers (TV and Radio ratings)” collection.
 
-* For your first search, try using the same keyword searches as in the other collections by adding the search terms into the search bar.
+* For your first search, try using the same keyword searches as in the Sound and Vision collections by adding the search terms into the search bar (e.g. Den Uyl toespraak).
 
 * As you can see below, the TV and Radio ratings collection requires a different approach to searching.
 
@@ -200,9 +200,9 @@ Now we are certain that Den Uyl’s speech was broadcast, let’s see if we can 
 
 * Take a moment to reflect on the relation between search terms and search results. How does the algorithm connect the two generally? How will the desired results influence your searching strategy?
 
-* Searching on keywords seems to produce mixed results. Perhaps we could use the search parameters to narrow down the results. Since we are looking for weekly viewing rate reports, let’s start by selecting a similar date field as in our last search (three weeks). Click on the ‘select date field’ tab. Which option would make the most sense?
+* Searching on keywords seems to produce mixed results. Perhaps we could use extra search parameters to narrow down the results. Since we are looking for weekly viewing rate reports, let’s start by selecting a similar date field as in our last search (three weeks, e.g. 28-10-1973 to 20-12-1973). Click on the ‘select date field’ tab and select 'Begindatum (rapport)'. 
 
-* Now click on search, leaving the search bar empty.
+* Remove any keywords from the search bar and click on search. 
 
 * You will now have a number of search results. Some of them are desirable and some are not. Let’s take a look at the facets on the left hand side of the interface. Facets allow you to further specify the search results post search.
 
