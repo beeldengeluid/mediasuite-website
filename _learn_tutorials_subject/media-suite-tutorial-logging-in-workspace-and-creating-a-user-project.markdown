@@ -22,7 +22,7 @@ pdf_file: "/uploads/Tutorial_Logging_in_Creating_a_User_Project.pdf"
 
 # Tutorial: Logging in, Workspace and Creating a User Project
 
-![image1-3f0e2b.png](/uploads/image1-3f0e2b.png)
+![image3.png](/uploads/image3.png)
 
 Tutorial for CLARIAH Media Suite V 5.3
 Tutorial made by Christian Olesen, November 2020
@@ -45,7 +45,7 @@ The functionalities described in this tutorial are essential for using the Media
 
 ### 1. Accessing the Media Suite
 
-![image2.png](/uploads/image2.png)
+![image5.png](/uploads/image5.png)
 
 * Use a Chrome or Firefox browser (the Media Suite has been tested primarily in Chrome so this is the browser that works best)
   Go to mediasuite.clariah.nl
@@ -62,14 +62,14 @@ The functionalities described in this tutorial are essential for using the Media
 
 ### 2. Entering The Media Suite Workspace
 
-![image3.png](/uploads/image3.png)
+![image1-3f0e2b.png](/uploads/image1-3f0e2b.png)
 
 * To enter the Media Suite Workspace hover over and click on the tab “Workspace”
   You will now enter the Media Suite’s Workspace
 
 ### 3. The Media Suite Workspace
 
-![image4.png](/uploads/image4.png)
+![image6.png](/uploads/image6.png)
 
 * In the Media Suite’s Workspace you can manage and search your user projects and the bookmarks and annotations they contain
 
@@ -78,7 +78,7 @@ The functionalities described in this tutorial are essential for using the Media
 
 ### 4. Create a User Project
 
-![image5.png](/uploads/image5.png)
+![image4.png](/uploads/image4.png)
 
 * After clicking on “Create User Project” a box will appear in which you can give your project a title and a description of the project’s research
 
@@ -90,7 +90,7 @@ The functionalities described in this tutorial are essential for using the Media
 
 ### 5. User Project Overview
 
-![image6.png](/uploads/image6.png)
+![image2.png](/uploads/image2.png)
 
 * Once you have added a name and a description to your project and clicked the “Create” button, the project will appear in your workspace’s overview (see screen grab for an example)
 
