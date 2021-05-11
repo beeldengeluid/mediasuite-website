@@ -10,9 +10,9 @@ introduction: This tutorial introduces you to using the Media Suite’s annotati
 author: Christian Olesen
 ---
 
-Tutorial: Searching, annotating and linking for film historical research
+# Tutorial: Searching, annotating and linking for film historical research
 
-![image7-73b4a3.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image7-73b4a3.png?download)
+![image7-73b4a3.png](/uploads/image7-73b4a3.png)
 
 Tutorial for CLARIAH Media Suite V5.3
 Tutorial made by Christian Olesen, November 2020
@@ -21,13 +21,13 @@ Tutorial made by Christian Olesen, November 2020
 
 This tutorial introduces you to using the Media Suite’s annotation and linking functionalities in film studies teaching and/or film historical research. Upon completing this tutorial, you will know how to use the Media Suite for:
 
-* Building a corpus consisting of films and related materials from different collections available in the Media Suite
+* **Building a corpus consisting of films and related materials from different collections** available in the Media Suite
 
-* Annotating video items on item and segment level to add your own comments, tags and linking them to related materials
+* **Annotating video items on item and segment level** to add your own comments, tags and linking them to related materials
 
-* Annotating paper items on item and segment level to add your own comments, tags and linking them to related materials
+* **Annotating paper items on item and segment level** to add your own comments, tags and linking them to related materials
 
-The tutorial revolves around the case of the film Filibus (Italy, 1915), preserved in Eye Filmmuseum’s Jean Desmet film collection and embedded in the Media Suite. The film has been restored several times by Eye and remains a popular title at film festivals and for film historians. However, it is a film whose production and exhibition context history remains unclear. Several filmographic details - for instance who played in the film as well as the history of its production company Corona Film - remain unclear. For these reasons, it is an interesting film to dive into using the Media Suite’s search, annotation and linking functionalities to study film and paper items in the Desmet Collection to try to find more information about the film’s production and distribution history.
+The tutorial revolves around the case of the film Filibus (Italy, 1915), preserved in Eye Filmmuseum’s Jean Desmet film collection and embedded in the Media Suite. The film has been restored several times by Eye and remains a popular title at film festivals and among film historians. However, it is a film whose production and exhibition context history remains unclear. Several filmographic details - for instance who played in the film as well as the history of its production company Corona Film - remain unclear. For these reasons, it is an interesting film to dive into using the Media Suite’s search, annotation and linking functionalities to study film and paper items in the Desmet Collection to try to find more information about the film’s production and distribution history.
 
 #### Types and levels of teaching and research
 
@@ -42,7 +42,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 1. Accessing the Media Suite
 
-![image3-e1c293.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image3-e1c293.png?download)
+![image3-e1c293.png](/uploads/image3-e1c293.png)
 
 * Before you can build a corpus you first need to log in to the Media Suite. In order to do so, first go to mediasuite.clariah.nl
 
@@ -58,7 +58,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 2. Create a project
 
-![image9-696e17.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image9-696e17.png?download)
+![image9-696e17.png](/uploads/image9-696e17.png)
 
 * After having logged in, you need to create a user project
 
@@ -72,7 +72,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 3. Find and select film with Search tool Desmet Film Collection
 
-![image1-59a930.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image1-59a930.png?download)
+![image1-59a930.png](/uploads/image1-59a930.png)
 
 * Now you can begin building your corpus
 
@@ -92,7 +92,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 4. Search tool Desmet Paper Collection I - finding the collection
 
-![image1-580c7c.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image1-580c7c.png?download)
+![image1-580c7c.png](/uploads/image1-580c7c.png)
 
 * After having added the Filibus film to your corpus, you need to add related contextual paper materials
 
@@ -112,7 +112,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 5. Search tool Desmet Paper Collection II - searching the collection
 
-![image4-ab477d.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image4-ab477d.png?download)
+![image4-ab477d.png](/uploads/image4-ab477d.png)
 
 * You are now ready to add paper materials to your corpus. Moreover, you have created two open tabs that you can use to search the two chosen Desmet collections simultaneously or to view items in the two collections next to each other so as to be able to establish connections between them
 
@@ -130,7 +130,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 6. Search tool Desmet Paper Collection III - storing and retrieving queries
 
-![image2-3668ff.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image2-3668ff.png?download)
+![image2-3668ff.png](/uploads/image2-3668ff.png)
 
 * After you have created and tried different search queries, you may want to save some of your queries for later. Doing so allows you to reproduce and find many of the items that came up in your previous searches (NB: please note that even though saving queries allows you to largely the same results as in previous searches, the results may also differ, for instance when new data or new items have been added to the Media Suite since you last used it the research results will be different)
 
@@ -139,7 +139,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 7. Annotate a video item - item level
 
-![image8.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image8.png?download)
+![image8.png](/uploads/image8.png)
 
 * After having worked with the Desmet Paper Collection for a bit and saved queries, you now need to go back to the browser tab in which you have the film Filibus open in order to begin annotating the video material(s) in your corpus
 
@@ -152,19 +152,19 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 8. Annotating a video item segment level 1 - creating a segment
 
-![image7.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image7.png?download)
+![Filibus_segment.png](/uploads/Filibus_segment.png)
 
-* Once you have added annotations on item level, you are now ready to take the next step and make annotations on segment level. In order to do so, you first need to create a segment.
+* Once you have added annotations on item level, you are now ready to take the next step and make annotations on segment level. In order to do so, **you first need to create a segmentation layer**. In a segmentation layer, you group together manually created segments according to for example a motif or a theme.  You **create a segmentation layer by clicking on "ADD LAYER"** on the left hand side below the video player (see image above) and you can give the layer a name by double-clicking on the layer's text box.
 
-* To create a segment pause the video where you want to begin the segment. After having chosen a meaningful beginning point press “i” (“i” stands for “in”). A red line/time marker will appear at the point chosen.
+* To subsequently create a segment, first pause the video where you want to begin the segment. After having chosen a meaningful beginning point press “i” (“i” stands for “in”). A red line/time marker will appear at the point chosen.
 
-* Subsequently, you need to choose an endpoint for your segment. Use the cursor to choose an endpoint and press “o” (“o” stands for out) to confirm the end point. Pressing “o” turns the segment into a solid red bar confirming that the chosen area is now a segment.
+* Subsequently, you need to choose an endpoint for your segment. Use the cursor to choose an endpoint and press “o” (“o” stands for out) to confirm the end point. Alternately, you may simply drag the end point of the segment using your mouse to set the end point (the same goes for the beginning of the segment). You have now created a segment.
 
-* In order to make a new segment, you neeed to press “\+” in the “My Segments” on the right hand side next to the segment (see image above). This is important, because it makes sure that your segment is saved. If you proceed to setting new in and out points using the “i” and “o” keys without first pressing “\+” you will end up modifying the segment you just made instead of creating a new one.
+* In order to make a new segment, you neeed to press the “\+”-symbol in the layer you just made, or create a new layer consisting of new segments (see image above). This is important, because it makes sure that your segment is saved. If you proceed to setting new in and out points using the “i” and “o” keys without first pressing “\+” you will end up modifying the segment you just made instead of creating a new one.
 
 ### 9. Annotating a video item on segment level 2 - annotating a segment
 
-![image11.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image11.png?download)
+![image11.png](/uploads/image11.png)
 
 * Now you have created a segment in your video item and are ready to annotate it
   On order to do so, you first need to find and select the segment in the “Segments” overview in the “My Annotations” column on your right hand side
@@ -178,7 +178,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 10. Annotate image section 1
 
-![image10.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image10.png?download)
+![image10.png](/uploads/image10.png)
 
 * The next step is to annotate an image in the Desmet Paper Collection
 
@@ -192,7 +192,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 ### 11. Annotate image section 2
 
-![image6-f95cfc.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image6-f95cfc.png?download)
+![image6-f95cfc.png](/uploads/image6-f95cfc.png)
 
 * Now you have created a segment in your image item and are ready to annotate it
 
