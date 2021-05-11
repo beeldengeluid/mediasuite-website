@@ -15,9 +15,9 @@ introduction: This tutorial introduces you to the Media Suite’s Automatic Spee
 author: Emelie de Keulenaar & Liliana Melgar
 ---
 
-Tutorial: Searching and Analysing Automatic Speech Recognition (ASR) transcripts as Data Layer in Television Collections
+# Tutorial: Searching and Analysing Automatic Speech Recognition (ASR) transcripts as Data Layer in Television Collections
 
-![image1-9df8f9.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image1-9df8f9.png?download)
+![image1-9df8f9.png](/uploads/image1-9df8f9.png)
 
 ## **Tutorial Description, Case and Objective**
 
@@ -48,7 +48,7 @@ Supervision, editing and additional text: Christian Olesen and Jasmijn van Gorp.
 
 ### 1. **Select collection and ASR data layer**
 
-![image1-9a24a6.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image1-9a24a6.png?download)
+![image1-9a24a6.png](/uploads/image1-9a24a6.png)
 
 * **Select collection**. To begin querying ASR data, you first need to select a collection. Different collections contain different information, so you will have to justify your choice within the parameters of your research project. In the Media Suite it makes the most sense to search ASR in the radio and television collections. In this tutorial, we will focus on the Sound and Vision Television Archive and on the topic of migrants and/or migration. Please make sure to select this collection in the search interface before beginning your search.
 
@@ -61,7 +61,7 @@ Supervision, editing and additional text: Christian Olesen and Jasmijn van Gorp.
 
 ### 2. Design a query
 
-![image5-809491.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image5-809491.png?download)
+![image5-809491.png](/uploads/image5-809491.png)
 
 * Before you begin querying, it is good to take a moment to consider how you design your queries. As you know from your daily Google searches, **the word you choose and its phrasings determine (for the most part) the results you get**. This applies especially to more politically charged queries: different phrasings speak to different political groups over different periods of time. For example, in relation to a topic such as migrants and migration, “allochtoon” is a word that some people have stopped using, while others have maintained the use of it for specific political reasons.
 
@@ -75,7 +75,7 @@ Supervision, editing and additional text: Christian Olesen and Jasmijn van Gorp.
 
 ### 3. Metadata analysis using timeline chart
 
-![image3-8a611b.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image3-8a611b.png?download)
+![image3-8a611b.png](/uploads/image3-8a611b.png)
 
 * After having searched the Sound & Vision Television Collection’s ASR data and saved queries, you may **analyze your results from a “distant reading” perspective**. In order to do so, you can use the Media Suite’s timeline chart to visualise changes in your search results over time. In order to make the timeline chart appear, click on the “SHOW CHART”-button below the bar on the right-hand side, the one in which you chose the ASR data as a search layer. Clicking the button makes the chart appear (see image above).
 
@@ -92,7 +92,7 @@ Supervision, editing and additional text: Christian Olesen and Jasmijn van Gorp.
 
 ### 4. ASR data analysis using Inspector Tool
 
-![image4-493970.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image4-493970.png?download)
+![image4-493970.png](/uploads/image4-493970.png)
 
 * Oftentimes, the metadata fields you use to obtain search results are incomplete, for instance as a consequence of being completed manually under varying circumstances which may make the metadata inconsistent. This also applies to ASR data. At first sight, gaps in (meta)data are not visible when searching. **To find out more about your metadata fields and consider potential gaps in them, you may consider inspecting them. You can use the Media Suite’s Inspector Tool for this.**
 
@@ -114,7 +114,7 @@ Supervision, editing and additional text: Christian Olesen and Jasmijn van Gorp.
 
 ### 5. Metadata comparison using the Compare Tool
 
-![image2-e7b93a.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image2-e7b93a.png?download)
+![image2-e7b93a.png](/uploads/image2-e7b93a.png)
 
 * In order to further reflect on the points in the previous steps it may be helpful to compare the results you get based on ASR data with results obtained using collection metadata.
 
