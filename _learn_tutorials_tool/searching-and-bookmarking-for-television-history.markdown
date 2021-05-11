@@ -20,9 +20,9 @@ disciplines:
 - Television Studies
 ---
 
-Tutorial: Searching and Bookmarking for Television History
+# Tutorial: Searching and Bookmarking for Television History
 
-![Searching and Bookmarking for Television History](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/tut_searching_and_browsing_0.png?download)
+![Searching and Bookmarking for Television History](/uploads/tut_searching_and_browsing_0.png)
 
 Tutorial for CLARIAH Media Suite V 4.9\
 Tutorial made by Christian Olesen, April 2020
@@ -53,7 +53,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 1. Search tool Television Collection NISV
 
-![Search tool Television Collection NISV](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/tut_searching_and_browsing_1.png?download)
+![Search tool Television Collection NISV](/uploads/tut_searching_and_browsing_1.png)
 
 * **Hover over "Tools" tab**
 
@@ -67,7 +67,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 2. Find Items in the Television Collection I
 
-![Find Items in the Television Collection I](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/tut_searching_and_browsing_2.png?download)
+![Find Items in the Television Collection I](/uploads/tut_searching_and_browsing_2.png)
 
 * You now need to **find items to enter into your corpus** relating to Hilbert van der Duim's participation in the World Championship in Oslo in 1981
 
@@ -83,7 +83,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 3. Find Items in the Television Collection II
 
-![Find Items in the Television Collection II](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/tut_searching_and_browsing_3.png?download)
+![Find Items in the Television Collection II](/uploads/tut_searching_and_browsing_3.png)
 
 * In addition to putting together queries that target your search in the best possible way, you may also **use the search tool's facets to narrow down your results**. The facets are integrated into various functions of the search interface.
 
@@ -97,7 +97,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 4. Store and retrieve queries
 
-![Store and retrieve queries](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/tut_searching_and_browsing_4.png?download)
+![Store and retrieve queries](/uploads/tut_searching_and_browsing_4.png)
 
 * Once you have figured out which queries seem to work well, you may want to **save those queries to make sure you can explore the results further another time**
 
@@ -109,7 +109,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 5. Bookmark items
 
-![Bookmark items](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/tut_searching_and_browsing_5.png?download)
+![Bookmark items](/uploads/tut_searching_and_browsing_5.png)
 
 * Once you have found items that you want to enter into your corpus you need to **bookmark those item to your project**
 
