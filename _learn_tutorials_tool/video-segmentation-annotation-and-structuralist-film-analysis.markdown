@@ -16,7 +16,7 @@ author: Klaas de Zwaan & Christian Olesen
 
 **Tutorial: Video Segmentation, Annotation and Structuralist Film Analysis**
 
-![image4-5f9d24.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image4-5f9d24.png?download)
+![image4-5f9d24.png](/uploads/image4-5f9d24.png)
 
 Tutorial for CLARIAH Media Suite V 5
 
@@ -48,7 +48,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 ### 1. Accessing the Media Suite
 
-![image1-512fc4.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image1-512fc4.png?download)
+![image1-512fc4.png](/uploads/image1-512fc4.png)
 
 * Before you can begin segmeninig a film in the Media Suite you first need to log in to the environment. In order to do so, go to mediasuite.clariah.nl
 
@@ -64,7 +64,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 ### 2. Create a User Project
 
-![image9-696e17.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image9-696e17.png?download)
+![image9-696e17.png](/uploads/image9-696e17.png)
 
 * After having logged in, you need to create a user project. In order to so, hover over the “Workspace” tab. From the drop-down menu, choose “Create User Project”
 
@@ -74,7 +74,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 ### 3. Find, select and bookmark a film with Search tool Desmet Film Collection
 
-![image6-630a5e.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image6-630a5e.png?download)
+![image6-630a5e.png](/uploads/image6-630a5e.png)
 
 * Now you have to find the film you want to work with, in this case *The Lonedale Operator*
 
@@ -94,7 +94,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 ### 4. Creating a segment
 
-![image4-5f9d24.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image4-5f9d24.png?download)
+![image4-5f9d24.png](/uploads/image4-5f9d24.png)
 
 * After bookmarking the film, you can begin segmenting it into sequences according to the principles of Bellour’s structuralist film analysis
 
@@ -112,7 +112,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 ### 5. Shot segmentation
 
-![image7-0d38a4.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image7-0d38a4.png?download)
+![Screenshot 2021-04-19 at 18.30.29.png](/uploads/Screenshot%202021-04-19%20at%2018.30.29.png)
 
 * Currently it is not possible to break down a segment into smaller analytical units. This means, that if you want to make a shot segmentation of a sequence in the Media Suite, you have two options.
 
@@ -122,7 +122,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 ### 6. Annotating film on segment level I - Sequence
 
-![image2-e4be27.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image2-e4be27.png?download)
+![image2-e4be27.png](/uploads/image2-e4be27.png)
 
 * In a structuralist film analysis you need to describe the internal mechanisms of the sequence and explain its significance in the film as a whole, using Bellour’s and/or Thompson & Bordwell principles. When doing this, you may think in terms of patterns (repetitions, mirror effects, breaks in series, etc.) that you see in the framing and montage, image/sound coherence, mise-en-scène and so on. A shot outline may be part of such an explanation.
 
@@ -158,7 +158,7 @@ This tutorial has benefitted from the input and course development of Utrecht Un
 
 ### 7. Annotating film on segment level II - Shot
 
-![image3-563da0.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/image3-563da0.png?download)
+![image3-563da0.png](/uploads/image3-563da0.png)
 
 * If you have chosen to create separate segments per shot instead of fx including a shot outline in a comment, you have the same annotation options as in the step above.
 
