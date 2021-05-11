@@ -15,9 +15,9 @@ collections:
 - 
 ---
 
-Tutorial: Finding and Bookmarking Oral History Interviews
+# Tutorial: Finding and Bookmarking Oral History Interviews
 
-![1.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/1.png?download)
+![1.png](/uploads/1.png)
 
 Tutorial for CLARIAH Media Suite V4.12 and up
 Tutorial made by Max Broekhuizen, April 2020
@@ -97,7 +97,7 @@ In the previous step, you found out which search queries produced fruitful resul
 
 4. **Creator** will let you select a collection owner to focus on. In our example case, it could be useful to filter for only interviews that belong to Aletta (now Atria, institute for Women’s History).
 
-![2.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/2.png?download)
+![2.png](/uploads/2.png)
 
 * **Play around with the facets** and think about ways to use these facets to filter your search results in relevant ways.
 
@@ -135,11 +135,11 @@ Not only are you able to store search queries in your user projects; you can als
 
 * You will be presented with the following screen, on which you will have to **create a bookmark group** that fits your interview. Here, I chose “Workspace”, as the interview in question has to do with being the sole woman at a certain workspace.
 
-![2.5.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/2.5.png?download)
+![2.5.png](/uploads/2.5.png)
 
 * **Click save** and go back to your search results using the “back to results” button in the top right corner. As you can see, the interview you bookmarked is highlighted in orange in the search results now.
 
-![3.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/3.png?download)
+![3.png](/uploads/3.png)
 
 * It is also possible to **bookmark multiple search results** at the same time. To do this, check the desired items in the search results and press the blue checkmark at the top of the list when you are done. In the small dropdown menu, click “bookmark selection”.
 
@@ -174,10 +174,10 @@ Now that you have created a corpus through bookmarks, it is time to take a look 
 
 * **Click “available collections”** to go to CKAN. CKAN is the CLARIAH-NL’s collection registry, and contains descriptions of every collection that is available in the Media Suite.
 
-![4.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/4.png?download)
+![4.png](/uploads/4.png)
 
 * **Search for a collection** you want to know more about. I will look for “Vrouwen van de CPN”
 
 * Here, I learn some valuable information and context about the collection. I see that it was created by Aletta, the institute for Women’s History, which has since changed its name to Atria. I also learn the general interview subjects, the date of creation and something about the reason for creation.
 
-![5.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/5.png?download)
+![5.png](/uploads/5.png)
