@@ -11,9 +11,9 @@ author: Klaas de Zwaan & Christian Olesen
 
 ![image2-e18d59.png](/uploads/image2-e18d59.png)
 
-### **Tutorial for CLARIAH Media Suite V 5.3, May 2021**
+### Tutorial for CLARIAH Media Suite V 5.3, May 2021
 
-## **Tutorial Description, Case and Objectives**
+## Tutorial Description, Case and Objectives
 
 In this tutorial you will learn how to carry out a source critical analysis of items in and relating to Eye Filmmuseum’s Jean Desmet Film, Poster and Paper Collections. To this end, you will be using the Media Suite’s Search, Segmentation and Annotation features. Working on both internal and external source critical levels, this comprises carrying out a visual analysis of a historical film poster, and contextualizing its distribution and use in the promotion of a film based on business documents and contemporary film journals. In order to achieve this, this tutorial teaches you to make an overall (visual) analysis of film posters and business documents by singling out and commenting on graphic and text elements using the Media Suite’s image annotation functionalities. Moreover, you will learn to contextualize a poster’s visual discourse and role in film distribution based on historical business documents and journals using the Media Suite’s bookmarking and linking functionalities. Finally, you will learn to use annotations for supporting and substantiating your observations, including a rationale of how you arrived at choosing certain parts of a poster and relating them to specific documents or journals, while discussing potential relevant research problems. To sum up, after completing this tutorial, you will be able to use the Media Suite for carrying out a source critical media historical analysis by:
 
@@ -23,23 +23,23 @@ In this tutorial you will learn how to carry out a source critical analysis of i
 
 * Annotating image items on item and segment levels in order to add your own comments and rationale and to include links to items outside of the Media Suite
 
-For the tutorial you will be working primarily with materials relating to the Italian diva film Sangue Bleu (1914) - in Dutch De Vorstin - directed by Nino Oxilia and starring Francesca Bertini. This film’s poster and promotional materials is in many ways typical of film promotion at the time insofar as it reflects how various promotion strategies were being established in this period. Moreover, both the film, poster and business documents relating to the film have been preserved and can all be accessed via the Media Suite. This makes it an easy case study to begin with because there is a lot of available material to work with.
+For the tutorial you will be working primarily with materials relating to the Italian diva film *Sangue Bleu* (1914) - in Dutch De Vorstin - directed by Nino Oxilia and starring Francesca Bertini. This film’s poster and promotional materials is in many ways typical of film promotion at the time insofar as it reflects how various promotion strategies were being established in this period. Moreover, both the film, poster and business documents relating to the film have been preserved and can all be accessed via the Media Suite. This makes it an easy case study to begin with because there is a lot of available material to work with.
 
-## **Types and levels of teaching and research**
+#### Types and levels of teaching and research
 
 This tutorial is intended for film and media students at BA level that are familiarizing themselves with media historical research methods and digital collections, and who are learning principles of source criticism in this process. The tutorial may support both film historical teaching - in particular teaching on film distribution and promotion, early film culture’s development and business practices - as well as teaching on media historical research methodology more broadly.
 
-## **Prerequisites**
+#### Prerequisites
 
 Conceptually, it is a prerequisite for this tutorial that you are familiar with basic principles of historical source criticism, in particular the distinction between external and internal source criticism. On a technical level a familiarity with the most basic functionalities of the Media Suite is also required, such as being able to log in, creating a user project and being familiar with the Media Suite’s Workspace. Most of these steps will also be explained in this tutorial, but if you wish to explore these features before following this tutorial, you may consult a quick guide [here](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-logging-in-workspace-and-creating-a-user-project). Furthermore, it is also good to have familiarized yourself a bit with the life and work of Jean Desmet and the preservation of his personal collections and archives at the Eye Filmmuseum. For an introduction to Jean Desmet we refer to Ivo Blom’s extensive research on the Desmet Collection, in particular his dissertation\* Pionierswerk. Jean Desmet en de vroege Nederlandse filmhandel en bioscoopexploitatie (1907-1916) \*(2000, available for download [here](https://dare.uva.nl/search?identifier=2e6db013-3971-49ca-a2ac-f6fa759ed133)), and the later monograph in English based on this dissertation - *Jean Desmet and the Early Dutch Film Trade* (2003) - available for open access download [here](https://library.oapen.org/handle/20.500.12657/35113). Knowledge of Dutch is of course also necessary as most of the sources in this tutorial are in Dutch, if you are following this tutorial as part of a class taught in English and Dutch is not your first language, you may want to team up with a Dutch-speaking person.
 
-## **Acknowledgements**
+#### Acknowledgements
 
 This tutorial has benefitted from and drawn on the input and assignments developed by Utrecht University’s Film Studies team in the BA courses \*Introduction to Film Studies \*and *Geschiedenis van het medialandschap*. The tutorial authors would like to thank Dr. André van der Velden for his feedback on an early version of this tutorial.
 
-## **Steps**
+## Steps
 
-## **1. Accessing the Media Suite**
+### 1. Accessing the Media Suite\*\*
 
 ![image4-1ed29f.png](/uploads/image4-1ed29f.png)
 
@@ -53,17 +53,17 @@ This tutorial has benefitted from and drawn on the input and assignments develop
 
 * You will now enter the Media Suite workspace
 
-## **2. Create a User Project**
+### 2. Create a User Project
 
 ![image3-67f933.png](/uploads/image3-67f933.png)
 
 * After having logged in, you need to create a user project. In order to do so, hover over the “Workspace” tab. From the drop-down menu, choose “Create User Project”
 
-* Name your project and add a project description. As you will be working on analyzing promotional materials for \*Sangue Bleu *(1914)* \*in a source critical perspective in this tutorial, you may for instance call the project “Source Criticism Sangue Bleu” and add a description that describes your project’s aims
+* Name your project and add a project description. As you will be working on analyzing promotional materials for *Sangue Bleu* *(1914)* \*in a source critical perspective in this tutorial, you may for instance call the project “Source Criticism *Sangue Bleu*” and add a description that describes your project’s aims
 
 * Click the “Create” button to confirm
 
-## **3. Find, select and bookmark a poster with Search tool Desmet Poster Collection**
+### 3. Find, select and bookmark a poster with Search tool Desmet Poster Collection
 
 ![image2-5c7098.png](/uploads/image2-5c7098.png)
 
@@ -83,7 +83,7 @@ Before you can begin your source critical analysis of the poster for *Sangue Ble
 
 * In the bookmark window, add the poster to a bookmark group. If necessary, create a bookmark group, for instance “Poster” or “Promotional materials”
 
-## **4. Annotating reflections external source criticism of poster**
+### 4. Annotating reflections external source criticism of poster
 
 ![image5-fe353c.png](/uploads/image5-fe353c.png)
 
@@ -111,7 +111,7 @@ Having entered the poster into your corpus, you may now begin to add annotations
 
 * Ultimately, having considered these aspects, you should also reflect on the reliability of the source based on these observations and add a comment concerning this aspect.
 
-## **5. Visual Analysis and annotating reflections internal source criticism poster**
+### 5. Visual Analysis and annotating reflections internal source criticism poster
 
 ![image10-d3f4bf.png](/uploads/image10-d3f4bf.png)\
 Now you are ready to move on to doing internal source criticism of the poster through a mini-visual analysis. When we reflect on internal aspects of a source, we think in terms of content features and form. This may mean analyzing features such as: text/image ratio, what is depicted in the image, what the relation between the text and the visual elements are and what function they have. If possible you may also try to do a mini-discourse analysis of the visual and textual elements.
@@ -122,11 +122,11 @@ Now you are ready to move on to doing internal source criticism of the poster th
 
 * Ultimately, your visual analysis of the poster should result in source critical considerations that also reflect on the historical viewers of the poster. Based on your visual analysis, what may you for instance say about how the poster addresses its viewers and what may you infer about the viewers’ reference frame or background knowledge?
 
-## 6. Find, select and bookmark business documents with Search tool Desmet Paper Collection
+### 6. Find, select and bookmark business documents with Search tool Desmet Paper Collection
 
 ![image11-a9f0aa.png](/uploads/image11-a9f0aa.png)
 
-Now you have taken the first steps towards carrying out a source critical analysis on both an external and internal level of the Sangue Bleu poster. However, there are many other sources available in the Media Suite through which we may gain a better understanding of Sangue Bleu’s acquisition, distribution and promotion history in the Netherlands. In this regard the sources kept in Desmet’s business archive are particularly interesting. Let us dive into this resource and see what we can find!
+Now you have taken the first steps towards carrying out a source critical analysis on both an external and internal level of the *Sangue Bleu* poster. However, there are many other sources available in the Media Suite through which we may gain a better understanding of *Sangue Bleu*’s acquisition, distribution and promotion history in the Netherlands. In this regard the sources kept in Desmet’s business archive are particularly interesting. Let us dive into this resource and see what we can find!
 
 * In order to search and add items from the Desmet Paper Collection to your corpus, you need to go back to the Search tool and now select the Desmet Paper Collection. To do so, hover over the “Tools” tab and select “Search” from the drop-down menu.
 
@@ -134,7 +134,7 @@ Now you have taken the first steps towards carrying out a source critical analys
 
 * Click “Select Collection” in the upper left corner and select “Desmet Paper Collection” from the drop-down menu (see image above for an illustration of how this should look like)
 
-* Now you can search in the Desmet Paper Collection containing the business archive of Jean Desmet. Try to find documents relating to Sangue Bleu by searching for keywords relating to the film. You may start by searching for some of the keywords related to the poster, for instance the film’s production company Celio Film, the film’s director Nino Oxilia, the film’s famous actress Francesca Bertini, or the Dutch title De Vorstin
+* Now you can search in the Desmet Paper Collection containing the business archive of Jean Desmet. Try to find documents relating to *Sangue Bleu* by searching for keywords relating to the film. You may start by searching for some of the keywords related to the poster, for instance the film’s production company Celio Film, the film’s director Nino Oxilia, the film’s famous actress Francesca Bertini, or the Dutch title De Vorstin
 
 * You may also consider using Boolean query operators such as: AND, OR, NOT, Asterisk, Parentheses, Quotation Marks so as to combine keywords into one query and make your search more targeted. An example of such a query could be “Celio AND Vorstin” which combines the name of the production company and the Dutch title.  If you need an introduction to the use of Boolean operators, you may consult the Media Suite Boolean query how-to guide which can be accessed via this link: https://bit.ly/2WLTWOK
 
@@ -142,11 +142,11 @@ Now you have taken the first steps towards carrying out a source critical analys
 
 * After having reflected on the process of searching the collection take a moment to bookmark a couple of items that you find relevant and want to take a closer look at. Choose one of these items for further source critical analysis at a later stage after having completed this tutorial, in addition to the item discussed in the next step.
 
-## 7. Annotating reflections external source criticism of a business document
+### 7. Annotating reflections external source criticism of a business document
 
 ![image9-5b0823.png](/uploads/image9-5b0823.png)
 
-* For this step we chose a film program that includes several stills from Sangue Bleu (item number MMFMA01_PM_018187). The program contains an elaborate explanation of the film’s plot supported by stills from the film. We found this item based on the search term “Vorstin” which matched a word in the text accompanying the pictures (this text has been automatically transcribed using OCR and can therefore be searched)
+* For this step we chose a film program that includes several stills from *Sangue Bleu* (item number MMFMA01_PM_018187). The program contains an elaborate explanation of the film’s plot supported by stills from the film. We found this item based on the search term “Vorstin” which matched a word in the text accompanying the pictures (this text has been automatically transcribed using OCR and can therefore be searched)
 
 * Now let us consider what type of source this is on an external level and what may be relevant to write down in a “Comment” annotation on resource level.
 
@@ -154,7 +154,7 @@ Now you have taken the first steps towards carrying out a source critical analys
 
 * Again, this is just one example, you may try to make a similar reflection or ask other questions with regard to the external features of the item you chose for this step and add a comment to it in order to save your observations for a later stage.
 
-## 8. Visual analysis and annotating reflections internal source criticism Desmet business documents
+### 8. Visual analysis and annotating reflections internal source criticism Desmet business documents
 
 ![image7-c7c16a.png](/uploads/image7-c7c16a.png)
 
@@ -174,11 +174,11 @@ Now you have taken the first steps towards carrying out a source critical analys
 
 * To view this layer, click on the Layer tab and subsequently on the segment you just created. A drop-down menu appears with the same annotation options as on resource level - “Code”, “Comment”, “Link”, “Metadata” - (see the image above for an example of what this should look like). Click on the “Comment” tab and add your observations to the item.
 
-## 9. Searching De Bioscoop-Courant in Eye Filmmuseum’s online library
+### 9. Searching De Bioscoop-Courant in Eye Filmmuseum’s online library
 
 ![image12-67ae71.png](/uploads/image12-67ae71.png)
 
-Now we have looked at items from Jean Desmet’s poster and business archive from a source critical perspective in order to take some first, small steps towards gaining a better understanding of Sangue Bleu’s promotional history and distribution. Until now, we have only looked at documents that are preserved in the Desmet collection. Yet, there are several other resources that are not embedded in the Media Suite that may be relevant to consider in relation to items in the Desmet collection and that may offer additional context. For instance, the Eye Filmmuseum’s library has digitized several historical journals that could be of interest in this regard (a list of digitized journals in Eye’s library can be accessed here). De Bioscoop-Courant is one such journal. This trade journal was published between 1912-1920 and partly covered the years in which Desmet was active as a cinema distributor. We know that Desmet advertised his films to cinema owners in this journal, including advertising for Sangue Bleu (Blom, 2000). Let us now step outside of the Media Suite and see what we can find out about Sangue Bleu through this resource via Eye Filmmuseum’s database.
+Now we have looked at items from Jean Desmet’s poster and business archive from a source critical perspective in order to take some first, small steps towards gaining a better understanding of *Sangue Bleu*’s promotional history and distribution. Until now, we have only looked at documents that are preserved in the Desmet collection. Yet, there are several other resources that are not embedded in the Media Suite that may be relevant to consider in relation to items in the Desmet collection and that may offer additional context. For instance, the Eye Filmmuseum’s library has digitized several historical journals that could be of interest in this regard (a list of digitized journals in Eye’s library can be accessed here). De Bioscoop-Courant is one such journal. This trade journal was published between 1912-1920 and partly covered the years in which Desmet was active as a cinema distributor. We know that Desmet advertised his films to cinema owners in this journal, including advertising for Sangue Bleu (Blom, 2000). Let us now step outside of the Media Suite and see what we can find out about Sangue Bleu through this resource via Eye Filmmuseum’s database.
 
 * In order to find De Bioscoop-Courant in Eye’s library first go to Eye’s online library via this address: http://bibliotheek.eyefilm.nl/
 
@@ -186,11 +186,11 @@ Now we have looked at items from Jean Desmet’s poster and business archive fro
 
 * When you scroll down the list of results you will notice that you can click on links to individual issues of De Bioscoop-Courant under the header “Document”. Through these links you can access the pdfs (when available) of the scanned journal issues.
 
-* On the right hand side you can filter based on year, which allows you to narrow down your search to specific volumes of the journal. Sangue Bleu is from 1914, so let us try to narrow our search down to the 1914-1915 volume using the year filter. This should result in a list of four issues under the header “Onderliggende document”, all available in pdf.
+* On the right hand side you can filter based on year, which allows you to narrow down your search to specific volumes of the journal. *Sangue Bleu* is from 1914, so let us try to narrow our search down to the 1914-1915 volume using the year filter. This should result in a list of four issues under the header “Onderliggende document”, all available in pdf.
 
-* Click through the pdfs to see if you can find any materials on Sangue Bleu / De Vorstin. Once you have found something proceed to the next step.
+* Click through the pdfs to see if you can find any materials on *Sangue Ble*u / *De Vorstin*. Once you have found something proceed to the next step.
 
-**10. Linking items in the Media Suite to De Bioscoop-Courant**
+### 10. Linking items in the Media Suite to De Bioscoop-Courant
 
 ![image8-590971.png](/uploads/image8-590971.png)
 
@@ -202,7 +202,7 @@ Now we have looked at items from Jean Desmet’s poster and business archive fro
 
 * In the annotation bar on the right-hand side you can now enter a link (use the link from the PDF viewer) to the journal issue as a comment on resource level or as a custom link under the “Link” annotation tab. This makes it easier to find and connect the items at a later stage in your research, if necessary.
 
-## 11. Annotating external and internal source critical reflections on Sangue Bleu advertisement in De Bioscoop-Courant
+### 11. Annotating external and internal source critical reflections on *Sangue Bleu* advertisement in De Bioscoop-Courant
 
 ![image6-b292a8.png](/uploads/image6-b292a8.png)
 
@@ -212,11 +212,11 @@ Now we have looked at items from Jean Desmet’s poster and business archive fro
 
 * Now take a closer look at the source on an internal level. Try to read through some of the text of the issue. What strikes you about it? How would you characterize the texts in it - what are the topics of the text and what kind of language is the text written in, specialized or accessible? May you infer something about the readership of the journal and the readership’s language register based on the text?
 
-* Now let us consider the advertisement for Sangue Bleu. What are the differences between the poster, the program page saved by Desmet and the advertisement in De Bioscoop-Courant? What is the ratio between text and image in this advertisement (see image above) and what is mentioned in the text? Why do you think that certain names are mentioned in this advertisement, and why may these not be mentioned on the poster? Could there have been materials related to the poster that you did not have access to or are these really two very different ways of promoting the film visually? Of course, there are also striking visual similarities between all of these three sources to be noticed - what may that tell you about the visual discourse of film promotion at the time and for instance the role of film stills in it?
+* Now let us consider the advertisement for *Sangue Bleu*. What are the differences between the poster, the program page saved by Desmet and the advertisement in De Bioscoop-Courant? What is the ratio between text and image in this advertisement (see image above) and what is mentioned in the text? Why do you think that certain names are mentioned in this advertisement, and why may these not be mentioned on the poster? Could there have been materials related to the poster that you did not have access to or are these really two very different ways of promoting the film visually? Of course, there are also striking visual similarities between all of these three sources to be noticed - what may that tell you about the visual discourse of film promotion at the time and for instance the role of film stills in it?
 
 * These are just some of the questions you may consider for a start. Try to come up with more questions yourself and make sure to add your reflections as annotations in the Media Suite so you can go back to them at a later stage.
 
-**12. Annotating external and internal source critical reflections on Sangue Bleu advertisement in De Bioscoop-Courant**
+### 12. Annotating external and internal source critical reflections on *Sangue Bleu* advertisement in De Bioscoop-Courant
 
 ![image1-ca5bae.png](/uploads/image1-ca5bae.png)
 
