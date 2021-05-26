@@ -29,7 +29,7 @@ The Media Suite (https://mediasuite.clariah.nl) is an online research environmen
 
 * **21 April, 2021, 15.00-17.00, via Zoom**: "Mining historical viewing and listening rates in the Media Suite"
 
-* **16 June, 2021, 15.00-17.00, via Zoom**: "Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite"
+* **16 June, 2021, 15.00-17.00, via Zoom**: "Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite", with Alec Badenoch (UU/VU)
 
 ***Registration***\
 Lecturers, researchers, PhD- and RMA-students from Dutch universities and research institutes are invited to participate in the sessions. The sessions will be held via Zoom. Registration open for all sessions. Please register via the following registration form: [https://bit.ly/346FpT8](https://bit.ly/346FpT8) For questions regarding the webinar series, please contact Christian Olesen (c.g.olesen_at_uu.nl) or Jasper Keijzer (j.j.keijzer1_at_uu.nl).
