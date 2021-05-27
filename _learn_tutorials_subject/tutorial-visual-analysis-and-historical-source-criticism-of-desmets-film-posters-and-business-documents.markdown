@@ -164,7 +164,7 @@ Now you have taken the first steps towards carrying out a source critical analys
 
 * In terms of visual content, one of the things we immediately found striking in the chosen item was that there is a strong visual similarity to the poster. Just as in the poster, we see the actress Francesca Bertini standing in the exact same pose from the back reaching out to a child held by a man. This suggests a relation between the two items and also seems to highlight the preference for this particular motif in the promotional material.
 
-* However, we also observe that the man does not seem be the same as - or at least he is styled or framed quite differently than on the poster (based on the hair cut). Moreover, the mise-en-scene of the poster - in particular the two chairs - is also not the same as on the image in the program. This is interesting insofar as the two images seem to highlight a similar dramatic moment and establish a similar visual discourse without however depicting the exact same situations. It seems then, that the program image’s emphasis addresses the readership in a way similar to the poster while not playing as freely with visual elements from the film as in the poster. In this sense, the still and the poster are evidently different types of sources with different relations to the film.
+* However, we also observe that the man does not seem be the same as on the poster - judging from thet hair cut at least he is styled or framed quite differently than on the poster. Moreover, the mise-en-scene of the poster - in particular the two chairs - is also not the same as on the image in the program. This is interesting insofar as the two images seem to highlight a similar dramatic moment and establish a similar visual discourse without however depicting the exact same situations. It seems then, that the program image’s emphasis addresses the readership in a way similar to the poster while not playing as freely with visual elements from the film as in the poster. In this sense, the still and the poster are evidently different types of sources with different relations to the film.
 
 * Though far from exhaustive - ideally we should also take a much closer look at the text and the other images of this program page - this is an interesting first observation that would be useful to connect to the item through annotation. It is possible to do this by singling out different segments in the image and subsequently annotate them.
 
@@ -178,7 +178,7 @@ Now you have taken the first steps towards carrying out a source critical analys
 
 ![image12-67ae71.png](/uploads/image12-67ae71.png)
 
-Now we have looked at items from Jean Desmet’s poster and business archive from a source critical perspective in order to take some first, small steps towards gaining a better understanding of *Sangue Bleu*’s promotional history and distribution. Until now, we have only looked at documents that are preserved in the Desmet collection. Yet, there are several other resources that are not embedded in the Media Suite that may be relevant to consider in relation to items in the Desmet collection and that may offer additional context. For instance, the Eye Filmmuseum’s library has digitized several historical journals that could be of interest in this regard (a list of digitized journals in Eye’s library can be accessed here). De Bioscoop-Courant is one such journal. This trade journal was published between 1912-1920 and partly covered the years in which Desmet was active as a cinema distributor. We know that Desmet advertised his films to cinema owners in this journal, including advertising for Sangue Bleu (Blom, 2000). Let us now step outside of the Media Suite and see what we can find out about Sangue Bleu through this resource via Eye Filmmuseum’s database.
+Now we have looked at items from Jean Desmet’s poster and business archive from a source critical perspective in order to take some first, small steps towards gaining a better understanding of *Sangue Bleu*’s promotional history and distribution. Until now, we have only looked at documents that are preserved in the Desmet collection. Yet, there are several other resources that are not embedded in the Media Suite that may be relevant to consider in relation to items in the Desmet collection and that may offer additional context. For instance, the Eye Filmmuseum’s library has digitized several historical journals that could be of interest in this regard (a list of digitized journals in Eye’s library can be accessed [here](http://bibliotheek.eyefilm.nl/opc_internet/settings/optional/Digitaal%20beschikbare%20tijdschriften.pdf)). De Bioscoop-Courant is one such journal. This trade journal was published between 1912-1920 and partly covered the years in which Desmet was active as a cinema distributor. We know that Desmet advertised his films to cinema owners in this journal, including advertising for Sangue Bleu (Blom, 2000). Let us now step outside of the Media Suite and see what we can find out about Sangue Bleu through this resource via Eye Filmmuseum’s database.
 
 * In order to find De Bioscoop-Courant in Eye’s library first go to Eye’s online library via this address: http://bibliotheek.eyefilm.nl/
 
@@ -194,7 +194,7 @@ Now we have looked at items from Jean Desmet’s poster and business archive fro
 
 ![image8-590971.png](/uploads/image8-590971.png)
 
-* There was indeed something to be found in De Bioscoop-Courant. Issue number 42 from 1915 contains a two-page advertisement placed in the journal by Desmet, next to another advertisement for a film - Filibus (Italy, 1915) - also distributed by Desmet.
+* There was indeed something to be found in De Bioscoop-Courant. Issue number 42 from 1915 contains a two-page advertisement placed in the journal by Desmet, next to another advertisement for a film - *Filibus* (Italy, 1915) - also distributed by Desmet.
 
 * Because this may be an interesting find for understanding the film’s promotion you may want to connect this document to the sources you have entered to your corpus in the Media Suite before analyzing it. You can do this through an annotation.
 
@@ -216,7 +216,7 @@ Now we have looked at items from Jean Desmet’s poster and business archive fro
 
 * These are just some of the questions you may consider for a start. Try to come up with more questions yourself and make sure to add your reflections as annotations in the Media Suite so you can go back to them at a later stage.
 
-### 12. Annotating external and internal source critical reflections on *Sangue Bleu* advertisement in De Bioscoop-Courant
+### 12. Accessing annotations in the Workspace
 
 ![image1-ca5bae.png](/uploads/image1-ca5bae.png)
 
