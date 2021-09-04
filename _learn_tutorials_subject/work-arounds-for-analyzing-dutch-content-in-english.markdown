@@ -1,7 +1,6 @@
 ---
 title: 'Tutorial: Analyzing Dutch Content In English Using Online Translation Tools'
 date: 2020-12-03 17:33:00 +01:00
-published: false
 author: Max Broekhuizen, Erasmus University
 ---
 
@@ -13,12 +12,7 @@ A possible solution to finding English collection items with Dutch metadata in t
 
 The result of this experiment has been that using Google Translate for translating search queries before entering them is quite unreliable. Let us start with some examples of this unreliability.
 
-| Original | Translation | Notes |
-|-------|-------|-------|
-| Florida recount | Florida vertellen | Incorrect: translated “recount” as “to tell someone something” instead of “to count again” |
-| Bush victory in Florida | Bush-overwinning in Florida | Correct, but searching for “overwinning Bush” instead of “Bush-overwinning” yields more fruitful results |
-| International Criminal Tribunal for Rwanda | Internationaal Straftribunaal voor Rwanda | Correct, but Rwandatribunaal is a more commonly used word in the media |
-| Night Watch restoration Project | Restauratieproject Nachtwacht  | Correct. However, when not capitalizing the W in Watch in this translation, the result will be “Project van herstel van de nachtwacht” which is a far less accurate translation. |
+![First Table.png](/uploads/First%20Table.png)
 
 As one can see, Google Translate can be quite unreliable in the translation of short, incomplete phrases to use as search queries. As a researcher, it is important for search queries to yield accurate, repeatable and tweakable results from a search query, and using and using automatic translation for this purpose is quite frustrating, as you have far less control over the specifics of your search query. When one does not or barely speak Dutch, it is impossible to see the nuance in translation that could yield very different results.
 
@@ -28,17 +22,11 @@ When translating an item’s description and titles, accuracy and nuance are les
 
 This first translation the description from a broadcast of “Internationale Nieuwsuitwisseling” or International News Exchange. What these news exchanges fully entail is not clear, but they do offer quite a bit of English-language footage. This item was found using the search term “Florida Recount” (referring to the close election results in Florida in November 2000, where Bush was eventually declared victorious over Gore by the Supreme Court) between the dates of october 1st 2000- january 31st 2001. In contrast to the previous experiment, this translation is quite usable for a researcher to get an idea of the contents of the footage.
 
-| Original | Translation |
-|-------|--------|
-| De uitslag van de Amerikaanse verkiezingen is nog altijd niet bekend en het hertellen van de stemmen in Florida gaat gewoon door. VERKLARINGEN van Republikeinse kandidaat Bush, die zegt zijn Democratische tegenstander Gore na bekendmaking van de einduitslag te willen ontmoeten; Gore, die Bush uitnodigt voor een gesprek; minister van Binnenlandse Zaken van Florida, Katherine Harris, die zegt dat de kiescommissie volgens de regels handelt. SHOTS: hertellen van stemmen, waarbij gaatjes in ponskaarten nauwkeurig worden bestudeerd; vergadering met oa gouverneur Jeb Bush van Florida en Harris. | The results of the US elections are still unknown and the vote recount in Florida is continuing. STATEMENTS by Republican candidate Bush, who says he wants to meet his Democratic opponent Gore after announcement of the final result; Gore, who invites Bush for an interview; Florida Secretary of the Interior Katherine Harris, who says the Electoral Commission is acting by the rules. SHOTS: recounting voices, where holes in punch cards are carefully studied; meeting with Governor Jeb Bush of Florida and Harris, among others. |
-
+![Second Table.png](/uploads/Second%20Table.png)
 
 Let us look at a second example, this time a description of something culturally unique to the Netherlands, as to make it harder for Google Translate. I searched using the query “Leidens Ontzet”, Relief of Leiden in English, a tradition in Leiden where on 3 october the 1574 relief from the Spanish army is celebrated. While the translation of the description from a Polygoonjournaal broadcast leaves some words in the Dutch language, and the translation of “hutspot” to “stew” erases some context, this translation could still give an English researcher enough context to decide whether to bookmark the item for further review.
 
-| Original | Translation |
-|-------|--------|
-| In aanwezigheid van koningin Juliana, prins Bernhard en prinses Beatrix hebben Leiden 400 jaar Leidens Ontzet gevierd. SHOTS: stadsshots Leiden; naspelen komst Watergeuzen in Leiden, waarbij Juliana een vaatje haring ontvangt; ext. in Waaggebouw; traditionele uitreiking van wittebrood en haring; Juliana eet haring en ontmoette Beatrix tijdens het eten van hutspot in marktkraam; cu's schilderijen op tentoonstelling over het Leidens Ontzet; Dixielandband speelt op straat. | In the presence of Queen Juliana, Prince Bernhard and Princess Beatrix, Leiden celebrated 400 years of Relief of Leiden. SHOTS: city shots Leiden; reenactment of the arrival of Watergeuzen in Leiden, where Juliana receives a barrel of herring; ext. in Waaggebouw; traditional distribution of white bread and herring; Juliana eats herring and met Beatrix while eating stew in a market stall; cu's paintings on exhibition about the Relief of Leiden; Dixielandband plays in the street. |
-
+![Third Table.png](/uploads/Third%20Table.png)
 
 # Conclusion
 
