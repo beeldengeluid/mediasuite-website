@@ -12,8 +12,7 @@ In this help menu you will learn How To:
 - [Filtering per date](#date-filter)
 - [Understand time line charts](#timeline-charts)
 - [Filter using facets](#facets)
-- [Understand how search results are ranked](#result-list)
-- [Order your search results](#result-list)
+- [Understand how search results are ranked](#result-list-ranking)
 - [Save your query](#saved-queries)
 - [Bookmark search results](#bookmarking)
 
@@ -162,8 +161,6 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 
       *   Media type: there are icons on the right side of each item indicating whether it is of the type image, audio, video, or text
       *   Access: if you can "view", "play", "read" a document, you will see an icon with an open eye on the right side of the item
-
-### <a name="result-list-ordering"></a>Order your search results
 
 ### <a name="saved-queries"></a> Save your query
 
