@@ -1,7 +1,5 @@
 $(document).ready(function() {
 
-	$('#tipue_search_input').tipuesearch();
-
 	function isCookieSet(cookieName) {
 		return document.cookie.split(';').filter(item => item.trim().startsWith(cookieName + '=')).length > 0;
 	}
