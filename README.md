@@ -21,6 +21,9 @@ gem install jekyll bundler
 # Change into your new directory
 cd mediasuite-website
 
+# Install dependencies
+bundle install
+
 # Build the site on the preview server
 bundle exec jekyll serve
 
