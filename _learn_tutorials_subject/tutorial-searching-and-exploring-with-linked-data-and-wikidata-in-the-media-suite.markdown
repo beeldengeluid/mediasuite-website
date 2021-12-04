@@ -8,7 +8,7 @@ date: 2021-12-03 23:29:00 +01:00
 
 ![image4.jpg](/uploads/image4.jpg)
 
-Tutorial for CLARIAH Media Suite V 6.1 
+Tutorial for CLARIAH Media Suite V 6.1
 Tutorial made by Mari Wigham & Christian Olesen, December 2021
 
 ## Tutorial Description, Case and Objectives
@@ -27,7 +27,7 @@ This tutorial is aimed at students and researchers who are familiarizing themsel
 
 #### Prerequisites
 
-Conceptually it is a prerequisite for this tutorial that you are familiar with the core principles of Linked Open Data and Wikidata broadly, as well as the specific challenges of Linked Open Data for audiovisual collection data. For an introduction to Linked Open Data we refer to digital historian Jonathan Blaney’s article “Introduction to the Principles of Linked Open Data”. For a discussion of audiovisual collection data in relation to Linked Open Data and Wikidata, we refer to the article “Cataloguing Practices in the Age of Linked Open Data: Wikidata and Wikibase for Film Archives” by film preservationists Adelheid Heftberger and Paul Duchesne.
+Conceptually it is a prerequisite for this tutorial that you are familiar with the core principles of Linked Open Data and Wikidata broadly, as well as the specific challenges of Linked Open Data for audiovisual collection data. For an introduction to Linked Open Data we refer to digital historian Jonathan Blaney’s article [“Introduction to the Principles of Linked Open Data”](https://programminghistorian.org/en/lessons/intro-to-linked-data). For a discussion of audiovisual collection data in relation to Linked Open Data and Wikidata, we refer to the article [“Cataloguing Practices in the Age of Linked Open Data: Wikidata and Wikibase for Film Archives”](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Practices-Linked-Open-Data.html) by film preservationists Adelheid Heftberger and Paul Duchesne.
 
 #### Acknowledgements
 
@@ -45,11 +45,13 @@ As of 2021 the NISV has begun making collection data available as Linked Data wi
 
 * The Media Suite Search Tool supports search in three different search layers (for a brief explanation of these three layers see the Search How-to on the Media Suite Help page):
 
-* * (1) all archive metadata fields including enrichments (such as OCR, ASR or Linked Data)
+  * (1) all archive metadata fields including enrichments (such as OCR, ASR or Linked Data)
 
-* * (2) in an Archive’s Metadata only or in
 
-* * (3) Enrichments
+  * (2) in an Archive’s Metadata only or in
+
+
+  * (3) Enrichments
 
 * In this step we want to search for Steve McQueen in the person metadata fields. To do this, first choose between one of the three different types of enrichments, respectively “Persons - production”, “Persons - guests” and “Persons - subject of discussion”. You can choose one of these fields by clicking on the bar on the right-hand side of the search field (see image above). Choose any of them that you find the most interesting.
 
@@ -59,7 +61,7 @@ As of 2021 the NISV has begun making collection data available as Linked Data wi
 
 * Once you have clicked through a few results in one of the person search categories you may try out the other options. Compare. How many results do you get when using the different options and do the amount and types of results make sense to you, knowing that there are two Steve McQueens?
 
-### 2. Autocomplete function for disambiguation 
+### 2. Autocomplete function for disambiguation
 
 ![image6-07cdad.png](/uploads/image6-07cdad.png)
 
