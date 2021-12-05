@@ -2,6 +2,8 @@
 title: 'Tutorial: Searching and Exploring with Linked Data and Wikidata in the Media
   Suite'
 date: 2021-12-05 12:06:00 +01:00
+categories:
+- Media Studies
 ---
 
 # Tutorial: Searching and Exploring With Linked Data and Wikidata in the Media Suite
