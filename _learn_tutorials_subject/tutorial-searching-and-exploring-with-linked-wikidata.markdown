@@ -4,6 +4,13 @@ title: 'Tutorial: Searching and Exploring with Linked Data and Wikidata in the M
 date: 2021-12-05 12:06:00 +01:00
 categories:
 - Media Studies
+author: Mari Wigham & Christian Olesen
+functionalities:
+- Search
+collections:
+- Sound & Vision Audiovisual Collection
+user_level: Advanced
+language: English/Dutch
 ---
 
 # Tutorial: Searching and Exploring With Linked Data and Wikidata in the Media Suite
