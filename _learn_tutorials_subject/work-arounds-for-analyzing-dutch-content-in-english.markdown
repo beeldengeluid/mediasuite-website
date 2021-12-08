@@ -1,6 +1,13 @@
 ---
 title: 'Tutorial: Analyzing Dutch Content In English Using Online Translation Tools'
 date: 2020-12-03 17:33:00 +01:00
+introduction: To facilitate the use of the Media Suite in the international classroom
+  and in international research projects, this page presents an overview of and evaluates
+  the results of using Using Google Translate for creating search queries and translating
+  metadata from the Media Suite. First, Google translate was used to translate search
+  queries from English to Dutch before entering them in the Media Suite search bar.
+  Second, the metadata of collection items findable using English search terms was
+  translated from Dutch to English.
 author: Max Broekhuizen, Erasmus University
 ---
 
