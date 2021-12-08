@@ -4,6 +4,13 @@ title: 'Tutorial: Visual Analysis and Historical Source Criticism of Desmet''s F
 date: 2021-05-20 21:21:00 +02:00
 categories:
 - Film Studies
+introduction: In this tutorial you will learn how to carry out a source critical analysis
+  of items in and relating to Eye Filmmuseum’s Jean Desmet Film, Poster and Paper
+  Collections. To this end, you will be using the Media Suite’s Search, Segmentation
+  and Annotation features. Working on both internal and external source critical levels,
+  this comprises carrying out a visual analysis of a historical film poster, and contextualizing
+  its distribution and use in the promotion of a film based on business documents
+  and contemporary film journals.
 author: Klaas de Zwaan & Christian Olesen
 ---
 
