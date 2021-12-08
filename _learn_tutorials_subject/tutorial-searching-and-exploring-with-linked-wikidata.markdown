@@ -4,6 +4,12 @@ title: 'Tutorial: Searching and Exploring with Linked Data and Wikidata in the M
 date: 2021-12-05 12:06:00 +01:00
 categories:
 - Media Studies
+introduction: In this tutorial you learn how to use Linked Data  to refine you search
+  results in combination with the metadata categories “Persons - all”, “Persons -
+  production”,  “Persons - guests” and “Persons - subject of discussion”. The tutorial
+  works with linked data from the Netherlands Institute for Sound and Vision (NISV)
+  using the Media Suite Search tool, while also exploring links to Wikidata outside
+  of the Media Suite environment.
 author: Mari Wigham & Christian Olesen
 functionalities:
 - Search
@@ -22,7 +28,7 @@ Tutorial made by Mari Wigham & Christian Olesen, December 2021
 
 ## Tutorial Description, Case and Objectives
 
-In this tutorial you learn how to use Linked Data  to refine you search results in the combination with metadata categories “Persons - all”, “Persons - production”,  “Persons - guests” and “Persons - subject of discussion”. As audiovisual archives, and cultural heritage institutions more broadly, are increasingly publishing their collection data online, creating Linked (Open) Data is increasingly becoming a means for querying named entities among (multiple) datasets and raising new questions with collection metadata. In this tutorial you develop a sense of how this may work for an audiovisual archive/cultural heritage institution, by working with linked data from the Netherlands Institute for Sound and Vision (NISV) in the Media Suite Search tool, while also exploring links to wikidata outside of the Media Suite environment. Upon completing the tutorial you will:
+In this tutorial you learn how to use Linked Data  to refine you search results in combination with the metadata categories “Persons - all”, “Persons - production”,  “Persons - guests” and “Persons - subject of discussion”. As audiovisual archives, and cultural heritage institutions more broadly, are increasingly publishing their collection data online, creating Linked (Open) Data is increasingly becoming a means for querying named entities among (multiple) datasets and raising new questions with collection metadata. In this tutorial you develop a sense of how this may work for an audiovisual archive/cultural heritage institution, by working with linked data from the Netherlands Institute for Sound and Vision (NISV) in the Media Suite Search tool, while also exploring links to wikidata outside of the Media Suite environment. Upon completing the tutorial you will:
 
 * ...know how Linked Data is featured in the Media Suite and how searches in the categories “Persons -  production”, “Persons - guests” and “Persons - subject of discussion” may be refined in combination with Linked Data
 
@@ -86,7 +92,7 @@ As of 2021 the NISV has begun making collection data available as Linked Data wi
 
 ### 3. Searching further via the resource viewer
 
-![image5.jpg](/uploads/image5.jpg)
+![image_Step_3.png](/uploads/image_Step_3.png)
 
 * Now you have developed a sense of how to use different search strategies to search for a person relying on respectively all metadata (including enrichments) and linked data. It is now time to explore how the linked data feature is integrated into other areas of the Media Suite environment and allows you to continue your search both in the Media Suite as well as outside of it. In this step we first focus on how it allows you to search further within the Media Suite.
 
@@ -94,24 +100,18 @@ As of 2021 the NISV has begun making collection data available as Linked Data wi
 
 * On the right-hand side of the resource viewer’s player, you will see a list of persons appearing in, discussed in or involved in the production of the chosen item in connection to the person searched. Click on one of the names (in this case we suggest to stick to one of the Steve McQueens).
 
-* Upon clicking the name, a box opens which shows you basic the personal details about the person clicked such as an image of the person, and date and place of birth. In addition, the box. gives you additional options. In the upper part of the box you will in this case see the option “Search for ‘Steve McQueen’ in the Media Suite” (see image above). Clicking this option will combine a search for linked data and all metadata. Click the option.
+* Upon clicking the name, a box opens which shows an image of the person (when available). In addition, the box. gives you additional options. In the upper part of the box you will in this case see the option “Search for ‘McQueen, Steve (regisseur) in the current collection” (see image above). Clicking this option will direct you back to the Search tool and search in all metadata based on all name variations of the chosen person. Click the option.
 
-* Having clicked this option try to assess the results obtained. How many results do you get and how do these results differ from the results you obtained in the previous steps? Are the results relevant and what are the advantages and disadvantages of combining these different kinds of data do you find?
+* Having clicked this option try to evaluate the results obtained. How many results do you get and how do these results differ from the results you obtained in the previous steps? Are the results relevant and what are the advantages and disadvantages of combining switching between different types of data in this way?
 
 ### 4. Exploring links to Wikidata and Evaluating Data
 
-![image2.jpg](/uploads/image2.jpg)
+![image_Step_4.png](/uploads/image_Step_4.png)
 
-* Having explored the additional options for searching for a person within the Media Suite via the resource viewer combining both the linked data functionality and the metadata, it is time to explore the other options provided in the info box appearing when clicking on a name.
-
-* Try to go back to the item from the previous step and click on the same name again. After having opened the box again, have a look at the information options at the bottom of the box. What do you notice in terms of where the personal information and context comes from?
-
-* As you may notice, the image used for the personal profile in the box comes from Wikimedia and the box makes use of the URI for the person/entity used by Wikimedia (see image above).
-
-* Click at the two links in the bottom part of the box labelled “Source”. Where do these links lead you and what do they tell you about how Sound and Vision’s collection metadata are linked to Wikimedia via the Media Suite and how open the data is?
-
-* Have a look at the two pages one by one and reflect on where they may take you in terms of further exploration. Start by Wikimedia. What additional categories may Wikimedia allow you to explore in relation to a person - in this case either the actor or the director Steve McQueen - that you do not find in the Media Suite and how may this benefit your research?
-
-* Now take a look at the OpenSKOS page. How does it allow you to understand the data from Sound & Vision. What does it tell you about the data’s provenance and the identifier used, and how does it allow you to go “under the hood” of the data? What benefits might this have for further research?
-
+* Having explored the additional options for searching for a person within the Media Suite via the resource viewer combining both the linked data functionality and the metadata, it is time to explore the other options provided in the info box appearing when clicking on a name (see image above).
+* Try to go back to the item from the previous step and click on the same name again. After having opened the box again, have a look at the information options at the bottom of the box. What do you notice in terms of where personal information (in this case the image) comes from?
+* As you may notice, the image used for the personal profile in the box comes from Wikimedia and the box makes use of the URI for the person/entity used by Wikimedia.
+Try to click the two links in the bottom part of the box. Where do these links lead you and what do they tell you about how Sound and Vision’s collection metadata are linked to Wikimedia via the Media Suite and how open the data is?
+* Try to have a look at the two pages one by one and reflect on where they may take you in terms of further exploration. Start with Wikimedia. What additional categories may Wikimedia allow you to explore in relation to a person - in this case either the actor or the director Steve McQueen - that you do not find in the Media Suite and how may this benefit your research?
+* Now take a look at the OpenSKOS page. How does it allow you to understand the data from Sound & Vision? What does it tell you about the data’s provenance and the identifier used, and how does it allow you to go “under the hood” of the data? What benefits might this have for further research?
 * Well done! Now you know how to search in the Media Suite combining archival metadata and linked data as well as exploring data on persons on Wikimedia via the Media Suite. You also know how to access the linked data underlying the search functionality.
