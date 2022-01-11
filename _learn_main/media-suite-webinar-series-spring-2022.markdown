@@ -1,6 +1,7 @@
 ---
 title: Media Suite Webinar Series Spring 2022
 date: 2022-01-11 17:31:00 +01:00
+author: Christian Olesen
 ---
 
 ![](https://www.rmes.nl/wp-content/uploads/Webinar-1030x417.jpg)
