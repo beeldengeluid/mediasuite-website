@@ -152,9 +152,16 @@ Users can determine in which field or group of fields they want to search for th
 *Tip*: To see the list of metadata fields per collection, as well as their definitions, use the Collection Inspector tool.
 
 ### <a name="autocomplete-functionality"></a> Autocomplete functionality
-Some collections have a thesaurus with set lists of terms, e.g. names of persons, that are used in the metadata. For these collections these lists are used to offer autocomplete options when searching. Check the collection description in [the Media Suite data registry](https://mediasuitedata.clariah.nl/) to see if a given collection has autocomplete functionality, and for what sorts of terms. 
 
-To use autocomplete, simply type the name or word you are interested in into the Search field. You will get a list of options to choose from. Selecting an option will search for that option in the current collection. As the option is a thesaurus term, it can have multiple labels. The search looks for an exact match for any one of the labels. The results found will depend on what sort of labels are used, e.g. if a thesaurus only contains labels in one language then those terms will not be found in other languages. To find out what sort of labels are used, consult the collection description. 
+Some collections have a thesaurus with set lists of terms, e.g. names of persons, that are used in the metadata. For these collections these lists are used to offer autocomplete options when searching. Check the collection description in [the Media Suite data registry](https://mediasuitedata.clariah.nl/)\[autocomplete.PNG\] to see if a given collection has autocomplete functionality, and for what sorts of terms.
+
+To use autocomplete, simply type the name or word you are interested in into the Search field. You will get a list of options to choose from. Selecting an option will search for that option in the current collection. As the option is a thesaurus term, it can have multiple labels. The search looks for an exact match for any one of the labels. The results found will depend on what sort of labels are used, e.g. if a thesaurus only contains labels in one language then those terms will not be found in other languages. To find out what sort of labels are used, consult the collection description.
+
+![](/uploads/autocomplete.PNG)
+
+*Tip*: If you are not sure which term you want from the autocomplete list, click on the icon next to the option. A pop-up will open with links to additional information about the term in external sources, such as Wikidata (see ***TODO ADD LINK***)
+
+*Tip*: Not interested in the autocomplete options? Simply click anywhere outside the list and it will disappear.
 
 ### <a name="date-filter"></a> Filtering per date
 
