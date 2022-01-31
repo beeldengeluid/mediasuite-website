@@ -189,11 +189,19 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 
 ### <a name="facets"></a> Filter using facets
 
-* Faceted search: Facets include aggregations of terms from the metadata fields of the type "Keyword field", the terms included in each facet can be used for filtering the results of your query. To see the metadata fields that are of the type "Keyword", you can use the "Inspect" tool. At this moment (version 3) we support:
+* Faceted search: Facets include aggregations of terms from the metadata fields of the type "Keyword field", the terms included in each facet can be used for filtering the results of your query. To see the metadata fields that are of the type "Keyword", you can use the "Inspect" tool. At this moment we support:
 
   * Default facets per collection: we include facets for the most important fields in each collection (e.g., "Broadcaster" for the Sound and Vision collection)
 
   * Creation of new facets: users are allowed to add their own facets to the faceted search functionality (see screencast: Search)
+
+Usually, the facet selections are wiped when a new search term is entered. This is because the values are calculated based on the subset of the archive containing the search term. This means that a facet selection may no longer be relevant for the new search term, for example if you select the mediaType facet value ‘video’ and then search for a term that only occurs in radio programmes. It is useful then that the facets are reset.
+
+Sometimes, however, you may want to keep the facet selections. For example, if you are interested in a subset of a collection, such as video items produced by a certain broadcaster, then you may want to search for various search terms within that group of items. In that case, you can select the facet values you want, and then check the box ‘Lock facet selections’. The selections will then remain when you type in a new search term. In this way, you can keep your search focussed on your chosen subset.
+
+![lock_facets.PNG](/uploads/lock_facets.PNG)
+
+*Tip*: If you often search in a particular subset, then you can save the facet selections as a query. When you want to search in the subset then you open that query, check ‘Lock facet selections’, and enter your search term.
 
 ### <a name="result-list-ranking"></a> Understand how search results are ranked
 
