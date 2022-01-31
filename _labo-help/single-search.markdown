@@ -81,7 +81,8 @@ At this moment (version 4) the search API detects when a user does a boolean/wil
 
 **Query corrections/suggestions**
 
-- This is not supported
+- Some collections offer search suggestions, see [Autocomplete Functionality](#autocomplete-functionality) 
+- Query correction is not supported
 - Example: koningi
 - Searching for this word gives no matches (matching is precise and does not accept typos or missing letters)
 
@@ -94,26 +95,30 @@ Note: Future work includes supporting proximity parameters.
 To facilitate more precise queries, users can use "search layers", which are aggregations of metadata fields. At this moment (version 4) we support three layers for all collections:
 
 - **All**: searches in all the metadata and automatic enrichments at the time
-- **Archive's metadata**: searches only in the mostly manually generated metadata (archival descriptions and subject/content metadata). These are the common aggregations for all collections:
+- **Archive's metadata**: searches only in the mostly manually generated metadata (archival descriptions and subject/content metadata). Subsets of the metadata with a similar function are aggregated together in ‘field cluster’s’. These are the common aggregations for all collections:
   - Title field cluster: when there are different title fields, these have been aggregated and users can search in all of them at once
   - Description field cluster: searches in all fields (per each collection) which contain descriptions (e.g., summaries, abstracts)
-  - Other clusters: depending on the collection there may be other clusters available (e.g., "Subtitles" for the Sound and Vision audio-visual collection).
+  - Other clusters: depending on the collection there may be other clusters available (e.g., “Persons - all”, and "Subtitles" for the Sound and Vision audio-visual collection).
 - **Enrichments**: searches in the existing layer(s) of mostly automatic content enrichments (e.g., OCR, or ASR- automatic speech transcripts)
 
 *Tip*: To see which fields have been aggregated in each cluster, hover over the field cluster.
+
+Selecting a field cluster makes your search more precise, but it can mean that you miss results outside of those fields. Be aware also that the completeness of the metadata in the field(s) you select for the cluster will affect your search results. 
+Tip: You can use the Collection Inspector to check completeness of metadata fields and to read descriptions of metadata fields
 
 ### <a name="field-cluster"></a> Search per field (field cluster selector)
 
 ![](/uploads/search-field-clusters.png)
 
-Users can determine in which field or group of fields they want to search for their query expression. For example, a user may want to search for a specific character's name (e.g., Mies Bouwman). In that case:
+Users can determine in which field or group of fields they want to search for their query expression. For example, a user may want to search for a specific cast member’s name (e.g., Mies Bouwman). In that case:
 
-* Use the "Custom field cluster" button that appears in the drop-down menu of the Search layers (image above)
-* Search for the field of interest (e.g., "cast"). If there are many fields which include cast information, they can be aggregated in a "field cluster." Assign a name to the cluster to create custom aggregations
-* Now you can search in the cluster as if it was one of the Search layers described above.
+* Start to type in a convenient name for the new cluster, e.g. “Cast members”. A new option will appear in the cluster dropdown ‘Create “Cast members””. Click on this option
+* Search for the field of interest by typing in a search term (e.g., "cast"). If there are many fields which include cast information, they can be aggregated in a "field cluster." Click on ‘Choose’ to create the cluster
+* Now you can search in the cluster as if it were one of the Search layers described above.
 
 *Tip*: To see the list of metadata fields per collection, as well as their definitions, use the Collection Inspector tool.
 
+### <a name="autocomplete-functionality"></a> Autocomplete functionality
 
 ### <a name="date-filter"></a> Filtering per date
 
