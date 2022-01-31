@@ -159,7 +159,7 @@ To use autocomplete, simply type the name or word you are interested in into the
 
 ![](/uploads/autocomplete.PNG)
 
-*Tip*: If you are not sure which term you want from the autocomplete list, click on the icon next to the option. A pop-up will open with links to additional information about the term in external sources, such as Wikidata (see ***TODO ADD LINK***)
+*Tip*: If you are not sure which term you want from the autocomplete list, click on the icon next to the option. A pop-up will open with links to additional information about the term in external sources, such as Wikidata (see [View Additional Information](labo-help/view-additional-information.html))
 
 *Tip*: Not interested in the autocomplete options? Simply click anywhere outside the list and it will disappear.
 
