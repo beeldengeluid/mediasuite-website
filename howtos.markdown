@@ -14,7 +14,7 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 - [Log in](/documentation/howtos/login)
 - [Find and select collections](/documentation/howtos/data)
-- [Inspect metadata quality](</documentation/labo-help/collection-inspector)
+- [Inspect metadata quality](/documentation/labo-help/collection-inspector)
 - [Understand the metadata](/documentation/labo-help/collection-inspector)
 - [Work with user projects](/documentation/howtos/user-projects)
 - [Explore and discover](/documentation/howtos/exploratory-search)
