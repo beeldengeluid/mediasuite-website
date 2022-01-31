@@ -2,8 +2,8 @@
 title: Media Suite's HowTos
 permalink: "/documentation/howtos"
 position: 12
-layout: howtos
 menu: help
+layout: howtos
 ---
 
 Here you will find descriptions about how to accomplish specific tasks with the Media Suite. 
@@ -15,7 +15,7 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 - [Log in](/documentation/howtos/login)
 - [Find and select collections](/documentation/howtos/data)
 - [Inspect metadata quality](</documentation/howtos/collection-inspector>)
-- [Understand the metadata](/documentation/howtos/collection-inspector)
+- [Understand the metadata](/documentation/labo-help/collection-inspector)
 - [Work with user projects](/documentation/howtos/user-projects)
 - [Explore and discover](/documentation/howtos/exploratory-search)
 - [Search](/documentation/howtos/single-search)
