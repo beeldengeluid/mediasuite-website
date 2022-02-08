@@ -14,17 +14,17 @@ The Media Suite (https://mediasuite.clariah.nl) is an online research environmen
 
 ***Programme***
 
-* **Wednesday January 19, 2022, 15.00-17.00**: “Introduction to the Media Suite – Searching collections, bookmarking items and creating a user project”. Session lead: Christian Olesen (UvA). Hybrid event or via Zoom.
+* **Wednesday January 19, 2022, 15.00-17.00**: “Introduction to the Media Suite – Searching collections, bookmarking items and creating a user project”. Session lead: Christian Olesen (UvA). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
-* **Wednesday February 16, 2022, 15.00-17.00**: “Studying historical viewing and listening rates in the Media Suite”. Session lead: Jasper Keijzer (UU). Hybrid event or via Zoom.
+* **Wednesday February 16, 2022, 15.00-17.00**: “Studying historical viewing and listening rates in the Media Suite”. Session lead: Jasper Keijzer (UU). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
-* **Wednesday March 16, 2022, 15.00-17.00**: “Video annotation of film and broadcast collections in the Media Suite”. Session lead: Christian Olesen (UvA). Hybrid event or via Zoom.
+* **Wednesday March 16, 2022, 15.00-17.00**: “Video annotation of film and broadcast collections in the Media Suite”. Session lead: Christian Olesen (UvA). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
-* **Wednesday April 20, 2022, 15.00-17.00**: “Cross-media corpus building and Oral History research in the Media Suite”. Session lead: Norah Karrouche (VU/EUR). Hybrid event or via Zoom.
+* **Wednesday April 20, 2022, 15.00-17.00**: “Cross-media corpus building and Oral History research in the Media Suite”. Session lead: Norah Karrouche (VU/EUR). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
-* **Wednesday May 18, 2022, 15.00-17.00**: "Decolonising Media Studies and Archival Literacy" - CLARIAH Media Suite Fellowship session with Sanne Koevoets (EUC) and Asli Özgen-Havekotte (UvA). Hybrid event or via Zoom.
+* **Wednesday May 18, 2022, 15.00-17.00**: "Decolonising Media Studies and Archival Literacy" - CLARIAH Media Suite Fellowship session with Sanne Koevoets (EUC) and Asli Özgen-Havekotte (UvA). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
-* **Wednesday June 15, 2022, 15.15-17.15** : “Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite”. Session lead: Alec Badenoch (UU/VU). Hybrid event or via Zoom.
+* **Wednesday June 15, 2022, 15.15-17.15** : “Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite”. Session lead: Alec Badenoch (UU/VU). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
 ***Registration***\
 Lecturers, researchers, PhD- and RMA-students from Dutch universities and research institutes are invited to participate in the sessions. The sessions will be held via Zoom. Registration is open for all sessions. Please register via the following registration form: [https://bit.ly/31NqgaV](https://bit.ly/31NqgaV). For questions regarding the webinar series, please contact Christian Olesen at: c.g.olesen_at_uva.nl.
