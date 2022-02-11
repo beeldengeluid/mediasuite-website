@@ -14,7 +14,7 @@ The Media Suite (https://mediasuite.clariah.nl) is an online research environmen
 
 ***Programme***
 
-* **Wednesday January 19, 2022, 15.00-17.00**: “Introduction to the Media Suite – Searching collections, bookmarking items and creating a user project”. Session lead: Christian Olesen (UvA). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
+* **Wednesday January 19, 2022, 15.00-17.00**: “Introduction to the Media Suite – Searching collections, bookmarking items and creating a user project”. Session lead: Christian Olesen (UvA). Online event, participation possible via Zoom.
 
 * **Wednesday February 16, 2022, 15.00-17.00**: “Studying historical viewing and listening rates in the Media Suite”. Session lead: Jasper Keijzer (UU). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
