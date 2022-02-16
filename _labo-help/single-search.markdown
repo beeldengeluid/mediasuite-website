@@ -18,6 +18,8 @@ In this help menu you will learn How To:
 
 * [Understand time line charts](#timeline-charts)
 
+* [Understand term charts](#term-charts)
+
 * [Filter using facets](#facets)
 
 * [Understand how search results are ranked](#result-list-ranking)
@@ -186,6 +188,27 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 * Please also note that each record possibly can have multiple occurrences of the selected date field (this happens clearly in the audio-visual collections of The Netherlands Institute for Sound and Vision, e.g., a rebroadcast), making it possible that there are more dates found that the number of search results. The number of cases can be seen in the "Outside range" summary in the chart panel:
 
 ![](/uploads/search-date-ranges.jpg)
+
+### <a name="term-charts"></a>Understand term charts
+The term chart visualisation shows a histogram or a line chart with the amount of documents (relative or absolute) that match your query, distributed over the values of your chosen metadata field.
+
+To generate a term chart visualisation, select a keyword field from the ‘Select keyword field’ dropdown.
+
+[keyword_field_selection.PNG](/uploads/keyword_field_selection.PNG)
+
+*Tip*: Is the metadata field you want not listed in the dropdown? Only *keyword* metadata fields, fields which contain values from a defined set of options, can be plotted on term charts. Other fields, such as textual descriptions, cannot be plotted as they have an infinite number of possible values. 
+
+If none of the results in your search query contain the selected field, you will see a warning message. Otherwise, a chart appears.
+
+[term_histogram.PNG](/uploads/term_histogram.PNG)
+
+*Tip*: You can change the number of bars/points shown in the chart by changing ‘Max keyword values to display’. This is limited by the maximum number of keyword values available in the data. 
+
+When you select a keyword field for a chart, it is automatically added as a filter beside your search query. When you change your selection, the filter is removed again.
+
+Clicking on a bar or point in the term chart will filter your search with the metadata field value represented by that point. E.g., if you click on ‘photo’ as a category, then your search result will be filtered to show only items in the category ‘photo’. The term chart continues to show all the available values, so you can easily switch between values, e.g. between ‘photo’ and ‘music programmes’.  This works the same way as the filters on the left hand side of the search page.
+
+Line chart/histogram and absolute/relative options are available the same as for time line charts.
 
 ### <a name="facets"></a> Filter using facets
 
