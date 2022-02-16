@@ -190,19 +190,20 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 ![](/uploads/search-date-ranges.jpg)
 
 ### <a name="term-charts"></a>Understand term charts
+
 The term chart visualisation shows a histogram or a line chart with the amount of documents (relative or absolute) that match your query, distributed over the values of your chosen metadata field.
 
 To generate a term chart visualisation, select a keyword field from the ‘Select keyword field’ dropdown.
 
-[keyword_field_selection.PNG](/uploads/keyword_field_selection.PNG)
+![keyword_field_selection-5506ef.PNG](/uploads/keyword_field_selection-5506ef.PNG)
 
-*Tip*: Is the metadata field you want not listed in the dropdown? Only *keyword* metadata fields, fields which contain values from a defined set of options, can be plotted on term charts. Other fields, such as textual descriptions, cannot be plotted as they have an infinite number of possible values. 
+*Tip*: Is the metadata field you want not listed in the dropdown? Only *keyword* metadata fields, fields which contain values from a defined set of options, can be plotted on term charts. Other fields, such as textual descriptions, cannot be plotted as they have an infinite number of possible values.
 
 If none of the results in your search query contain the selected field, you will see a warning message. Otherwise, a chart appears.
 
-[term_histogram.PNG](/uploads/term_histogram.PNG)
+![term_histogram.PNG](/uploads/term_histogram.PNG)
 
-*Tip*: You can change the number of bars/points shown in the chart by changing ‘Max keyword values to display’. This is limited by the maximum number of keyword values available in the data. 
+*Tip*: You can change the number of bars/points shown in the chart by changing ‘Max keyword values to display’. This is limited by the maximum number of keyword values available in the data.
 
 When you select a keyword field for a chart, it is automatically added as a filter beside your search query. When you change your selection, the filter is removed again.
 
