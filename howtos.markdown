@@ -38,4 +38,4 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 * [Work with your own collections](/documentation/howtos/user-collections) (in progress)
 
-*More up to date information will be adding soon. If you have any questions, please [contact us](/contact)*
+*More up to date information will be added soon. If you have any questions, please [contact us](/contact)*
