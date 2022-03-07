@@ -48,8 +48,8 @@ Purno de Purno is a computer animated series made by Marcus Vlaar and Hans Wesse
 
 ResourceID: 2101608040029304431
 
-**4. Vjoew (AVRO, 1966-1968)
-**Between 1966 and 1968, the liberal AVRO programmed Vjoew, a program for older teens and young adults interested in, and critical of the world around them. The program shows a mixture of serious topics, pop music and satire on politics, society and religion, presented by young people. A couple of episodes have been cancelled right before the broadcast and replaced by something else, because after seeing the tape the broadcaster deemed the content too controversial.\[6\] It is unclear which items caused the episodes to be cancelled.
+**4. Vjoew (AVRO, 1966-1968)**
+Between 1966 and 1968, the liberal AVRO programmed Vjoew, a program for older teens and young adults interested in, and critical of the world around them. The program shows a mixture of serious topics, pop music and satire on politics, society and religion, presented by young people. A couple of episodes have been cancelled right before the broadcast and replaced by something else, because after seeing the tape the broadcaster deemed the content too controversial.\[6\] It is unclear which items caused the episodes to be cancelled.
 
 ![image6-810ed7.png](/uploads/image6-810ed7.png)
 
@@ -104,8 +104,8 @@ Similarly controversial and airing around the same time at the same broadcasting
 
 ResourceID: 2101608040029684731
 
-**12. SpangaS  (Z@PP, 2020)
-**The dramaseries SpangaS has always covered relevant topics that some children in school might deal with, from unrequited love to being gay and even deportation of a refugee classmate. In 2020, the series changed from a school setting to a campus, with many new characters, among whom Lesley, the first non-binary person in a Dutch television series. Although applauded by many, the news also sparked a lot of negative responses of people who believe there are ‘only two genders’, or that Lesley as well as Thorn Roos de Vries who plays the character and is non-binary themself, are ‘just confused’.\[14\]
+\*\*12. SpangaS  (Z@PP, 2020)
+\*\*The dramaseries SpangaS has always covered relevant topics that some children in school might deal with, from unrequited love to being gay and even deportation of a refugee classmate. In 2020, the series changed from a school setting to a campus, with many new characters, among whom Lesley, the first non-binary person in a Dutch television series. Although applauded by many, the news also sparked a lot of negative responses of people who believe there are ‘only two genders’, or that Lesley as well as Thorn Roos de Vries who plays the character and is non-binary themself, are ‘just confused’.\[14\]
 
 ![image12-120d3b.png](/uploads/image12-120d3b.png)
 
