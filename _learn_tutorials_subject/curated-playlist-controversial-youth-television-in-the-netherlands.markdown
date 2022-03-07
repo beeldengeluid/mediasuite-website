@@ -104,8 +104,8 @@ Similarly controversial and airing around the same time at the same broadcasting
 
 ResourceID: 2101608040029684731
 
-\*\*12. SpangaS  (Z@PP, 2020)
-\*\*The dramaseries SpangaS has always covered relevant topics that some children in school might deal with, from unrequited love to being gay and even deportation of a refugee classmate. In 2020, the series changed from a school setting to a campus, with many new characters, among whom Lesley, the first non-binary person in a Dutch television series. Although applauded by many, the news also sparked a lot of negative responses of people who believe there are ‘only two genders’, or that Lesley as well as Thorn Roos de Vries who plays the character and is non-binary themself, are ‘just confused’.\[14\]
+**12. SpangaS  (Z@PP, 2020)
+**The dramaseries SpangaS has always covered relevant topics that some children in school might deal with, from unrequited love to being gay and even deportation of a refugee classmate. In 2020, the series changed from a school setting to a campus, with many new characters, among whom Lesley, the first non-binary person in a Dutch television series. Although applauded by many, the news also sparked a lot of negative responses of people who believe there are ‘only two genders’, or that Lesley as well as Thorn Roos de Vries who plays the character and is non-binary themself, are ‘just confused’.\[14\]
 
 ![image12-120d3b.png](/uploads/image12-120d3b.png)
 
