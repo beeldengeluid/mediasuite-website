@@ -9,7 +9,7 @@ introduction: This curated playlist offers an introduction to and selection of s
   the children watching, political parties or broadcasting associations themselves
   because their contents were deemed too violent, sexually explicit, blasphemous,
   insensitive to racial issues, sexist or other.
-author: Grietje Hoogland, University of Amsterdam
+author: Grietje Hoogland
 collections:
 - Sound and Vision Archive - Television
 disciplines:
