@@ -47,6 +47,9 @@ collections:
     title: Learn - Tool tutorials
     output: true
     permalink: "/learn/tool-tutorials/:name"
+  publications:
+    title: Publications
+    output: true
   release-notes:
     title: Release notes
     output: true
