@@ -78,7 +78,7 @@ As of 2021 the NISV has begun making collection data available as Linked Data wi
 
 ### 2. Autocomplete function for disambiguation
 
-![image6-07cdad.png](/uploads/image6-07cdad.png)
+![linked_image_one.png](/uploads/linked_image_one.png)
 
 * Now it is time to explore the autocomplete functionality of the search tool. The autocomplete functionality is designed so as to allow for disambiguation using linked data - for instance in the case where a named entity has exactly the same name. In linked data all named entities are given a unique identifier whereas in other types of (meta)data  - for instance automatically generated enrichments - this is not necessarily the case. The autocomplete suggestions in the Search tool enable disambiguation so as to enable more targeted and precise search. In other words, the suggestions you see in the drop-down menu in the search field will ensure you get results for exactly the person you are looking for.
 
@@ -109,9 +109,14 @@ As of 2021 the NISV has begun making collection data available as Linked Data wi
 ![image_Step_4.png](/uploads/image_Step_4.png)
 
 * Having explored the additional options for searching for a person within the Media Suite via the resource viewer combining both the linked data functionality and the metadata, it is time to explore the other options provided in the info box appearing when clicking on a name (see image above).
+
 * Try to go back to the item from the previous step and click on the same name again. After having opened the box again, have a look at the information options at the bottom of the box. What do you notice in terms of where personal information (in this case the image) comes from?
+
 * As you may notice, the image used for the personal profile in the box comes from Wikimedia and the box makes use of the URI for the person/entity used by Wikimedia.
-Try to click the two links in the bottom part of the box. Where do these links lead you and what do they tell you about how Sound and Vision’s collection metadata are linked to Wikimedia via the Media Suite and how open the data is?
+  Try to click the two links in the bottom part of the box. Where do these links lead you and what do they tell you about how Sound and Vision’s collection metadata are linked to Wikimedia via the Media Suite and how open the data is?
+
 * Try to have a look at the two pages one by one and reflect on where they may take you in terms of further exploration. Start with Wikimedia. What additional categories may Wikimedia allow you to explore in relation to a person - in this case either the actor or the director Steve McQueen - that you do not find in the Media Suite and how may this benefit your research?
+
 * Now take a look at the OpenSKOS page. How does it allow you to understand the data from Sound & Vision? What does it tell you about the data’s provenance and the identifier used, and how does it allow you to go “under the hood” of the data? What benefits might this have for further research?
+
 * Well done! Now you know how to search in the Media Suite combining archival metadata and linked data as well as exploring data on persons on Wikimedia via the Media Suite. You also know how to access the linked data underlying the search functionality.
