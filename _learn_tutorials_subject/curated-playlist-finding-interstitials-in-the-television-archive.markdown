@@ -1,6 +1,7 @@
 ---
 title: 'Curated Playlist: Finding Interstitials in the Television Archive'
 date: 2022-02-08 15:00:00 +01:00
+author: Jasmijn van Gorp
 ---
 
 # Curated Playlist: Finding Interstitials in the Television Archive
@@ -41,11 +42,15 @@ Throughout my research, the overlapping categories of promos and leaders were di
 
 Let’s first explore the genre tag ‘Promos’. I located [315 promovideos](https://mediasuite.clariah.nl/tool/single-search?queryId=feba2728-2739-45d1-a3b4-bfbe29b84ae2) with this genre tag in the television archive. This collection mainly consists of a [compilation of leaders of the year 2010](https://mediasuite.clariah.nl/tool/single-search?queryId=f4ff1c08-150f-43aa-aa36-684e295be45b) for each channel and broadcaster, approximately 135 in total.  Of these 135 videos, I single out a promo of the [Digital Platform Uitzending Gemist](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120106716531&cid=daan-catalogue-aggr). It shows a moving split screen of about 20 clips. The video zooms in on  three clips for various programmes which are also interstitials, i.c. trailers with a voice-over). The promo ends with the URL: “Watch on uitzendinggemist.nl” (<Kijk op uitzendinggemist.nl). I chose this promo for my curated playlist, as it digitally mimics the linear channel [mozaiek tv](https://www.youtube.com/watch?v=Y6XtPXD48hk), a channel for analogue (cable) television on which viewers could simultaneously see what is broadcast at the different channels.
 
+![image4-5b11e2.png](/uploads/image4-5b11e2.png)
+
 **Screenshot of Leader Uitzending Gemist, showing a mosaic as known from analogue television (NPO, 2010): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120106716531&cid=daan-catalogue-aggr) (login required)**
 
 In order to find more leaders, the most straightforward option is to search for [‘Leader’ in all metadata fields](https://mediasuite.clariah.nl/tool/single-search?queryId=1a7967d2-ebf1-46fc-ad4b-ae969377d263). This search query encompasses all results in which ‘leaders’ are mentioned. At first sight, many of the items in English are part of the “Internationale Nieuwsuitwisseling” mentioning ‘leaders’ to refer to politicians. I excluded these items by querying for [Leader NOT International](https://mediasuite.clariah.nl/tool/single-search?queryId=c0c87f30-0686-4931-916b-f4c62b5933ea) which still yields almost 60.000 results.
 
 The question then is how one can find interesting leaders in a subcollection of 60.000 leaders in total. I decided to [select the news genre](https://mediasuite.clariah.nl/tool/single-search?queryId=51caddd1-7759-4a3b-91b8-6dda74de07d), as I anticipate many leaders of news to be archived since its high reuse value. On the first page, several titles catch the attention: the items labeled as “Weekly news”. As “Weekly news” contrasts with the general assumption that news is “Daily News”, I decided to [select one Weekly News item](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608130114372731&cid=daan-catalogue-aggr&st=Leader%20NOT%20internationale) to investigate it closely. I learnt that these weekly news items were made for the hearing impaired. In the following step, I tried to find out why the items are retrieved as they neither have the genre tag leader nor promo, nor mention ‘leader’ in their titles or descriptions. As I discuss in my book chapter, the items are retrieved because one of their reels is named ‘Leader’, which are accessible via de Resource Viewer’s playlist (see Screenshot).
+
+![image13-386242.png](/uploads/image13-386242.png)
 
 **Screenshot Weekly News (NTS, 1969) which shows ‘leader’ as title of a reel: [Link to video\*](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608130114372731&cid=daan-catalogue-aggr&st=Leader%20NOT%20internationale) (login required).**
 
@@ -54,6 +59,8 @@ When I go back to the large collection of 60.000 leaders, my attention was also 
 Leaders Avondje AVRO is a tape with a collection of 1970s AVRO clips of all kinds of happy families in their home. This footage of families watching television is not unique for the Netherlands as Johnson (2012) found the same kind of interstitials for the channel ABC. She discusses in her book how these interstitials about ‘happy domestic life’ were typical for the late 1970s and early 1980s. However, my clip does not have an exact broadcast date because it is featured on a compilation tape. To estimate the date I consulted the Beeld en Geluid wiki and found a [crowd-sourced database of screenshots of AVRO-leaders](https://wiki.beeldengeluid.nl/index.php/AVRO-televisievormgeving), which dates *[Avondje AVRO leader in 1975](https://wiki.beeldengeluid.nl/index.php/Bestand:AvondjeAVRO1975.jpg)*.
 
 The footage of Leaders Avondje AVRO by itself is also worth analyzing. The same leader is repeated in different formats. An interruption with sound, but no image is placed between each clip, resembling the editing methods back in the 1970s in which the lay-over of the sound could be edited over the start of the new programmes.
+
+![image1-12cfa4.png](/uploads/image1-12cfa4.png)
 
 **Screenshot Leaders Avondje AVRO (AVRO, 1975): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608050037065231&cid=daan-catalogue-aggr&st=leaders) (login required)**
 
@@ -67,9 +74,13 @@ The most effective search route to commercials is to filter on genre commercials
 
 It also becomes apparent that many of the commercials, along with all interstitials, are part of a collection band (<Verzamelband). Thus, another search route to commercials is filtering on ‘collection band’ and genre ‘commercial’. Doing so leads to six items of which five items are ‘commercials database’ and one item is ‘ster reclame’. For my playlist I select the [STER reclame on Duyvis Tigre Nuts with Gerard Cox\*](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040033945131&cid=daan-catalogue-aggr), which is also part of the Broadcast Museum’s collection. Gerard Cox is a [famous comedian, singer and actor](https://wiki.beeldengeluid.nl/index.php/Gerard_Cox) in the Netherlands. This commercial was very well-known for its one-liner “Duyvis is where the party is (<Duyvis, als er een fuif is).
 
+![image2-354a5c.png](/uploads/image2-354a5c.png)
+
 **Screenshot Ster reclame Duyvis (Ster, 1993): [link to video\*](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040033945131&cid=daan-catalogue-aggr) (login required)**
 
 To get to a good cross-section of the collection, I decided to additionally select an infomercial: the in the Netherlands well-known Postbus 51. There are [more than 4000 Postbus 51’s](https://mediasuite.clariah.nl/tool/single-search?queryId=382045e0-a190-4def-9df1-fa2c2c5be1d3) in the archive’s collection. This mostly encompasses Dutch government-commissioned infomercials/videos for societal public health and safety prevention purposes. Almost all Postbus 51 advertisements are closed off for viewing in the Media Suite, with some exceptions, such as the one below in the form of [a compilation tape of commercials from 1990](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608130110714931&cid=daan-catalogue-aggr&st=%22postbus%2051%22). The tape e.g. consists of infomercials to prevent alcohol abuse and smoking, as well as to inform audiences about the risks of HIV/Aids.
+
+![image12-f3e579.png](/uploads/image12-f3e579.png)
 
 **Screenshot Postbus 51 overview of the year 1990 (RVD, 1990): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608130110714931&cid=daan-catalogue-aggr&st=%22postbus%2051%22) (login required)**
 
@@ -83,15 +94,27 @@ Blocks of television are commonly known in the context of children’s televisio
 
 The television block KRO Kindertijd started in 1998, and continued as Kindertijd after the merger between KRO and NCRV in 2019. I notice that four of these shows contain exact the same announcement of a Klaas Vaak programme that starts on November 8th 2009: [KRO Kindertijd 11 October](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103269931&cid=daan-catalogue-aggr&st=aankondiging), [KRO Kindertijd 18 October](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103269931&cid=daan-catalogue-aggr&st=aankondiging), [KRO Kindertijd 25 October](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103436531&cid=daan-catalogue-aggr&st=aankondiging) and [KRO Kindertijd 1 November](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103269931&cid=daan-catalogue-aggr&st=aankondiging).  The announcement video -which can be considered as trailer- is in turn also announced at the very start of the television block. Approximately around 00:00:30 a young boy says “Later on you can watch the clip of Klaas Vaak” (<Straks kun je kijken naar de clip van Klaas Vaak) with an insert of the clip of 2 seconds. The trailer itself is played in full around 00:26:00. Exactly the same is done during four consecutive weeks. Interestingly, I found [a fifth duplicate](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103265631&cid=daan-catalogue-aggr&st=Klaas%20Vaak) by [searching for Klaas Vaak in title](https://mediasuite.clariah.nl/tool/single-search?queryId=7ca5be0e-409e-4e23-9d3f-2d7a5e02e052), which is the original trailer in which it is called ‘promoclip’ in its description.
 
+![image6-e0d3b0.png](/uploads/image6-e0d3b0.png)
+
+![image3-e403f3.png](/uploads/image3-e403f3.png)
+
+![image14-29584d.png](/uploads/image14-29584d.png)
+
 **Screenshots of the television block ident KRO Kindertijd (top image), the announcement of the trailer  of Klaas Vaak (middle image) and the actual trailer of Klaas Vaak (bottom image) (KRO, 2009): link to video 1\* (login required)**
+
+![image10-c94c92.png](/uploads/image10-c94c92.png)
 
 **Screenshot Klaas Vaak Clip (KRO, 2009): link to video\* (login required)**
 
-In the same search I also accidently found a fake interstitial: a programme announcement for a Film Noir\* of the comedy show Jiskefet. As I explain in my chapter (Van Gorp, 2022), I was puzzled by this search result at first, as the metadata description was written in the same format as real announcements. In this fake interstitial a voice-over announces the non-existing film La Pluie Sans Droit of the French filmmaker Jean-Philippe Le Grain, which will be broadcast the upcoming Saturday on VPRO Cinema. It was also announced in a similar vein as a real film on the Jiskefet Facebook page.
+In the same search I also accidently found a fake interstitial: a programme announcement for a Film Noir\* of the comedy show Jiskefet. As I explain in my chapter (Van Gorp, 2022), I was puzzled by this search result at first, as the metadata description was written in the same format as real announcements. In this fake interstitial a voice-over announces the non-existing film *La Pluie Sans Droit* of the French filmmaker Jean-Philippe Le Grain, which will be broadcast the upcoming Saturday on VPRO Cinema. It was also announced in a similar vein as a real film on the Jiskefet Facebook page.
 
-**Screenshot Jiskefet Film Noir announcement (VPRO, 2006): link to video\* (login required)**
+![image8-857d49.png](/uploads/image8-857d49.png)
+
+**Screenshot *Jiskefet Film Noir* announcement (VPRO, 2006): link to video\* (login required)**
 
 A specific type of announcements are “Public Service Announcements”. When I queried them I only retrieve videos with speech transcripts, in which the announcer uses the word ‘Service announcement’ (<Dienstmededeling). These are not visual interstitials but instead textual interstitials within (instead of between) programmes. An interesting one is this announcement of the presenter in Brandpunt that carries a rectification of a previous announcement by Henny Huisman in The Soundmix Show, correcting a mistake made in Teletext Page numbers: “This is a service announcement. \[...\] The phone numbers of The Soundmix Show can not be found on page 199 of Teletext but on page 335”.
+
+![image15-84e72f.png](/uploads/image15-84e72f.png)
 
 **Screenshot of service announcement in Brandpunt (KRO, 1988): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040033929731&cid=daan-catalogue-aggr&st=dienstmededeling) (login required)**
 
@@ -101,9 +124,13 @@ Johnson (2009) used Weekly recordings for her research. Weekly recordings are fu
 
 For my curated playlist I select a weekend-day (a Sunday), along with the  first broadcaster, Nederland 1: [NED 1: WEEK 40-1999 1.10.1999](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060048363531&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1). I watched the first reel and noted all interstitials and their categorization type (see overview, table 1). This shows that during a time period of two hours almost 44 interstitials were shown, which were all left out of the title of the record, the description and of the programme schedule in the newspaper. This alone proves my point earlier made that interstitials are -not only academically but also quite literally - forgettable television.
 
+![image9-710789.png](/uploads/image9-710789.png)
+
 **Screenshot of AVRO ident within Weekly Recording of channel NEDERLAND 1 (1.10.1999): [link to video\*](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060048363531&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (login required)**
 
 The weekly recordings are also useful in providing insight in the prevalence of repetition within the domain of interstitials. The programme Spoorloos is announced twice in two hours, of which the first announcement in slow motion and the second announcement at normal speed. The commercial for Vichy is also repeated twice in the same commercial break, the first in long version and the second in short version. The idents for the channel -in this case Nederland 1- are always shown right before the ident of the broadcaster of the following program. The commercial break is not announced with a channel ident, but instead with a separate commercial break announcement of Loekie the Lion. As I explain in my chapter I tried to retrieve the original programmes as well, to no avail. The weekly recordings are albeit of utmost importance for media history, and they are key to fully comprehending television flows in the past. As William Uricchio (2009: 30) explains regarding the  importance of ephemeral media: “It helps to account for the variable status of a particular shot or program, and for the embedding of ever shifting bits of recorded time into new contexts.”
+
+![image5-0c3a54.png](/uploads/image5-0c3a54.png)
 
 **Table 1: Annotated content of the first available reel of the weekly recording of [1 October 1999 for NPO 1](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060048363531&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (left column) compared to its metadata field Annotation (middle column) and the time schedule taken from newspaper *[Leidsche Courant](https://leiden.courant.nu/issue/LD/1999-10-09/edition/0/page/39)* (right column)**
 
@@ -111,11 +138,15 @@ The weekly recordings are also useful in providing insight in the prevalence of 
 
 At a meta-level the archive finally contains broadcasts about interstitials. These shows provide an interesting view on the history of television history. Andere Tijden is a well-known programme that regularly includes topics related to media and television. They aired an episode on [40 Years of STER commercials](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608050035550031&cid=daan-catalogue-aggr&st=andere%20tijden%20AND%20televisie) in 2007. As a small side note: thanks to this episode it was brought to my attention that Jiskefet also created a series about [Multilul](http://www.deharmonie.nl/titel/multilul/), a fake advertising agency that is brainstorming about new [leaders for Loekie the Lion](https://jiskefet.nl/watch/120).
 
+![image7-876599.png](/uploads/image7-876599.png)
+
 **Screenshot Andere Tijden Veertig jaar Ster-reclame (NPS, 2007): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608050035550031&cid=daan-catalogue-aggr&st=andere%20tijden%20AND%20televisie) (login required)**
 
 TV Monument by Han Peekel is another programme about television which got  broadcasted on the theme channel BEST24. The TV Monument series contains an episode with the continuity announcer [Dieuwertje Blok](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608180163216131&cid=daan-catalogue-aggr&st=TV%20monument), an episode on [Radio and TV-Music](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101911100262722631&cid=daan-catalogue-aggr&st=TV%20monument) in which the music of commercials is discussed around 00:18:00 and a [programme on Dutch continuity announcers](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608130112606631&cid=daan-catalogue-aggr&st=omroepster).
 
 For my curated playlist, I select the latter, which is based on oral history interviews with female announcers. Similar to the VPRO Tegenlicht episode, the presenter and the show are aired from inside the building of the Netherlands Institute for Sound and Vision, which immediately positions the archive also as the location-to-be for television historical broadcasts.
+
+![image11-66aadd.png](/uploads/image11-66aadd.png)
 
 **Screenshot TV Monument: Continuity Announcers (NCRV, 2011): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608130112606631&cid=daan-catalogue-aggr&st=omroepster) (login required)**
 
