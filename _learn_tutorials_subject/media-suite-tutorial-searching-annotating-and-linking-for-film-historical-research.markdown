@@ -119,7 +119,7 @@ This tutorial requires little to no prior familiarity with the Media Suite and c
 
 * Try to make a boolean query with these terms
 
-* Add Boolean query operators such as: AND, OR, NOT, Asterisk, Parentheses, Quotation Marks (if you need an introduction to the use of Boolean operators, you may consult the Media Suite Boolean query how-to guide which can be accessed via this link: https://bit.ly/2WLTWOK
+* Add Boolean query operators such as: AND, OR, NOT, Asterisk, Parentheses or Quotation Marks
 
 * Take a moment to play around with creating different queries to see what works best for you and reflect on what gives the best results
 
