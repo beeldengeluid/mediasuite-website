@@ -22,7 +22,7 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 * [Explore and discover](/labo-help/exploratory-search)
 
-* [Search](/labo-help/single-search)
+* [Search](/documentation/howtos/search)
 
 * [Bookmark](/documentation/howtos/bookmark)
 
