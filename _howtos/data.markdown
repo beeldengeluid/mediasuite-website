@@ -6,7 +6,7 @@ HowTos of the Media Suite's data:
 
 - [How to find data/collections](/documentation/howtos/select-collections)
 - [How to search and explore the data/collections](/documentation/howtos/tools)
-- [Inspect the metadata and their completeness](/documentation/howtos/collection-inspector)
+- [Inspect the metadata and their completeness](/documentation/howtos/inspect-collections)
 - [How to know which data has automatic enrichments](/documentation/faq/is-data-enriched) (from version 3: automatic speech recognition (ASR) transcripts are available for a growing number of The Netherlands Institute for Sound and Vision collections)
 
 See also the most frequently asked questions:
