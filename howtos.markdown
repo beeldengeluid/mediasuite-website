@@ -14,13 +14,11 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 * [Find and select collections](/documentation/howtos/data)
 
-* [Inspect metadata quality](/labo-help/collection-inspector)
+* [Inspect metadata quality](/documentation/howtos/inspect-collections)
 
-* [Understand the metadata](/labo-help/collection-inspector)
+* [Understand the metadata](/documentation/howtos/inspect-collections)
 
 * [Work with user projects](/documentation/howtos/user-projects)
-
-* [Explore and discover](/labo-help/exploratory-search)
 
 * [Search](/documentation/howtos/search)
 
@@ -28,9 +26,9 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 * [Save queries](/documentation/howtos/save-queries)
 
-* [Compare queries](/labo-help/query-comparison)
+* [Compare queries](/documentation/howtos/compare-queries)
 
-* [Read, view resources](/labo-help/resource-viewer)
+* [Read, view resources](/documentation/howtos/view-resources)
 
 * [Annotate](/documentation/howtos/annotate)
 
