@@ -250,7 +250,7 @@ Sometimes, however, you may want to keep the facet selections. For example, if y
 
 ### <a name="bookmarking"></a> Bookmark search results
 
-* Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](/documentation/howtos/bookmar) in the Documentation.
+* Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](/documentation/howtos/bookmark) in the Documentation.
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2fVNz6eh6Sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
