@@ -23,7 +23,7 @@ Steps:
 
 ​**Preferably use the "Share" URL given by Youtube**
 
-- Now you can Open the file in the [Media Suite's Resource viewer](/documentation/howtos/resource-viewer), and use the annotation tool.
+- Now you can Open the file in the [Media Suite's Resource viewer](/documentation/howtos/view-resources), and use the annotation tool.
 
 (more documentation coming soon...)
 
