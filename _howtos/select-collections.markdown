@@ -8,7 +8,7 @@ Researchers/end users of the Data services of the CLARIAH Media Suite:
 
 1. Open CKAN by using the "Visit CKAN" button at the end of the [Data page of the Media Suite](/data). You will be redirected to an external service, the Media Suite instance in the [CKAN registration software](https://mediasuitedata.clariah.nl/dataset).
 
-2. In that page, you can see the datasets that are registered (made available) in the [Search](</documentation/howtos/single-search>) and [Inspect](/documentation/howtos/collection-inspector) tools of the Media Suite. You can search registered datasets by using:
+2. In that page, you can see the datasets that are registered (made available) in the [Search](</documentation/howtos/search>) and [Inspect](/documentation/howtos/inspect-collections) tools of the Media Suite. You can search registered datasets by using:
 
    -Tags (thematic, media types), 
 
