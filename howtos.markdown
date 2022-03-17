@@ -18,7 +18,7 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 * [Understand the metadata](/documentation/howtos/inspect-collections)
 
-* [Work with user projects](/documentation/howtos/user-projects)
+* [Work with user projects](/documentation/howtos/work-in-a-workspace)
 
 * [Search](/documentation/howtos/search)
 
