@@ -5,7 +5,7 @@ date: 2022-03-17 09:10:00 +01:00
 
 ![additional_information.PNG](/uploads/additional_information.PNG)
 
-The additional information pop-up is opened when you click an icon in the [Autocomplete list](/documentation/labo-help/single-search#autocomplete-functionality) to see more information about an entity, such as a Person or Place, or when you click on such an entity in a list in the [Resource Viewer](/documentation/labo-help/resource-viewer). It contains the following items:
+The additional information pop-up is opened when you click an icon in the [Autocomplete list](/documentation/howtos/search#autocomplete-functionality) to see more information about an entity, such as a Person or Place, or when you click on such an entity in a list in the [Resource Viewer](/documentation/howtos/view-resources). It contains the following items:
 * A search button: Clicking on this will open the Search page, showing results featuring any of the labels of the given entity. E.g. all programmes featuring the name (or alternative names) of a given person, in any metadata field, including textual descriptions. NOTE: this will replace any previous query!
 * An image of the entity (if available)
 * Links to more information about the entity in sources outside the Media Suite. For example, to a Wikidata page about the entity
