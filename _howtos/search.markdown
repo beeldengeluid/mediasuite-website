@@ -162,7 +162,7 @@ To use autocomplete, simply type the name or word you are interested in into the
 
 ![](/uploads/autocomplete.PNG)
 
-*Tip*: If you are not sure which term you want from the autocomplete list, click on the icon next to the option. A pop-up will open with links to additional information about the term in external sources, such as Wikidata (see [View Additional Information](labo-help/view-additional-information.html))
+*Tip*: If you are not sure which term you want from the autocomplete list, click on the icon next to the option. A pop-up will open with links to additional information about the term in external sources, such as Wikidata (see [View Additional Information](/documentation/howtos/view-additional-information))
 
 *Tip*: Not interested in the autocomplete options? Simply click anywhere outside the list and it will disappear.
 
@@ -246,11 +246,11 @@ Sometimes, however, you may want to keep the facet selections. For example, if y
 
 ### <a name="saved-queries"></a> Save your query
 
-* Save the query paramenters: the Search tool allows users to store the queries for further use giving them a name. See [Saved queries](/documentation/workspace/user-projects/queries) section for more details.
+* Save the query paramenters: the Search tool allows users to store the queries for further use giving them a name. See [Saved queries](/documentation/howtos/save-queries) section for more details.
 
 ### <a name="bookmarking"></a> Bookmark search results
 
-* Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](/documentation/workspace/user-projects/bookmarks) in the Documentation.
+* Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](/documentation/howtos/bookmar) in the Documentation.
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2fVNz6eh6Sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
