@@ -52,7 +52,7 @@ Important: For long running program's, such as full-day Tweede Kamer recordings,
 
 The metadata block contains key metadata fields about the resource, such as the description and the resource ID. Different collections have different key fields in the metadata block. Some collections have an ‘ExternalSourceInfo’ link that you can click on to view the resource in an external source, such as the collection owner’s website.
 
-Some categories of metadata fields, such as Persons, have links that you can follow to see more information. When you click on the link icon next to the person, a pop-up opens with links to more information in external sources. See  [‘View additional information’](/documentation/howtos/view-additional-information) for more details.
+Some categories of metadata fields, such as Persons, have links that you can follow to see more information. When you click on the link icon next to the person, a pop-up opens with links to more information in external sources. See  '[View additional information](/documentation/howtos/view-additional-information)' for more details.
 
 *Tip*: What appears in the Metadata tab depends sometimes on how metadata fields are filled in for the given collection. Check the collection description in [the Media Suite data registry](https://mediasuitedata.clariah.nl/) for more information.
 
