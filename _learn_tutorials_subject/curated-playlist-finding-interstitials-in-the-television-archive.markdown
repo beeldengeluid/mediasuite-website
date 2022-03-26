@@ -103,7 +103,7 @@ The television block KRO Kindertijd started in 1998, and continued as Kindertijd
 
 ![image14-29584d.png](/uploads/image14-29584d.png)
 
-**Screenshots of the television block ident KRO Kindertijd (top image), the announcement of the trailer  of Klaas Vaak (middle image) and the actual trailer of Klaas Vaak (bottom image) (KRO, 2009): link to video 1\* (login required)**
+**Screenshots of the television block ident KRO Kindertijd (top image), the announcement of the trailer  of Klaas Vaak (middle image) and the actual trailer of Klaas Vaak (bottom image) (KRO, 2009): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103269931&cid=daan-catalogue-aggr&st=aankondiging) (login required)**
 
 ![image10-c94c92.png](/uploads/image10-c94c92.png)
 
