@@ -107,13 +107,13 @@ The television block KRO Kindertijd started in 1998, and continued as Kindertijd
 
 ![image10-c94c92.png](/uploads/image10-c94c92.png)
 
-**Screenshot Klaas Vaak Clip (KRO, 2009): [link to video] (https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103265631&cid=daan-catalogue-aggr&st=%22Klaas%20Vaak%22) (login required)**
+**Screenshot Klaas Vaak Clip (KRO, 2009): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103265631&cid=daan-catalogue-aggr&st=%22Klaas%20Vaak%22)  (login required)**
 
 In the same search I also accidently found a fake interstitial: a programme announcement for a Film Noir\* of the comedy show Jiskefet. As I explain in my chapter (Van Gorp, 2022), I was puzzled by this search result at first, as the metadata description was written in the same format as real announcements. In this fake interstitial a voice-over announces the non-existing film *La Pluie Sans Droit* of the French filmmaker Jean-Philippe Le Grain, which will be broadcast the upcoming Saturday on VPRO Cinema. It was also announced in a similar vein as a real film on the Jiskefet Facebook page.
 
 ![image8-857d49.png](/uploads/image8-857d49.png)
 
-**Screenshot *Jiskefet Film Noir* announcement (VPRO, 2006): link to video\* (login required)**
+**Screenshot *Jiskefet Film Noir* announcement (VPRO, 2006): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040033514831&cid=daan-catalogue-aggr&st=aankondiging#)\* (login required)**
 
 A specific type of announcements are “Public Service Announcements”. When I queried them I only retrieve videos with speech transcripts, in which the announcer uses the word ‘Service announcement’ (<Dienstmededeling). These are not visual interstitials but instead textual interstitials within (instead of between) programmes. An interesting one is this announcement of the presenter in Brandpunt that carries a rectification of a previous announcement by Henny Huisman in The Soundmix Show, correcting a mistake made in Teletext Page numbers: “This is a service announcement. \[...\] The phone numbers of The Soundmix Show can not be found on page 199 of Teletext but on page 335”.
 
