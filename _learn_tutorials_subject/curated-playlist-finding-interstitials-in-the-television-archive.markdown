@@ -91,7 +91,7 @@ Finally, I deemed it interesting to probe the impact of commercials along with t
 
 # Category 3: Programme Announcements
 
-A third category of interstitials that I have distinguished in my research encompass Programme Announcements. The latter form of interstitials are traditionally carried out by continuity announcers, either on view (in full or in medium close-up) or as voice-over. I have distinguished three ways to retrieve aforementioned programme announcements: blocks of television, weekly recordings and context programmes.
+A third category of interstitials that I have distinguished in my research encompass Programme Announcements. The latter form of interstitials are traditionally carried out by continuity announcers, either on view (in full or in medium close-up) or as voice-over. I have distinguished three ways to retrieve aforementioned programme announcements: blocks of television, weekly recordings and broadcasts about Interstitials. 
 
 Blocks of television are commonly known in the context of children’s television. It is a block of about 4 hours with different programmes that make up one show, often with a (voice-over) announcer who introduces each separate programme. To arrive at  these television blocks, I queried for announcements in all fields and filter for genre ‘compilaties’ (compilations). This resulted in [a list of 25 items](https://mediasuite.clariah.nl/tool/single-search?queryId=2b3690ff-bec1-4bfb-9b7a-ab46895d744f), of which nine of KRO Kindertijd.
 
