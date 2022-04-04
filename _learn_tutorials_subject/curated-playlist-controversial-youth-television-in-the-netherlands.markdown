@@ -152,7 +152,7 @@ For this playlist I searched in the Sound and Vision television collection in th
 
 **Footnotes**
 
-\[1\] Christopher G. A. Bryant, “Depillarisation in the Netherlands”, *The British Journal of Sociology*, [Vol. 32, No. 1, 1981](https://www.jstor.org/stable/i224971), 56-74
+\[1\] Christopher G. A. Bryant, “Depillarisation in the Netherlands”, *The British Journal of Sociology*, Vol. 32, No. 1, 1981, 56-74
 
 \[2\] De Volkskrant,\* De Ark van Noë in de haven\*, 17-08-1968, 29
 
