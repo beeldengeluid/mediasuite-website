@@ -32,7 +32,7 @@ The biblical television program Woord voor Woord (Word for Word) for children fr
 
 ![image2-5eafad.png](/uploads/image2-5eafad.png)
 
-ResourceID: 2101608060047703831
+ResourceID: 2101608060047703831, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060047703831&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **2. Open en bloot (VARA, 1974)**
 
@@ -40,7 +40,7 @@ A program made for the older teens and young adults, Open en bloot (Open and nud
 
 ![image4-45b74f.png](/uploads/image4-45b74f.png)
 
-ResourceID: 2101608060043578131
+ResourceID: 2101608060043578131, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060043578131&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **3. Purno de Purno (VPRO, 1989-2007)**
 
@@ -48,7 +48,7 @@ Purno de Purno is a computer animated series made by Marcus Vlaar and Hans Wesse
 
 ![image3-3dfc82.png](/uploads/image3-3dfc82.png)
 
-ResourceID: 2101608040029304431
+ResourceID: 2101608040029304431, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040029304431&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **4. Vjoew (AVRO, 1966-1968)**
 
@@ -56,7 +56,7 @@ Between 1966 and 1968, the liberal AVRO programmed Vjoew, a program for older te
 
 ![image6-810ed7.png](/uploads/image6-810ed7.png)
 
-ResourceID: 2101608060042993331
+ResourceID: 2101608060042993331, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060042993331&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (login required)
 
 **5. Dokter Corrie (STV, 2013)**
 
@@ -64,7 +64,7 @@ Sexual education on national television will always be uncomfortable for some pa
 
 ![image5-9fcc0e.png](/uploads/image5-9fcc0e.png)
 
-ResourceID: 2101608230223095031
+ResourceID: 2101608230223095031, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608230223095031&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **6. Stratemakeropzeeshow (VARA, 1972-1974)**
 
@@ -72,7 +72,7 @@ A fun and playful program for the smaller children, with sketches in which the c
 
 ![image8-e7dc8d.png](/uploads/image8-e7dc8d.png)
 
-ResourceID: 2101608040029584631
+ResourceID: 2101608040029584631, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040029584631&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **7. De film van ome Willem (VARA, 1974-1989)**
 
@@ -80,7 +80,7 @@ A similarly lighthearted program was De film van ome Willem. In this program wit
 
 ![image7-caea05.png](/uploads/image7-caea05.png)
 
-ResourceID: 2101608060047712631
+ResourceID: 2101608060047712631, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060047712631&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **8. Hoepla (VPRO, 1967)**
 
@@ -88,7 +88,7 @@ A very famous example of a controversial youth program is Hoepla, a program that
 
 ![image10-5ee6ff.png](/uploads/image10-5ee6ff.png)
 
-ResourceID: 2101608060047985531
+ResourceID: 2101608060047985531, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060047985531&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **9. Onwijs (EO, 1994)**
 
@@ -96,7 +96,7 @@ In the program Onwijs, by evangelical broadcasting association EO, young people 
 
 ![image9-78cb97.png](/uploads/image9-78cb97.png)
 
-ResourceID: 2101608040029255931
+ResourceID: 2101608040029255931, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040029255931&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (login required)
 
 **10. Theo & Thea (VPRO, 1985-1988)**
 
@@ -104,7 +104,7 @@ Theo and Thea, two characters with wigs, headscarves and rabbit teeth played by 
 
 ![image13-23e48d.png](/uploads/image13-23e48d.png)
 
-ResourceID: 2101608050038879231
+ResourceID: 2101608050038879231, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608050038879231&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **11. Rembo & Rembo (VPRO, 1987-1994)**
 
@@ -112,7 +112,7 @@ Similarly controversial and airing around the same time at the same broadcasting
 
 ![image11-333dce.png](/uploads/image11-333dce.png)
 
-ResourceID: 2101608040029684731
+ResourceID: 2101608040029684731, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040029684731&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **12. SpangaS  (Z@PP, 2020)**
 
@@ -120,7 +120,7 @@ The dramaseries SpangaS has always covered relevant topics that some children in
 
 ![image12-120d3b.png](/uploads/image12-120d3b.png)
 
-ResourceID: 2102009010278516831
+ResourceID: 2102009010278516831, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2102009010278516831&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **13. Sinterklaasjournaal (NTR, 2001-)**
 
@@ -128,7 +128,7 @@ Since 2012, a large national debate has been going on about Zwarte Piet (Black P
 
 ![image1-2cdc2e.png](/uploads/image1-2cdc2e.png)
 
-ResourceID: 2102011260287945731
+ResourceID: 2102011260287945731, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2102011260287945731&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (login required)
 
 **14. Toppop  (AVRO, 1984): clip Golden Earring 1984**
 
@@ -136,7 +136,7 @@ AVRO’s Toppop was a pop music program that ran from 1970 to 1988, modelled aft
 
 ![image14-0f2dbe.png](/uploads/image14-0f2dbe.png)
 
-ResourceID: 2101608040029615231
+ResourceID: 2101608040029615231, [Link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040029615231&cid=daan-catalogue-tv&bodyClass=noHeader&singleResource=1) (login required)
 
 **15. Gewoon. Bloot. (Z@PP, 2021)**
 
