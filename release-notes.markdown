@@ -6,6 +6,7 @@ menu: help
 layout: release-notes
 ---
 
+- [Version 6.4 (04-07-2022)](/documentation/release-notes/version-6-dot-4)
 - [Version 6.0 (03-06-2021)](/documentation/release-notes/version-6-dot-0)
 - [Version 5.5 (19-02-2021)](/documentation/release-notes/version-5-dot-5)
 - [Version 5.2 (03-09-2020)](/documentation/release-notes/v5-2)
