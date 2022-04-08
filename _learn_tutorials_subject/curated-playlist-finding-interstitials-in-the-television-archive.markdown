@@ -91,7 +91,7 @@ Finally, I deemed it interesting to probe the impact of commercials along with t
 
 # Category 3: Programme Announcements
 
-A third category of interstitials that I have distinguished in my research encompass Programme Announcements. The latter form of interstitials are traditionally carried out by continuity announcers, either on view (in full or in medium close-up) or as voice-over. I have distinguished three ways to retrieve aforementioned programme announcements: blocks of television, weekly recordings and broadcasts about Interstitials. 
+A third category of interstitials that I have distinguished in my research encompass Programme Announcements. The latter form of interstitials are traditionally carried out by continuity announcers, either on view (in full or in medium close-up) or as voice-over. I have distinguished three ways to retrieve aforementioned programme announcements: blocks of television, weekly recordings and broadcasts about Interstitials.
 
 Blocks of television are commonly known in the context of children’s television. It is a block of about 4 hours with different programmes that make up one show, often with a (voice-over) announcer who introduces each separate programme. To arrive at  these television blocks, I queried for announcements in all fields and filter for genre ‘compilaties’ (compilations). This resulted in [a list of 25 items](https://mediasuite.clariah.nl/tool/single-search?queryId=2b3690ff-bec1-4bfb-9b7a-ab46895d744f), of which nine of KRO Kindertijd.
 
@@ -158,7 +158,7 @@ The  interesting segments in this episode are:
 **00:27:41** Diewertje Blok explains that she was just repeating what was in the programme guide
 **00:31:30**    Han Pekel is recounting how announcers should fit the identity and brand of the broadcaster and its pillar
 
-The programme noticeably starts with raw footage of an announcer. This raw footage is cropped from all videos that are accessible via the Media Suite. The best way to get a glimpse on announcers within the Media Suite are the [Weekly recordings](https://docs.google.com/document/d/1srqH-PEmtNs-N0ogwtoDf-EiDy_HJuL00u0RecHAYQk/edit#heading=h.ggubv4pwpb0b).
+The programme noticeably starts with raw footage of an announcer. This raw footage is cropped from all videos that are accessible via the Media Suite. The best way to get a glimpse on announcers within the Media Suite are the Weekly recordings.
 
 In sum, my curated playlist has highlighted the different categories of interstitials and (the challenges in) how to find and analyze them, against the background of the Media Suite search tool. My overview is not exhaustive, but shows possible pathways to arrive at some fascinating interstitials. Future research could probe the field of interstitials more in-depth, as to give them the credit they deserve as a sub-field of study within current and future media scholarship and debates.
 
