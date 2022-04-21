@@ -4,6 +4,16 @@ date: 2022-02-08 15:00:00 +01:00
 categories:
 - Television Studies
 - Media Studies
+introduction: 'This curated playlist offers characteristic examples of Dutch television
+  interstitials. It is first and foremost a search guide for users with an interest
+  in the collection of Interstitials at the Netherlands Institute for Sound and Vision.
+  It informs users of the Media Suite on relevant search strategies to probe interstitials.
+  In order to reproduce the query and my search paths, I saved the settings for all
+  my queries and embedded them in my curated playlist. As more items are added to
+  the collection on a daily basis, these embedded queries enable reproducibility regardless
+  of the size of the collection. Moreover, it is the appendix of the book chapter
+  “Interstitial Data: Tracing Metadata in Search Systems” (Van Gorp, 2022), which
+  outlines a method to investigate the role of metadata in search systems.'
 author: Jasmijn van Gorp
 ---
 
