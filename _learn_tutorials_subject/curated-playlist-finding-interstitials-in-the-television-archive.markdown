@@ -14,7 +14,7 @@ introduction: 'This curated playlist offers characteristic examples of Dutch tel
   of the size of the collection. Moreover, it is the appendix of the book chapter
   “Interstitial Data: Tracing Metadata in Search Systems” (Van Gorp, 2022), which
   outlines a method to investigate the role of metadata in search systems.'
-author: Jasmijn van Gorp
+author: Jasmijn Van Gorp
 ---
 
 # Curated Playlist: Finding Interstitials in the Television Archive
