@@ -1,6 +1,10 @@
 ---
 title: Media Suite Webinar Series Spring 2022
 date: 2022-01-11 17:31:00 +01:00
+introduction: In the spring semester 2022, the CLARIAH Media Suite team offers a webinar
+  series that introduces participants to working with the audiovisual collections,
+  tools and methods made available in and facilitated by the most recent version of
+  the Media Suite.
 author: Christian Olesen
 ---
 

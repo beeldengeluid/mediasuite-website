@@ -113,11 +113,11 @@ The television block KRO Kindertijd started in 1998, and continued as Kindertijd
 
 ![image14-29584d.png](/uploads/image14-29584d.png)
 
-**Screenshots of the television block ident KRO Kindertijd (top image), the announcement of the trailer  of Klaas Vaak (middle image) and the actual trailer of Klaas Vaak (bottom image) (KRO, 2009): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103269931&cid=daan-catalogue-aggr&st=aankondiging) (login required)**
+**Screenshots of the television block ident KRO Kindertijd (top image), the announcement of the trailer  of Klaas Vaak (middle image) and the actual trailer of Klaas Vaak (bottom image) (KRO, 2009): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103269931&cid=daan-catalogue-aggr&st=aankondiging) (login required)\***
 
 ![image10-c94c92.png](/uploads/image10-c94c92.png)
 
-**Screenshot Klaas Vaak Clip (KRO, 2009): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103265631&cid=daan-catalogue-aggr&st=%22Klaas%20Vaak%22)  (login required)**
+**Screenshot Klaas Vaak Clip (KRO, 2009): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120103265631&cid=daan-catalogue-aggr&st=%22Klaas%20Vaak%22)  (login required)\***
 
 In the same search I also accidently found a fake interstitial: a programme announcement for a Film Noir\* of the comedy show Jiskefet. As I explain in my chapter (Van Gorp, 2022), I was puzzled by this search result at first, as the metadata description was written in the same format as real announcements. In this fake interstitial a voice-over announces the non-existing film *La Pluie Sans Droit* of the French filmmaker Jean-Philippe Le Grain, which will be broadcast the upcoming Saturday on VPRO Cinema. It was also announced in a similar vein as a real film on the Jiskefet Facebook page.
 
