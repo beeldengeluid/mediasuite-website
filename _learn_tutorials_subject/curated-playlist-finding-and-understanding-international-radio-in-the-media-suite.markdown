@@ -138,11 +138,11 @@ To summarise, this playlist has identified four different conceptualisations of 
 \
 **References**\
 \
-Anderson, Benedict. \*Imagined Communities: Reflections on the Origins and Spread of Nationalism. \*London: Verso, 1991. \
+Anderson, Benedict. *Imagined Communities: Reflections on the Origins and Spread of Nationalism.* London: Verso, 1991. \
 \
-De Cesari, Chiara and Ann Rigney. “Introduction”. In \*Transnational Memory: Circulation, Articulation, Scales. \*Edited by Chiara De Cesari and Ann Rigney. Berlin: De Gruyter, 2014. \
+De Cesari, Chiara and Ann Rigney. “Introduction”. In *Transnational Memory: Circulation, Articulation, Scales.* Edited by Chiara De Cesari and Ann Rigney. Berlin: De Gruyter, 2014. \
 \
-Föllmer, Golo and Alexander Badenoch. “Transnationalizing Radio Research: New Encounters with an Old Medium.” In \*Transnationalizing Radio Research: New Encounters with an Old Medium. \*Edited by Golo Föllmer and Alexander Badenoch. Bielefeld: Transcript Verlag, 2018.
+Föllmer, Golo and Alexander Badenoch. “Transnationalizing Radio Research: New Encounters with an Old Medium.” In *Transnationalizing Radio Research: New Encounters with an Old Medium.* Edited by Golo Föllmer and Alexander Badenoch. Bielefeld: Transcript Verlag, 2018.
 
 Haslach, Robert D. *Netherlands World Broadcasting*. Media, Pa.: L. Miller Pub.1983.
 
