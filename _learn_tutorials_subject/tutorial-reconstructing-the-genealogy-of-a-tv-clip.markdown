@@ -1,7 +1,6 @@
 ---
 title: 'Tutorial: Reconstructing the Genealogy of a TV-Clip'
 date: 2022-06-10 14:44:00 +02:00
-published: false
 author: Jasmijn Van Gorp, Utrecht University
 pdf_file: "/uploads/Handout%20Tutorial-f7d410.pdf"
 ---
