@@ -1,3 +1,4 @@
+[![Deploy to mediasuite-acc.rdlabs.beeldengeluid.nl](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/deploy-master-test.yml/badge.svg)](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/deploy-master-test.yml)
 # Media Suite website
 
 This is the code repository for the website https://mediasuite.clariah.nl
