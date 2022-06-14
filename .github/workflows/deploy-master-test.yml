@@ -1,5 +1,4 @@
-name: Deploy Master branch
-
+name: Deploy to mediasuite-acc.rdlabs.beeldengeluid.nl
 on:
   push:
     branches:
