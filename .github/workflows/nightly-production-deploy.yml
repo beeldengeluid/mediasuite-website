@@ -1,4 +1,4 @@
-name: Deploy Master branch
+name: Deploy to mediasuite.clariah.nl
 
 on:
   schedule:
