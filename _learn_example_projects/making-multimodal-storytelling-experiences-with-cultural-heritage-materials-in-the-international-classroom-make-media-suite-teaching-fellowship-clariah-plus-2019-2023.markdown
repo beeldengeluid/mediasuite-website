@@ -3,7 +3,7 @@ title: Making Multimodal Storytelling Experiences with Cultural Heritage Materia
   in the International Classroom (MAKE) - Media Suite Teaching Fellowship CLARIAH-PLUS
   (2019-2023)
 date: 2022-09-16 15:41:00 +02:00
-position: 2
+position: 3
 ---
 
 **Principle Investigator:** Dr. Berber Hagedoorn, Assistant Professor Media Studies (RUG)
