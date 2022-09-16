@@ -1,0 +1,94 @@
+---
+title: 'Problem-Based Learning as a Model for Teaching Visual and Archival Literacy:
+  The Archival Turn''s Pedagogical Turn''s Critical Turn (TURN) - Media Suite Teaching
+  Fellowship CLARIAH-PLUS (2019-2023)'
+date: 2022-09-16 16:02:00 +02:00
+---
+
+**Problem-Based Learning as a Model for Teaching Visual and Archival Literacy: The Archival Turn's Pedagogical Turn's Critical Turn (TURN)**
+
+The CLARIAH Media Suite offers students the challenge to investigate the visual cultural archive for
+\
+themselves. Rather than applying a set of prescribed analytical tools to a prescribed corpus of visual
+ materials that the lecturer has decided are relevant and representative of visual culture, students are
+ given the task of curating, annotating, and studying an original corpus of visual media materials that
+ they deem valuable. Through formulating a set of realistic learning problems that explicitly lead the
+ way into the CLARIAH Media Suite, but otherwise are open-ended, the project sets upon a path
+ towards a critical pedagogy in/of the archive. It does so by inviting a diversity of responses to
+ material from Dutch media archives, and inviting a diversity of perspectives on these materials that
+ originate with the students’ previous knowledge, life experiences, and sense of urgency. This project
+ aims to explore and report on the pedagogical and political potential of collaboratively building
+ annotated corpuses related to self-identified issues in visual culture as a starting point for building
+ skills associated with visual literacy, archival literacy and critical cultural citizenship.
+\
+When teaching a module on the interpretation and critical analysis of visual culture at Erasmus
+\
+University College entitled Images and Power, in-class discussions touched upon the embeddedness
+ of racial and gender stereotypes in the cultural archive. Students became eager to find out for
+ themselves where and how power manifests in visual culture, and where and how it can be resisted
+ in their own work and lives. But I soon realized that the problems that I had developed for the
+ problem-based learning module too heavily relied on an already overanalyzed and overfamiliar body
+ of materials, for instance canonical examples, or examples that have appeared in widely used
+ textbooks. In order to stimulate students to assume the role of curators, producers and
+ disseminators of knowledge in their own right, this project is aimed at developing a set of learning
+ triggers or prompts along the pedagogical principles of problem-based learning, using the collections
+ and tools made accessible through the CLARIAH Media Suite. Embedded in the critical pedagogical
+ project of enabling students to envision themselves as agents of change, the problem-based learning
+ (hereafter PBL) archival encounters will be designed to activate skills in critical visual analysis and
+ development of archival literacy through self-directed learning projects.
+\
+PBL has been a cornerstone of education at Erasmus University College, where an international body
+ of students from all over the world attend its TOP-rated Liberal Arts honors program to be trained to
+ contribute to the solution of major global problems as critical world citizens. Their high level of
+ motivation and familiarity with the principles of self-directed PBL makes them the ideal test group for
+ exploring the possibilities of using the principles of PBL to develop a critical pedagogy in/of media
+ archives. However, the project aims to formulate templates, best practices, and training materials
+ that enable the development of learning problems aimed at training critical archival literacy at
+ different educational levels and in different settings. In other words: if PBL proves to be as valuable
+ to teaching archival skills as I expect it to be, the outcomes of this project are scalable and can be
+ adapted to different settings.
+\
+As a student-centered pedagogical approach, PBL departs from real-world problems that enable selfdirected
+ learning in small group settings. The role of the tutor is that of a process guide rather than a
+ point of knowledge transfer (Barrows & Tamblyn: 1980). Historically, PBL was developed in the
+ context of medical training and education in technical and vocational fields, such as engineering and
+ architecture. Developed in a “somewhat fractitious manner” (Servant-Miklos et. al. 2020, 19), PBL is
+ and always has been “an approach to learning that is characterized by flexibility and diversity in the
+ sense that it can be implemented in a variety of ways in and across different subjects and disciplines
+ in diverse contexts” (Savin-Baden, 2000:3). PBL is by definition interdisciplinary as the problems it
+ poses, like those in real life, can always be approached from a multitude of ways. While the tutor
+ may at times point the way to a set of methodological and analytical tools, it is ultimately the
+ students themselves who collectively decide which of these tools they deem to be of value for
+ understanding the problem they have been posed.
+\
+The value of such approaches to humanities education arises out of the increased interpretative
+ freedom when “decisions about what to include and how the findings will be presented are made by
+ the students themselves – thus choice and creativity are within their ownership” (Hutchings &
+ O’Rourke, 2002: 78). As a pedagogical model that upends the traditional hierarchy of the classroom
+ by putting the direction of and the responsibility for the learning process in the hands of the
+ students, PBL is highly compatible with (although not identical to) Freire’s critical (and radical) Pedagogy of the Oppressed, which envisions education as a “practice of freedom” (Cavanagh: 2019,
+ 38-39). In the context of the current and urgent struggle over the meaning of images and the power
+ of the cultural archive, and the exploration and exploitation of the power of images in the BLM
+ movement and the most recent feminist wave, the development of critical pedagogies in and of the
+archive is both timely and necessary.
+\
+Much like the way in which PBL upends the traditional teacher-student hierarchy, this project
+ proposes a method of teaching with archives that makes visible and investigates ways of harnessing
+ as well as resisting the power of archives. As such, it falls within the scope of what Wendy Hayden
+ calls “The Archival Turn’s Pedagogical Turn” (2017). Teaching information and archival literacy by
+ engaging undergraduate students in the exploration of primary sources has been shown to engender
+ a more nuanced approach to information literacy and an improvement in the acquisition of close
+ reading skills and the understanding of historical and cultural context of the materials (Hayden: 2017,
+ 135-36). In addition to the pedagogical benefits of engaging students in archival research early on,
+ there has been speculation on the democratizing potential of digital archives, which generally allow
+ for new forms of collaboration (Hayden: 2017, 137). This project aims to combine the radical and
+ critical potential of PBL as “practice of freedom” with the enriching and challenging possibilities of
+ digital collaborative research. By turning upside down the hierarchies of cultural and educational
+ institutions, PBL can cut through the intimidation that students sometimes experience when entering
+ archival spaces and activate their potential as critical cultural citizens and agents of change.
+
+Below you may access the final project deliverables.
+
+**Project Deliverables**
+
+*Coming soon.*
