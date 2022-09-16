@@ -20,8 +20,16 @@ Below you may access the final project deliverables.
 
 *Video Lectures*
 
+Coming soon.
+
 *Teaching Materials*
+
+Coming soon.
 
 *Student Blogposts*
 
+Coming soon.
+
 *List of user requirements based on user studies*
+
+Coming soon.
