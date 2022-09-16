@@ -1,5 +1,6 @@
 ---
-title: Cross-Medial Analysis of WW2 Eyewitness Testimonies (CrossEWT)
+title: Cross-Medial Analysis of WW2 Eyewitness Testimonies (CrossEWT) - CLARIAH-CORE
+  (2015-2018)
 date: 2020-11-23 10:00:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018
