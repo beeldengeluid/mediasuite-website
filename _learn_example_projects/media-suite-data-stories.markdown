@@ -1,5 +1,5 @@
 ---
-title: Media Suite Data Stories
+title: Media Suite Data Stories - CLARIAH-CORE (2015-2018)
 date: 2021-01-22 11:09:00 +01:00
 published: false
 categories:
