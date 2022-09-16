@@ -27,14 +27,14 @@ collections:
   labo-help:
     title: Labo help
     output: true
-  learn_example_projects:
-    title: Learn - Example projects
-    output: true
-    permalink: "/learn/example-projects/:name"
   learn_main:
     title: Learn - Main
     output: true
     permalink: "/learn/main/:name"
+  learn_example_projects:
+    title: Learn - Pilot Projects & Media Suite Fellows
+    output: true
+    permalink: "/learn/example-projects/:name"
   learn_tutorials_subject:
     title: Learn - Subject tutorials
     output: true
