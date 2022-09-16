@@ -1,6 +1,7 @@
 ---
 title: 'Narrativizing Disruption: How exploratory search can support media researchers
-  to interpret ‘disruptive’ media events as lucid narratives (NarDis)'
+  to interpret ‘disruptive’ media events as lucid narratives (NarDis) - CLARIAH-CORE
+  (2015-2018)'
 date: 2021-01-13 15:33:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018

@@ -1,6 +1,6 @@
 ---
 title: 'Debate Research Across Media: Cross media research of public debates on drugs
-  and regulation (DReAM)'
+  and regulation (DReAM) - CLARIAH-CORE (2015-2018)'
 date: 2021-01-13 15:53:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018

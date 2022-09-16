@@ -1,5 +1,5 @@
 ---
-title: Remediation in Sports News (ReSpoNs)
+title: Remediation in Sports News (ReSpoNs) - CLARIAH-CORE (2015-2018)
 date: 2021-01-13 15:42:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018
