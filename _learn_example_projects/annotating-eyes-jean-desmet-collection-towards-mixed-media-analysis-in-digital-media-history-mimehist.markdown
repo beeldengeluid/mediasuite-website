@@ -1,7 +1,7 @@
 ---
 title: |-
   Annotating EYE’s Jean Desmet Collection:
-  Towards Mixed Media Analysis in Digital Media History (MIMEHIST)
+  Towards Mixed Media Analysis in Digital Media History (MIMEHIST) - CLARIAH-CORE (2015-2018)
 date: 2021-01-13 14:45:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018
