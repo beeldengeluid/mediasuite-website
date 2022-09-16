@@ -4,7 +4,7 @@ date: 2021-01-22 11:09:00 +01:00
 published: false
 categories:
 - Data Stories
-position: 7
+position: 9
 introduction: 'Since 2020, the Media Suite has been developing a new format for analysing
   audiovisual collections quantitatively, and for presenting and contextualising the
   results of such analysis: Data Stories. You can read more about and access the Media

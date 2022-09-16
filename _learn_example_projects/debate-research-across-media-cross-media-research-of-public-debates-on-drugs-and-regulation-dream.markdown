@@ -4,7 +4,7 @@ title: 'Debate Research Across Media: Cross media research of public debates on 
 date: 2021-01-13 15:53:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018
-position: 6
+position: 8
 introduction: 'The project "Debate Research Across Media: Cross media research of
   public debates on drugs and regulation" (Utrecht University) studied the role of
   historical public debates on drugs and regulation (1945-1990) in newspapers, on
