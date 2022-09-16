@@ -1,6 +1,6 @@
 ---
 title: 'Me and Myself: Tracing first person in documentary history in AV-collections
-  (M&M)'
+  (M&M) - CLARIAH-CORE (2015-2018)'
 date: 2021-01-13 13:12:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018
