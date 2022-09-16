@@ -14,14 +14,14 @@ position: 0
 This Teaching Fellowship proposal seeks to train Bachelor and Master
 students of the University of Groningen’s Digital Humanities minor and master programmes in the assessment and evaluation of serendipitous information encountering by focusing specifically on (digital) humanities students’ interaction with CLARIAH’s Media Suite. Methodologically, students are taught how to use and develop exploratory search tasks, research diaries, and videoed search journeys as part of their own user studies. Teaching efforts culminate in student insights into how digital tools such as the Media Suite shape search and discovery processes within the(digital) humanities. Furthermore, the Fellowship develops teaching materials to allow students to practice doing user studies and tool criticism to map serendipitous information encountering of peers (students of other humanities programmes within the University of Groningen).
 
-Below you may find a list of deliverables as well as access final project deliverables.
+Below you may access the final project deliverables.
 
-**Deliverables**
+**Project Deliverables**
 
-* Videos lectures
+*Video Lectures*
 
-* Teaching materials
+*Teaching Materials*
 
-* Student blogposts
+*Student Blogposts*
 
-* List of user requirements based on user studies
+*List of user requirements based on user studies*
