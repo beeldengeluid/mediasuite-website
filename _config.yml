@@ -32,7 +32,7 @@ collections:
     output: true
     permalink: "/learn/main/:name"
   learn_example_projects:
-    title: Learn - Pilot Projects & Media Suite Fellows
+    title: Learn - Media Suite Fellows & Pilot Projects
     output: true
     permalink: "/learn/example-projects/:name"
   learn_tutorials_subject:
