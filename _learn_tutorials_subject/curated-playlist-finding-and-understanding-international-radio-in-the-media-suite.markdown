@@ -95,7 +95,7 @@ The ASR tool, however, can also provide us with a different form of internationa
 \
 This time, I enter the Turkish word for the number two, [‘iki’](https://mediasuite.clariah.nl/tool/single-search?queryId=1a57a286-4be5-47fb-9815-b2d53398a115). This offers ‘209 results’, and with a few exceptions where ‘iki’ refers to a name, most of these results are in Turkish. [The second result](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608090073927531&cid=daan-catalogue-radio&bodyClass=noHeader&singleResource=1) in this query, for example, is Dutch news in Turkish, aired by the Dutch public service broadcaster, NPS. It is a full-length broadcast and when scrolling through the rest of the results, I see that there are many other similar episodes. What makes this result even more interesting, is how the Turkish numbers in the speech transcript are embedded in the context of a Dutch address that is mentioned in the broadcast, making this exemplary for the international nature of this fragment (see screenshot below). \
 \
-**![](https://lh5.googleusercontent.com/7qVkCUGEwCrubiZRXG28RawloT88drX_aVy3Z0Lm7NLSb-whjCLrD21Dd9Fb3WpdtZ_J2jIRlzBgXJ-fgTZX-dPxZzXm_o06dQcyhxCCcXmSmUKoQVolQu5Hvvu3jpekJ2Knmqyrfe_x5Mgphw)**\
+**![](https://lh5.googleusercontent.com/7qVkCUGEwCrubiZRXG28RawloT88drX_aVy3Z0Lm7NLSb-whjCLrD21Dd9Fb3WpdtZ_J2jIRlzBgXJ-fgTZX-dPxZzXm_o06dQcyhxCCcXmSmUKoQVolQu5Hvvu3jpekJ2Knmqyrfe_x5Mgphw)**
 
 **Screenshots of the NPS programme 'NIEUWS EN ACTUALITEITEN IN HET TURKS'. (NPS, 2022): [Link to audio](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608090073927531&cid=daan-catalogue-radio&bodyClass=noHeader&singleResource=1) (login required). **\
 \
