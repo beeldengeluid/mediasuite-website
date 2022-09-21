@@ -117,7 +117,7 @@ This tutorial was made in the context of the courses [Television History Online]
 
 ●   Go to Tools, and open Inspect Tool. Add collection ‘Sound and Vision Archive’ (see Screenshot above). Now click the collection title to open the collection analysis window. Click on the ‘Select Fields to Analyse’ button and type in ‘date’ without pushing the enter button. You will now get a list of 120 different metadata fields for date.
 ●   Browse through the list of 120 metadata fields for date to explore the different date fields. Is it easy or rather difficult to understand the meaning of the different date fields? Click on some date fields in order to inspect the completeness. Go for instance to “Date of Recording“ and “Date of Editing”.
-●   Then, select the default metadata field,  which is ‘date, sorting PREFERRED’. Read the explanation. It says that sort date is an automated field that calculates the most relevant date that could be the broadcast date. What does this mean? In most cases, the first broadcast date is known. If the first broadcast date is unknown, the ‘date, sorting PREFERRED’ metadatafield is based on other date fields that are considered to be relevant to estimate the date, such as Date of Recording or Date of Production. Discuss with your peers what we know and especially what we don’t know when using the metadatafield ‘date, sorting PREFERRED’.\\
+●   Then, select the default metadata field,  which is ‘date, sorting PREFERRED’. Read the explanation. It says that sort date is an automated field that calculates the most relevant date that could be the broadcast date. What does this mean? In most cases, the first broadcast date is known. If the first broadcast date is unknown, the ‘date, sorting PREFERRED’ metadatafield is based on other date fields that are considered to be relevant to estimate the date, such as Date of Recording or Date of Production. Discuss with your peers what we know and especially what we don’t know when using the metadatafield ‘date, sorting PREFERRED’.
 
 ### Step 6. Analyze date fields with Unix Time Converter
 
@@ -140,7 +140,7 @@ This tutorial was made in the context of the courses [Television History Online]
 ●   If you are intrigued by this question, I invite you to search for the metadata field ‘Annotated’, and find out more!
 ●   Let’s now look for other versions of the broadcast.
 
-### Step 7. Finding Re-Broadcasts in the Media Suite\\
+### Step 7. Finding Re-Broadcasts in the Media Suite
 
 **![](https://lh4.googleusercontent.com/Qgwl8UQeQz6P8OlpRDqoKzwONK2Mh0G9K-TyVE2279J2ucHNmfnaQR39eeZYjuowtSOlZN4hkRs66l0HgxJkFjQBRNVIFR1BAjeomiDeaYvLQUf-fKEysV5K4Mb0WSBIe9MYOzCsghLlU19ZWslxft2Dz-qXBlMSbHseJy_XaCDKgcdIk_64d6Ty)**
 
