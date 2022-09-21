@@ -6,7 +6,7 @@ author: Jasmijn van Gorp, Utrecht University
 
 ## **Tutorial: Reconstructing the Genealogy of a TV-Clip**
 
-Jasmijn Van Gorp, Utrecht University\
+Jasmijn Van Gorp, Utrecht University\\
 
 ## **Tutorial description, case and objectives**
 
@@ -24,7 +24,7 @@ In this tutorial you will learn how to use the CLARIAH Media Suite and other dig
 ●   know how these date fields can be deconstructed by opposing them to date fields of other archival search systems
 ●   know the basics of working with Delpher and the Wayback Machine.
 
-### Types and levels of teaching and research
+Types and levels of teaching and research
 
 This tutorial is aimed at students at an advanced level in Media, Data and Journalism Studies. The tutorial aligns with a critical data studies perspective and is useful in developing critical thinking and reflection. It is highly recommended to use this tutorial in a supervised setting. To run through the full tutorial takes about 90 minutes.
 
@@ -82,7 +82,8 @@ This tutorial was made in the context of the courses [Television History Online]
 
 ### 
 
-### \
+### \\
+
 Step 3. Newspaper’s Broadcast Schedules
 
 ●   As mentioned in the introduction, our prime objective is to understand the program’s date. In the previous step, we learnt that the original broadcast date is 22 September 1991. To know the day in the week, a simple Google search tells us this is a Sunday. So we learnt that Jiskefet was programmed on a popular time slot of a Sunday at first. But at what time? Was it broadcast during prime time?
@@ -141,7 +142,8 @@ Step 3. Newspaper’s Broadcast Schedules
 ●   If you are intrigued by this question, I invite you to search for the metadata field ‘Annotated’, and find out more!
 ●   Let’s now look for other versions of the broadcast.
 
-### Step 7. Finding Re-Broadcasts in the Media Suite\
+### Step 7. Finding Re-Broadcasts in the Media Suite\\
+
 **![](https://lh4.googleusercontent.com/Qgwl8UQeQz6P8OlpRDqoKzwONK2Mh0G9K-TyVE2279J2ucHNmfnaQR39eeZYjuowtSOlZN4hkRs66l0HgxJkFjQBRNVIFR1BAjeomiDeaYvLQUf-fKEysV5K4Mb0WSBIe9MYOzCsghLlU19ZWslxft2Dz-qXBlMSbHseJy_XaCDKgcdIk_64d6Ty)**
 
 ●   Clips are often re-used in different contexts. In this step we will first look at re-broadcasts. This is a bit more cumbersome step as there are multiple options to find re-broadcasts within the Media Suite depending on your selected clip. In my case I have a specific clip, so I search again for “Jiskefet Film Noir” and find that it is re-broadcast in 2006 in a compilation of the ‘best ofs’ of [Jiskefet: Jiskefet De Afgelopen Jaren](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040033514831&cid=daan-catalogue-aggr&st=aankondiging#) (cf. Screenshot above).
