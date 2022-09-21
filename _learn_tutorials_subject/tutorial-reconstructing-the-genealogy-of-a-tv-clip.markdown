@@ -4,7 +4,11 @@ date: 2022-09-21 13:59:00 +02:00
 author: Jasmijn van Gorp, Utrecht University
 ---
 
-## Tutorial description, case and objectives
+## **Tutorial: Reconstructing the Genealogy of a TV-Clip**
+
+Jasmijn Van Gorp, Utrecht University\
+
+## **Tutorial description, case and objectives**
 
 ‘A television program’ is often reduced to one particular broadcast in time. Usually the date is formulated in terms of ‘year’ and set on the year the program was initially broadcast. However, television can be characterized by re-runs and repetition, or as Kompare (2005: xi) puts it, by “repetition geared towards the constant recirculation of recorded, already-seen events”. The VCR and the DVD, as Kompare also argues, historically played a pivotal role in the culture of repetition. More recently, the advent of user-generated content platforms such as YouTube, as well as the proliferation of VoD systems such as Netflix and AmazonPrime, have resulted in a  widespread ‘re-run’ and ‘re-use’ of television.
 
