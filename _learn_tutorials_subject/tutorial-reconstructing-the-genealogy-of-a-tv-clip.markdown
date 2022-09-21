@@ -6,7 +6,7 @@ author: Jasmijn van Gorp, Utrecht University
 
 ## **Tutorial: Reconstructing the Genealogy of a TV-Clip**
 
-Jasmijn Van Gorp, Utrecht University\\
+Jasmijn Van Gorp, Utrecht University
 
 ## **Tutorial description, case and objectives**
 
@@ -24,7 +24,7 @@ In this tutorial you will learn how to use the CLARIAH Media Suite and other dig
 ●   know how these date fields can be deconstructed by opposing them to date fields of other archival search systems
 ●   know the basics of working with Delpher and the Wayback Machine.
 
-Types and levels of teaching and research
+### Types and levels of teaching and research
 
 This tutorial is aimed at students at an advanced level in Media, Data and Journalism Studies. The tutorial aligns with a critical data studies perspective and is useful in developing critical thinking and reflection. It is highly recommended to use this tutorial in a supervised setting. To run through the full tutorial takes about 90 minutes.
 
@@ -82,9 +82,7 @@ This tutorial was made in the context of the courses [Television History Online]
 
 ### 
 
-### \\
-
-Step 3. Newspaper’s Broadcast Schedules
+### Step 3. Newspaper’s Broadcast Schedules
 
 ●   As mentioned in the introduction, our prime objective is to understand the program’s date. In the previous step, we learnt that the original broadcast date is 22 September 1991. To know the day in the week, a simple Google search tells us this is a Sunday. So we learnt that Jiskefet was programmed on a popular time slot of a Sunday at first. But at what time? Was it broadcast during prime time?
 ●   To get the answer, we have to consult a broadcast schedule. In the Netherlands broadcast schedules are published in broadcast magazines. However, these are not broadly available. The KB holds [broadcast magazines until 1961](https://www.delpher.nl/nl/tijdschriften/results?query=&facets%5BalternativeFacet%5D%5B%5D=Katholieke\+radio-gids&facets%5BalternativeFacet%5D%5B%5D=Radio-tv-gids%2C\+de&page=1&sortfield=datedesc&cql%5B%5D=(alternative\+all\+%22Gids%22)&coll=dts). The Netherlands Institute for Sound and Vision has the more recent digitized broadcast magazines (from 1962 onwards), but these are not available outside of the building due to copyright reasons. If you want to search recent broadcast magazines, you can make an appointment with the Customer Service of Sound and Vision to use their in-house search system DAAN.
