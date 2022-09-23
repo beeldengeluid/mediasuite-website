@@ -4,6 +4,9 @@ date: 2022-02-08 15:00:00 +01:00
 categories:
 - Television Studies
 - Media Studies
+tags:
+- Television History
+- Media Studies
 position: 14
 introduction: 'This curated playlist offers characteristic examples of Dutch television
   interstitials. It is first and foremost a search guide for users with an interest
