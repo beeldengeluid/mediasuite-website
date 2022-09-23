@@ -1,6 +1,7 @@
 ---
 title: Media Suite Seminar Series 2022-2023
 date: 2022-09-23 14:46:00 +02:00
+position: 1
 ---
 
 ![webinar.jpg](/uploads/webinar.jpg)

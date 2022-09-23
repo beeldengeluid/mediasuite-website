@@ -1,6 +1,7 @@
 ---
 title: Upcoming and Past Events
 date: 2021-01-27 10:42:00 +01:00
+position: 0
 introduction: Here you can find an overview of upcoming and past training activities
   organized by the Media Suite team.
 author: Christian Olesen
