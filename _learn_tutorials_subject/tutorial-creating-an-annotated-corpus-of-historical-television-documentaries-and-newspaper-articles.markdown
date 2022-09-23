@@ -2,6 +2,9 @@
 title: 'Tutorial: Creating an Annotated Corpus of Historical Television Documentaries
   and Newspaper Articles'
 date: 2022-09-23 16:59:00 +02:00
+tags:
+- Television History
+- Media Studies
 ---
 
 **Media Suite Tutorial: Creating an Annotated Corpus of Historical Television Documentaries and Newspaper Articles**
