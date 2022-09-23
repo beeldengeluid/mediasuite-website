@@ -3,6 +3,7 @@ title: 'Tutorial: Desktop Documentary for Television History'
 date: 2020-05-01 00:00:00 +02:00
 categories:
 - Television Studies
+position: 2
 introduction: This tutorial introduces you to making a desktop documentary that critically
   compares and reflects on the different ways in which the Media Suite and other platforms
   give access to historical television content. The aim is to learn how to document

@@ -4,6 +4,7 @@ title: 'Tutorial: Searching and Analysing Automatic Speech Recognition (ASR) tra
 date: 2021-03-17 15:11:00 +01:00
 categories:
 - Television Studies
+position: 8
 introduction: This tutorial introduces you to the Media Suite’s Automatic Speech Recognition
   search functionality for television studies and/or television history research from
   a tool and data critical perspective.

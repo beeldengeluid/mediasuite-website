@@ -7,6 +7,7 @@ tags:
 - Television History
 - Viewing Rates
 - Oliecrisis
+position: 9
 introduction: This tutorial introduces you to using the CLARIAH Media Suite’s search
   tool and bookmarking functionality for research with the viewing and listening rates
   collection. The tutorial specifically introduces you to ways of using the Media

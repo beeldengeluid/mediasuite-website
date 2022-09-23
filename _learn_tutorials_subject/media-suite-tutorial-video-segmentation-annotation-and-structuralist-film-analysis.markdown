@@ -3,6 +3,7 @@ title: 'Tutorial: Video Segmentation, Annotation and Structuralist Film Analysis
 date: 2021-02-12 15:53:00 +01:00
 categories:
 - Film Studies
+position: 7
 introduction: In this tutorial you will learn how to carry out a structuralist film
   analysis in the Media Suite using the environment’s video segmentation functionalities,
   based on principles from film theorist Raymond Bellour’s approach to film segmentation.

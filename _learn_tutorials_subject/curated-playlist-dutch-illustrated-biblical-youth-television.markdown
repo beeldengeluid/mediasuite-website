@@ -4,6 +4,7 @@ date: 2022-05-16 12:00:00 +02:00
 categories:
 - Television Studies
 - Media Studies
+position: 15
 introduction: This curated playlist offers a selection of illustrated biblical youth
   television programs, to demonstrate that the level of traditionality depends on
   the broadcasting association rather than the period of time in which it was made.

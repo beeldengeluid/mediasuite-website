@@ -3,6 +3,7 @@ title: 'Tutorial: Searching and Bookmarking for Television History'
 date: 2020-04-01 00:00:00 +02:00
 categories:
 - Television Studies
+position: 1
 introduction: This tutorial introduces you to using the CLARIAH Media Suite's search
   tool and bookmarking functionality for television studies and/or television history
   research. Upon completing this tutorial, you will have learned to use the Media

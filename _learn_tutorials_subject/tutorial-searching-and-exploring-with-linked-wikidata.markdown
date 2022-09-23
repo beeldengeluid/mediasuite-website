@@ -4,6 +4,7 @@ title: 'Tutorial: Searching and Exploring with Linked Data and Wikidata in the M
 date: 2021-12-05 12:06:00 +01:00
 categories:
 - Media Studies
+position: 0
 introduction: In this tutorial you learn how to use Linked Data  to refine you search
   results in combination with the metadata categories “Persons - all”, “Persons -
   production”,  “Persons - guests” and “Persons - subject of discussion”. The tutorial

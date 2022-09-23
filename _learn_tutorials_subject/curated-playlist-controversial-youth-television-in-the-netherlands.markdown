@@ -4,6 +4,7 @@ date: 2022-03-02 18:26:00 +01:00
 categories:
 - Television Studies
 - Media Studies
+position: 12
 introduction: This curated playlist offers an introduction to and selection of some
   of youth programs that were perceived as controversial by the media, parents of
   the children watching, political parties or broadcasting associations themselves
