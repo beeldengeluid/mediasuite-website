@@ -2,6 +2,10 @@
 title: Media Suite Seminar Series 2022-2023
 date: 2022-09-23 14:46:00 +02:00
 position: 1
+introduction: In the academic year 2022-2023, the CLARIAH Media Suite team offers
+  a seminar series that introduces participants to working with the audiovisual collections,
+  tools and methods made available in the Media Suite. Each webinar starts with a
+  theoretical and/or methodological introduction followed by a hands-on session.
 ---
 
 ![webinar.jpg](/uploads/webinar.jpg)
