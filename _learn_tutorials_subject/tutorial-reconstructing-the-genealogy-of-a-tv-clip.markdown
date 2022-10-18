@@ -11,7 +11,7 @@ author: Jasmijn van Gorp, Utrecht University
 
 In this tutorial I provide some steps for critically questioning and interrogating the tendency to use initial broadcasting dates of television programs as the one and only identifying date. I will focus on the different transformations of a particular program -in this case a television clip- to illustrate its different timely appearances in digital archives. I will not only focus on rebroadcasts and reuse, but also on archival transformations of the record. The latter is important because, as archival scholar Eric Ketelaar (2001) reminds us, each record is transformed throughout the archival process, which leaves traces behind. By looking at the different metadata transformations of the same item, we aim to -again following Ketelaar (2001)- reconstruct ‘the semantic genealogy of the record’.
 
-By following the steps in this tutorial, the reader will gain a better understanding of the archival processes affecting the record and, therefore, obtain some basic ‘video forensic’ skills that can help in assessing a video’s origins. Within media and culture studies, such  skills can be situated in the method of ‘source criticism’ (media history) or ‘data criticism’ (critical data studies). This tutorial specifically focuses on criticism of the **time/date allocation **of a video. 
+By following the steps in this tutorial, the reader will gain a better understanding of the archival processes affecting the record and, therefore, obtain some basic ‘video forensic’ skills that can help in assessing a video’s origins. Within media and culture studies, such  skills can be situated in the method of ‘source criticism’ (media history) or ‘data criticism’ (critical data studies). This tutorial specifically focuses on criticism of the \*\*time/date allocation \*\*of a video.
 
 In this tutorial you will learn how to use the CLARIAH Media Suite and other digital archives such as Delpher and the WayBack Machine to reconstruct the genealogy of a TV-clip. Upon completing the tutorial you will:
 
@@ -65,7 +65,8 @@ This tutorial was made in the context of the courses Television History Online a
 
 ## Steps
 
-### Step 1. Preparation\
+### Step 1. Preparation
+
 \
 **![](https://lh6.googleusercontent.com/aHjHuohO1JLJ1CDPxgAwIfvr-iih4IGRW8DeTNCV70xCOdQ-YD3HnldP-8HG3gG69Mbrap8IkcyIpjlSODCIJcrZE0dvAbwknpQkIrCmhE9cEi6WSCHC5JbpHfDD7dglihNwVDZ79-Ucq6_7pOD6vxS1LEnWRlg01GeZycA7fOvGznmcJbX5-zz7)**
 
@@ -84,7 +85,6 @@ This tutorial was made in the context of the courses Television History Online a
   * URL of the record
 
   * personal comments (remarks, analysis, theoretical concepts etc)
-    
 
 
 * You are now all set to start your research.
@@ -95,7 +95,7 @@ This tutorial was made in the context of the courses Television History Online a
 
   **![](https://lh5.googleusercontent.com/3MHxgFH9Riy3m1Rwm2XEzvl-KLQEhGea2xAbs6Nf2X2lCnh71VXWtNdmecrccNhPFovf0HVoj49uWRQD2XSIGc1SiAYCBpB0w0e8F3l3ErSFvpwoRnUjzN5-jNB2ZhCaSl349sQuuwm9TpUUhXI5RWrgsXbq2H4VnqtsKmXUHDADfrF8ga8IL1my)**
 
-* If you do not have a clip you can use in mind, you may use my example clip. In my search for Interstitials (see my dedicated [curated playlist ](https://mediasuite.clariah.nl/learn/subject-tutorials/curated-playlist-finding-interstitials-in-the-television-archive)here) I found a fascinating clip: a fictional trailer for a film. In this TV-clip of the comedy show *Jiskefet*, a male voice-over announces the non-existing film *La Pluie Sans Droit* of the non-existing French filmmaker Jean-Philippe Le Grain, which will be (not) broadcast the upcoming Saturday on *VPRO Cinema*. I select this clip for my endeavor to reconstruct its genealogy. To find this clip, go to Search Tool, select the Sound and Vision collection of The Netherlands Institute for Sound and Vision, search for ‘Jiskefet film noir’, and bookmark the **second **result: [JISKEFET. Jiskefet 1991](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060044379531&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (see Screenshot above).
+* If you do not have a clip you can use in mind, you may use my example clip. In my search for Interstitials (see my dedicated [curated playlist ](https://mediasuite.clariah.nl/learn/subject-tutorials/curated-playlist-finding-interstitials-in-the-television-archive)here) I found a fascinating clip: a fictional trailer for a film. In this TV-clip of the comedy show *Jiskefet*, a male voice-over announces the non-existing film *La Pluie Sans Droit* of the non-existing French filmmaker Jean-Philippe Le Grain, which will be (not) broadcast the upcoming Saturday on *VPRO Cinema*. I select this clip for my endeavor to reconstruct its genealogy. To find this clip, go to Search Tool, select the Sound and Vision collection of The Netherlands Institute for Sound and Vision, search for ‘Jiskefet film noir’, and bookmark the \*\*second \*\*result: [JISKEFET. Jiskefet 1991](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060044379531&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (see Screenshot above).
 
 * Click on the Jiskefet item and look at the mentioned date. It reads: 1991-09-22.
 
@@ -132,7 +132,7 @@ This tutorial was made in the context of the courses Television History Online a
 
 * The viewing rates are difficult to read. I decided to only use the totals of 13\+, Men 13\+ and Women 13\+ (feel free to also use 6\+) and copy-paste them in a separate table (cf. Table above). KdH refers to Viewing Density and Wrd to viewers’ appreciation. What do we learn from these ratings?
 
-* We notice that the news was broadcast at the exact time: the news of 8 o’ clock starts at 8 sharp, while *Jiskefet* 3 minutes later and *Age Unknown *just one minute later compared to the schedule we found in the newspaper. Can you think of any reasons to explain the differences?
+* We notice that the news was broadcast at the exact time: the news of 8 o’ clock starts at 8 sharp, while *Jiskefet* 3 minutes later and \*Age Unknown \*just one minute later compared to the schedule we found in the newspaper. Can you think of any reasons to explain the differences?
 
 ### Step 5. Analyze date fields with the Collection Inspector Tool
 
@@ -190,19 +190,19 @@ This tutorial was made in the context of the courses Television History Online a
 
 * Repeat steps 3, 4 and 6 for your re-broadcasts
 
-  *  Go to Step 3 and search for the broadcast schedule in the newspaper. In my case, the re-broadcast is of 2006, which means it will quite likely not be in Delpher. I used [NexisUni](https://www.uu.nl/en/university-library/help-in-searching/search-engines-explained/nexis-uni) via my university library of Utrecht and found the broadcast schedule in De Volkskrant of 4 October 2006 on [page 16](https://advance-lexis-com.proxy.library.uu.nl/document/?pdmfid=1516831&crid=1293d2d5-af38-4596-894c-ac6bc5780d0c&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A4M1S-BYD0-TWYV-32G3-00000-00&pdcontentcomponentid=259070&pdteaserkey=sr0&pditab=allpods&ecomp=qzvnk&earg=sr0&prid=a9d6bdff-7f45-49c8-a4af-5b5bdf578699) (see screenshot above).
+  * Go to Step 3 and search for the broadcast schedule in the newspaper. In my case, the re-broadcast is of 2006, which means it will quite likely not be in Delpher. I used [NexisUni](https://www.uu.nl/en/university-library/help-in-searching/search-engines-explained/nexis-uni) via my university library of Utrecht and found the broadcast schedule in De Volkskrant of 4 October 2006 on [page 16](https://advance-lexis-com.proxy.library.uu.nl/document/?pdmfid=1516831&crid=1293d2d5-af38-4596-894c-ac6bc5780d0c&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A4M1S-BYD0-TWYV-32G3-00000-00&pdcontentcomponentid=259070&pdteaserkey=sr0&pditab=allpods&ecomp=qzvnk&earg=sr0&prid=a9d6bdff-7f45-49c8-a4af-5b5bdf578699) (see screenshot above).
 
-    * To arrive there: Go to Publication > type in search term Jiskefet > Type De Volkskrant in \[Title Publication\] and select De Volkskrant from the drop-down menu. Select in \[Tijdlijn\] the date 4 October 2006
+  * To arrive there: Go to Publication > type in search term Jiskefet > Type De Volkskrant in \[Title Publication\] and select De Volkskrant from the drop-down menu. Select in \[Tijdlijn\] the date 4 October 2006
 
-    * Note down: broadcast time, title, description. Also write down what programmes were broadcast before and after.
-
-
-  * Go to Step 4 which is in my case not possible as the Viewing Rates are only available until 1994 while my rebroadcast is from 2006.
-
-  * Go to Step 6. Let’s again dive into the date fields. Open the Full Metadata, and collect the same dates as for the original broadcast, meaning those with “AssetItems”. Use again the Unix converter to convert the dates. For my AssetItem it is: "date_created": 1207949409000 and "date_last_updated": 1569773762194. So, we now know that it was re-broadcast on 4 October 2006 (date/sort date/curated date), digitized on Friday 11 april 2008 23:30:09 Amsterdam time (asset item date created), and the file updated on Sunday 29 September 2019 18:16:02 Amsterdam time (asset item date last updated).
+  * Note down: broadcast time, title, description. Also write down what programmes were broadcast before and after.
 
 
-* Compare your findings with the ones of the original broadcast. Based on the newspaper schedule analysis of Step 3, you notice that *De Afgelopen Jaren* has moved to the channel Nederland 3 and to a Tuesday at 22:45, which is very late. It is squeezed in between a film and a talk show. The description is brief: “Selection” and it has teletext subtitles for the hearing impaired (TT). If we compare the results of Step 6 of the original broadcast with the results of the rebroadcast, we can conclude that both broadcasts have been entered in the system at the same day and time, while the files are updated on a different moment.\
+* Go to Step 4 which is in my case not possible as the Viewing Rates are only available until 1994 while my rebroadcast is from 2006.
+
+* Go to Step 6. Let’s again dive into the date fields. Open the Full Metadata, and collect the same dates as for the original broadcast, meaning those with “AssetItems”. Use again the Unix converter to convert the dates. For my AssetItem it is: "date_created": 1207949409000 and "date_last_updated": 1569773762194. So, we now know that it was re-broadcast on 4 October 2006 (date/sort date/curated date), digitized on Friday 11 april 2008 23:30:09 Amsterdam time (asset item date created), and the file updated on Sunday 29 September 2019 18:16:02 Amsterdam time (asset item date last updated).
+
+
+* Compare your findings with the ones of the original broadcast. Based on the newspaper schedule analysis of Step 3, you notice that *De Afgelopen Jaren* has moved to the channel Nederland 3 and to a Tuesday at 22:45, which is very late. It is squeezed in between a film and a talk show. The description is brief: “Selection” and it has teletext subtitles for the hearing impaired (TT). If we compare the results of Step 6 of the original broadcast with the results of the rebroadcast, we can conclude that both broadcasts have been entered in the system at the same day and time, while the files are updated on a different moment.\\
 
 ### **Step 8. Finding Re-broadcasts on YouTube and the WayBack Machine**
 
@@ -228,6 +228,6 @@ This tutorial was made in the context of the courses Television History Online a
 
 * Did you find the answer? Conduct a web search to learn what happened in 2019. If you would like to know what happened with the video content, click [here](https://jiskefet.nl/watch/176) and [here](https://www.primevideo.com/detail/0U8HRGYOTY90B12GSSLS499KP3/ref=atv_dp_season_select_s6).
 
-* You can repeat this Step 8 also for other YouTube URLs of your own clip. In my case, there are no other YouTube URLs available for the clip as I couldn’t find any fan uploads. I assume there are two reasons for this lack of fan uploads: (1) my clip is not a very ‘classic’ or ‘iconic’ *Jiskefet *clip - ‘iconic’ Jiskefet is rather *Debiteuren/Crediteuren* and *The Lullo’s* for instance, and(2) the copyright holders of *Jiskefet* have successfully prohibited circulation of their material outside their own channels and platforms.
+* You can repeat this Step 8 also for other YouTube URLs of your own clip. In my case, there are no other YouTube URLs available for the clip as I couldn’t find any fan uploads. I assume there are two reasons for this lack of fan uploads: (1) my clip is not a very ‘classic’ or ‘iconic’ \*Jiskefet \*clip - ‘iconic’ Jiskefet is rather *Debiteuren/Crediteuren* and *The Lullo’s* for instance, and(2) the copyright holders of *Jiskefet* have successfully prohibited circulation of their material outside their own channels and platforms.
 
 * Now you have reached the end of the tutorial. You learnt how to conduct data criticism on the metadata field ‘date’ and gained insight in the various forms of repetition and re-use of television programs.
