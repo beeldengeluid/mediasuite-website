@@ -31,8 +31,7 @@ bundle install
 bundle exec jekyll serve
 
 # Now browse to http://127.0.0.1:4000
-
-If you don't want to serve the site on localhost, but just want to build the site and watch for changes, then use this instead of `bundle exec jekyll serve`:
+# If you don't want to serve the site on localhost, but just want to build the site and watch for changes, then use this instead of `bundle exec jekyll serve`:
 
 # Build the source into the /_site directory 
 bundle exec jekyll build
