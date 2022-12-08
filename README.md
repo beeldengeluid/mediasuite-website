@@ -29,7 +29,14 @@ bundle install
 bundle exec jekyll serve
 
 # Now browse to http://127.0.0.1:4000
-```
+
+# Build the source into the /_site directory 
+bundle exec jekyll build
+
+# Watch files for changes and automatically trigger build into /_site directory 
+# (eg. for development in conjunction with clariah-mediasuite)
+bundle exec jekyll build --watch
+``` 
 
 ## Deployment
 
