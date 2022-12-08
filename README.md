@@ -13,6 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 - [RubyGems](https://rubygems.org/pages/download) (which you can check by running `gem -v`)
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (in case your system doesn't have them installed, which you can check by running `gcc -v`,`g++ -v`  and `make -v` in your system's command line interface)
 
+See detailed installation instructions for your operating system at: https://jekyllrb.com/docs/installation/ 
+
 ### Installing
 
 ```sh
@@ -29,6 +31,8 @@ bundle install
 bundle exec jekyll serve
 
 # Now browse to http://127.0.0.1:4000
+
+If you don't want to serve the site on localhost, but just want to build the site and watch for changes, then use this instead of `bundle exec jekyll serve`:
 
 # Build the source into the /_site directory 
 bundle exec jekyll build
