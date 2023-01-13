@@ -2,6 +2,8 @@
 title: The Discovery and Evaluation of Serendipitous Information Encountering in CLARIAH's
   Media Suite (DISCERN) - Media Suite Teaching Fellowship CLARIAH-PLUS (2019-2023)
 date: 2022-09-16 14:57:00 +02:00
+categories:
+- Media Suite Fellowships 2021-22
 position: 2
 ---
 

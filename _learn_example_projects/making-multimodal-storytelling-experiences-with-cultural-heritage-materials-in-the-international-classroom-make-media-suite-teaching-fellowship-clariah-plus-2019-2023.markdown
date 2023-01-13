@@ -3,6 +3,8 @@ title: Making Multimodal Storytelling Experiences with Cultural Heritage Materia
   in the International Classroom (MAKE) - Media Suite Teaching Fellowship CLARIAH-PLUS
   (2019-2023)
 date: 2022-09-16 15:41:00 +02:00
+categories:
+- Media Suite Fellowships 2021-22
 position: 3
 ---
 

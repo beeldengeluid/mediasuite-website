@@ -3,6 +3,8 @@ title: |-
   Decolonising in the Media Suite: A cross-media analysis of race-related
   topics in Dutch media (DeMS-Racism) - Media Suite Teaching Fellowship CLARIAH-PLUS (2019-2023)
 date: 2022-09-16 16:29:00 +02:00
+categories:
+- Media Suite Fellowships 2021-22
 position: 1
 ---
 
