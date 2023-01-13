@@ -1,7 +1,15 @@
 ---
 title: 'Tutorial: Segmenting and Annotating Sesamstraat'
 date: 2023-01-12 18:07:00 +01:00
+introduction: Based on the example of Sesamstraat, the Dutch version of Sesame Street,
+  this tutorial introduces you to ways of using the Media Suite that support archive-based
+  television history teaching and research.
+author: by Grietje Hoogland, Utrecht University, September 2022.
 ---
+
+# Tutorial: Segmenting and Annotating Sesamstraat
+
+![1.png](/uploads/1.png)
 
 Tutorial for CLARIAH Media Suite V 6.4 made by Grietje Hoogland, Utrecht University, September 2022
 
