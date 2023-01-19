@@ -1,7 +1,9 @@
 [![Deploy to mediasuite-acc.rdlabs.beeldengeluid.nl](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/deploy-master-test.yml/badge.svg)](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/deploy-master-test.yml)
 # Media Suite website
 
-This is the code repository for the website https://mediasuite.clariah.nl
+This is the code repository for the website content within the [CLARIAH Media Suite](https://mediasuite.clariah.nl)
+
+The [main code repository](https://github.com/beeldengeluid/clariah-mediasuite) (private) for the Media Suite includes the automatically generated website content (contained in the `_site` directory mentioned below) of this repo [here](https://github.com/beeldengeluid/clariah-mediasuite/tree/master/src/website), however the code and contents of this repo can also function on its own. 
 
 ## Getting Started
 
