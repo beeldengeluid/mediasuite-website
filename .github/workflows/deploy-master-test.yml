@@ -2,7 +2,7 @@ name: Deploy to mediasuite-acc.rdlabs.beeldengeluid.nl
 on:
   push:
     branches:
-      - "master"
+      - "main"
 
 jobs:
   deploy:
