@@ -12,10 +12,10 @@ jobs:
       run: |
         cd /opt/git/x-omgeving/ansible/
         sudo git pull
-    - name: autodeploy to tst with ansible
+    - name: build the static files
       run: |
         cd /opt/git/x-omgeving/ansible/
-        ansible-playbook mediasuite-website-build-test.yml
+        ansible-playbook mediasuite-website-build.yml
     - name: autodeploy to acc with ansible
       run: |
         cd /opt/git/x-omgeving/ansible/
