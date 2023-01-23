@@ -1,0 +1,22 @@
+name: Deploy to mediasuite-test.rdlabs.beeldengeluid.nl
+on:
+  push:
+    branches-ignore:
+      - "main"
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+    - name: Update ansible
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        sudo git pull
+    - name: build the static files
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        ansible-playbook mediasuite-website-build.yml --extra-vars "app_version=${GITHUB_REF##*/}"
+    - name: autodeploy to tst with ansible
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        ansible-playbook mediasuite-website-tst.yml --extra-vars "app_version=${GITHUB_REF##*/}"
