@@ -1,4 +1,4 @@
-name: Deploy to mediasuite-test.rdlabs.beeldengeluid.nl
+name: Deploy to mediasuite-acc.rdlabs.beeldengeluid.nl and mediasuite-test.rdlabs.beeldengeluid.nl
 on:
   push:
     branches-ignore:
@@ -16,6 +16,10 @@ jobs:
       run: |
         cd /opt/git/x-omgeving/ansible/
         ansible-playbook mediasuite-website-build.yml --extra-vars "app_version=${GITHUB_REF##*/}"
+    - name: autodeploy to acc with ansible
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        ansible-playbook mediasuite-website-acc.yml --extra-vars "app_version=${GITHUB_REF##*/}"
     - name: autodeploy to tst with ansible
       run: |
         cd /opt/git/x-omgeving/ansible/
