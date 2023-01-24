@@ -1,4 +1,4 @@
-name: Deploy to mediasuite-acc.rdlabs.beeldengeluid.nl
+name: Build main but do not deploy to mediasuite-acc.rdlabs.beeldengeluid.nl
 on:
   push:
     branches:
@@ -16,7 +16,7 @@ jobs:
       run: |
         cd /opt/git/x-omgeving/ansible/
         ansible-playbook mediasuite-website-build.yml
-    - name: autodeploy to acc with ansible
-      run: |
-        cd /opt/git/x-omgeving/ansible/
-        ansible-playbook mediasuite-website-acc.yml
+    # - name: autodeploy to acc with ansible
+      # run: |
+        # cd /opt/git/x-omgeving/ansible/
+        # ansible-playbook mediasuite-website-acc.yml
