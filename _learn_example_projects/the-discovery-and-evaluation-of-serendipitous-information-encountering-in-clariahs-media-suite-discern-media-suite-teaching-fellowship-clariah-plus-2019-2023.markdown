@@ -39,12 +39,30 @@ In a series of four short video lectures between 5-12 minutes, DISCERN Principal
 
 ***Teaching Materials***
 
-Coming soon.
+The teaching materials below were developed in the context of the project for the BA minor in Digital Humanities at the University of Groningen. Click the links in the overview to access the materials via Zenodo.
 
-***Student Blogposts***
+* [BA Digital Humanities Minor Exploratory Search Task Description](https://zenodo.org/record/7565190#.Y8_LEEHMKHs)
 
-Coming soon.
+* [User Study Assignment](https://zenodo.org/record/7565374#.Y8_PY3aZOHs)
+
+* ![2021_Tools_DH_.pdf](/uploads/2021_Tools_DH_.pdf)
+
+* ![DISCERN Workshop CLARIAH MediaSuite (week 5.1-Intro to Data) (1).pdf](/uploads/DISCERN%20Workshop%20CLARIAH%20MediaSuite%20(week%205.1-Intro%20to%20Data)%20(1).pdf)
+
+* ![DISCERN_Tool_criticism_BA.pdf](/uploads/DISCERN_Tool_criticism_BA.pdf)
+
+The teaching materials below were developed in the context of the project for the MA program Digital Humanities at the University of Groningen:
+
+* ![Lecture_1_DISCERN Workshop CLARIAH MediaSuite.pdf](/uploads/Lecture_1_DISCERN%20Workshop%20CLARIAH%20MediaSuite.pdf)
+
+* ![Lecture_2_DISCERN_Tool_Criticism.pdf](/uploads/Lecture_2_DISCERN_Tool_Criticism.pdf)
+
+* ![Lecture_3_DISCERN_ User research.pdf](/uploads/Lecture_3_DISCERN_%20User%20research.pdf)
+
+* ![Lecture_4_Use case.pdf](/uploads/Lecture_4_Use%20case.pdf)
+
+* ![Assignment_ Tool criticism and the CLARIAH Media Suite.pdf](/uploads/Assignment_%20Tool%20criticism%20and%20the%20CLARIAH%20Media%20Suite.pdf)
 
 ***List of user requirements based on user studies***
 
-Coming soon.
+* ![DISCERN_User_Requirements_List.pdf](/uploads/DISCERN_User_Requirements_List.pdf)

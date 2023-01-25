@@ -9,7 +9,7 @@ position: 12
 introduction: Focusing on the documentary and curatorial work of Dutch architect Herman
   Haan, in this tutorial you will learn how to compile and annotate a corpus of historical
   television documentaries and newspaper articles.
-author: by Norah Karrouche, Vrije Universiteit, August 2022.
+author: Norah Karrouche, Vrije Universiteit
 ---
 
 **Media Suite Tutorial: Creating an Annotated Corpus of Historical Television Documentaries and Newspaper Articles**
