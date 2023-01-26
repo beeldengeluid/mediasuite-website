@@ -23,19 +23,19 @@ In a series of four short video lectures between 5-12 minutes, DISCERN Principal
 
 *Video Lecture 1: Exploratory Search Tasks*
 
-<iframe src="https://player.vimeo.com/video/789024766?h=07075f5eae" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789024766?h=07075f5eae" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 *Video Lecture 2: Tool Criticism Exercise*
 
-<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 *Video Lecture 3: User Case User Study*
 
-<iframe src="https://player.vimeo.com/video/789030776?h=4f21785eb4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789030776?h=4f21785eb4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 *Video Lecture 4: Fellowship Insights & Conclusions*
 
-<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ***Teaching Materials***
 
