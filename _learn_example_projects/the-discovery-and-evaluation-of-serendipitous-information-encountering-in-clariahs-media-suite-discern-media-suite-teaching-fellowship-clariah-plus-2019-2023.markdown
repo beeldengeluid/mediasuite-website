@@ -45,24 +45,22 @@ The teaching materials below were developed in the context of the project for th
 
 * [User Study Assignment](https://zenodo.org/record/7565374#.Y8_PY3aZOHs)
 
-* ![2021_Tools_DH_.pdf](/uploads/2021_Tools_DH_.pdf)
+* [DH As Tool Oriented - Part 1](https://zenodo.org/record/7590902#.Y9lLE3aZOHs)
 
-* ![DISCERN Workshop CLARIAH MediaSuite (week 5.1-Intro to Data) (1).pdf](/uploads/DISCERN%20Workshop%20CLARIAH%20MediaSuite%20(week%205.1-Intro%20to%20Data)%20(1).pdf)
+* [DH As Tool Oriented - Part 2](https://zenodo.org/record/7590954#.Y9lNZnaZOHs)
 
-* ![DISCERN_Tool_criticism_BA.pdf](/uploads/DISCERN_Tool_criticism_BA.pdf)
+* [Data and Cultural Production - Intro to Data Culture](https://zenodo.org/record/7590935#.Y9lMfXaZOHs)
 
 The teaching materials below were developed in the context of the project for the MA program Digital Humanities at the University of Groningen:
 
-* ![Lecture_1_DISCERN Workshop CLARIAH MediaSuite.pdf](/uploads/Lecture_1_DISCERN%20Workshop%20CLARIAH%20MediaSuite.pdf)
+* [Understanding Search & Discovery Using Exploratory Search Tasks](https://zenodo.org/record/7590971#.Y9lO43aZOHt)
 
-* ![Lecture_2_DISCERN_Tool_Criticism.pdf](/uploads/Lecture_2_DISCERN_Tool_Criticism.pdf)
+* [Understanding Search & Serendipitous Discovery Using Tool Criticism](https://zenodo.org/record/7590988#.Y9lQIHaZOHs) 
 
-* ![Lecture_3_DISCERN_ User research.pdf](/uploads/Lecture_3_DISCERN_%20User%20research.pdf)
+* [User Studies: Use Case Development & User research](https://zenodo.org/record/7591006#.Y9lRAnaZOHs)
 
-* ![Lecture_4_Use case.pdf](/uploads/Lecture_4_Use%20case.pdf)
-
-* ![Assignment_ Tool criticism and the CLARIAH Media Suite.pdf](/uploads/Assignment_%20Tool%20criticism%20and%20the%20CLARIAH%20Media%20Suite.pdf)
+* [Tool Criticism and the CLARIAH Media Suite](https://zenodo.org/record/7591018#.Y9lSSHaZOHs)
 
 ***List of user requirements based on user studies***
 
-* ![DISCERN_User_Requirements_List.pdf](/uploads/DISCERN_User_Requirements_List.pdf)
+* [DISCERN User Requirements List for the Media Suite](https://zenodo.org/record/7591026#.Y9lUh3aZOHs)
