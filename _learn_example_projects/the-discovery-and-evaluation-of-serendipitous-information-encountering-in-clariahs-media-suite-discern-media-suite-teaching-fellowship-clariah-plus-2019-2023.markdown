@@ -21,19 +21,19 @@ This Teaching Fellowship proposal aimed at training BA and MA students of the Un
 
 In a series of four short video lectures between 5-12 minutes, DISCERN Principal Investigator Sabrina Sauer guides you through the analysis and evaluation of serendipitous information encountering, covering an introduction to exploratory search (Part 1), the principles and design of a tool critical exercise (Part 2), a user study use case (Part 3), and a final reflection on the insights reached during the fellowship (Part 4).
 
-*Video Lecture 1: Exploratory Search Tasks*
+***Video Lecture 1: Exploratory Search Tasks***
 
 <iframe src="https://player.vimeo.com/video/789024766?h=07075f5eae" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-*Video Lecture 2: Tool Criticism Exercise*
+***Video Lecture 2: Tool Criticism Exercise***
 
 <iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-*Video Lecture 3: User Case User Study*
+***Video Lecture 3: User Case User Study***
 
 <iframe src="https://player.vimeo.com/video/789030776?h=4f21785eb4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-*Video Lecture 4: Fellowship Insights & Conclusions*
+***Video Lecture 4: Fellowship Insights & Conclusions***
 
 <iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
