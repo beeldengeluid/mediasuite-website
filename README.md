@@ -17,6 +17,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 See detailed installation instructions for your operating system at: https://jekyllrb.com/docs/installation/ 
 
+### Example for Ubuntu
+
+```sh
+sudo apt install ruby-full build-essential zlib1g-dev
+```
+
+Setup Ruby Gems installation directory
+
+```sh
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
 ### Installing
 
 ```sh
