@@ -5,7 +5,7 @@ title: |-
 date: 2022-09-16 16:29:00 +02:00
 categories:
 - Media Suite Fellowships 2021-22
-position: 4
+position: 3
 ---
 
 # Decolonising in the Media Suite: A cross-media analysis of race-related topics in Dutch media

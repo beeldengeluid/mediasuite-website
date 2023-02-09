@@ -4,7 +4,7 @@ title: Teaching Rich Archival and Curational Explorations in CLARIAH’s Media S
 date: 2022-09-16 16:43:00 +02:00
 categories:
 - Media Suite Fellowships 2021-22
-position: 0
+position: 1
 ---
 
 # **Teaching Rich Archival and Curational Explorations in CLARIAH’s Media Suite (TRACE)**
