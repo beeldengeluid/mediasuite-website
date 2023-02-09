@@ -1,5 +1,6 @@
 ---
 title: Problem-Based Learning as a Model for Teaching Visual and Archival Literacy
+  - Media Suite Teaching Fellowship CLARIAH-PLUS (2019-2023)
 date: 2022-09-16 16:02:00 +02:00
 categories:
 - Media Suite Fellowships 2021-22
