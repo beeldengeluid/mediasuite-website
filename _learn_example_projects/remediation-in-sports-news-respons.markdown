@@ -3,7 +3,7 @@ title: Remediation in Sports News (ReSpoNs) - CLARIAH-CORE (2015-2018)
 date: 2021-01-13 15:42:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018
-position: 8
+position: 9
 introduction: '"Remediation in Sports News" (University of Groningen) studied how
   sports journalism in newspapers has changed in response to the rise of television
   between 1959 and 1989.'

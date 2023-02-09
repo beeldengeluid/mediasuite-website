@@ -4,7 +4,7 @@ title: 'Me and Myself: Tracing first person in documentary history in AV-collect
 date: 2021-01-13 13:12:00 +01:00
 categories:
 - Research Pilot Projects 2017-2018
-position: 4
+position: 5
 introduction: '"Me and Myself: Tracing first person in documentary history in AV-collections"
   traced the transformation in Dutch documentary from traditional objective documentary
   as a fair and fact minded genre towards one with an appreciation for a more personal
