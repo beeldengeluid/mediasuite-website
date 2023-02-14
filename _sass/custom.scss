@@ -148,3 +148,9 @@ article.tutorial img {
 .gsc-control-cse {
 	font-family: 'Open Sans', Roboto, sans-serif !important;
 }
+
+// iFrame border
+
+iframe {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+}
