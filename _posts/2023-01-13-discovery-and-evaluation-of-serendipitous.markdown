@@ -12,9 +12,9 @@ In 2022, three researchers from the Media Studies department at the University o
 
 The premise of DISCERN is that Digital tools shape Digital Humanities’ research practices, including habits of searching for and evaluating source materials, and ultimately, the discovery of new ideas and theories. Serendipity, seen as the unexpected yet fruitful encountering of information, plays a large role in scientific processes of discovery (Copeland, 2019). Research into serendipitous information encountering has focused on the role of user engagement (O’Brien & Toms, 2008, O’Brien, 2018) and usability (Buchanan et al, 2020) to explain how serendipity can be supported in online environments. Other studies underline serendipity’s role in narrative development processes in print media journalism (Bird-Meyer et al, 2019) and television production practices (Sauer, 2017) and frame serendipity not as the outcome of information encountering, but rather as part of an ongoing research process (McCay-Peet & Toms, 2010).
 
-<iframe src="https://player.vimeo.com/video/789024766?h=07075f5eae" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789024766?h=07075f5eae" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 The CLARIAH Media Suite offers (digital) humanities researchers the possibility to search, explore, and encounter sources using different digital tools. Users can furthermore annotate, save and export search results to their own Workspace. This project sought to teach Bachelor (BA) and Master (MA) students of the University of Groningen (RUG)’s Digital Humanities programmes how the Media Suite affords serendipitous information encountering, and what this means in terms of how the Media Suite supports new research discoveries.
 Learning about how the Media Suite affords serendipitous information encountering is important to Digital Humanities students on three levels:
@@ -24,7 +24,7 @@ Learning about how the Media Suite affords serendipitous information encounterin
 
 This project takes a socio-material perspective (Orlikowski, 2007) to teach students about what serendipitous information encountering within digital infrastructures like the Media Suite tells us about contemporary digital (re)search practices. This means that use of the Media Suite cannot be understood without taking the user context into account; the social and material mutually inform the research process. Consistent with the view that serendipitous information encountering and discovery are processes, the project’s implicit question is, how does the Media Suite facilitate this socio-material, serendipitous, discovery process?
 
-<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 In line with conclusions drawn from recent studies into serendipitous information encountering in digital archives (Ezell & Rosenbloom, 2021), and based on the insights of Sauer & Hagedoorn’s previous CLARIAH pilot project into how the Media Suite’s Explore tool affords unexpected insights by means of exploratory search and the Explore tool (Hagedoorn & Sauer, 2018), this Teaching Fellowship provides (digital) humanities students with an educational package to answer the main research questions:
 How does CLARIAH’s Media Suite facilitate serendipitous information encountering?
@@ -50,7 +50,7 @@ A fourth insight was that “tool abandonment” also occurred regularly; it see
 
 The CLARIAH Media Suite helped students better understand how tools can frame and facilitate unexpected discoveries, and how serendipitous information encountering is not something that happens accidentally, bus also depends on how experienced a user is in “playing” with particular tools.
 
-<iframe src="https://player.vimeo.com/video/789030776?h=4f21785eb4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789030776?h=4f21785eb4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **References
 **
