@@ -2,7 +2,6 @@
 title: 'Tutorial: Searching and analysing the Sound and Vision Radio Collection using
   Automatic Speech Recognition'
 date: 2023-02-16 18:08:00 +01:00
-published: false
 author: Alexander Badenoch, Utrecht University
 ---
 
@@ -112,13 +111,13 @@ By way of comparison: **try doing the same search only in the archival metadata 
 
 * As you have seen in the exercises above, searching in the ASR layer can quickly generate a corpus of potentially useful records relating to public discussions on specific topics.  Besides reading this corpus ‘distantly’ for broader trends, the ASR transcripts will allow you to explore transcriptions of a number of broadcasts up close. **This can serve both *analytical* and *data-critical* purposes.**  In this section, we will think about both.
 
-* Before zooming in to examine individual records, it will be useful to ***filter***** results manually by doing an initial scan of the list of records.** To see how this can work, type the ESC tabulation catch phrase “douze points” \[twelve points\] (using quotation marks to ensure that the words are used together in the search and not separately as an OR query). See the image below.   You will get a short list of records, with the search terms appearing **in orange bold type.** It is worth noting, based on your results, that certain non-Dutch words, particularly numbers in other languages, are also within the recognized vocabularies and can sometimes be used to locate other languages. Particularly if you speak Dutch, you can quickly scan to see which of these results will be relevant to a query about Eurovision.
+* Before zooming in to examine individual records, it will be useful to ***filter***\*\* results manually by doing an initial scan of the list of records.\*\* To see how this can work, type the ESC tabulation catch phrase “douze points” \[twelve points\] (using quotation marks to ensure that the words are used together in the search and not separately as an OR query). See the image below.   You will get a short list of records, with the search terms appearing **in orange bold type.** It is worth noting, based on your results, that certain non-Dutch words, particularly numbers in other languages, are also within the recognized vocabularies and can sometimes be used to locate other languages. Particularly if you speak Dutch, you can quickly scan to see which of these results will be relevant to a query about Eurovision.
 
   * What do you notice about some of the entries?
 
   * If you are not a Dutch speaker, can you also see which one(s) might or might not be useful?
 
-* In a further step, we will look more closely at what you might be able to do to work with the material as a non-Dutch speaker.\
+* In a further step, we will look more closely at what you might be able to do to work with the material as a non-Dutch speaker.\\
 
 **![](https://lh6.googleusercontent.com/v-G2eYnOjOHszAVCariOyh2iF3lKloTIgVeNImNhgw5UqW9B_BsmyDDxKR3LFJcMLtt1dsr4xtMw-yiQuiXIPESFLzB35SzBIq3XLCmcz0sWEw5fmPyNXBliCOdOFCXdDQg6EhMuCSYPLydfqVsw4g)**
 
