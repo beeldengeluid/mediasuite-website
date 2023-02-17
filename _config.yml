@@ -64,7 +64,8 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: blog
+    layout: post
+    introduction:
     menu: blog
     permalink: "/blog/:year/:month/:day/:title"
 - scope:
@@ -167,7 +168,7 @@ defaults:
     menu: learn
     introduction: 
     author: 
-version: v5.3
+version: v6.6
 url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl
 markdown: kramdown
