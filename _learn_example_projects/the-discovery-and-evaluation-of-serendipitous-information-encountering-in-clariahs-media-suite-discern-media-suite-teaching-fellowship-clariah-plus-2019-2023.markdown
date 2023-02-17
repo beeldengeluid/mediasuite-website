@@ -4,7 +4,7 @@ title: The Discovery and Evaluation of Serendipitous Information Encountering in
 date: 2022-09-16 14:57:00 +02:00
 categories:
 - Media Suite Fellowships 2021-22
-position: 1
+position: 0
 ---
 
 # The Discovery and Evaluation of Serendipitous Information Encountering in CLARIAH’s Media Suite

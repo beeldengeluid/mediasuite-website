@@ -5,7 +5,7 @@ title: Making Multimodal Storytelling Experiences with Cultural Heritage Materia
 date: 2022-09-16 15:41:00 +02:00
 categories:
 - Media Suite Fellowships 2021-22
-position: 0
+position: 1
 ---
 
 **Principle Investigator:** Dr. Berber Hagedoorn, Assistant Professor Media Studies & Audiovisual Culture (RUG), b.hagedoorn@rug.nl
