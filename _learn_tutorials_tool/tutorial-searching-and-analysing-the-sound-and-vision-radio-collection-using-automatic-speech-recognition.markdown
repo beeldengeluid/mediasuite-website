@@ -2,10 +2,16 @@
 title: 'Tutorial: Searching and analysing the Sound and Vision Radio Collection using
   Automatic Speech Recognition'
 date: 2023-02-16 18:08:00 +01:00
+tags:
+- ASR
+- Search
+- Compare
 author: Alexander Badenoch, Utrecht University
 ---
 
 ## Tutorial: Searching and analysing the Sound and Vision Radio Collection using Automatic Speech Recognition
+
+Alexander Badenoch, Utrecht University, Februari 2023
 
 [Automatic Speech Recognition](https://en.wikipedia.org/wiki/Speech_recognition#End-to-end_automatic_speech_recognition) (ASR) is a technique used to identify and transcribe human speech into text. Like platforms for audiovisual contents (YouTube, Netflix), the Media Suite provides a search functionality to search within ASR-transcript of television and radio. In addition to archival metadata, ASR provides a ‘textual’ access point to the spoken contents of audio or audiovisual files, which renders it comparable in many ways to full-text search of print sources such as newspapers and books.
 
