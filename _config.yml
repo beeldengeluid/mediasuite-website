@@ -65,7 +65,7 @@ defaults:
     type: posts
   values:
     layout: post
-    introduction:
+    introduction: 
     menu: blog
     permalink: "/blog/:year/:month/:day/:title"
 - scope:

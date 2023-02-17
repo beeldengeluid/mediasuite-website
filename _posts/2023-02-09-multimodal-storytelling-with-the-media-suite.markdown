@@ -2,7 +2,10 @@
 title: Multimodal Storytelling with the Media Suite in the International Classroom
 date: 2023-02-09 15:21:00 +01:00
 layout: post
-introduction: In this blog post, we reflect on the use of the Media Suite for multimodal storytelling practices in the international classroom. The CLARIAH Media Suite combines Dutch media data collections and makes audiovisual material from Dutch audiovisual collections more accessible for higher education.
+introduction: In this blog post, we reflect on the use of the Media Suite for multimodal
+  storytelling practices in the international classroom. The CLARIAH Media Suite combines
+  Dutch media data collections and makes audiovisual material from Dutch audiovisual
+  collections more accessible for higher education.
 ---
 
 Berber Hagedoorn & Iris Baas

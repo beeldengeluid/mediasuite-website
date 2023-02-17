@@ -3,7 +3,10 @@ title: The Discovery and Evaluation of Serendipitous Information Encountering in
   Media Suite
 date: 2023-01-13 17:03:00 +01:00
 layout: post
-introduction: In 2022, three researchers from the Media Studies department at the University of Groningen (RUG) completed three Teaching Fellowships - grouped together under the name “Suite Discoveries” investigating how the CLARIAH Media Suite can be integrated into teaching at both the Bachelor as well as the Master level.
+introduction: In 2022, three researchers from the Media Studies department at the
+  University of Groningen (RUG) completed three Teaching Fellowships - grouped together
+  under the name “Suite Discoveries” investigating how the CLARIAH Media Suite can
+  be integrated into teaching at both the Bachelor as well as the Master level.
 ---
 
 *Sabrina Sauer, University of Groningen*
