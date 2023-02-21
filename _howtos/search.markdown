@@ -33,7 +33,7 @@ In this help menu you will learn How To:
 
 ### <a name="screencast"></a>Use the Search tool
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cA7c53e-MAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="CLARIAH Media Suite screencast: Search" width="560" height="315" src="https://peertube.beeldengeluid.nl/videos/embed/5d84691d-1206-4b45-9080-1b2bb1aebbd3?title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 ### <a name="data"></a>Know which data used by the Search tool
 
@@ -252,6 +252,6 @@ Sometimes, however, you may want to keep the facet selections. For example, if y
 
 * Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](/documentation/howtos/bookmark) in the Documentation.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2fVNz6eh6Sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="CLARIAH Media Suite screencast: Bookmark" width="560" height="315" src="https://peertube.beeldengeluid.nl/videos/embed/2692416b-cf50-4879-9110-3f7c9e1d7640?title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 > **Please use our [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby) if you miss content in this page or if you find any issues while using the Media Suite.**

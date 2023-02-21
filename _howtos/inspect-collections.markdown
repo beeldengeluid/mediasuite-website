@@ -15,7 +15,7 @@ It is important to have clear that the collection inspector does not give search
 
 ### How to use
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NSAHVlqhesw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="CLARIAH Media Suite, metadata inspection tool" width="560" height="315" src="https://peertube.beeldengeluid.nl/videos/embed/086342b7-ccdf-41db-9ea5-f336ad70d708?title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 
 1. When you open the Inspect tool you will find a button to add a Collection. This opens the "Collection selector," where you can see the available collections (see [FAQ section: What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data))
