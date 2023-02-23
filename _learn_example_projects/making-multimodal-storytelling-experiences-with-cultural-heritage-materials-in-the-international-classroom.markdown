@@ -78,4 +78,4 @@ Students participate and reflect in small focus groups on "sharing stories about
 
 *Blog Post*
 
-* [Multimodal Storytelling with the Media Suite in the International Classroom](mediasuite.clariah.nl/blog/2023/02/09/multimodal-storytelling-with-the-media-suite)
+* [Multimodal Storytelling with the Media Suite in the International Classroom](https://mediasuite.clariah.nl/blog/2023/02/09/multimodal-storytelling-with-the-media-suite)
