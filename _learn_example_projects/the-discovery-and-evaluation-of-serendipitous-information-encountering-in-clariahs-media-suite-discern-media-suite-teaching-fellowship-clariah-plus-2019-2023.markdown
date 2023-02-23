@@ -67,4 +67,4 @@ The teaching materials below were developed in the context of the project for th
 
 *Blog Post*
 
-* [The Discovery and Evaluation of Serendipitous Information Encountering in CLARIAH's Media Suite](mediasuite.clariah.nl/blog/2023/01/13/discovery-and-evaluation-of-serendipitous)
+* [The Discovery and Evaluation of Serendipitous Information Encountering in CLARIAH's Media Suite](https://mediasuite.clariah.nl/blog/2023/01/13/discovery-and-evaluation-of-serendipitous)
