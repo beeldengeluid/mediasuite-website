@@ -8,7 +8,7 @@ author: Jasmijn van Gorp, Utrecht University
 # **Tutorial: Reconstructing the Genealogy of a TV-Clip**
 
 Jasmijn van Gorp, Utrecht University \
-\
+
 
 ## Tutorial description, case and objectives
 
