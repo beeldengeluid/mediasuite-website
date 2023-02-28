@@ -9,4 +9,4 @@ jobs:
     - name: autodeploy to tst with ansible
       run: |
         cd /opt/git/x-omgeving/ansible/
-        ansible-playbook mediasuite-website-tst.yml --extra-vars "app_version=${GITHUB_REF##*/}"
+        ansible-playbook mediasuite-website-test.yml --extra-vars "app_version=${GITHUB_REF##*/}"
