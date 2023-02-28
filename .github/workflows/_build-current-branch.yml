@@ -1,0 +1,16 @@
+name: Update ansible and build the static files for this branch
+on:
+  workflow_call:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+    - name: Update ansible
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        sudo git pull
+    - name: build the static files
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        ansible-playbook mediasuite-website-build.yml --extra-vars "app_version=${GITHUB_REF##*/}"

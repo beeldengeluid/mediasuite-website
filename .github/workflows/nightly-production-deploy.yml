@@ -1,4 +1,4 @@
-name: Deploy to mediasuite.clariah.nl
+name: Deploy main branch to mediasuite.clariah.nl at night
 
 on:
   schedule:

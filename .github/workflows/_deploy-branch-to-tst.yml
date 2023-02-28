@@ -1,0 +1,12 @@
+name: Deploy branch to mediasuite-tst.rdlabs.beeldengeluid.nl
+on:
+  workflow_call:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+    - name: autodeploy to tst with ansible
+      run: |
+        cd /opt/git/x-omgeving/ansible/
+        ansible-playbook mediasuite-website-tst.yml --extra-vars "app_version=${GITHUB_REF##*/}"
