@@ -1,0 +1,9 @@
+name: Build main branch on push, delay deploy until night
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    uses: ./.github/workflows/_build-current-branch.yml
