@@ -1,0 +1,19 @@
+name: Build pam-tool-v1 branch on push
+on:
+  push:
+    branches:
+      - pam-tool-v1
+
+jobs:
+  build:
+    uses: ./.github/workflows/_build-current-branch.yml
+
+  # Uncomment this job to deploy pam-tool-v1 to tst on push
+  # deploy-tst:
+    # uses: ./.github/workflows/_deploy-branch-to-tst.yml
+    # needs: [build]
+    
+  # Uncomment this job to deploy pam-tool-v1 to acc on push
+  # deploy-acc:
+    # uses: ./.github/workflows/_deploy-branch-to-acc.yml
+    # needs: [build]
