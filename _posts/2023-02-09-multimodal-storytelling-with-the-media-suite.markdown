@@ -1,11 +1,11 @@
 ---
 title: Multimodal Storytelling with the Media Suite in the International Classroom
 date: 2023-02-09 15:21:00 +01:00
-layout: post
 introduction: In this blog post, we reflect on the use of the Media Suite for multimodal
   storytelling practices in the international classroom. The CLARIAH Media Suite combines
   Dutch media data collections and makes audiovisual material from Dutch audiovisual
   collections more accessible for higher education.
+layout: post
 ---
 
 Berber Hagedoorn & Iris Baas
@@ -96,40 +96,41 @@ One way to aid students in this process is to let the students make groups with 
 Reflection
 When using the Media Suite in an international classroom there are various aspects to consider. Without additional aid the tool, in its current form, does not lend itself for efficient and effective use in an international environment. Non-Dutch speakers have to use additional tools in order to translate the tool more completely or properly. This is a resolvable obstacle that would increase the usability of the tool significantly for non-Dutch speakers. Secondly, as most of the content found within the Media Suite is also in Dutch, this has prevented the students from using all affordances and possibilities the Media Suite offers to their full extent. For example, the ‘subtitles’ option for video material was extremely lacking in quality compared to the subtitles for Dutch content, making it almost impossible for non-Dutch speaking students to use this option. While students demonstrated creative ways to work with the materials, they felt the language barrier has prevented them from employing the tool to its full potential. We found that students were stimulated by the tool to rethink their research process and be more aware of the influence of tool use in their research. Thus, for the students the tool has contributed to critical thinking and search skills that are necessary for research in our contemporary media landscape, there is definitely room for improvement for the tool to be of additional use in the international classroom. Especially as thinking about strategies in working with archives is "working the other way around", and in this manner, students are learning professional skills for storytelling, including digital search.
 
-\*\*Acknowledgements
-\*\*With thanks to Susan Aasman, Sabrina Sauer, Lisenka Bakker & CLARIAH team.
+**Acknowledgements
+**With thanks to Susan Aasman, Sabrina Sauer, Lisenka Bakker & CLARIAH team.
 
 **References**
 
-Belmonte, M. I., Molina, S., & Porto, D. (2013). Multimodal digital storytelling: Integrating information, emotion and social cognition. Review of Cognitive Linguistics, 11. https://doi.org/10.1075/rcl.11.2.10alo
+* Belmonte, M. I., Molina, S., & Porto, D. (2013). Multimodal digital storytelling: Integrating information, emotion and social cognition. Review of Cognitive Linguistics, 11. https://doi.org/10.1075/rcl.11.2.10alo
 
-Bou-Franch, P. (2012). Multimodal Discourse Strategies of Factuality and Subjectivity in Educational Digital Storytelling. Digital Education Review. https://eric.ed.gov/?id=EJ996783
+* Bou-Franch, P. (2012). Multimodal Discourse Strategies of Factuality and Subjectivity in Educational Digital Storytelling. Digital Education Review. https://eric.ed.gov/?id=EJ996783
 
-Brailas, Alexios. Digital storytelling in the classroom: How to tell students to tell a story. International Journal of Teaching and Case Studies 8.1 (2017): 16-28.
+* Brailas, Alexios. Digital storytelling in the classroom: How to tell students to tell a story. International Journal of Teaching and Case Studies 8.1 (2017): 16-28.
 
-CLARIAH Media Suite - What is the CLARIAH Media Suite? (n.d.). Accessed 12 January 2023, available at: https://mediasuite.clariah.nl/documentation/faq/what-is-it\
-Elleström L. (2019). Transmedial narration: narratives and stories in different media. Springer International Publishing. https://doi.org/10.1007/978-3-030-01294-6
+* CLARIAH Media Suite - What is the CLARIAH Media Suite? (n.d.). Accessed 12 January 2023, available at: https://mediasuite.clariah.nl/documentation/faq/what-is-it
 
-Grant, C. (2014). The audiovisual essay: my favorite things. \[in\] Transition: Journal of Videographic Film and Moving Image Studies, 1(3). https://reframe.sussex.ac.uk/audiovisualessay/reflections/intransition-1-3/catherine-grant/
+* Elleström L. (2019). Transmedial narration: narratives and stories in different media. Springer International Publishing. https://doi.org/10.1007/978-3-030-01294-6
 
-Hagedoorn, B., & Sauer, S. (2018). The researcher as storyteller: using digital tools for search and storytelling with audio-visual materials. VIEW Journal of European Television History and Culture, 7(14), 150-170. https://www.viewjournal.eu/articles/abstract/200/
+* Grant, C. (2014). The audiovisual essay: my favorite things. \[in\] Transition: Journal of Videographic Film and Moving Image Studies, 1(3). https://reframe.sussex.ac.uk/audiovisualessay/reflections/intransition-1-3/catherine-grant/
 
-Hagedoorn, B., Iakovleva, K. and Tatsi, I. (2019). Data science contextualization for storytelling and creative reuse with Europeana 1914-1918. Europeana Research Grants Final Report. University of Groningen, 21 July 2019, abridged version.
+* Hagedoorn, B., & Sauer, S. (2018). The researcher as storyteller: using digital tools for search and storytelling with audio-visual materials. VIEW Journal of European Television History and Culture, 7(14), 150-170. https://www.viewjournal.eu/articles/abstract/200/
 
-Hinck, A. (2013). Framing the video essay as argument. The Cinema Journal Teaching Dossier, 1(2). https://teachingmedia.org/framing-the-video-essay-as-argument/
+* Hagedoorn, B., Iakovleva, K. and Tatsi, I. (2019). Data science contextualization for storytelling and creative reuse with Europeana 1914-1918. Europeana Research Grants Final Report. University of Groningen, 21 July 2019, abridged version.
 
-Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2015, May). On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges. In EuroVis (STARs) (pp. 83-103).
+* Hinck, A. (2013). Framing the video essay as argument. The Cinema Journal Teaching Dossier, 1(2). https://teachingmedia.org/framing-the-video-essay-as-argument/
 
-Jokhio, R. A., & Siddiqui, A. (2020). Investigating the Impacts of Digital Humanities on the Academic Performance of Second Language Teachers and Learners in Institute of English Language and Literature, University of Sindh, Jamshoro. International Research Journal of Arts and Humanities, 48(48), 237.
+* Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2015, May). On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges. In EuroVis (STARs) (pp. 83-103).
 
-Moretti, F. (2000). Conjectures on world literature. New Left Review 1, 54.
+* Jokhio, R. A., & Siddiqui, A. (2020). Investigating the Impacts of Digital Humanities on the Academic Performance of Second Language Teachers and Learners in Institute of English Language and Literature, University of Sindh, Jamshoro. International Research Journal of Arts and Humanities, 48(48), 237.
 
-Rosenblum, B., Devlin, F., Albin, T., & Garrison, W. (2016). Collaboration and coteaching: Librarians teaching digital humanities in the classroom. In A. Hartsell-Gundy, L. Braunstein, & L. Golomb (Eds.), Digital humanities in the library: Challenges and opportunities for subject specialists (pp. 151–175). Association of College and Research Libraries.
+* Moretti, F. (2000). Conjectures on world literature. New Left Review 1, 54.
 
-Sauer, S. (2017). Audiovisual Narrative Creation and Creative Retrieval: How Searching for a Story Shapes the Story. Journal of Science and Technology of the Arts, 9(2), 37-46. https://journals.ucp.pt/index.php/jsta/article/view/7287
+* Rosenblum, B., Devlin, F., Albin, T., & Garrison, W. (2016). Collaboration and coteaching: Librarians teaching digital humanities in the classroom. In A. Hartsell-Gundy, L. Braunstein, & L. Golomb (Eds.), Digital humanities in the library: Challenges and opportunities for subject specialists (pp. 151–175). Association of College and Research Libraries.
 
-Spence, P. J. & Brandao, R., (2021) Towards Language Sensitivity and Diversity in the Digital Humanities. Digital Studies / Le champ numérique 11(1). doi: https://doi.org/10.16995/dscn.8098
+* Sauer, S. (2017). Audiovisual Narrative Creation and Creative Retrieval: How Searching for a Story Shapes the Story. Journal of Science and Technology of the Arts, 9(2), 37-46. https://journals.ucp.pt/index.php/jsta/article/view/7287
 
-Sylaiou, S. & Dafiotis P. (2020). Storytelling in Virtual Museums: Engaging A Multitude of Voices. In: F. Liarokapis et al (Eds.) Visual Computing for Cultural Heritage. Springer, pp. 369-388. https://doi.org/10.1007/978-3-030-37191-3
+* Spence, P. J. & Brandao, R., (2021) Towards Language Sensitivity and Diversity in the Digital Humanities. Digital Studies / Le champ numérique 11(1). doi: https://doi.org/10.16995/dscn.8098
 
-Wyman, B., Smith, S., Meyers, D., & Godfrey, M. (2011). Digital storytelling in museums: observations and best practices. Curator: The Museum Journal, 54(4), 461–468. https://doi.org/10.1111/j.2151-6952.2011.00110.x
+* Sylaiou, S. & Dafiotis P. (2020). Storytelling in Virtual Museums: Engaging A Multitude of Voices. In: F. Liarokapis et al (Eds.) Visual Computing for Cultural Heritage. Springer, pp. 369-388. https://doi.org/10.1007/978-3-030-37191-3
+
+* Wyman, B., Smith, S., Meyers, D., & Godfrey, M. (2011). Digital storytelling in museums: observations and best practices. Curator: The Museum Journal, 54(4), 461–468. https://doi.org/10.1111/j.2151-6952.2011.00110.x
