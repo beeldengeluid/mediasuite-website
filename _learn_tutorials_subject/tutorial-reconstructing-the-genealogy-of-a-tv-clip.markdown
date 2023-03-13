@@ -15,7 +15,7 @@ Jasmijn van Gorp, Utrecht University
 
 In this tutorial I provide some steps for critically questioning and interrogating the tendency to use initial broadcasting dates of television programs as the one and only identifying date. I will focus on the different transformations of a particular program -in this case a television clip- to illustrate its different timely appearances in digital archives. I will not only focus on rebroadcasts and reuse, but also on archival transformations of the record. The latter is important because, as archival scholar Eric Ketelaar (2001) reminds us, each record is transformed throughout the archival process, which leaves traces behind. By looking at the different metadata transformations of the same item, we aim to -again following Ketelaar (2001)- reconstruct ‘the semantic genealogy of the record’.
 
-By following the steps in this tutorial, the reader will gain a better understanding of the archival processes affecting the record and, therefore, obtain some basic ‘video forensic’ skills that can help in assessing a video’s origins. Within media and culture studies, such  skills can be situated in the method of ‘source criticism’ (media history) or ‘data criticism’ (critical data studies). This tutorial specifically focuses on criticism of the \*\*time/date allocation \*\*of a video.
+By following the steps in this tutorial, the reader will gain a better understanding of the archival processes affecting the record and, therefore, obtain some basic ‘video forensic’ skills that can help in assessing a video’s origins. Within media and culture studies, such  skills can be situated in the method of ‘source criticism’ (media history) or ‘data criticism’ (critical data studies). This tutorial specifically focuses on criticism of the **time/date allocation** of a video.
 
 In this tutorial you will learn how to use the CLARIAH Media Suite and other digital archives such as Delpher and the WayBack Machine to reconstruct the genealogy of a TV-clip. Upon completing the tutorial you will:
 
@@ -47,7 +47,7 @@ Recommended reading:
 
 For lecturers teaching this tutorial
 
-* I recommend consulting my article on Interstitial Data, from which this tutorial is derived: Van Gorp, J. (2022) Interstitial Data: Tracing Metadata in Search Systems. In Verhoeff, N. & van Es, K (eds.) Situating Data: A Cultural Inquiry. Amsterdam: Amsterdam University Press. Forthcoming.
+* I recommend consulting my article on Interstitial Data, from which this tutorial is derived: Van Gorp, J. (2022) Interstitial Data: Tracing Metadata in Search Systems. In Verhoeff, N. & van Es, K (eds.) [Situating Data: Inquiries in Algorithmic Culture](https://www.aup.nl/en/book/9789463722971/situating-data). Amsterdam: Amsterdam University Press. Forthcoming.
 
 * I also created a more basic and shorter version of this tutorial. In this set-up, I have divided the classroom in two in which one group worked with the 1991 broadcast and one group with the 2006 broadcast. In the discussion we compared the results of both groups. **Handouts** for this set-up can be downloaded [here](https://docs.google.com/document/d/1WyS_FsDN-KijWpKkaOpsy5DxXgaDNdbyFQa98JYuiZk/edit) (1991 clip) and [here](https://docs.google.com/document/d/1EXQ4KzkdsnpqNBWXu7MIpTaGAZ3WdB4sfR3CFwFCnEk/edit) (2006 clip). The duration of this short version is about 30 minutes for the practical part and 15 minutes for the discussion (45 minutes in total).
 
@@ -65,7 +65,7 @@ This tutorial may be used for a workshop series with or as part of a tutorial pa
 
 ### Acknowledgements
 
-This tutorial was made in the context of the courses Television History Online and Data as Media at Utrecht University and for workshops within the CLICK-NL project RE-FRAME.
+This tutorial was made in the context of the courses Television History Online and Data as Media at Utrecht University and for workshops within the [CLICK-NL project RE-FRAME](https://www.clicknl.nl/case/pps-projecten-re-frame/).
 
 ## Steps
 
