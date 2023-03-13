@@ -222,7 +222,7 @@ This tutorial was made in the context of the courses Television History Online a
 
   **![](https://lh3.googleusercontent.com/ujNO-HSqHw8-Jzz26axMIvSwVpwgrS_DdwW-Ctn4GtgLDwjFLSCAXGFu6rHLoLNPjSUnDX0Y-malYn27kaaTot4Q8i6mHuiP_Iy1a1xw2rdJstbMAQiY7unu1gQnrJng2HBNnBfRjooilqkhKcdv3Jba2nyh9uFFXUCPwPMY79WzSnzad1mt-27t)**
 
-* In our case, the video is not there anymore. Let’s investigate what happened with the video upload on YouTube. Update 2023: it seems that the video is back online.
+* In our case, the video is not there anymore. Let’s investigate what happened with the video upload on YouTube. UPDATE 2023: it seems that the video is back online.
 
 * To do this, search on google to retrieve the exact URL of the Jiskefet YouTube channel. That is: [https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w](https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w). Use this URL for the WaybackMachine.
 
@@ -230,7 +230,7 @@ This tutorial was made in the context of the courses Television History Online a
 
 * Now skip through all captions and stop at the archived web page of [28 August 2019](https://web.archive.org/web/20190828192812/https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w). What happened with the Jiskefet Film Noir clip? Do you know why? Then try to skip further. What happens? What does this mean?
 
-* Did you find the answer? Conduct a web search to learn what happened in 2019. If you would like to know what happened with the video content, click [here](https://jiskefet.nl/watch/176) and [here](https://www.primevideo.com/detail/0U8HRGYOTY90B12GSSLS499KP3/ref=atv_dp_season_select_s6). Update  2023: it seems that in 2023 the clip was again made visible on YouTube. In addition, the Jiskefet platform seems to have changed its policy in 2023 and installed a payed membership-system in which members (1) could watch videos without commercial breaks and (2) receive special content. On their YouTube channel they encourage viewers to watch the full episodes on their own platform.
+* Did you find the answer? Conduct a web search to learn what happened in 2019. If you would like to know what happened with the video content, click [here](https://jiskefet.nl/watch/176) and [here](https://www.primevideo.com/detail/0U8HRGYOTY90B12GSSLS499KP3/ref=atv_dp_season_select_s6). UPDATE 2023: it seems that in 2023 the clip was again made visible on YouTube. In addition, the Jiskefet platform seems to have changed its policy in 2023 and installed a paid membership-system in which members (1) could watch videos without commercial breaks and (2) receive special content. On their YouTube channel they encourage viewers to watch the full episodes on their own platform.
 
 * You can repeat this Step 8 also for other YouTube URLs of your own clip. In my case, there are no other YouTube URLs available for the clip as I couldn’t find any fan uploads. I assume the reason for this lack of fan uploads is that (1) Jiskefet has its own platform and youtube channel and (2) my clip is not the most ‘classic’ or ‘iconic’ Jiskefet clip (‘iconic’ Jiskefet is rather *Debiteuren/Crediteuren* and *The Lullo’s* for instance).
 
