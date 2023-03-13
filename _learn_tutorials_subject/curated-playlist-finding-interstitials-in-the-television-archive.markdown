@@ -49,7 +49,7 @@ Please note:
 
 ### Acknowledgements
 
-This curated playlist is made in the context of the courses [Data as Media](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2021&cursus=ME3V21001) and [Television History Online](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=ME3V15025&collegejaar=2018) at Utrecht University.
+This curated playlist is made in the context of the courses [Data as Media](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2021&cursus=ME3V21001) and [Television History Online](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=ME3V15025&collegejaar=2018) at Utrecht University, and for workshops in the context of the [CLICK-NL project Re-Frame](https://www.clicknl.nl/case/pps-projecten-re-frame/).
 
 # Category 1: Leaders
 
@@ -188,7 +188,7 @@ In sum, my curated playlist has highlighted the different categories of intersti
 
 * Uricchio, W. (2011). The recurrent, the recombinatory and the ephemeral. In *Ephemeral Media: Transitory Screen Culture from Television to YouTube*, edited by Paul Grainge,, 23–36. London: Palgrave Macmillan.
 
-* Van Gorp, J. (2022) Interstitial Data: Tracing Metadata in Search Systems. In Verhoeff, N. & van Es, K (eds.) *Situating Data: A Cultural Inquiry*. Amsterdam: Amsterdam University Press. Forthcoming.
+* Van Gorp, J. (2023) Interstitial Data: Tracing Metadata in Search Systems. In Verhoeff, N. & van Es, K (eds.) *Situating Data: An Inquiry in Algorithmic Culture*. Amsterdam: Amsterdam University Press. Pp. 207-222.
 
 # End notes
 
