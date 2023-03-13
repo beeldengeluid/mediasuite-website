@@ -167,7 +167,7 @@ For my curated playlist, I select the latter, which is based on oral history int
 
 **Screenshot TV Monument: Continuity Announcers (NCRV, 2011): [link to video](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608130112606631&cid=daan-catalogue-aggr&st=omroepster) (login required)**
 
-The  interesting segments in this episode are:
+The interesting segments in this episode are:
 **00:06:18**    Historian René Koenders explains that announcers were necessary for the viewers to explain what they are looking at, but also for the technicians to prepare for the next program.
 **00:27:41** Diewertje Blok explains that she was just repeating what was in the programme guide
 **00:31:30**    Han Pekel is recounting how announcers should fit the identity and brand of the broadcaster and its pillar
