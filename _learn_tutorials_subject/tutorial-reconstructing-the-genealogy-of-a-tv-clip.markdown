@@ -7,7 +7,7 @@ author: Jasmijn van Gorp, Utrecht University
 
 # **Tutorial: Reconstructing the Genealogy of a TV-Clip**
 
-Jasmijn van Gorp, Utrecht University 
+Jasmijn van Gorp, Utrecht University
 
 ## Tutorial description, case and objectives
 
@@ -136,7 +136,7 @@ This tutorial was made in the context of the courses Television History Online a
 
 * The viewing rates are difficult to read. I decided to only use the totals of 13\+, Men 13\+ and Women 13\+ (feel free to also use 6\+) and copy-paste them in a separate table (cf. Table above). KdH refers to Viewing Density and Wrd to viewers’ appreciation. What do we learn from these ratings?
 
-* We notice that the news was broadcast at the exact time: the news of 8 o’ clock starts at 8 sharp, while *Jiskefet* 3 minutes later and \*Age Unknown \*just one minute later compared to the schedule we found in the newspaper. Can you think of any reasons to explain the differences?
+* We notice that the news was broadcast at the exact time: the news of 8 o’ clock starts at 8 sharp, while *Jiskefet* 3 minutes later and *Age Unknown* just one minute later compared to the schedule we found in the newspaper. Can you think of any reasons to explain the differences?
 
 ### Step 5. Analyze date fields with the Collection Inspector Tool
 
