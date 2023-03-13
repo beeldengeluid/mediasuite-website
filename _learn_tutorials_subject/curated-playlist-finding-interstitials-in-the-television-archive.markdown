@@ -188,7 +188,7 @@ In sum, my curated playlist has highlighted the different categories of intersti
 
 * Uricchio, W. (2011). The recurrent, the recombinatory and the ephemeral. In *Ephemeral Media: Transitory Screen Culture from Television to YouTube*, edited by Paul Grainge,, 23–36. London: Palgrave Macmillan.
 
-* Van Gorp, J. (2023) Interstitial Data: Tracing Metadata in Search Systems. In Verhoeff, N. & van Es, K (eds.) *Situating Data: An Inquiry in Algorithmic Culture*. Amsterdam: Amsterdam University Press. Pp. 207-222.
+* Van Gorp, J. (2023) Interstitial Data: Tracing Metadata in Archival Search Systems. In Verhoeff, N. & van Es, K (eds.) *Situating Data: An Inquiry in Algorithmic Culture*. Amsterdam: Amsterdam University Press. Pp. 207-222.
 
 # End notes
 
