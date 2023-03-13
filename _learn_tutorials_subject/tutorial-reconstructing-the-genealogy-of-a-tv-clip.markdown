@@ -7,8 +7,7 @@ author: Jasmijn van Gorp, Utrecht University
 
 # **Tutorial: Reconstructing the Genealogy of a TV-Clip**
 
-Jasmijn van Gorp, Utrecht University \
-
+Jasmijn van Gorp, Utrecht University 
 
 ## Tutorial description, case and objectives
 
@@ -100,7 +99,7 @@ This tutorial was made in the context of the courses Television History Online a
 
   **![](https://lh5.googleusercontent.com/3MHxgFH9Riy3m1Rwm2XEzvl-KLQEhGea2xAbs6Nf2X2lCnh71VXWtNdmecrccNhPFovf0HVoj49uWRQD2XSIGc1SiAYCBpB0w0e8F3l3ErSFvpwoRnUjzN5-jNB2ZhCaSl349sQuuwm9TpUUhXI5RWrgsXbq2H4VnqtsKmXUHDADfrF8ga8IL1my)**
 
-* If you do not have a clip you can use in mind, you may use my example clip. In my search for Interstitials (see my dedicated [curated playlist ](https://mediasuite.clariah.nl/learn/subject-tutorials/curated-playlist-finding-interstitials-in-the-television-archive)here) I found a fascinating clip: a fictional trailer for a film. In this TV-clip of the comedy show *Jiskefet*, a male voice-over announces the non-existing film *La Pluie Sans Droit* of the non-existing French filmmaker Jean-Philippe Le Grain, which will be (not) broadcast the upcoming Saturday on *VPRO Cinema*. I select this clip for my endeavor to reconstruct its genealogy. To find this clip, go to Search Tool, select the Sound and Vision collection of The Netherlands Institute for Sound and Vision, search for ‘Jiskefet film noir’, and bookmark the \*\*second \*\*result: [JISKEFET. Jiskefet 1991](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060044379531&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (see Screenshot above).
+* If you do not have a clip you can use in mind, you may use my example clip. In my search for Interstitials (see my dedicated [curated playlist ](https://mediasuite.clariah.nl/learn/subject-tutorials/curated-playlist-finding-interstitials-in-the-television-archive)here) I found a fascinating clip: a fictional trailer for a film. In this TV-clip of the comedy show *Jiskefet*, a male voice-over announces the non-existing film *La Pluie Sans Droit* of the non-existing French filmmaker Jean-Philippe Le Grain, which will be (not) broadcast the upcoming Saturday on *VPRO Cinema*. I select this clip for my endeavor to reconstruct its genealogy. To find this clip, go to Search Tool, select the Sound and Vision collection of The Netherlands Institute for Sound and Vision, search for ‘Jiskefet film noir’, and bookmark the *second* result: [JISKEFET. Jiskefet 1991](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608060044379531&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1) (see Screenshot above).
 
 * Click on the Jiskefet item and look at the mentioned date. It reads: 1991-09-22.
 
@@ -207,7 +206,7 @@ This tutorial was made in the context of the courses Television History Online a
 * Go to Step 6. Let’s again dive into the date fields. Open the Full Metadata, and collect the same dates as for the original broadcast, meaning those with “AssetItems”. Use again the Unix converter to convert the dates. For my AssetItem it is: "date_created": 1207949409000 and "date_last_updated": 1569773762194. So, we now know that it was re-broadcast on 4 October 2006 (date/sort date/curated date), digitized on Friday 11 april 2008 23:30:09 Amsterdam time (asset item date created), and the file updated on Sunday 29 September 2019 18:16:02 Amsterdam time (asset item date last updated).
 
 
-* Compare your findings with the ones of the original broadcast. Based on the newspaper schedule analysis of Step 3, you notice that *De Afgelopen Jaren* has moved to the channel Nederland 3 and to a Tuesday at 22:45, which is very late. It is squeezed in between a film and a talk show. The description is brief: “Selection” and it has teletext subtitles for the hearing impaired (TT). If we compare the results of Step 6 of the original broadcast with the results of the rebroadcast, we can conclude that both broadcasts have been entered in the system at the same day and time, while the files are updated on a different moment.\\
+* Compare your findings with the ones of the original broadcast. Based on the newspaper schedule analysis of Step 3, you notice that *De Afgelopen Jaren* has moved to the channel Nederland 3 and to a Tuesday at 22:45, which is very late. It is squeezed in between a film and a talk show. The description is brief: “Selection” and it has teletext subtitles for the hearing impaired (TT). If we compare the results of Step 6 of the original broadcast with the results of the rebroadcast, we can conclude that both broadcasts have been entered in the system at the same day and time, while the files are updated on a different moment.
 
 ### **Step 8. Finding Re-broadcasts on YouTube and the WayBack Machine**
 
@@ -223,16 +222,16 @@ This tutorial was made in the context of the courses Television History Online a
 
   **![](https://lh3.googleusercontent.com/ujNO-HSqHw8-Jzz26axMIvSwVpwgrS_DdwW-Ctn4GtgLDwjFLSCAXGFu6rHLoLNPjSUnDX0Y-malYn27kaaTot4Q8i6mHuiP_Iy1a1xw2rdJstbMAQiY7unu1gQnrJng2HBNnBfRjooilqkhKcdv3Jba2nyh9uFFXUCPwPMY79WzSnzad1mt-27t)**
 
-* In our case, the video is not there anymore. Let’s investigate what happened with the video upload on YouTube. Update 2023: it seems that the video is back online. 
+* In our case, the video is not there anymore. Let’s investigate what happened with the video upload on YouTube. Update 2023: it seems that the video is back online.
 
 * To do this, search on google to retrieve the exact URL of the Jiskefet YouTube channel. That is: [https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w](https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w). Use this URL for the WaybackMachine.
 
 * We notice 32 captures of the page in 2022. Go to the [archived web page of 22 February 2016](https://web.archive.org/web/20160222163421/https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w) (cf. Screenshot above) and analyze the *Jiskefet Film Noir* upload. What is the title? When is it uploaded? How many views does it have compared to others? Investigate the context of the page: Where is it situated on the webpage? What does the banner look like? Consult the ‘about this caption’ page and write down: who has made this capture? where? when? why?
 
-* Now skip through all captions and stop at the archived web page of [28 August 2019](https://web.archive.org/web/20190828192812/https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w). What happened with the Jiskefet Film Noir clip? Do you know why? Then try to skip further. What happens? What does this mean? 
+* Now skip through all captions and stop at the archived web page of [28 August 2019](https://web.archive.org/web/20190828192812/https://www.youtube.com/channel/UCi1LpRIlG1tDY5Z54VTel2w). What happened with the Jiskefet Film Noir clip? Do you know why? Then try to skip further. What happens? What does this mean?
 
 * Did you find the answer? Conduct a web search to learn what happened in 2019. If you would like to know what happened with the video content, click [here](https://jiskefet.nl/watch/176) and [here](https://www.primevideo.com/detail/0U8HRGYOTY90B12GSSLS499KP3/ref=atv_dp_season_select_s6). Update  2023: it seems that in 2023 the clip was again made visible on YouTube. In addition, the Jiskefet platform seems to have changed its policy in 2023 and installed a payed membership-system in which members (1) could watch videos without commercial breaks and (2) receive special content. On their YouTube channel they encourage viewers to watch the full episodes on their own platform.
 
-* You can repeat this Step 8 also for other YouTube URLs of your own clip. In my case, there are no other YouTube URLs available for the clip as I couldn’t find any fan uploads. I assume the reason for this lack of fan uploads is that (1) Jiskefet has its own platform and youtube channel and (2) my clip is not the most ‘classic’ or ‘iconic’ \*Jiskefet \*clip (‘iconic’ Jiskefet is rather *Debiteuren/Crediteuren* and *The Lullo’s* for instance). 
+* You can repeat this Step 8 also for other YouTube URLs of your own clip. In my case, there are no other YouTube URLs available for the clip as I couldn’t find any fan uploads. I assume the reason for this lack of fan uploads is that (1) Jiskefet has its own platform and youtube channel and (2) my clip is not the most ‘classic’ or ‘iconic’ *Jiskefet* clip (‘iconic’ Jiskefet is rather *Debiteuren/Crediteuren* and *The Lullo’s* for instance).
 
 * Now you have reached the end of the tutorial. You learnt how to conduct data criticism on the metadata field ‘date’ and gained insight in the various forms of repetition and re-use of television programs.
