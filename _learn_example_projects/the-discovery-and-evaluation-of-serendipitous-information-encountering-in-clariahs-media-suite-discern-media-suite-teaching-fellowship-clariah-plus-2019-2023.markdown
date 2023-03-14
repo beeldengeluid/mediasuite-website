@@ -31,11 +31,11 @@ Video Lecture 2: Tool Criticism Exercise
 
 Video Lecture 3: User Case User Study
 
-<iframe src="https://player.vimeo.com/video/789030776?h=4f21785eb4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789029974?h=1d7f12c725&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Video Lecture 4: Fellowship Insights & Conclusions
 
-<iframe src="https://player.vimeo.com/video/789028932?h=cbd85d72eb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/789030776?h=4f21785eb4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 *Teaching Materials*
 
