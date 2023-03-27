@@ -1,4 +1,4 @@
-[![Deploy to mediasuite-acc.rdlabs.beeldengeluid.nl](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/deploy-main-to-acc.yml/badge.svg)](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/deploy-main-to-acc.yml)
+[![Nightly deploy mediasuite.clariah.nl](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/nightly-production-deploy.yml/badge.svg)](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/nightly-production-deploy.yml)
 # Media Suite website
 
 This is the code repository for the website content within the [CLARIAH Media Suite](https://mediasuite.clariah.nl)
