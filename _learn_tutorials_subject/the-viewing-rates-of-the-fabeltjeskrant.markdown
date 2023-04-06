@@ -22,7 +22,7 @@ user_level: Beginner/Advanced
 language: English
 ---
 
-**Media Suite Tutorial: The Viewing Rates of the Fabeltjeskrant**
+# **Media Suite Tutorial: The Viewing Rates of the Fabeltjeskrant**
 
 **![](https://lh6.googleusercontent.com/verCApXejDmlvfkfcBfxzl1DPfsym4030MVVfH_XivXFtef8q8AtA6Mijsmr9Olh2LFiPAecEbc-XVfNtWgnmd0l6yMkmRlihuPO8-gy7pNa1Rak77NVuVnw3to0uUW4Z2M8VzYTUejZ_ABy3QpBTA)**
 
@@ -49,27 +49,31 @@ This tutorial will specifically address the second iteration of the television s
 No previous experience with the Media Suite is required. If you are already familiar with logging in, you can start this tutorial at step 1. If not, you can find a tutorial on logging in and setting up a research project on the Media Suite Learn page
 
 **1. Searching and Bookmarking television broadcasts**\
-Before diving into the viewing rates, we will first search for the broadcast for which the audience was measured. For the first part of the tutorial we will search for the television broadcast of the first episode of the second iteration of ‘De Fabeltjeskrant’. This aired on september 30th, 1985. 
+\
+Before diving into the viewing rates, we will first search for the broadcast for which the audience was measured. For the first part of the tutorial we will search for the television broadcast of the first episode of the second iteration of ‘De Fabeltjeskrant’. This aired on september 30th, 1985.
 
-* Before we start searching, go to the workspace tab and create a user project. I’ve named my project ‘Webinar Fabeltjeskrant’, but feel free to get more creative. The user project will allow us to save items and queries, which is especially useful when you are searching for multiple sources. 
+* Before we start searching, go to the workspace tab and create a user project. I’ve named my project ‘Webinar Fabeltjeskrant’, but feel free to get more creative. The user project will allow us to save items and queries, which is especially useful when you are searching for multiple sources.
 
-* Once the user project is set up, click the tools tab and select search. You will now enter the search tool. You can check in the top right corner if the correct user project is selected. The name should be displayed above the orange line. If not, click on the drop down icon and select the correct user project. 
+* Once the user project is set up, click the tools tab and select search. You will now enter the search tool. You can check in the top right corner if the correct user project is selected. The name should be displayed above the orange line. If not, click on the drop down icon and select the correct user project.
 
 * Now it's time to select the collection. Just above the search bar in the top left corner, you will find a pre-selected archive collection. Click on the drop down menu icon to open the collections menu. Select “Sound and Vision Archive - Television”.
 
-* For the first search, try using only the search bar. Fill in the word ‘fabeltjeskrant’. How many results are found? (this number is located below the search bar and highlighted in blue). Which different types of results does the search yield? 
+* For the first search, try using only the search bar. Fill in the word ‘fabeltjeskrant’. How many results are found? (this number is located below the search bar and highlighted in blue). Which different types of results does the search yield?
 
-* On the right hand side of the primary search bar you can specify in which metadata field you wish to search. If you click on the bar a drop down menu appears. The first option displayed: ‘all metadata fields’ is the default option. Your first search term was therefore cross-referenced with all the metadata fields. 
+* On the right hand side of the primary search bar you can specify in which metadata field you wish to search. If you click on the bar a drop down menu appears. The first option displayed: ‘all metadata fields’ is the default option. Your first search term was therefore cross-referenced with all the metadata fields.
 
-* Select the metadata field ‘titles’ and add this to your previous query. (leaving the search term ‘fabeltjeskrant’ in the main search bar and not selecting a date field just yet). How does this impact the amount of search results? Review the first five to ten search results without opening the items. Pay special attention to the dates located at the bottom of the result, next to the video icon. Do you notice a large range in dates? 
+* Select the metadata field ‘titles’ and add this to your previous query. (leaving the search term ‘fabeltjeskrant’ in the main search bar and not selecting a date field just yet). How does this impact the amount of search results? Review the first five to ten search results without opening the items. Pay special attention to the dates located at the bottom of the result, next to the video icon. Do you notice a large range in dates?
 
-* Try to specify your search further. Directly below the search bar you can select a date field. Note that there is an abundance of options. Most of these options are very helpful when searching for a known result based on very specific knowledge about that item. Since we only know the broadcast date, it is best for our purpose to select the preferred option: ‘date, sorting (preferred)’. Scroll down and click on it.  
+* Try to specify your search further. Directly below the search bar you can select a date field. Note that there is an abundance of options. Most of these options are very helpful when searching for a known result based on very specific knowledge about that item. Since we only know the broadcast date, it is best for our purpose to select the preferred option: ‘date, sorting (preferred)’. Scroll down and click on it.
 
-* Once selected you are requested to add a date range. Try searching for a two week window, just to be safe. Fill in 13-09-1985 - 05-10-1985. How does this affect the amount of search results? As you can see, not all search results are relevant. Can you find the one that is? \
-  Once you have found the correct broadcast make sure you bookmark the item so you can revisit it from the workspace. Press the orange bookmark button in the top right corner and create a bookmark group. 
+* Once selected you are requested to add a date range. Try searching for a two week window, just to be safe. Fill in 13-09-1985 - 05-10-1985. How does this affect the amount of search results? As you can see, not all search results are relevant. Can you find the one that is? 
 
-**2. Searching and Bookmarking viewing rates**\
-Now we have confirmed that the Fabeltjeskrant broadcast was aired on 30-09-1985, we will search for the corresponding viewing rates. 
+* Once you have found the correct broadcast make sure you bookmark the item so you can revisit it from the workspace. Press the orange bookmark button in the top right corner and create a bookmark group.
+
+**2. Searching and Bookmarking viewing rates**
+
+\
+Now we have confirmed that the Fabeltjeskrant broadcast was aired on 30-09-1985, we will search for the corresponding viewing rates.
 
 * Go back to the search tool by clicking on tools → search and change the collection to: “Kijk en luistercijfers (TV and Radio ratings)” collection. \
   For your first search, try using the same keyword searches as in the other collection by adding the keyword ‘Fabeltjeskrant’ in the search bar. Review a couple of the results given. Take a moment to reflect on the relation between search terms and search results. How does the algorithm connect the two generally? How will the desired results influence your searching strategy?
@@ -90,6 +94,8 @@ Now we have confirmed that the Fabeltjeskrant broadcast was aired on 30-09-1985,
 * You should now be left with a small amount of results. If you check the dates you will find that there are two reports. Open both and see how they differ. (hint: it is mentioned on the first page. One report is for ages 3-11, the other is for ages 12 and up. Select the report for ages 12 and up, you will see why in a couple of steps. Once the report has opened, quickly bookmark the item so you can return to it more easily.
 
 **3. Reading viewing reports**
+
+
 If this is your first encounter with a viewing report, it can be a daunting experience. This step will guide you in understanding how to read a viewing report.
 
 **![](https://lh6.googleusercontent.com/EWT2Ib9IOy8wG-wtarZ4Y81-lPPTYRkUkrmvm3Q0r2vxXLP6p8EuBg-nagfSQuvGKkHsOc6CcWVZaEF4HpiysDq1I4lhEDQoUHUSp5cqYqykxNZe5M2xA30p4y58kvyPnsPh1B89EOKtygrGLVLDDA)**
@@ -104,6 +110,8 @@ If this is your first encounter with a viewing report, it can be a daunting expe
   You have found the first result of the comparison, well done!
 
 **4. Searching for viewing rates**
+
+
 Let's search for the viewing rates of the last episode of the second iteration. I would normally advise to check if the broadcast was actually aired, but for the sake of the tutorial I have checked this beforehand. The final episode of the ‘Fabeltjeskrant’ aired on March 31, 1989, at 18:54 pm.
 
 * Adjust the date field accordingly. In our last search the starting date of the report was the date of the broadcast. This time, these two dates are different. Consider applying a two or three week window to the date field to make sure your search criteria are not too narrow. If needed, filter your search results with the facets.
@@ -124,6 +132,8 @@ Let's search for the viewing rates of the last episode of the second iteration. 
 * The category tot (total) 13\+ has the least deviation from our previous selection. What is the %KDH value for the final episode of the ‘Fabeltjeskrant’? It seems that the viewing rates for the second iteration of the ‘Fabeltjeskrant’ have declined in four years, from 21%KDH to 4%KDH. In the next step, we will consider what this means.
 
 **5. Determining the accuracy of the viewing rates**
+
+
 Section 5 is recommended for a supervised session.
 
 * You have found two reports that contain viewing rates for television broadcasts of ‘De Fabeltjeskrant’. In this step we will compare the validity of these figures based on the methods used to gather them. Consult the "How To" page about viewing rates methods and reflect on the following questions:
@@ -136,4 +146,4 @@ Section 5 is recommended for a supervised session.
 
 * Which of the two reports can be argued to be more reliable. What does that say about the reports usability for television historical research?
 
-* Congratulations on successfully completing this tutorial! On a final note, I would like to leave you with a more philosophical query. Try and contemplate how audience measurement methods conceptualise what television viewing is. Do you agree with this conceptualisation? Can you think of viewing experiences that would fall outside of this measurement, but would be valuable to record?
+  Congratulations on successfully completing this tutorial! On a final note, I would like to leave you with a more philosophical query. Try and contemplate how audience measurement methods conceptualise what television viewing is. Do you agree with this conceptualisation? Can you think of viewing experiences that would fall outside of this measurement, but would be valuable to record?
