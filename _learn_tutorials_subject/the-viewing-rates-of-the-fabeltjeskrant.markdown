@@ -45,6 +45,9 @@ In total, De Fabeltjeskrant had four iterations in Dutch television history. The
 
 This tutorial will specifically address the second iteration of the television series, which ran from 1985 to 1989 on public service broadcast stations. The second iteration is particularly relevant in relation to the history of viewing rates research in the Netherlands as it coincides with a reformation of measurement methods in 1987. Before 1987 the main measurement method was through physical log-books or diaries, distributed and collected through the postal service. Each week, the participants would receive a personal diary with the television schedule, indicate which programmes were viewed, and then return the diary. From 1987 onwards, the electronic Peoplemeter was introduced. Many of the changes that resulted from the automation informed the way that audience measurement is conducted until today. This tutorial will discuss the changes that occurred, the consequences of those changes for the validity of audience measurement and therefore the considerations that accompany any research project that utilises historical viewing rates. If you are following this tutorial on your own and you wish to learn more about the Dutch history of viewing rates research, watch the  video of the presentation that was recorded for the webinar series [here.](http://https://mediasuite.clariah.nl/learn/subject-tutorials/viewing-rates-for-television-history)
 
+**Information page viewing rates**\
+If you need information on how to read viewing rate reports, visit the ['How To' page here](http://mediasuite.clariah.nl/documentation/howtos/read-viewing-and-listening-rates)
+
 **Prerequisites**
 No previous experience with the Media Suite is required. If you are already familiar with logging in, you can start this tutorial at step 1. If not, you can find a tutorial on logging in and setting up a research project on the Media Suite Learn page
 
@@ -66,7 +69,7 @@ Before diving into the viewing rates, we will first search for the broadcast for
 
 * Try to specify your search further. Directly below the search bar you can select a date field. Note that there is an abundance of options. Most of these options are very helpful when searching for a known result based on very specific knowledge about that item. Since we only know the broadcast date, it is best for our purpose to select the preferred option: ‘date, sorting (preferred)’. Scroll down and click on it.
 
-* Once selected you are requested to add a date range. Try searching for a two week window, just to be safe. Fill in 13-09-1985 - 05-10-1985. How does this affect the amount of search results? As you can see, not all search results are relevant. Can you find the one that is? 
+* Once selected you are requested to add a date range. Try searching for a two week window, just to be safe. Fill in 13-09-1985 - 05-10-1985. How does this affect the amount of search results? As you can see, not all search results are relevant. Can you find the one that is?
 
 * Once you have found the correct broadcast make sure you bookmark the item so you can revisit it from the workspace. Press the orange bookmark button in the top right corner and create a bookmark group.
 
@@ -95,7 +98,6 @@ Now we have confirmed that the Fabeltjeskrant broadcast was aired on 30-09-1985,
 
 **3. Reading viewing reports**
 
-
 If this is your first encounter with a viewing report, it can be a daunting experience. This step will guide you in understanding how to read a viewing report.
 
 **![](https://lh6.googleusercontent.com/EWT2Ib9IOy8wG-wtarZ4Y81-lPPTYRkUkrmvm3Q0r2vxXLP6p8EuBg-nagfSQuvGKkHsOc6CcWVZaEF4HpiysDq1I4lhEDQoUHUSp5cqYqykxNZe5M2xA30p4y58kvyPnsPh1B89EOKtygrGLVLDDA)**
@@ -110,7 +112,6 @@ If this is your first encounter with a viewing report, it can be a daunting expe
   You have found the first result of the comparison, well done!
 
 **4. Searching for viewing rates**
-
 
 Let's search for the viewing rates of the last episode of the second iteration. I would normally advise to check if the broadcast was actually aired, but for the sake of the tutorial I have checked this beforehand. The final episode of the ‘Fabeltjeskrant’ aired on March 31, 1989, at 18:54 pm.
 
@@ -132,7 +133,6 @@ Let's search for the viewing rates of the last episode of the second iteration. 
 * The category tot (total) 13\+ has the least deviation from our previous selection. What is the %KDH value for the final episode of the ‘Fabeltjeskrant’? It seems that the viewing rates for the second iteration of the ‘Fabeltjeskrant’ have declined in four years, from 21%KDH to 4%KDH. In the next step, we will consider what this means.
 
 **5. Determining the accuracy of the viewing rates**
-
 
 Section 5 is recommended for a supervised session.
 
