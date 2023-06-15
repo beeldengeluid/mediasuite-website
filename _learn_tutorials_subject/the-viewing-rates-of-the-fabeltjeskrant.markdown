@@ -49,7 +49,10 @@ This tutorial will specifically address the second iteration of the television s
 If you need information on how to read viewing rate reports, visit the ['How To' page here](http://mediasuite.clariah.nl/documentation/howtos/read-viewing-and-listening-rates)
 
 **Prerequisites**
-No previous experience with the Media Suite is required. If you are already familiar with logging in, you can start this tutorial at step 1. If not, you can find a tutorial on logging in and setting up a research project on the Media Suite Learn page
+No previous experience with the Media Suite is required. If you are already familiar with logging in, you can start this tutorial at step 1. If not, you can find a tutorial on logging in and setting up a research project on the Media Suite Learn page.
+
+**Level**
+This is a tutorial for beginners. For a tutorial on the viewing rates at an advanced level, please go to [this tutorial on the Oil crisis](https://mediasuite.clariah.nl/learn/subject-tutorials/viewing-rates-for-television-history).
 
 **1. Searching and Bookmarking television broadcasts**\
 \
