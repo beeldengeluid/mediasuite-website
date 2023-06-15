@@ -45,6 +45,8 @@ Before jumping into the tutorial it should be noted that working with digitized 
 
 Historical sources are often decontextualized in the process of digitization. In order to interpret the sources adequately it is important to have a basic understanding  of the methodological process through which the viewing rates were produced.
 
+This is a tutorial at an advanced level. If you would like to learn to work with the Viewing Rates at a beginners' level, please go to [this tutorial about the Fabeltjeskrant](https://mediasuite.clariah.nl/learn/subject-tutorials/the-viewing-rates-of-the-fabeltjeskrant). 
+
 **Information page viewing rates**\
 If you want more information about reading viewing rates, see the ['How To' page here](http://mediasuite.clariah.nl/documentation/howtos/read-viewing-and-listening-rates)
 
