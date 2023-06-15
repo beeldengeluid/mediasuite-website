@@ -46,8 +46,7 @@ The English Ratings company AGB developed a new device called the Peoplemeter 49
 
 An updated audio signal technology assured that the signal was inaudible to viewers with the latest televisions. The television set-level measurements and the viewer inputs would be sent electronically and automatically every night to an Icoder machine. By the next morning, the signal frequenties and the inputs were combined with the pre-loaded program schedule; producing viewing rates daily.
 
-\*\*
-2002-present Time-shifted viewing and the TARis 5000\*\*
+**2002-present Time-shifted viewing and the TARis 5000**
 By December 2001 all of the peoplemeters were revoked and the new TARis 5000 meter devices were installed in the TV panels homes. Because of new systems in digital audio matching through VBI codes, advanced picture matching software and an ML code watermark for channels, it became possible to record time shifted viewing, DVD viewing and not much later also viewing through internet and second screen applications. The TARis 5000 meter is a more sophisticated version of the peoplemeter 4900, ensuring more accuracy through more advanced technology. But the input remains the same; the television tuning is measured through an audio signal sent through the broadcast and the viewing behaviour is recorded by the TV panel members themselves through a remote control.
 
 **Considering measurement accuracy**
@@ -60,7 +59,7 @@ The 4900 Peoplemeter relied less on human memory, by placing a focus on measurem
 
 As mentioned above, the TARis 5000 (peoplemeter) is primarily a more sophisticated version of the 4900 peoplemeter. Measurement occurred in a similar fashion, merely adding features and functions that would account for time-shifted viewing and external device use, such as dvd-players and gaming consoles.\\
 
-\*\*What is television viewing? \*\*
+**What is television viewing? **
 
 Generally speaking, the history of television audience measurement consists of a diary phase and an electronic meter phase, each offering a different conceptualisation of television viewing in a more philosophical sense. Before 1987 respondents were asked to note which programs were watched at least halfway through. This meant that a program was either watched or not watched. One could argue that this interpretation of television viewing entails the intentional watching of a specific program.
 After 1987, with a better time based system, the figures in the viewing reports were based on a calculation of the average viewers per minute of the program. However, television viewing changed meaning. The threshold for measurement went from watching a program for more than half of the runtime to ‘being in the room with a television set’. This means that you could view television while reading a book, playing a board game and even without watching the screen at all. One could argue that this conceptualizes television viewing as being exposed to a television set. This raises questions about the meaning of television viewing from a media studies perspective. When did you watch a program more: if you watched 49% attentively or if you were in the room doing other activities during the entire runtime?
@@ -69,23 +68,23 @@ After 1987, with a better time based system, the figures in the viewing reports 
 \(Abbreviations - Meaning, Explanation)
 
 1. %KdH. - Viewer density (kijkdichtheid)
-                 Percentage of viewers within a certain category that viewed the program in relation to \
-                 the total number of individuals in that category.
+   Percentage of viewers within a certain category that viewed the program in relation to \
+   the total number of individuals in that category.
 
 2. W or Wrd. - Appreciation (waardering)
-                 A grade 1-10 for the quality of the television program
+   A grade 1-10 for the quality of the television program
 
 3. S.D. or SD or Sdev - Standard Deviation
-                 A measurement of the diversion of figures in a sample.
+   A measurement of the diversion of figures in a sample.
 
 4. 1834 - between 18 and 34 years
-                Category based on the age of the respondent
+   Category based on the age of the respondent
 
 5. 3545 - between 35 and 49 years
-                Category based on the age of the respondent
+   Category based on the age of the respondent
 
 6. \+6 - above age of 6
-                Category based on the age of the respondent
+   Category based on the age of the respondent
 
 7. N, O, Z, W. - North, East, South, West
-                A division in viewing rates based on geography of the Netherlands
+   A division in viewing rates based on geography of the Netherlands
