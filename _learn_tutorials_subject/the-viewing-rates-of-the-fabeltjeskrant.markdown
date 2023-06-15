@@ -1,5 +1,5 @@
 ---
-title: The Viewing Rates of the Fabeltjeskrant
+title: 'Tutorial: The Viewing Rates of the Fabeltjeskrant'
 date: 2023-04-05 10:29:00 +02:00
 introduction: This tutorial introduces you to using the CLARIAH Media Suite’s search
   tool and bookmarking functionality for research with the viewing and listening rates
