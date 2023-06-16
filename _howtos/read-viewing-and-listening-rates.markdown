@@ -8,8 +8,6 @@ Field name:
 - 
 ---
 
-**How to Read the Viewing and Listening Rate Reports**
-
 Jasper Keijzer, Utrecht University
 
 In 2020 a collection of digitized Viewing Rates, Radio Rates and Commercial Rates was made available in the Media Suite. This information page provides additional information on the production of Viewing Rates specifically.
