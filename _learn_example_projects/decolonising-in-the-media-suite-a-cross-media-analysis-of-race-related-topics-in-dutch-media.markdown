@@ -5,6 +5,7 @@ title: |-
 date: 2022-09-16 16:29:00 +02:00
 categories:
 - Media Suite Fellowships 2021-22
+- Education
 position: 2
 ---
 
