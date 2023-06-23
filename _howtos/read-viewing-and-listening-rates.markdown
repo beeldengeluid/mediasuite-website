@@ -62,7 +62,7 @@ The viewing diaries relied heavily on the involvement, honesty and memory of the
 
 The 4900 Peoplemeter relied less on human memory, by placing a focus on measurement frequency. The electronic meter allowed for the production of average viewing rates per minute. This meant that the respondents in the TV panel had a far more active role in the measurement process. Every time a family member entered or left the room, the Peoplemeter needed to be informed. In researching the peoplemeter in France, Bourdon and Meadal noticed that this meant a step away from human error and a step towards measurement fatigue. If the device received no entry for 15 minutes, a question would appear on the display: Who is watching? Respondents did not have the option to account for viewing retroactively. Instead, a period of no activity is understood as a gap. In the SKO methodological document for 2018 four types of gaps are identified and for each a calculation is given to account for the missed measurements.
 
-As mentioned above, the TARis 5000 (peoplemeter) is primarily a more sophisticated version of the 4900 peoplemeter. Measurement occurred in a similar fashion, merely adding features and functions that would account for time-shifted viewing and external device use, such as dvd-players and gaming consoles.\\
+As mentioned above, the TARis 5000 (peoplemeter) is primarily a more sophisticated version of the 4900 peoplemeter. Measurement occurred in a similar fashion, merely adding features and functions that would account for time-shifted viewing and external device use, such as dvd-players and gaming consoles.
 
 **What is television viewing? **
 
@@ -70,6 +70,8 @@ Generally speaking, the history of television audience measurement consists of a
 After 1987, with a better time based system, the figures in the viewing reports were based on a calculation of the average viewers per minute of the program. However, television viewing changed meaning. The threshold for measurement went from watching a program for more than half of the runtime to ‘being in the room with a television set’. This means that you could view television while reading a book, playing a board game and even without watching the screen at all. One could argue that this conceptualizes television viewing as being exposed to a television set. This raises questions about the meaning of television viewing from a media studies perspective. When did you watch a program more: if you watched 49% attentively or if you were in the room doing other activities during the entire runtime?
 
 **Legenda**
+
+
 Abbreviations - Meaning - Explanation
 
 1. %KdH. - Viewer density (kijkdichtheid)
