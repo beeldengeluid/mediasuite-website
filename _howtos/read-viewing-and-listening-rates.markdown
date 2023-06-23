@@ -8,7 +8,7 @@ Field name:
 - 
 ---
 
-Datasheet written by Jasper Keijzer, Utrecht University
+Datasheet by Jasper Keijzer, Utrecht University
 
 In 2020 a collection of digitized Viewing Rates, Radio Rates and Commercial Rates was made available in the Media Suite. This information page provides additional information on the production of Viewing Rates specifically.
 
