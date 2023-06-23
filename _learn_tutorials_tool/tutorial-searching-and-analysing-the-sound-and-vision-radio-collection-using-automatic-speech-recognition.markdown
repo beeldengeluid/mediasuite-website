@@ -2,6 +2,10 @@
 title: 'Tutorial: Searching and analysing the Sound and Vision Radio Collection using
   Automatic Speech Recognition'
 date: 2023-02-16 18:08:00 +01:00
+categories:
+- ASR
+- Search
+- Compare Tool
 tags:
 - ASR
 - Search
