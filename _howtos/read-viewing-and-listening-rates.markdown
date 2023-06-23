@@ -24,7 +24,6 @@ Third, the reflections and considerations on the accuracy of rates and their rel
 
 **General methodology of viewing rates**
 
-\
 Viewing rates are produced through a measurement of a TV Panel which serves as a representative sample of the population. Each year, 1200 households are selected to be part of the TV Panel. The viewing behaviour of the TV Panel is measured. Based on the demographics of the Dutch population, according to CBS, the data from this representative sample is then calculated to account for the entire population. Every viewing rate is therefore the product of a calculation based on the measurement of a representative sample.
 
 **Four historical periods can be distinguished:**
@@ -64,16 +63,15 @@ The 4900 Peoplemeter relied less on human memory, by placing a focus on measurem
 
 As mentioned above, the TARis 5000 (peoplemeter) is primarily a more sophisticated version of the 4900 peoplemeter. Measurement occurred in a similar fashion, merely adding features and functions that would account for time-shifted viewing and external device use, such as dvd-players and gaming consoles.
 
-**What is television viewing? **
+**What is television viewing?**
 
-Generally speaking, the history of television audience measurement consists of a diary phase and an electronic meter phase, each offering a different conceptualisation of television viewing in a more philosophical sense. 
+Generally speaking, the history of television audience measurement consists of a diary phase and an electronic meter phase, each offering a different conceptualisation of television viewing in a more philosophical sense.
 
 Before 1987 respondents were asked to note which programs were watched at least halfway through. This meant that a program was either watched or not watched. One could argue that this interpretation of television viewing entails the intentional watching of a specific program.
 
 After 1987, with a better time based system, the figures in the viewing reports were based on a calculation of the average viewers per minute of the program. However, television viewing changed meaning. The threshold for measurement went from watching a program for more than half of the runtime to ‘being in the room with a television set’. This means that you could view television while reading a book, playing a board game and even without watching the screen at all. One could argue that this conceptualizes television viewing as being exposed to a television set. This raises questions about the meaning of television viewing from a media studies perspective. When did you watch a program more: if you watched 49% attentively or if you were in the room doing other activities during the entire runtime?
 
 **Legenda**
-
 
 Abbreviations - Meaning - Explanation
 
