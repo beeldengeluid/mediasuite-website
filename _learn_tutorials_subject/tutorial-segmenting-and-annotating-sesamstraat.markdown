@@ -1,6 +1,9 @@
 ---
 title: 'Tutorial: Segmenting and Annotating Sesamstraat'
 date: 2023-01-12 18:07:00 +01:00
+categories:
+- Annotation
+- Search
 introduction: Based on the example of Sesamstraat, the Dutch version of Sesame Street,
   this tutorial introduces you to ways of using the Media Suite that support archive-based
   television history teaching and research.
