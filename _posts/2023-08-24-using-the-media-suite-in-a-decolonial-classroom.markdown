@@ -9,9 +9,7 @@ tags:
 - Decolonial Pedagogy
 ---
 
-# **Using the Media Suite in a Decolonial Classroom**
-
-Asli Özgen, University of Amsterdam
+*Asli Özgen, University of Amsterdam*
 
 The CLARIAH Teaching Fellowship granted project, entitled *Decolonising in the Media Suite: A cross-media analysis of race-related topics in Dutch media*, focused on the benefits of using the Media Suite in a decolonial classroom with the purpose of supporting decolonial pedagogy. The project was carried out in the first edition of the new elective *Decolonising Media Studies* (DeMS). One of the four diversity-grant-winning electives at the University of Amsterdam, DeMS took place in the Spring Semester of 2021/2022 Academic Year. In the scope of this project, a decolonial classroom is defined as a safe learning environment where students, assistants, and teachers engage in a collective learning experience in a non-hierarchical, non-individualistic, non-competitive setting that supports collective work, mutual respect, intellectual enrichment and empowerment, and a critical awareness of global imbalance in the production of knowledge (i.e. latent structures of power benefiting white, heterosexual, male, abled body as the unfailing subject of knowledge production). In this setting, the Media Suite stood out as a helpful tool to conduct critical discourse analysis of race-related topics in the media as well as media archives. In the scope of the DeMS elective, the Media Suite assignment was thus an important part of the course. In this blog post, I first give some context about the initial observations and ideas that sparked this project. Later on, I discuss student experiences with the Media Suite assignment, and I conclude with a reflection on the outcomes. In this specific implementation of the project, the Media Suite proved to be a valuable tool to activate students in a decolonial classroom setting to design and conduct their own research-driven assignment, focusing on media analysis. On many levels, the project evidenced a richer potential that can be explored in future implementations and variations of the assignment that I’m focusing here. Students, teachers, and researchers can refer to the relevant tutorial to use this exercise in their teaching as well as research and adapt it where necessary to specific learning goals, student profiles, and classroom compositions.
 
@@ -30,6 +28,7 @@ In the first session of the elective, students formed small research groups (of 
 In the implementation of the project, the Media Suite assignment was one of the three options that students could choose from (see Image 1 below) to give the 6 student groups some flexibility to form their own assignments, in line with the decolonising pedagogy. Two groups chose this assignment.
 
 ![Image_1_Media_Suite_in_a_Decolonial_Classroom.jpg](/uploads/Image_1_Media_Suite_in_a_Decolonial_Classroom.jpg)
+
 **Image 1:** Assignment description from Decolonising Media Studies Course Manual (2021-2022)
 
 The two groups conducted research on “Anti-Asian Racism in the Netherlands” (Group 1) and “Rap and Intersectionality” (Group 2). Both groups made use of the Media Suite in their research phase. However, there were also some challenges that provided interesting insights, which I elaborate below.
