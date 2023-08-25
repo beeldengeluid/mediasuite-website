@@ -7,6 +7,11 @@ tags:
 - Intersectionality
 - Media Archives
 - Decolonial Pedagogy
+introduction: 'In this blog post, Asli Özgen, Assistant Professor of Media & Culture
+  at the University of Amsterdam, reflects on the outcomes and experience of the CLARIAH
+  Media Suite Teaching Fellowship "Decolonising in the Media Suite: A cross-media
+  analysis of race-related topics in Dutch media", carried out in the academic year
+  2021-22. '
 ---
 
 *Asli Özgen, University of Amsterdam*
