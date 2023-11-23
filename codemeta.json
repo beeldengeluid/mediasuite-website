@@ -95,6 +95,7 @@
 	],
 	"readme": "https://github.com/beeldengeluid/mediasuite-website/blob/main/README.md",
 	"issueTracker": "https://github.com/beeldengeluid/mediasuite-website/issues",
+	"contIntegration": "https://github.com/beeldengeluid/mediasuite-website/actions/workflows/nightly-production-deploy.yml",
 	"releaseNotes": "https://mediasuite.clariah.nl/documentation/release-notes",
 	"developmentStatus": [ "https://www.repostatus.org/#active", "https://w3id.org/research-technology-readiness-levels#Level9Proven" ],
 	"keywords":  [ "cultural heritage", "data portal", "documentation", "tutorials"],
