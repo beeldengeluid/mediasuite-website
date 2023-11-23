@@ -5,7 +5,7 @@
         "https://w3id.org/software-types"
     ],
     "@type": "SoftwareSourceCode",
-    "identifier": "mediasuite-website",
+    "identifier": "mediasuite",
     "name": "Media Suite Website",
     "version": "6.6",
     "description": "The Media Suite Website is a component of the Media Suite. It defines the layout and static content of the Media Suite. Developers can easily update the documentation, such as Help and FAQs, and teachers can add tutorials to the Learn section. This can be done by editing the markdown in the source repository directly, or by using the Siteleaf content management system",
