@@ -6,77 +6,56 @@
     ],
     "@type": "SoftwareSourceCode",
     "identifier": "mediasuite",
-    "name": "Media Suite Website",
-    "version": "6.6",
-    "description": "The Media Suite Website is a component of the Media Suite. It defines the layout and static content of the Media Suite. Developers can easily update the documentation, such as Help and FAQs, and teachers can add tutorials to the Learn section. This can be done by editing the markdown in the source repository directly, or by using the Siteleaf content management system",
-    "license": "http://creativecommons.org/licenses/by-sa/4.0/",
-	"url": "https://mediasuite.clariah.nl/",
+    "name": "CLARIAH Media Suite",
+    "version": "6.10",
+    "description": "The Clariah Media Suite is a research environment in which researchers can search, bookmark, annotate and compare items from a number of cultural heritage collections",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "url": "https://mediasuite.clariah.nl/",
     "producer": [
         {
             "@id": "https://www.beeldengeluid.nl/",
             "@type": "Organization",
             "name": "Netherlands Institute for Sound and Vision",
             "url": "https://www.beeldengeluid.nl/",
-                "location": {
-                    "@type": "Place",
-                    "name": "Hilversum"
-                }
+            "location": {
+                "@type": "Place",
+                "name": "Hilversum"
+            }
         }
     ],
     "author": [
-		{
-			"@id": "https://github.com/frankstrater",
-			"@type": "Person",
-			"givenName": "Frank",
-			"familyName": "Sträter",
-			"affiliation": { "@id": "https://www.beeldengeluid.nl/" }
-		}
-	],
-	"sourceOrganization": { "@id": "https://www.beeldengeluid.nl/" },
-	"programmingLanguage": {
-		"@type": "ComputerLanguage",
-		"identifier": "markdown",
-		"name": "markdown"
-	},
-	"operatingSystem": "Linux",
-	"codeRepository": "https://github.com/beeldengeluid/mediasuite-website",
+        {
+            "@id": "https://github.com/jblom",
+            "@type": "Person",
+            "givenName": "Jaap",
+            "familyName": "Blom",
+            "affiliation": {
+                "@id": "https://www.beeldengeluid.nl/"
+            }
+        }
+    ],
+    "sourceOrganization": {
+        "@id": "https://www.beeldengeluid.nl/"
+    },
+    "programmingLanguage": {
+        "@type": "ComputerLanguage",
+        "identifier": "python",
+        "name": "python"
+    },
+    "operatingSystem": "Linux",
+    "codeRepository": "https://github.com/beeldengeluid/clariah-mediasuite",
     "softwareRequirements": [
         {
-			"@type": "SoftwareLibrary",
-			"identifier": "ruby",
-			"name": "ruby"
-		},
+            "@type": "SoftwareLibrary",
+            "identifier": "flask",
+            "name": "flask"
+        }
+    ],
+    "funding": [
         {
-			"@type": "SoftwareLibrary",
-			"identifier": "rubygems",
-			"name": "rubygems"
-		},
-        {
-			"@type": "SoftwareLibrary",
-			"identifier": "gcc",
-			"name": "gcc"
-		},
-        {
-			"@type": "SoftwareLibrary",
-			"identifier": "make",
-			"name": "make"
-		},
-        {
-			"@type": "SoftwareApplication",
-			"identifier": "jekyll",
-			"name": "jekyll"
-		},
-        {
-			"@type": "SoftwareApplication",
-			"identifier": "liquid",
-			"name": "liquid"
-		}
-	],
-	"funding": [
-		{
-			"@type": "Grant",
-			"name": "CLARIAH-CORE (NWO grant 184.033.101)",
-			"url": "https://www.clariah.nl",
+            "@type": "Grant",
+            "name": "CLARIAH-CORE (NWO grant 184.033.101)",
+            "url": "https://www.clariah.nl",
             "funder": {
                 "@type": "Organization",
                 "name": "NWO",
@@ -92,12 +71,30 @@
                 "url": "https://www.nwo.nl"
             }
         }
-	],
-	"readme": "https://github.com/beeldengeluid/mediasuite-website/blob/main/README.md",
-	"issueTracker": "https://github.com/beeldengeluid/mediasuite-website/issues",
-	"releaseNotes": "https://mediasuite.clariah.nl/documentation/release-notes",
-	"developmentStatus": [ "https://www.repostatus.org/#active", "https://w3id.org/research-technology-readiness-levels#Level9Proven" ],
-	"keywords":  [ "cultural heritage", "data portal", "documentation", "tutorials"],
+    ],
+    "readme": "https://github.com/CLARIAH/clariah-mediasuite/blob/main/README.md",
+    "issueTracker": "https://github.com/beeldengeluid/clariah-mediasuite/issues",
+    "releaseNotes": "https://mediasuite.clariah.nl/documentation/release-notes",
+    "developmentStatus": [
+        "https://www.repostatus.org/#active",
+        "https://w3id.org/research-technology-readiness-levels#Level9Proven"
+    ],
+    "keywords": [
+        "cultural heritage",
+        "data portal",
+        "collection analysis",
+        "faceted search",
+        "scholerly annotation",
+        "virtual workspace"
+    ],
+    "softwareHelp": [
+        {
+            "@id": "https://mediasuite.clariah.nl/documentation",
+            "@type": "WebSite",
+            "name": "Media Suite Documentation",
+            "url": "https://mediasuite.clariah.nl/documentation"
+        }
+    ],
     "targetProduct": [
         {
             "@type": "WebApplication",
@@ -110,6 +107,6 @@
             }
         }
     ],
-	"dateCreated": "2023-11-21",
-	"dateModified": "2023-11-21"
+    "dateCreated": "2023-11-21",
+    "dateModified": "2023-11-21"
 }
