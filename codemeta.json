@@ -8,7 +8,7 @@
     "identifier": "mediasuite",
     "name": "CLARIAH Media Suite",
     "version": "6.10",
-    "description": "The Clariah Media Suite is a research environment in which researchers can search, bookmark, annotate and compare items from a number of cultural heritage collections",
+    "description": "The CLARIAH Media Suite is a research environment in which researchers can search, bookmark, annotate and compare items from a number of cultural heritage collections",
     "license": "https://spdx.org/licenses/MIT.html",
     "url": "https://mediasuite.clariah.nl/",
     "producer": [
@@ -74,6 +74,7 @@
     ],
     "readme": "https://github.com/CLARIAH/clariah-mediasuite/blob/main/README.md",
     "issueTracker": "https://github.com/beeldengeluid/clariah-mediasuite/issues",
+    "contIntegration": "https://github.com/beeldengeluid/mediasuite-website/actions/workflows/nightly-production-deploy.yml",
     "releaseNotes": "https://mediasuite.clariah.nl/documentation/release-notes",
     "developmentStatus": [
         "https://www.repostatus.org/#active",
