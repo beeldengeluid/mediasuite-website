@@ -154,3 +154,11 @@ article.tutorial img {
 iframe {
 	border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+// Small screens
+@media (max-height: 840px){
+	nav.navbar a.navbar-brand img{
+	  height: 60px;
+    object-fit: cover;
+	}
+}
