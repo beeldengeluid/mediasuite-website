@@ -22,7 +22,7 @@
 					<p class="lead">Bootstrap CSS</p>
 				</div>
 				<div class="col-lg-4 col-md-5 col-sm-6">
-					
+
 				</div>
 			</div>
 		</div>
@@ -1467,7 +1467,7 @@
 
 		$('body').on('click', '.source-button', function(e) {
 			e.preventDefault();
-			
+
 			var html = $(this).parent().html();
 			html = cleanSource(html);
 			$("#source-modal pre").text(html);
@@ -1482,7 +1482,6 @@
 			.replace(/→/g, "&rarr;");
 
 			var lines = html.split(/\n/);
-
 			lines.shift();
 			lines.splice(-1, 1);
 
