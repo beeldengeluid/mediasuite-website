@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - login_redirect
+      - feature-similarity
 
 jobs:
   build:
