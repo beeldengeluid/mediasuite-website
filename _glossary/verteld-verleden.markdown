@@ -1,5 +1,6 @@
 ---
 title: Verteld Verleden
+published: false
 ---
 
 [*Dutch text*] "Verteld Verleden brengt (meta)data en spraaktranscripten van tientallen oral history-collecties verspreid over Nederland bij elkaar en maakt deze doorzoekbaar op basis van gedetailleerde zoek- en filteropties. De tool bevordert daarmee de toegankelijkheid en doorzoekbaarheid van deze unieke collecties. Geen inloggegevens vereist."
