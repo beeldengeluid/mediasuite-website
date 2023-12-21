@@ -1,5 +1,6 @@
 ---
 title: DIVE+
+published: false
 ---
 
 "DIVE is een op historische gebeurtenissen gebaseerde zoekbrowser die openbare data uit musea en bibliotheken toegankelijk, exploreerbaar en navigeerbaar maakt voor onderzoekers en het grote publiek. Dit gebeurt door middel van het automatisch koppelen van metadata over (onder andere) plaatsen en personen. In DIVE+ wordt gewerkt aan een uitbreiding hiervan. DIVE+ geeft onder andere inzicht in de manier waarop automatische kopelingen tussen digitale (media-)erfgoedbronnen mede bepalend zijn voor onze (re)constructies van de geschiedenis. Voor beide versies zijn geen inloggegevens nodig. Meer informatie vind je op het DIVE blog." (Source: previous CLARIAH website, 2016).
