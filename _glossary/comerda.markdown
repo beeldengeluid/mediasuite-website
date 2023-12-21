@@ -1,5 +1,6 @@
 ---
 title: CoMeRDa
+published: false
 ---
 
 "In de zoekmachine CoMERDa (Contextualized Media Research Data) kunnen radio- en televisiecollecties samen met bronnen over de productie, programmering en publieke omroepgeschiedenis getrapt en tegelijkertijd worden doorzocht. Vanwege auteursrechtelijk beperkingen is CoMerDa alleen beschikbaar binnen de muren van het Nederlands Instituut voor Beeld en Geluid." (Source: previous CLARIAH website, 2016).
