@@ -1,5 +1,6 @@
 ---
 title: Research Data Management
+published: false
 ---
 
 Research data management (RDM) is an important topic for researchers nowadays. For their research, scholars are required to develop a research data management plan that helps them to make conscious decisions about research data and keeps data safe. This is particularly important when working with personal data. Research data management also encourages open science and enables the reuse of data which is evidently very important in the context of research infrastructures, such as CLARIAH. Archiving research data is the best way to guarantee scientific integrity and enable verification and potential reuse of datasets. Typically, data is archived at publication or after research via a certified archive.
