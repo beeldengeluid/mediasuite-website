@@ -26,7 +26,7 @@ The Similarity tool offers the following features and functionality.
 
 ### <a name="keyframes"></a>Keyframes
 
-Keyframes are shown in a grid under the media viewer. It provides a visual and auditive overview of the current video.
+Keyframes are shown in a grid under the media viewer. It provides a visual and auditory overview of the current video.
 
 Keyframes have been detected using the scene detect library. They are accompanied by spectrograms of 1 second audio centered around the keyframe.
 
@@ -40,7 +40,7 @@ The keyframes grid is also available in the resource viewer. It provides the sam
 
 Related keyframes are loaded for the active keyframe. Results can be controlled using the query options. Use the info icon behind each input to learn more about its use!
 
-Based on the input keyframe, similar keyframes will be found by comparing the distance between visual and auditive feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button:
+Based on the input keyframe, similar keyframes will be found by comparing the distance between visual and auditory feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button:
 
 ![Similarity tool score button](/uploads/similarity-tool-score.jpg)
 
