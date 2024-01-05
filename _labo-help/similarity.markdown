@@ -4,19 +4,29 @@ title: Similarity
 
 This is the "Similarity" tool. In this brief help page you will:
 
+[Get a quick intro to the tool](#tool)
+
 [Learn more about this tool's features](#features)
 
 [Learn more about this tool's data](#data)
 
 [Learn more about the underlying VisXP technology](#technology)
 
+## <a name="intro"></a>Intro
+
+In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes, and discover related keyframes from other media resoures. The tool enables researches to
+
+![Similarity tool](/uploads/similarity-tool1.jpg)
+
 ## <a name="features"></a>Features
 
-In the Similarity tool you can watch a media resource, explore the content using visual and audio keyframes, and discover related keyframes from other media resoures.
+The Similarity tool offers the following features and functionality.
+
+![Similarity tool regions](/uploads/similarity-tool2.jpg)
 
 ### <a name="keyframes"></a>Keyframes
 
-Keyframes are shown in a grid under the media player. It provides a visual and auditive overview of the current video.
+Keyframes are shown in a grid under the media viewer. It provides a visual and auditive overview of the current video.
 
 Keyframes have been detected using the scene detect library. They are accompanied by spectrograms of 1 second audio centered around the keyframe.
 
@@ -30,9 +40,13 @@ The keyframes grid is also available in the resource viewer. It provides the sam
 
 Related keyframes are loaded for the active keyframe. Results can be controlled using the query options. Use the info icon behind each input to learn more about its use!
 
-Based on the input keyframe, similar keyframes will be found by comparing the distance between visual and auditive feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button.
+Based on the input keyframe, similar keyframes will be found by comparing the distance between visual and auditive feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button:
 
-In the overview, the resources can be bookmarked to the project and annotations can be added to the specific segments.
+![Similarity tool score button](/uploads/similarity-tool-score.jpg)
+
+In the related keyframes grid overview, the resources can be bookmarked to the project and annotations can be added to the specific segments:
+
+![Similarity tool annotation](/uploads/similarity-tool-annotation.jpg)
 
 ### <a name="annotation"></a>Annotation
 
