@@ -14,7 +14,7 @@ This is the "Similarity" tool. In this brief help page you will:
 
 ## <a name="intro"></a>Intro
 
-In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes, and discover related keyframes from other media resoures. The tool enables researches to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. 
+In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes. Moreover, it allows you to discover related keyframes from other media resoures. The tool enables researches to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. These relations are often more associative (where composition or colours resemble the keyframe) than semantic (like picturing the same object or person). 
 
 Note that the current version of the tool is merely a proof of concept, based on a limited amount of [data](#data). It is being developed further in 2024, and a bigger part of the collection will be covered. 
 
@@ -38,7 +38,7 @@ The keyframes grid is also available in the resource viewer. It provides the sam
 
 Related keyframes are loaded for the active keyframe. Results can be controlled using the query options. Use the info icon behind each input to learn more about its use. 
 
-Based on the active keyframe in the left panel, similar keyframes are retrieved by comparing the distance between visual and auditory feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button:
+Based on the active keyframe in the left panel, similar keyframes are retrieved by comparing the distance between visual and auditory feature vectors that have been created using the [VisXP model](#technology). Search scores can be displayed by using the score button:
 
 ![Similarity tool score button](/uploads/similarity-tool-score.jpg)
 
@@ -62,14 +62,15 @@ More data will be added in the future.
 
 ## <a name="technology"></a>VisXP Technology
 
-Navigating through the vast expanse of video content can be a challenging task, often leaving users struggling to pinpoint the exact videos that align with their interests.
+In [VisXP](https://www.clicknl.nl/en/case/pps-projects-visxp/), self-supervised learning was applied to train models for cross-modal audio-video clustering. To learn more about the training phase, please consult the <a href="https://github.com/beeldengeluid/dane-visual-feature-extraction-worker/blob/main/model/model%20documatation.pdf" target="_blank">model documentation</a>.
 
-VisXP uses an innovative approach that enables search engines to train their models on a massive repository of audio-video data, allowing them to decipher intricate patterns and associations between the two modalities. This enhanced understanding directly translates into more pertinent and accurate retrieval results as users embark on their video search quests.
+The trained model allows us to embed all video snippets (shots, in our case) in latent, high-dimensional space. Proximity in this space corresponds to a sense of relatedness or similarity. 
 
-By leveraging the power of cross-modal learning, search engines can effectively identify videos that match user queries, even when the audio or video quality is inconsistent. This ability to discern meaningful connections between the auditory and visual aspects of videos significantly improves the overall accuracy and relevance of search results.
+The following steps were taken to apply the model to videos in the NISV archive:
 
-Self-supervised deep learning-based AI has revolutionized the way we interact with technology, particularly in the realm of video search. Traditional video search engines rely on manual annotation of video content, which is a time-consuming and labor-intensive process. However, the advent of self-supervised learning has opened up a new frontier in video search, enabling search engines to learn from unlabeled data without human intervention.
+- First, videos were segmented into shots using [scenedetect](https://www.scenedetect.com/).
+For every shot, a representative keyframe (image) is extracted together with the corresponding audio spectogram (based on 1 second of audio). 
 
-In essence, self-supervised learning by cross-modal audio-video clustering empowers search engines to transform the way users discover and engage with captivating content. Harnessing this cutting-edge technology will make AI technology widely applicable within media archives, enabling social scientists to explore and analyze data more efficiently and insightfully. By combining the power of AI with the richness of media archives, this project will transform the way social science research is conducted and enhance our understanding of the social world.
+- Next, the model (a convolutional neural network) was applied to extract features. 
 
-Want to know more about the model? Read the <a href="https://github.com/beeldengeluid/dane-visual-feature-extraction-worker/blob/main/model/model%20documatation.pdf" target="_blank">model documentation</a>
+- For similarity search, the nearest items in feature space are retrieved. The vector search itself is handled by an Elastic Search backend. 
