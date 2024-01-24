@@ -14,7 +14,7 @@ This is the "Similarity" tool. In this brief help page you will:
 
 ## <a name="intro"></a>Intro
 
-In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes, and discover related keyframes from other media resoures. The tool enables researches to
+In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes, and discover related keyframes from other media resoures. The tool enables researches to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. 
 
 ![Similarity tool](/uploads/similarity-tool1.jpg)
 
@@ -26,7 +26,7 @@ The Similarity tool offers the following features and functionality.
 
 ### <a name="keyframes"></a>Keyframes
 
-Keyframes are shown in a grid under the media viewer. It provides a visual and auditory overview of the current video.
+Keyframes are shown in a grid under the media viewer. They provide a visual and auditory overview of the current video.
 
 Keyframes have been detected using the scene detect library. They are accompanied by spectrograms of 1 second audio centered around the keyframe.
 
@@ -34,7 +34,7 @@ When the video is playing, the currently active keyframe is highlighted. Clickin
 
 Using the annotation button, annotations can be made on a segment that spans the keyframe start and end time.
 
-The keyframes grid is also available in the resource viewer. It provides the same control about the media playback as in the similarity tool.
+The keyframes grid is also available in the resource viewer. It provides the same control for the media playback as in the similarity tool.
 
 ### <a name="related-keyframes"></a>Related keyframes
 
