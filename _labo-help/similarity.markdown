@@ -14,7 +14,7 @@ This is the "Similarity" tool. In this brief help page you will:
 
 ## <a name="intro"></a>Intro
 
-In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes. Moreover, it allows you to discover related keyframes from other media resoures. The tool enables researches to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. These relations are often more associative (where composition or colours resemble the keyframe) than semantic (like picturing the same object or person). 
+In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes. Moreover, it allows you to discover related keyframes from other media resoures. The tool enables researches to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. These relations are often more associative (like resembling composition or colours) than semantic (like picturing the same object or person). 
 
 Note that the current version of the tool is merely a proof of concept, based on a limited amount of [data](#data). It is being developed further in 2024, and a bigger part of the collection will be covered. 
 
