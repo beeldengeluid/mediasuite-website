@@ -56,7 +56,7 @@ In addition, both the current resource and the resources belonging to the relate
 
 ## <a name="data"></a>Data
 
-Currently, only a small selection of the archive has been processed. It contains resources about specific events, for example 9/11 attacks, refugees debate in 2015, and the Dutch ice skating tour called elfstedentocht.
+Currently, only a small selection of the NISV collection has been processed. It contains resources about specific events, for example 9/11 attacks, refugees debate in 2015, and the Dutch ice skating tour called elfstedentocht.
 
 More data will be added in the future.
 
@@ -71,6 +71,6 @@ The following steps were taken to apply the model to videos in the NISV archive:
 - First, videos were segmented into shots using [scenedetect](https://www.scenedetect.com/).
 For every shot, a representative keyframe (image) is extracted together with the corresponding audio spectogram (based on 1 second of audio). 
 
-- Next, the model (a convolutional neural network) was applied to extract features. 
+- Next, the model (a convolutional neural network) was applied to extract audio and visual features. 
 
 - For similarity search, the nearest items in feature space are retrieved. The vector search itself is handled by an Elastic Search backend. 
