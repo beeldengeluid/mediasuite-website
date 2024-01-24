@@ -26,19 +26,15 @@ The Similarity tool offers the following features and functionality.
 
 ### <a name="keyframes"></a>Keyframes
 
-Keyframes are shown in a grid under the media viewer. They provide a visual and auditory overview of the current video.
+Keyframes have been selected using the [scene detect library](https://www.scenedetect.com/). They are accompanied by spectrograms of 1 second audio centered around the keyframe.
 
-Keyframes have been detected using the scene detect library. They are accompanied by spectrograms of 1 second audio centered around the keyframe.
-
-When the video is playing, the currently active keyframe is highlighted. Clicking on a tile moves the player video position to the keyframe timestamp. This way one can navigate the video, in addition to the left/right buttons that move playback to the previous or next keyframe.
-
-Using the annotation button, annotations can be made on a segment that spans the keyframe start and end time.
+The keyframes are shown in a grid under the media viewer. They provide a visual and auditory overview of the current video. When the video is playing, the currently active keyframe is highlighted. Clicking on a tile moves the player video position to the keyframe timestamp. This way one can navigate the video, in addition to the left/right buttons that move playback to the previous or next keyframe.
 
 The keyframes grid is also available in the resource viewer. It provides the same control for the media playback as in the similarity tool.
 
 ### <a name="related-keyframes"></a>Related keyframes
 
-Related keyframes are loaded for the active keyframe. Results can be controlled using the query options. Use the info icon behind each input to learn more about its use!
+Related keyframes are loaded for the active keyframe. Results can be controlled using the query options. Use the info icon behind each input to learn more about its use. 
 
 Based on the input keyframe, similar keyframes will be found by comparing the distance between visual and auditory feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button:
 
@@ -46,13 +42,18 @@ Based on the input keyframe, similar keyframes will be found by comparing the di
 
 In the related keyframes grid overview, the resources can be bookmarked to the project and annotations can be added to the specific segments:
 
-![Similarity tool annotation](/uploads/similarity-tool-annotation.jpg)
 
-### <a name="annotation"></a>Annotation
+### <a name="annotation"></a>Annotation and bookmarking
+
+Using the annotation button, annotations can be made on a segment that spans the keyframe start and end time. This applies to both the [current resource's keyframes](#keyframes) and the [related keyframes](#related-keyframes)
+
+![Similarity tool annotation](/uploads/similarity-tool-annotation.jpg)
 
 Annotations you make will show up in the Resource Viewer, which you can conveniently open by using the resource viewer button on the top right.
 
 Annotations are always added to a new layer called 'Similarity'. Feel free to edit the contents in the resource viewer. However, keep in mind that: 1) the Similarity tool will always create a new layer called Similarity if not present, and 2) if you change the start/end time of segments, the similarity tool can't use them for bookmarking anymore.
+
+In addition, both the current resource and the resources belonging to the related keyframes can be bookmarked to your project. 
 
 ## <a name="data"></a>Data
 
