@@ -16,6 +16,8 @@ This is the "Similarity" tool. In this brief help page you will:
 
 In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes, and discover related keyframes from other media resoures. The tool enables researches to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. 
 
+Note that the current version of the tool is merely a proof of concept, based on a limited amount of [data](#data). It is being developed further in 2024, and a bigger part of the collection will be covered. 
+
 ![Similarity tool](/uploads/similarity-tool1.jpg)
 
 ## <a name="features"></a>Features
@@ -24,7 +26,7 @@ The Similarity tool offers the following features and functionality.
 
 ![Similarity tool regions](/uploads/similarity-tool2.jpg)
 
-### <a name="keyframes"></a>Keyframes
+### <a name="keyframes"></a>Current resource keyframes
 
 Keyframes have been selected using the [scene detect library](https://www.scenedetect.com/). They are accompanied by spectrograms of 1 second audio centered around the keyframe.
 
@@ -36,16 +38,13 @@ The keyframes grid is also available in the resource viewer. It provides the sam
 
 Related keyframes are loaded for the active keyframe. Results can be controlled using the query options. Use the info icon behind each input to learn more about its use. 
 
-Based on the input keyframe, similar keyframes will be found by comparing the distance between visual and auditory feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button:
+Based on the active keyframe in the left panel, similar keyframes are retrieved by comparing the distance between visual and auditory feature vectors that have been created using the [VisXP model](#technology). The vector search itself is handled by an Elastic Search backend. Search scores can be displayed by using the score button:
 
 ![Similarity tool score button](/uploads/similarity-tool-score.jpg)
 
-In the related keyframes grid overview, the resources can be bookmarked to the project and annotations can be added to the specific segments:
-
-
 ### <a name="annotation"></a>Annotation and bookmarking
 
-Using the annotation button, annotations can be made on a segment that spans the keyframe start and end time. This applies to both the [current resource's keyframes](#keyframes) and the [related keyframes](#related-keyframes)
+Using the annotation button, annotations can be made on a segment that spans the start and end time of the detected shot that the keyframe belongs to. This applies to both the [current resource's keyframes](#keyframes) and the [related keyframes](#related-keyframes)
 
 ![Similarity tool annotation](/uploads/similarity-tool-annotation.jpg)
 
@@ -57,7 +56,7 @@ In addition, both the current resource and the resources belonging to the relate
 
 ## <a name="data"></a>Data
 
-Currently there is only a small selection of data that has been processed. It contains resources about specific events, for example 9/11 attacks, refugees and the Dutch ice skating tour called elfstedentocht.
+Currently, only a small selection of the archive has been processed. It contains resources about specific events, for example 9/11 attacks, refugees debate in 2015, and the Dutch ice skating tour called elfstedentocht.
 
 More data will be added in the future.
 
