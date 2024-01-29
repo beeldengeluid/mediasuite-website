@@ -14,7 +14,9 @@ This is the "Similarity" tool. In this brief help page you will:
 
 ## <a name="intro"></a>Intro
 
-In the Similarity tool you can watch a media resource, explore and navigate the content using visual and audio keyframes. Moreover, it allows you to discover related keyframes from other media resoures. The tool enables researches to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. These relations are often more associative (like resembling composition or colours) than semantic (like picturing the same object or person). 
+The Similarity tool allows you to discover related keyframes from other media resources. Like in the resource viewer, you can watch a media resource, explore and navigate the content using visual and audio keyframes. In addition, related keyframes are retrieved and shown for every keyframe in the resource. 
+
+ The tool enables researchers to browse a part of the archive in a way that is complementary to the structured search offered in the Search tool. This may expose relationships that are not apparent from the metadata, emerging from the visual and audio domain. These relations are often more associative (like a resemblance in composition or colours) than semantic (like picturing the same object or person). 
 
 Note that the current version of the tool is merely a proof of concept, based on a limited amount of [data](#data). It is being developed further in 2024, and a bigger part of the collection will be covered. 
 
@@ -28,7 +30,7 @@ The Similarity tool offers the following features and functionality.
 
 ### <a name="keyframes"></a>Current resource keyframes
 
-Keyframes have been selected using the [scene detect library](https://www.scenedetect.com/). They are accompanied by spectrograms of 1 second audio centered around the keyframe.
+Keyframes for the resource were selected using the [scene detect library](https://www.scenedetect.com/). They are accompanied by spectrograms of 1 second audio centered around the keyframe.
 
 The keyframes are shown in a grid under the media viewer. They provide a visual and auditory overview of the current video. When the video is playing, the currently active keyframe is highlighted. Clicking on a tile moves the player video position to the keyframe timestamp. This way one can navigate the video, in addition to the left/right buttons that move playback to the previous or next keyframe.
 
@@ -36,7 +38,7 @@ The keyframes grid is also available in the resource viewer. It provides the sam
 
 ### <a name="related-keyframes"></a>Related keyframes
 
-Related keyframes are loaded for the active keyframe. Results can be controlled using the query options. Use the info icon behind each input to learn more about its use. 
+Related keyframes are loaded for the active keyframe. Results can be controlled using the options available in the taskbar above the related keyframes. Consult the info icon behind each option to learn more about its use. 
 
 Based on the active keyframe in the left panel, similar keyframes are retrieved by comparing the distance between visual and auditory feature vectors that have been created using the [VisXP model](#technology). Search scores can be displayed by using the score button:
 
