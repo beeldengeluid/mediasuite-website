@@ -64,7 +64,8 @@ More data will be added in the future.
 
 ## <a name="technology"></a>VisXP Technology
 
-In [VisXP](https://www.clicknl.nl/en/case/pps-projects-visxp/), self-supervised learning was applied to train models for cross-modal audio-video clustering. To learn more about the training phase, please consult the <a href="https://github.com/beeldengeluid/dane-visual-feature-extraction-worker/blob/main/model/model%20documatation.pdf" target="_blank">model documentation</a>.
+In [VisXP](https://www.clicknl.nl/en/case/pps-projects-visxp/), self-supervised learning was applied to train models for cross-modal audio-video clustering. The models were developed by the [Multimedia Analytics group](https://multix.io/) at the University of Amsterdam.
+To learn more about the training phase, please consult the <a href="https://github.com/beeldengeluid/dane-visual-feature-extraction-worker/blob/main/model/model%20documentation.pdf" target="_blank">model documentation</a>.
 
 The trained model allows us to embed all video snippets (shots, in our case) in latent, high-dimensional space. Proximity in this space corresponds to a sense of relatedness or similarity. 
 
