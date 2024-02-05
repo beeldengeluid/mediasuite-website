@@ -52,7 +52,7 @@ Using the annotation button, annotations can be made on a segment that spans the
 
 Annotations you make will show up in the Resource Viewer, which you can conveniently open by using the resource viewer button on the top right.
 
-Annotations are always added to a new layer called 'Similarity'. Feel free to edit the contents in the resource viewer. However, keep in mind that: 1) the Similarity tool will always create a new layer called Similarity if not present, and 2) if you change the start/end time of segments, the similarity tool can't use them for bookmarking anymore.
+Annotations are always added to a new layer called 'Similarity'. Feel free to edit the contents in the resource viewer. However, keep in mind that: 1) the Similarity tool will always create a new layer called Similarity if not present, and 2) if you change the start/end time of segments, the similarity tool can't use them for annotations anymore.
 
 In addition, both the current resource and the resources belonging to the related keyframes can be bookmarked to your project. 
 
