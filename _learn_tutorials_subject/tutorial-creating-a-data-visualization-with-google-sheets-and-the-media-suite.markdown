@@ -72,15 +72,15 @@ This tutorial is based on a research project on the Chernobyl nuclear disaster. 
 
   * Each horizontal collection of cells is called a ‘row.’
 
-* In this online spreadsheet you can collect and edit your data. You can do so manually, or with the use of so-called **‘formulas.’ **Formulas are sequences that automatically fill in the cells for you. If you do so correctly, the formula will receive a specific color that corresponds with the data.
+* In this online spreadsheet you can collect and edit your data. You can do so manually, or with the use of so-called **‘formulas.’** Formulas are sequences that automatically fill in the cells for you. If you do so correctly, the formula will receive a specific color that corresponds with the data.
 
 * Besides collecting and editing your data, it is also possible to create **visualizations** of your data in Google Sheets, such as graphs and histograms, as we will do in the steps below.
 
-* In this tutorial, we will be working with **the metadata of archived television news broadcasts on the 1986 Chernobyl nuclear disaster. **This means we have a selection of items that all mention ‘Chernobyl’ (both the English and Dutch translation, as well as the alternative spelling of ‘Tsjernobil’) somewhere in the metadata. We have thereafter selected only the programmes that have received Automatic Speech Recognition (ASR) and that therefore include transcripts of what has been said in the broadcast.
+* In this tutorial, we will be working with **the metadata of archived television news broadcasts on the 1986 Chernobyl nuclear disaster**. This means we have a selection of items that all mention ‘Chernobyl’ (both the English and Dutch translation, as well as the alternative spelling of ‘Tsjernobil’) somewhere in the metadata. We have thereafter selected only the programmes that have received Automatic Speech Recognition (ASR) and that therefore include transcripts of what has been said in the broadcast.
 
 ### Step 2: Explore the data
 
-***![](https://lh7-us.googleusercontent.com/Hpoq4WHNpeqM8IcW5Lqbc55GGxrHytYwRbvfqTiIAr80cF0EzRpGkD4oR7IF9txOJA7QF5hQUfp15WnAU5D3qtQjTDQAkrYQxXXeFVfHmoyQKeJaT5X9OPAK1VSUXJaJ6T22VRxJ320P2i-gdm3UJ3A)*****Figure 1: The example [dataset](https://docs.google.com/spreadsheets/d/19v1aLY30YtgOqU13heaYhSCdhlz57YtFBn3e2HhrsCo/edit#gid=1674917601).**
+\*\*\*![](https://lh7-us.googleusercontent.com/Hpoq4WHNpeqM8IcW5Lqbc55GGxrHytYwRbvfqTiIAr80cF0EzRpGkD4oR7IF9txOJA7QF5hQUfp15WnAU5D3qtQjTDQAkrYQxXXeFVfHmoyQKeJaT5X9OPAK1VSUXJaJ6T22VRxJ320P2i-gdm3UJ3A)**Figure 1: The example [dataset](https://docs.google.com/spreadsheets/d/19v1aLY30YtgOqU13heaYhSCdhlz57YtFBn3e2HhrsCo/edit#gid=1674917601).**
 
 * Open the example [dataset](https://docs.google.com/spreadsheets/d/19v1aLY30YtgOqU13heaYhSCdhlz57YtFBn3e2HhrsCo/edit#gid=1674917601). The first tab is the ‘**Curated dataset’**, where you can find the metadata we have received from the archive as well as our own annotations. This consists of straightforward information such as the program title and the date the program aired, as well as our own annotation regarding the main theme of the item.
 
@@ -97,39 +97,62 @@ This tutorial is based on a research project on the Chernobyl nuclear disaster. 
 
   * **Fukushima**: Items reporting on the 2011 Japanese nuclear disaster, which was often compared to the disaster in Chernobyl.
 
-  * **Non-Chernobyl**: Items that are actually not about Chernobyl.
-    The last theme, Non-Chernobyl, is interesting and worth looking further into, as our selection is based on the mention of Chernobyl.
-    Inspect the second Non-Chernobyl item of 15-01-2015 at 8 p.m. by clicking here. Even if you cannot log-in, you will still have access to the speech transcripts of the news broadcast.
-    Click ‘Content annotations’, select ‘Speech transcript’ in the ‘Type’ drop-down menu, and search for ‘tsjernobyl’ (Dutch spelling of Chernobyl).
+  * **Non-Chernobyl**: Items that are actually not about Chernobyl.\*
+
+* The last theme, **Non-Chernobyl**, is interesting and worth looking further into, as our selection is based on the mention of Chernobyl.
+
+  * Inspect the second Non-Chernobyl item of 15-01-2015 at 8 p.m. by clicking [here](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608160152797731&cid=daan-catalogue-aggr). Even if you cannot log-in, you will still have access to the speech transcripts of the news broadcast.
+
+  * Click ‘Content annotations’, select ‘Speech transcript’ in the ‘Type’ drop-down menu, and search for ‘tsjernobyl’ (Dutch spelling of Chernobyl).
     Use Google Translate if necessary. What happened here?
-    Further explore this category by inspecting this broadcast that aired around 10 p.m. on 25-12-2013 and follow the same steps. Use Google Translate if necessary. What happened here?
-    Take a moment to reflect on what we can learn from this ‘Non-Chernobyl’ theme, and write down your ASR data critique. What do these errors tell us about ASR and the way this model is trained? Discuss whether you agree with our statement that “ASR errors can be considered traces of the archival production context.”
-    Step 3: Preparing the data
-    In the example data set, copy-paste the data of the two tabs into a new Google Sheets file. We are using Google sheets so your lecturer can review your steps. Give your sheet a title that starts with your first name, and share your file through Google Drive so your lecturer is able to find it.
-    Your new file will be the one you can edit, and where you will make your visualization. Of course, you are also welcome using and experimenting with your own data set.
-    To create our theme visualization, we need some of the data from the example set. Open a new tab in your edit-file and copy-paste the following columns:
-    Column B: Adapted broadcast year
-    This will tell us the year the item was aired.
-    Column D: Annotation topic
-    This will tell us the main theme of the item.
-    Troubleshooting: If you encounter any problems in the following steps, ensure that column B: Adapted broadcast year is formatted as a single number. You can do so by selecting the entire columns, going to ‘Format’ and ‘Number’ and then selecting the ‘0’.
-    Now go through the data you have collected and prepared. If you look closely, you can see that in the ASR column, three items have been labeled ‘NOASR’, meaning that due to technical errors, these have not received any speech transcripts. As we are only interested in items with speech transcripts, you select these three rows, and delete them.
-    Your total number of rows should now be 125 (124 data and 1 title row).
-    You have just ‘cleaned’ the data by removing the failed ASR items. Take a step back and reflect upon what the deletion of broadcasts without ASR means. Discuss whether you agree with this step or not.
 
-Step 4: Designing a table
+  * Further explore this category by inspecting [this](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150133769031&cid=daan-catalogue-aggr) broadcast that aired around 10 p.m. on 25-12-2013 and follow the same steps. Use Google Translate if necessary. What happened here?
 
-In the next step, we make the table on which the final visualization will be based. It is important to ensure that each row and each column receive a total, and that the entire table receives a grand total.
-In statistical terms, this grand total is the N-value. This value is mentioned in the title and caption of the final data figure. (e.g. N=124). It is important to always correspond this value to readers. Why do you think that is?
-To make the variables, we first have to decide what type of visualization we want to make, and which data we need in order to do so. In this case, we want insight into the different themes present in the news items over the years, and we want to visualize this through a stacked bar chart.
-In the same tab as you copied the data, we will create our table. Because of the formula you will be using, it is important to be aware of where you place your table.
-We enter these variables in manually:
-Put the topic category in the columns of your table. Start at cell G4 and work towards cell J4.
-Put the year category in the rows of your table. Start at cell F5 and work towards cell F19.
-Lastly, add a TOTALS row as well as column to your table.
-Our columns now exist of the four topics: Chernobyl today, Anniversary, Fukushima, and Non-Chernobyl, while our rows exist of the years 2004-2017. This should look similar to the image below.
+* Take a moment to reflect on what we can learn from this ‘Non-Chernobyl’ theme, and write down your ASR data critique. What do these errors tell us about ASR and the way this model is trained? Discuss whether you agree with our statement that “ASR errors can be considered traces of the archival production context.
 
-Figure 2: An example of what your tab is supposed to look like. Pay close attention to where you have put your table.
+### \
+Step 3: Preparing the data
+
+* In the **example data set**, copy-paste the data of the two tabs into a new Google Sheets file. We are using Google sheets so your lecturer can review your steps. **Give your sheet a title** that starts with your first name, and share your file through Google Drive so your lecturer is able to find it.
+
+* Your new file will be the one you can edit, and where you will make your visualization. Of course, you are also welcome using and experimenting with your own data set.
+
+* To create our theme visualization, we need some of the data from the example set. Open a new tab in your edit-file and copy-paste the following columns:
+
+  * Column B: Adapted broadcast year: This will tell us the year the item was aired.
+
+  * Column D: Annotation topic: This will tell us the main theme of the item.
+
+* Troubleshooting: If you encounter any problems in the following steps, ensure that column B: Adapted broadcast year is formatted as a single number. You can do so by selecting the entire columns, going to ‘Format’ and ‘Number’ and then selecting the ‘0’.
+
+* Now go through the data you have collected and prepared. If you look closely, you can see that in the ASR column, three items have been labeled ‘NOASR’, meaning that due to technical errors, these have not received any speech transcripts. As we are only interested in items with speech transcripts, you select these three rows, and delete them.
+
+* Your total number of rows should now be 125 (124 data and 1 title row).
+
+* You have just **‘cleaned’ the data** by removing the failed ASR items. Take a step back and reflect upon what the deletion of broadcasts without ASR means. Discuss whether you agree with this step or not.\
+
+### Step 4: Designing a table
+
+* In the next step, we make the table on which the final visualization will be based. It is important to ensure that each row and each column receive a **total**, and that the entire table receives a **grand total**.
+
+* In statistical terms, this grand total is the **N-value**. This value is mentioned in the title and caption of the final data figure. (e.g. N=124). It is important to always correspond this value to readers. Why do you think that is?
+
+* To make the variables, we first have to decide what type of visualization we want to make, and which data we need in order to do so. In this case, we want insight into the different **themes** present in the news items over the **years**, and we want to visualize this through a stacked bar chart.
+
+* **In the same tab** as you copied the data, we will create our table. Because of the formula you will be using, it is important to be aware of where you place your table.
+
+* We enter these variables in **manually**:
+
+  * Put the topic category in the columns of your table. Start at cell G4 and work towards cell J4.
+
+  * Put the year category in the rows of your table. Start at cell F5 and work towards cell F19.
+
+  * Lastly, add a **TOTALS** row as well as column to your table.
+
+* Our columns now exist of the four topics: Chernobyl today, Anniversary, Fukushima, and Non-Chernobyl, while our rows exist of the years 2004-2017. This should look similar to the image below.
+
+**![](https://lh7-us.googleusercontent.com/Y54aZSXklFGUiNAuhq7-5T8GqlAS3ymIZL7dSgwTy6h-oPOqjTQz3KdpDhvpup2MxfkYcAD98CMpjj2av2WRt3o_wBV9wP6kUUSy1bMhIdJBU70evDQ4mbw8rEiJZu__mhZD1gqqM27imi5OBYEW-OU)**\
+**Figure 2: An example of what your tab is supposed to look like. Pay close attention to where you have put your table.**
 
 Now, we will fill in the table with the values. We can do so automatically, by using a specific formula. In this case, we use the formula COUNTIFS because we define the value, not for one, but for two conditions: the topic and the year.
 In the first cell, regarding all Chernobyl Today items in 2004, our formula looks as the following: =COUNTIFS(A:A,F5,B:B,"Chernobyl today")
