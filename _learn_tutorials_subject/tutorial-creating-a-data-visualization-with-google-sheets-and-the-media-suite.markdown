@@ -1,15 +1,12 @@
 ---
-title: |-
-  Tutorial: Creating a Data Visualization with
-  Google Sheets and the Media Suite
+title: 'Tutorial: Creating a Data Visualization with Google Sheets and the Media Suite'
 date: 2024-02-14 11:04:00 +01:00
-published: false
 author: Jasmijn van Gorp & Mary-Joy van der Deure, Utrecht University
 ---
 
 ## Tutorial description, case and objectives
 
-Archives preserve copious amounts of metadata, meaning the data that is needed to describe and organize the collections in the archive. Metadata, however, can also be the subject of analysis in itself. What is important to consider is that (meta)data are never neutral representations, but that they are shaped by social, technological and spatial practices that all leave their traces. Yanni Loukissas (2019, 189) argues that, instead of considering data as “information at a distance”, we should analyze data’s “locality.” This means we connect the “data back to the context in which they are produced” (D’Ignazio and Klein 2020). Through this approach, the metadata in the archive can provide insight into how the data are made. Loukissas shows specifically how **errors** and \*\*absences \*\*can point to ‘local practices’. For example, when working with digital scans, visible fingers or crumbled pages can be left behind during the scanning process, making these errors a trace of the data’s production (Thylstrup 2019, 42). The same goes for the data that is missing. Absences are traces of the decisions made by archivists, influenced by policies and specific historical contexts, who decide what will and what will not be preserved (Uricchio 1995). Errors and absences are not just ‘data dirt’ but interesting traces of the data’s **local production context.**
+Archives preserve copious amounts of metadata, meaning the data that is needed to describe and organize the collections in the archive. Metadata, however, can also be the subject of analysis in itself. What is important to consider is that (meta)data are never neutral representations, but that they are shaped by social, technological and spatial practices that all leave their traces. Yanni Loukissas (2019, 189) argues that, instead of considering data as “information at a distance”, we should analyze data’s “locality.” This means we connect the “data back to the context in which they are produced” (D’Ignazio and Klein 2020). Through this approach, the metadata in the archive can provide insight into how the data are made. Loukissas shows specifically how **errors** and **absences**  can point to ‘local practices’. For example, when working with digital scans, visible fingers or crumbled pages can be left behind during the scanning process, making these errors a trace of the data’s production (Thylstrup 2019, 42). The same goes for the data that is missing. Absences are traces of the decisions made by archivists, influenced by policies and specific historical contexts, who decide what will and what will not be preserved (Uricchio 1995). Errors and absences are not just ‘data dirt’ but interesting traces of the data’s **local production context.**
 
 In this tutorial, we will practice this approach by looking at a dataset and creating a **data visualization** of metadata in Sound and Vision’s television collection. Specifically, we will analyze the metadata of news broadcasts on the [Chernobyl ](https://www.britannica.com/event/Chernobyl-disaster)nuclear disaster. In 1986, a nuclear reactor exploded in this former Soviet city (located in modern-day Ukraine) resulting in large amounts of radiation all over Europe. Contemporary news items on the disaster can be considered repackaged **‘old news’** (Chu 2022), meaning new perspectives and contemporary reports are added to the original story to create relevance and thus news value. Following along with this tutorial will result in a visual timeline of the different item themes in which the Chernobyl disaster has been mentioned. While data visualizations should always be approached in a critical manner, they are a useful way to explore large amounts of data and gain insight into the data’s locality.
 
@@ -50,11 +47,11 @@ This tutorial combines Google Sheets with the CLARIAH Media Suite. It is recomme
 
 * Uricchio, William. 1995. “Archives and Absences.” Film History 7, no. 3 (Autumn): 256-263.
 
-* Van Gorp, Jasmijn. 2023. “Interstitial Data: Tracing Metadata in Archival Search Systems.” In Situating Data: Inquiries in Algorithmic Culture (pp. 207-222). Amsterdam University Press. [https://doi.org/10.5117/9789463722971](https://doi.org/10.5117/9789463722971)\\
+* Van Gorp, Jasmijn. 2023. “Interstitial Data: Tracing Metadata in Archival Search Systems.” In Situating Data: Inquiries in Algorithmic Culture (pp. 207-222). Amsterdam University Press. [https://doi.org/10.5117/9789463722971](https://doi.org/10.5117/9789463722971)
 
 ### Acknowledgements
 
-This tutorial was made as part of the [CLICK-NL project RE-FRAME](https://www.clicknl.nl/case/pps-projecten-re-frame/) and the [CLARIAH WP5 work package](https://www.clariah.nl/wp5-media-studies). We are also very grateful to our RE-FRAME team member Maaike van Cruchten (HvA) for her feedback on earlier versions of our data visualizations.\\
+This tutorial was made as part of the [CLICK-NL project RE-FRAME](https://www.clicknl.nl/case/pps-projecten-re-frame/) and the [CLARIAH WP5 work package](https://www.clariah.nl/wp5-media-studies). We are also very grateful to our RE-FRAME team member Maaike van Cruchten (HvA) for her feedback on earlier versions of our data visualizations.
 
 This tutorial is based on a research project on the Chernobyl nuclear disaster. The first results of the research project are published as a poster [here](https://doi.org/10.5281/zenodo.8021133). We are also working on a full-length journal article (once published, you will find this article [here](https://www.uu.nl/staff/JvanGorp/Publications)).
 
@@ -80,7 +77,7 @@ This tutorial is based on a research project on the Chernobyl nuclear disaster. 
 
 ### Step 2: Explore the data
 
-\*\*\*![](https://lh7-us.googleusercontent.com/Hpoq4WHNpeqM8IcW5Lqbc55GGxrHytYwRbvfqTiIAr80cF0EzRpGkD4oR7IF9txOJA7QF5hQUfp15WnAU5D3qtQjTDQAkrYQxXXeFVfHmoyQKeJaT5X9OPAK1VSUXJaJ6T22VRxJ320P2i-gdm3UJ3A)**Figure 1: The example [dataset](https://docs.google.com/spreadsheets/d/19v1aLY30YtgOqU13heaYhSCdhlz57YtFBn3e2HhrsCo/edit#gid=1674917601).**
+![](https://lh7-us.googleusercontent.com/Hpoq4WHNpeqM8IcW5Lqbc55GGxrHytYwRbvfqTiIAr80cF0EzRpGkD4oR7IF9txOJA7QF5hQUfp15WnAU5D3qtQjTDQAkrYQxXXeFVfHmoyQKeJaT5X9OPAK1VSUXJaJ6T22VRxJ320P2i-gdm3UJ3A)**Figure 1: The example [dataset](https://docs.google.com/spreadsheets/d/19v1aLY30YtgOqU13heaYhSCdhlz57YtFBn3e2HhrsCo/edit#gid=1674917601).**
 
 * Open the example [dataset](https://docs.google.com/spreadsheets/d/19v1aLY30YtgOqU13heaYhSCdhlz57YtFBn3e2HhrsCo/edit#gid=1674917601). The first tab is the ‘**Curated dataset’**, where you can find the metadata we have received from the archive as well as our own annotations. This consists of straightforward information such as the program title and the date the program aired, as well as our own annotation regarding the main theme of the item.
 
@@ -97,7 +94,7 @@ This tutorial is based on a research project on the Chernobyl nuclear disaster. 
 
   * **Fukushima**: Items reporting on the 2011 Japanese nuclear disaster, which was often compared to the disaster in Chernobyl.
 
-  * **Non-Chernobyl**: Items that are actually not about Chernobyl.\*
+  * **Non-Chernobyl**: Items that are actually not about Chernobyl.
 
 * The last theme, **Non-Chernobyl**, is interesting and worth looking further into, as our selection is based on the mention of Chernobyl.
 
@@ -110,7 +107,8 @@ This tutorial is based on a research project on the Chernobyl nuclear disaster. 
 
 * Take a moment to reflect on what we can learn from this ‘Non-Chernobyl’ theme, and write down your ASR data critique. What do these errors tell us about ASR and the way this model is trained? Discuss whether you agree with our statement that “ASR errors can be considered traces of the archival production context.
 
-### \
+### 
+
 Step 3: Preparing the data
 
 * In the **example data set**, copy-paste the data of the two tabs into a new Google Sheets file. We are using Google sheets so your lecturer can review your steps. **Give your sheet a title** that starts with your first name, and share your file through Google Drive so your lecturer is able to find it.
@@ -129,7 +127,7 @@ Step 3: Preparing the data
 
 * Your total number of rows should now be 125 (124 data and 1 title row).
 
-* You have just **‘cleaned’ the data** by removing the failed ASR items. Take a step back and reflect upon what the deletion of broadcasts without ASR means. Discuss whether you agree with this step or not.\
+* You have just **‘cleaned’ the data** by removing the failed ASR items. Take a step back and reflect upon what the deletion of broadcasts without ASR means. Discuss whether you agree with this step or not.
 
 ### Step 4: Designing a table
 
@@ -156,7 +154,7 @@ Step 3: Preparing the data
 
 * Now, we will fill in the table with the values. We can do so automatically, by using a specific formula. In this case, we use the formula COUNTIFS because we define the value, not for one, but for two conditions: the topic and the year.
 
-* In the first cell, regarding all Chernobyl Today items in 2004, our formula looks as the following:** =COUNTIFS(A:A,F5,B:B,"Chernobyl today")**
+* In the first cell, regarding all Chernobyl Today items in 2004, our formula looks as the following:  **=COUNTIFS(A:A,F5,B:B,"Chernobyl today")**
 
   * Troubleshooting: Ensure that the language of your file is set to either the United Kingdom or the Netherlands, as different countries use different interpunction-conventions in the formula’s. If you have your language set to the Netherlands: =COUNTIFS changes to =AANTALLEN.ALS
 
@@ -200,7 +198,7 @@ Step 3: Preparing the data
 
 ### Step 5: Creating the data visualization
 
-* When designing your visualization, you will want to choose the graph that best encapsulates what you are trying to say, in our case a** ‘stacked bar chart’ **will visualize the presence of themes over a longer period of time. We will create our visualization in the same tab as the table we have created.
+* When designing your visualization, you will want to choose the graph that best encapsulates what you are trying to say, in our case a ‘**stacked bar chart**’ will visualize the presence of themes over a longer period of time. We will create our visualization in the same tab as the table we have created.
 
 * To start our visualization, you need to select the range of your table.
 
@@ -218,7 +216,7 @@ Step 3: Preparing the data
 
   * We delete the chart title
 
-* Lastly, we will want to adjust our colors. When you are working with more than one visualization, ensure that you use the same** color pattern** throughout. In our case, we choose not to use primary colors for aesthetic purposes. When selecting yours, think about other possible motivations for the use or avoidance of specific colors. How can we be inclusive in our decisions?
+* Lastly, we will want to adjust our colors. When you are working with more than one visualization, ensure that you use the same **color pattern** throughout. In our case, we choose not to use primary colors for aesthetic purposes. When selecting yours, think about other possible motivations for the use or avoidance of specific colors. How can we be inclusive in our decisions?
 
 * To add your colors, select ‘Customize’ again, and then choose ‘Series’.
 
