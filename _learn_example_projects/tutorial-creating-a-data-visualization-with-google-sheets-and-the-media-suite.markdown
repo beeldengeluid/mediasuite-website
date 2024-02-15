@@ -1,5 +1,6 @@
 ---
-title: 'Tutorial: Creating a Data Visualization with Google Sheets and the Media Suite'
+title: Lecturers' materials for tutorial "Data Visualization with Google Sheets and
+  the Media Suite"
 date: 2024-02-14 17:46:00 +01:00
 author: Jasmijn van Gorp & Mary-Joy van der Deure, Utrecht University
 ---
