@@ -2,7 +2,8 @@
 title: Lecturers' materials for tutorial "Creating a Data Visualization with Google
   Sheets and the Media Suite"
 date: 2024-02-14 17:46:00 +01:00
-author: Jasmijn van Gorp & Mary-Joy van der Deure, Utrecht University
+author: Jasmijn Van Gorp & Mary-Joy van der Deure, Utrecht University
+Field name: 
 ---
 
 Using the CLARIAH Media Suite, Jasmijn van Gorp and Mary-Joy van der Deure (Utrecht University) have developed a tutorial around the creation of data visualizations. This tutorial helps participants turn data from the CLARIAH Media Suite into a visualization in Google Sheets. At the same time, the tutorial lets participants reflect upon their steps from a critical data studies perspective. \
