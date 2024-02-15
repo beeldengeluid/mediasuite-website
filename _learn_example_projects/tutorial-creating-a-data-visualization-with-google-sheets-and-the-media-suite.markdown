@@ -1,6 +1,6 @@
 ---
 title: Lecturers' materials for tutorial "Creating a Data Visualization with Google
-  Sheets and the Media Suite"
+  Sheets and the Media Suite" (2024)
 date: 2024-02-14 17:46:00 +01:00
 tags:
 - education
