@@ -2,6 +2,10 @@
 title: Lecturers' materials for tutorial "Creating a Data Visualization with Google
   Sheets and the Media Suite"
 date: 2024-02-14 17:46:00 +01:00
+tags:
+- education
+- journalism
+- tool criticism
 author: Jasmijn Van Gorp & Mary-Joy van der Deure, Utrecht University
 Field name: 
 ---
