@@ -1,6 +1,5 @@
 ---
-title: Lecturers' materials for NISV's Collection of Viewers- and Listeners' Rates
-  (2023)
+title: Lecturers' materials for Collection of Viewers- and Listeners' Rates (2023)
 date: 2023-08-25 17:48:00 +02:00
 tags:
 - collection
