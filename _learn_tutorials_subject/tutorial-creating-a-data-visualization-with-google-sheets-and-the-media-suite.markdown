@@ -4,6 +4,9 @@ date: 2024-02-14 11:04:00 +01:00
 author: Jasmijn van Gorp & Mary-Joy van der Deure, Utrecht University
 ---
 
+# Tutorial: Creating a Data Visualization with Google Sheets and the Media Suite
+
+
 ## Tutorial description, case and objectives
 
 Archives preserve copious amounts of metadata, meaning the data that is needed to describe and organize the collections in the archive. Metadata, however, can also be the subject of analysis in itself. What is important to consider is that (meta)data are never neutral representations, but that they are shaped by social, technological and spatial practices that all leave their traces. Yanni Loukissas (2019, 189) argues that, instead of considering data as “information at a distance”, we should analyze data’s “locality.” This means we connect the “data back to the context in which they are produced” (D’Ignazio and Klein 2020). Through this approach, the metadata in the archive can provide insight into how the data are made. Loukissas shows specifically how **errors** and **absences**  can point to ‘local practices’. For example, when working with digital scans, visible fingers or crumbled pages can be left behind during the scanning process, making these errors a trace of the data’s production (Thylstrup 2019, 42). The same goes for the data that is missing. Absences are traces of the decisions made by archivists, influenced by policies and specific historical contexts, who decide what will and what will not be preserved (Uricchio 1995). Errors and absences are not just ‘data dirt’ but interesting traces of the data’s **local production context.**
