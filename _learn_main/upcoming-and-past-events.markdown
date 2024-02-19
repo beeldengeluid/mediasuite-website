@@ -9,11 +9,17 @@ author: Christian Olesen
 
 **Upcoming Events**
 
+* Currently we have no upcoming events, but if you are interested in organizing an event or workshop around digital AV archives and methods based on the CLARIAH Media Suite please get in touch with Teaching & Training Officer Christian Olesen (UvA) at c.g.olesen_at_uva.nl.
+
+**Past Events**
+
+* **Tuesday March 28, 2023, 12:00-16:00**: "Introduction to the CLARIAH Media Suite", at Maastricht University (Location: The Plant), workshop led by Claartje Rasterhoff (MU), Megan Phipps (UvA) and Christian Olesen (UvA).
+
+* **Wednesday March 22, 2023, 9:30-17:15**: "Creating an annotated corpus for cultural historical research in the CLARIAH Media Suite", workshop organized in collaboration with the Huizinga Instituut at VU, led by Norah Karrouche (VU) and Christian Olesen (UvA).
+
 * **Wednesday May 18, 2022, 15.00-17.00**: "Decolonising Media Studies and Archival Literacy" - CLARIAH Media Suite Fellowship session with Sanne Koevoets (EUC) and Asli Özgen-Havekotte (UvA). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
 
 * **Wednesday June 15, 2022, 15.15-17.15** : “Analyzing Automatic Speech Recognition results of broadcast collections in the Media Suite”. Session lead: Alec Badenoch (UU/VU). Hybrid event, participation possible via Zoom or at the [UvA Buzzhouse](https://www.buzzhouse.co/).
-
-**Past Events**
 
 * **April 20, 2022, 15.00-17.00**: “Cross-media corpus building and Oral History research in the Media Suite
 
