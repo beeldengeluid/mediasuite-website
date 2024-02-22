@@ -17,3 +17,7 @@ Throughout 2019-2023 media studies lecturer and researcher Jasper Keijzer (Utrec
 * [Handout Tutorial Fabeltjeskrant](https://zenodo.org/record/8284014)
 
 * [Lecturer's Manual Oil Crisis Webinar](https://zenodo.org/record/8284047)
+
+His research also resulted in a Media Suite requirement analysis around the Digitized Viewing and Listening Rates Reports. This can be found here:
+
+* [Requirement analysis Media Suite for digitized viewing and listening rates reports](https://zenodo.org/records/10691620)
