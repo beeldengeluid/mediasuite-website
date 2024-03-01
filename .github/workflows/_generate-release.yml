@@ -1,6 +1,8 @@
-name: Manual release
+name: Create release from tag
 on:
-  workflow_dispatch:
+  push:
+    tags:
+    - '*'
 
 jobs:
   bundle:
@@ -17,7 +19,7 @@ jobs:
     - uses: ncipollo/release-action@v1
       with:
         artifacts: "_site.tar.gz"
-        body: "Release testjaap"
+        body: "Release ${GITHUB_REF##*/}"
 
 # ENV GEM_HOME="/home/$appuser/gems"
 # ENV PATH="/home/$appuser/gems/bin:$PATH"
