@@ -1,8 +1,21 @@
 name: Create release from tag
 on:
-  push:
-    tags:
-    - '*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Github Tag
+        required: true
+        default: v6.10
+        type: choice
+        options:
+          - v6.11
+          - v6.12
+          - v6.13
+      commit:
+        description: commit
+        required: true
+        default: main
+
 
 jobs:
   bundle:
