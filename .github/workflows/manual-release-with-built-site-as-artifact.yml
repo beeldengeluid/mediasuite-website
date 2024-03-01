@@ -25,6 +25,3 @@ jobs:
         tag: ${{ inputs.tag}}
         artifacts: _site.tar.gz
         body: "Release ${{ inputs.tag}}"
-
-# ENV GEM_HOME="/home/$appuser/gems"
-# ENV PATH="/home/$appuser/gems/bin:$PATH"
