@@ -23,5 +23,5 @@ jobs:
       with:
         commit: main
         tag: ${{ inputs.tag}}
-        artifacts: _site.tar.gz
+        artifacts: _site.tar.gz  # TODO maybe add inputs.tag to the file name here as well
         body: "Release ${{ inputs.tag}}"
