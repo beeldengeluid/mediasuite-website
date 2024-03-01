@@ -1,0 +1,23 @@
+name: Manual release
+on:
+  workflow_dispatch:
+
+jobs:
+  bundle:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.3' # Not needed with a .ruby-version file
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - run: gem install jekyll bundler
+    - run: bundle exec jekyll build
+    - run: tar -cvvzf _site.tar.gz ./_site
+    - uses: ncipollo/release-action@v1
+      with:
+        artifacts: "_site.tar.gz"
+        body: "Release testjaap"
+
+# ENV GEM_HOME="/home/$appuser/gems"
+# ENV PATH="/home/$appuser/gems/bin:$PATH"
