@@ -1,21 +1,11 @@
-name: Create release from tag
+name: Manual release from tag
 on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Github Tag
+        description: Github Tag to create
         required: true
-        default: v6.10
-        type: choice
-        options:
-          - v6.11
-          - v6.12
-          - v6.13
-      commit:
-        description: commit
-        required: true
-        default: main
-
+        type: string
 
 jobs:
   bundle:
@@ -31,8 +21,10 @@ jobs:
     - run: tar -cvvzf _site.tar.gz ./_site
     - uses: ncipollo/release-action@v1
       with:
-        artifacts: "_site.tar.gz"
-        body: "Release ${GITHUB_REF##*/}"
+        commit: main
+        tag: ${{ inputs.tag}}
+        artifacts: _site.tar.gz
+        body: "Release ${{ inputs.tag}}"
 
 # ENV GEM_HOME="/home/$appuser/gems"
 # ENV PATH="/home/$appuser/gems/bin:$PATH"
