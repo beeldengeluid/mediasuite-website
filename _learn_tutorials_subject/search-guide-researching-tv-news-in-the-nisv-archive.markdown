@@ -65,7 +65,7 @@ When searching for TV news, it is also important to consider that, not only the 
 **Figure 2**. Here, the 30 second NOS op 3 update is archived under the regular title ‘Journaal’.
 
 * **Jaaroverzicht**
-  Since 1956, the NTS and the NOS have been airing an overview of the news at the end of the year. This can be found when searching for the '[Jaaroverzicht](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608050035842931&cid=daan-catalogue-tv&st=%22Jaaroverzicht%22)'. This overview is also aired with [sign language](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608050035842931&cid=daan-catalogue-tv&st=%22Jaaroverzicht%22).
+  Since 1956, the NTS and the NOS have been airing an overview of the news at the end of the year. This can be found when searching for the '[Jaaroverzicht](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608050035842931&cid=daan-catalogue-tv&st=%22Jaaroverzicht%22)'. This overview is also aired with [sign language](https://mediasuite.clariah.nl/tool/resource-viewer?id=2102112290327278531&cid=daan-catalogue-tv&st=Jaaroverzicht%20gebarentolk).
 
 **![](https://lh7-us.googleusercontent.com/evk6tTX950YyAYqA6LsbJcI0LRWZGTU3SLpHqWlJIFDGlen6Fi60UrthAsXF6RVbpChG7N-TgED3dAEaSsAIcuZaY_oJgloWA3C3DgeGtsEVX93guwl5xdIyZX9LIbqFuH71_s59_E6PR7I_Nj_jeyc)**\
 **Figure 3**. The yearly news overview of 1958 can also be found in the archive. Back then, this was still produced by the NTS.
