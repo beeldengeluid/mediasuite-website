@@ -13,6 +13,7 @@ author: Jasmijn van Gorp & Mary-Joy van der Deure, Utrecht University
 
 # Tutorial: Creating a Data Visualization with Google Sheets and the Media Suite
 
+Jasmijn van Gorp & Mary-Joy van der Deure, Utrecht University 
 
 ## Tutorial description, case and objectives
 
