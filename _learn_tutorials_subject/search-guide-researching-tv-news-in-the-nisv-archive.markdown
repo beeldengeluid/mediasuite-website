@@ -1,14 +1,18 @@
 ---
 title: 'Search Guide: Researching TV News in the NISV Archive'
 date: 2024-03-04 16:23:00 +01:00
-published: false
 tags:
 - Television Studies
 - News
+introduction: 'This search guide provides an overview of the types of news available
+  in the Netherlands Institute for Sound and Vision’s television collection, and how
+  these can be found in the Media Suite. '
 author: Mary-Joy van der Deure, Utrecht University
 ---
 
 ## Search Guide: Researching TV News in the NISV Archive
+
+Mary-Joy van der Deure, Utrecht University
 
 ### Introduction
 
@@ -46,7 +50,7 @@ When searching for TV news, it is also important to consider that, not only the 
 **Figure 1.** The broadcast time of the episode is only mentioned in the textual description of the video.
 
 * **Journaal met gebarentolk (news broadcasts with sign language)**
-  The [Journaal met gebarentolk](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120099963631&cid=daan-catalogue-tv&st=NOS%20Journaal%20met%20gebarentolk) is a repeat of the regular NOS Journaal with the addition of a sign language interpreter to cater to the deaf and hard of hearing community. It is predominantly present in the years 2007-2018 under the name '[NOS Journaal met gebarentolk'](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101712270241576331&cid=daan-catalogue-tv&st=%22NOS%20Journaal%20met%20gebarentolk%22), with or without the mention of the NOS in the title. In the years outside of this period (and after 2000) individual programmes are not present in the collection but can be found in the ‘Weekly recordings’ where the entire daily programming has been archived for two weeks each year. After 2021, the title has changed to 'NOS Journaal met gebarentaal'.
+  The [Journaal met gebarentolk](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608120099963631&cid=daan-catalogue-tv&st=NOS%20Journaal%20met%20gebarentolk) is a repeat of the regular NOS Journaal with the addition of a sign language interpreter to cater to the deaf and hard of hearing community. In the archive, it is predominantly present in the years 2007-2018 under the name '[NOS Journaal met gebarentolk'](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101712270241576331&cid=daan-catalogue-tv&st=%22NOS%20Journaal%20met%20gebarentolk%22), with or without the mention of the NOS in the title. In the years outside of this period (and after 2000) individual programmes are not present in the collection but can be found in the ‘Weekly recordings’ where the entire daily programming has been archived for two weeks each year. After 2021, the title has changed to 'NOS Journaal met gebarentaal'.
 
 
 * **Extra NOS Journaal**
