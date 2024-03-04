@@ -66,7 +66,7 @@ When searching for TV news, it is also important to consider that, not only the 
 **![](https://lh7-us.googleusercontent.com/evk6tTX950YyAYqA6LsbJcI0LRWZGTU3SLpHqWlJIFDGlen6Fi60UrthAsXF6RVbpChG7N-TgED3dAEaSsAIcuZaY_oJgloWA3C3DgeGtsEVX93guwl5xdIyZX9LIbqFuH71_s59_E6PR7I_Nj_jeyc)**\
 **Figure 3**. The yearly news overview of 1958 can also be found in the archive. Back then, this was still produced by the NTS.
 
-**Category 2: Nieuwsuur**
+### **Category 2: Nieuwsuur**
 
 * Another important source of news is the current affairs programme [Nieuwsuur](https://mediasuite.clariah.nl/tool/resource-viewer?id=2102307150351940031&cid=daan-catalogue-tv&st=nieuwsuur%202023). This is a co-production of the NOS and NTR, and previously the NPS. The programme centres around the most important news stories of the day and provides more background information through in-depth reports and interviews with experts, politicians and other important players in the day’s news stories.
 
@@ -76,7 +76,7 @@ When searching for TV news, it is also important to consider that, not only the 
 
 **![](https://lh7-us.googleusercontent.com/3Cr0IbLaZlmy5rcMWike0e0rX5CeLFhcZbxx4tMn2mKa0XK0tQo3u4fQB4nstnXKb2TbFzhZ3bBHUvcjrdgpADbLpzwBpFKQxNpG08-1QXmUaZWxr6S4giC7C0N1QpCYqBiJzb4pyNB16xseOM-Opkw)Figure 4**. The Nieuwsuur format contains a news segment half-way through the episode, with a news anchor listing several news stories in the same format as the regular NOS Journaal.
 
-**Category 3: Jeugdjournaal**
+### **Category 3: Jeugdjournaal**
 
 * The [Jeugdjournaal](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608080064342731&cid=daan-catalogue-tv&st=jeugdjournaal) is a format specifically developed for children between 9 and 12 years old. It follows a similar structure to the regular NOS Journaal, with a news anchor and voiced-over reports, but adjusts both the topics and the manner of presentation to suit this age demographic. The programme has been airing since 1981, but from the programmes in these early years, only the individual news items are archived.
 
@@ -88,7 +88,7 @@ When searching for TV news, it is also important to consider that, not only the 
 
 * The NTR programme '[Schooltv-weekjournaal](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150137475231&cid=daan-catalogue-tv&st=schooltvweekjournaal)' deserves a special mention. This programme aired from 1981 to 2014 and provided background stories to the regular news, also tailored to children in the 9 to 12 age category. The programme was specifically developed to be shown during class in primary education.
 
-**Category 4: International News Exchange**
+### **Category 4: International News Exchange**
 
 * While not an NOS or NTR programme, or even a Dutch production, an important part of the NISV news collection is the '[International News Exchange](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608080062686631&cid=daan-catalogue-tv&st=internationale%20nieuwsuitwisseling)'. This collection consists of news items, without programming context or narration, that are distributed by the European Broadcasting Union (EBU). They are intended to be incorporated in different news broadcasts throughout Europe. In the archive, a lot of iconic news footage can be found in this collection. Most International News Exchange material is present from 1953 onwards and is titled 'Internationale nieuwsuitwisseling'.
 
