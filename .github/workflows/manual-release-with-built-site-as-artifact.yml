@@ -19,9 +19,7 @@ jobs:
     - run: gem install jekyll bundler
     - run: bundle exec jekyll build
     - run: tar -cvvzf _site.tar.gz ./_site
-    - uses: ncipollo/release-action@v1
-      with:
-        commit: main
-        tag: ${{ inputs.tag}}
-        artifacts: _site.tar.gz  # TODO maybe add inputs.tag to the file name here as well
-        body: "Release ${{ inputs.tag}}"
+    - name: Create release
+      run: gh release create ${{ inputs.tag }} _site.tar.gz
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
