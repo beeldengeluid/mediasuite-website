@@ -6,5 +6,3 @@ node_modules
 package.json
 package-lock.json
 Gemfile.lock
-/scripts/website
-/scripts/latest
