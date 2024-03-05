@@ -1,6 +1,5 @@
 ---
-title: Lecturers' materials for Collection of Digitized Viewing and Listening Reports
-  (2023)
+title: Lecturers' materials for Collection of Viewing and Listening Rates (2023)
 date: 2023-08-25 17:48:00 +02:00
 tags:
 - collection
@@ -9,7 +8,7 @@ tags:
 author: Jasper Keijzer, Utrecht University
 ---
 
-Throughout 2019-2023 media studies lecturer and researcher Jasper Keijzer (Utrecht University) carried out research on the Netherlands Institute for Sound & Vision's Collection of Digitized Viewing and Listening Reports, and developed teaching materials for television history courses based on the collection.
+Throughout 2019-2023 media studies lecturer and researcher Jasper Keijzer (Utrecht University) carried out research on the Netherlands Institute for Sound & Vision's Collection of Viewing and Listening Rates and developed teaching materials for television history courses based on the collection.
 
 * [Tutorial: the Viewing Rates of the Fabeltjeskrant ](https://mediasuite.clariah.nl/learn/subject-tutorials/the-viewing-rates-of-the-fabeltjeskrant) (basic tutorial)
 
