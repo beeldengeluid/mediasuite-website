@@ -8,7 +8,13 @@ tags:
 author: Jasper Keijzer, Utrecht University
 ---
 
-Throughout 2019-2023 media studies lecturer and researcher Jasper Keijzer (Utrecht University) carried out research on the Netherland's Institute for Sound & Vision's Collection of Viewers- and Listeners' Rates, and developed teaching materials for television history courses based on the collection. The documents below offer guidelines for lecturers wishing to work with the collection in their teaching or research, and also include the presentation slides for a webinar that contextualized the collection's history and underlying practices of data collection.
+Throughout 2019-2023 media studies lecturer and researcher Jasper Keijzer (Utrecht University) carried out research on the Netherland's Institute for Sound & Vision's Collection of Viewers- and Listeners' Rates, and developed teaching materials for television history courses based on the collection.
+
+* [Tutorial: the Viewing Rates of the Fabeltjeskrant  ](https://mediasuite.clariah.nl/learn/subject-tutorials/the-viewing-rates-of-the-fabeltjeskrant) (basic tutorial)
+
+* [Tutorial: Viewing Rates for Television History ](https://mediasuite.clariah.nl/learn/subject-tutorials/viewing-rates-for-television-history)(advanced tutorial)
+
+The documents below offer guidelines for lecturers wishing to work with the collection in their teaching or research, and also include the presentation slides for a webinar that contextualized the collection's history and underlying practices of data collection.
 
 * [Webinar History of Viewing Rates Research](https://zenodo.org/record/8284087)
 
