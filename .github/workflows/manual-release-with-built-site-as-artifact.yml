@@ -9,19 +9,17 @@ on:
 
 jobs:
   bundle:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
+    - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 #v4.1.1
+    - uses: ruby/setup-ruby@vd4526a55538b775af234ba4af27118ed6f8f6677 #v1.172.1
       with:
         ruby-version: '3.3' # Not needed with a .ruby-version file
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - run: gem install jekyll bundler
     - run: bundle exec jekyll build
     - run: tar -cvvzf _site.tar.gz ./_site
-    - uses: ncipollo/release-action@v1
-      with:
-        commit: main
-        tag: ${{ inputs.tag}}
-        artifacts: _site.tar.gz  # TODO maybe add inputs.tag to the file name here as well
-        body: "Release ${{ inputs.tag}}"
+    - name: Create release
+      run: gh release create ${{ inputs.tag }} _site.tar.gz
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
