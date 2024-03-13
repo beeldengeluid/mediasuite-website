@@ -3,8 +3,6 @@ title: Version 4.7
 date: 2020-01-20 00:00:00 +01:00
 ---
 
-*The writing of these notes is still in progress*
-
 ## Bug fixing
 
 - 482: heavy facets
