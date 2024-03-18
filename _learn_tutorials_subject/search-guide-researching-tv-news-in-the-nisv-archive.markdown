@@ -1,9 +1,8 @@
 ---
 title: 'Search Guide: Researching TV News in the NISV Archive'
 date: 2024-03-04 16:23:00 +01:00
-tags:
+categories:
 - Television Studies
-- News
 introduction: 'This search guide provides an overview of the types of news available
   in the Netherlands Institute for Sound and Vision’s television collection, and how
   these can be found in the Media Suite. '
