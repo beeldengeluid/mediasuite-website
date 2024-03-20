@@ -10,7 +10,7 @@ To get started using the Media Suite, do the following:
 - [Log into the Media Suite](/documentation/howtos/login)
 - [Create a "user project" in your Workspace](/documentation/howtos/user-projects)
 - [Find relevant collections/data for your work](/documentation/howtos/data)
-- [Inspect the metadata of the collections you are interested in](/documentation/howtos/collection-inspector)
+- [Inspect the metadata of the collections you are interested in](/documentation/howtos/inspect-collections)
 - [Search the collections/data for your research](/documentation/howtos/single-search)
 - [Store bookmarks in your "user projects"](/documentation/howtos/bookmark)
 - [Annotate your items](/documentation/howtos/annotate)

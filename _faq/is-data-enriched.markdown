@@ -31,7 +31,7 @@ Here you will find **dynamic and updated reports** of the progress of ASR as it 
 
 - Overview: in the release notes, per version, see [Release notes Version 3](/documentation/release-notes/v3). 
 - Paper on [Speech Recognition and Scholarly research](https://research.utwente.nl/en/publications/speech-recognition-and-scholarly-research-usability-and-sustainab)
-- In the [Collection Inspector tool](/documentation/howtos/collection-inspector), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
+- In the [Collection Inspector tool](/documentation/howtos/inspect-collections), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
 
 ### Optical character recognition (OCR)
 
