@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- [Ruby](https://www.ruby-lang.org/en/downloads/) version 2.2.5 or above, including all development headers (ruby installation can be checked by running `ruby -v`)
+- [Ruby](https://www.ruby-lang.org/en/downloads/) version 2.5.0 or above, including all development headers (ruby installation can be checked by running `ruby -v`)
 - [RubyGems](https://rubygems.org/pages/download) (which you can check by running `gem -v`)
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (in case your system doesn't have them installed, which you can check by running `gcc -v`,`g++ -v`  and `make -v` in your system's command line interface)
 
@@ -69,14 +69,6 @@ Just about any traditional web hosting provider will let you upload files to the
 * [Jekyl](https://jekyllrb.com/)
 * [Markdown](https://daringfireball.net/projects/markdown/)
 * [Liquid](https://shopify.github.io/liquid/)
-
-## Contact
-
-* [Frank Sträter](https://github.com/frankstrater)
-
-## Acknowledgments
-
-* [Siteleaf](https://www.siteleaf.com/?via=frank), an excellent Content Management System for Jekyll powered websites.
 
 ## License
 
