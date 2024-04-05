@@ -10,6 +10,7 @@ jobs:
     outputs:
       tag: ${{ steps.bumped-tag.outputs.tag }}
     steps:
+      - uses: actions/checkout@v4
       - id: bumped-tag
         run: |
           VERSION=`git describe --tags --abbrev=0 | awk -F. '{OFS="."; $NF+=1; print $0}'`; \
