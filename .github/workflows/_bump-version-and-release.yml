@@ -1,7 +1,7 @@
 name: Release main branch with a bumped tag version
 
 on:
-  workflow_dispatch:
+  workflow_call:
 
 jobs:
   bump-version: # TODO only calculate next version if something has changed in this repo
