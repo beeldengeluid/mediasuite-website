@@ -17,11 +17,11 @@ jobs:
       - uses: actions/checkout@v4
       - id: bumped-tag
         run: |
-          VERSION=`git describe --tags --abbrev=0 | awk -F. '{OFS="."; $NF+=1; print $0}'`; \
+          VERSION=`gh release view --json tagName --jq '.tagName'`; \
             echo "tag=${VERSION}" >> $GITHUB_OUTPUT
 
-  release:  # only create release if something has changed in this repo
-    uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
-    needs: [bump-version]
-    with:
-      tag: ${{needs.bump-version.outputs.tag}}
+#   release:  # only create release if something has changed in this repo
+#     uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
+#     needs: [bump-version]
+#     with:
+#       tag: ${{needs.bump-version.outputs.tag}}
