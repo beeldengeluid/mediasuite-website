@@ -1,6 +1,11 @@
 name: Manual release from tag
 on:
   workflow_dispatch:
+    inputs:
+      tag:
+        description: Github Tag to create
+        required: true
+        type: string
 
 jobs:
   bundle:
@@ -15,6 +20,6 @@ jobs:
     - run: bundle exec jekyll build
     - run: tar -cvvzf _site.tar.gz ./_site
     - name: Create release
-      run: gh release create _site.tar.gz
+      run: gh release create ${{ inputs.tag }} _site.tar.gz
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
