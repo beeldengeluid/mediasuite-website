@@ -1,4 +1,4 @@
-name: Manual release from tag
+name: Manual release custom tag
 on:
   workflow_dispatch:
     inputs:
@@ -8,18 +8,7 @@ on:
         type: string
 
 jobs:
-  bundle:
-    runs-on: ubuntu-22.04
-    steps:
-    - uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633 #v4.1.2
-    - uses: ruby/setup-ruby@v1 # https://github.com/ruby/setup-ruby?tab=readme-ov-file#versioning
-      with:
-        ruby-version: '3.3' # Not needed with a .ruby-version file
-        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-    - run: gem install jekyll bundler
-    - run: bundle exec jekyll build
-    - run: tar -cvvzf _site.tar.gz ./_site
-    - name: Create release
-      run: gh release create ${{ inputs.tag }} _site.tar.gz
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  release:
+    uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
+    with:
+      tag: ${{inputs.tag}}

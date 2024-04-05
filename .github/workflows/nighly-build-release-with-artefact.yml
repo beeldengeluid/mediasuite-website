@@ -1,0 +1,22 @@
+name: Nighly release of main branch with bumped tag
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  bump-version:
+    runs-on: ubuntu-latest
+    outputs:
+      tag: ${{ steps.bumped-tag.outputs.tag }}
+    steps:
+      - id: bumped-tag
+        run: |
+          VERSION=`git describe --tags --abbrev=0 | awk -F. '{OFS="."; $NF+=1; print $0}'`; \
+            echo "tag=${VERSION}" >> $GITHUB_OUTPUT
+
+  release:
+    uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
+    needs: bump-version
+    with:
+      tag: ${{needs.bump-version.outputs.tag}}
