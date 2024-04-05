@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  bump-version: # only calculate next version if something has changed in this repo
+  bump-version: # TODO only calculate next version if something has changed in this repo
     runs-on: ubuntu-latest
     outputs:
       tag: ${{ steps.bumped-tag.outputs.tag }}
@@ -20,8 +20,10 @@ jobs:
             echo "tag=${VERSION}" >> $GITHUB_OUTPUT
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#   release:  # only create release if something has changed in this repo
-#     uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
-#     needs: [bump-version]
-#     with:
-#       tag: ${{needs.bump-version.outputs.tag}}
+
+  release:  # TODO only create release if something has changed in this repo
+    if: ${{needs.bump-version.outputs.tag != ''}}
+    uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
+    needs: [bump-version]
+    with:
+      tag: ${{needs.bump-version.outputs.tag}}
