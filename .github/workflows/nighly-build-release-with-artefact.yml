@@ -1,11 +1,27 @@
 name: Nighly release of main branch with bumped tag
 
+# on:
+#   schedule:
+#     # - cron: "0 1 * * *"
+
 on:
-  schedule:
-    - cron: "0 1 * * *"
+    workflow_dispatch:
 
 jobs:
-  bump-version:
+  check-update: # always check if anything has changed in this repo
+    runs-on: ubuntu-latest
+    outputs:
+      changes: ${{steps.check-update.outputs.changes}}
+    steps:
+      - uses: actions/checkout@v4
+      - id: check-update
+        run: |
+          DIFF=`git diff origin/main`; \
+            echo "changes=${DIFF}" >> GITHUB_OUTPUT;
+
+  bump-version: # only calculate next version if something has changed in this repo
+    if: ${{needs.check-update.outputs.changes != ''}}
+    needs: check-update
     runs-on: ubuntu-latest
     outputs:
       tag: ${{ steps.bumped-tag.outputs.tag }}
@@ -16,8 +32,9 @@ jobs:
           VERSION=`git describe --tags --abbrev=0 | awk -F. '{OFS="."; $NF+=1; print $0}'`; \
             echo "tag=${VERSION}" >> $GITHUB_OUTPUT
 
-  release:
+  release:  # only create release if something has changed in this repo
+    if: ${{needs.check-update.outputs.changes != ''}}
     uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
-    needs: bump-version
+    needs: [check-update, bump-version]
     with:
       tag: ${{needs.bump-version.outputs.tag}}
