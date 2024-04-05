@@ -7,3 +7,6 @@ on:
 jobs:
   build:
     uses: ./.github/workflows/_build-current-branch.yml
+
+  release:
+    uses: ./.github/workflows/_bump-version-and-release.yml
