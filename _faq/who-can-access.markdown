@@ -21,6 +21,6 @@ The Media Suite provides access to data from different institutions (see here fo
 
 * The **resource has not been digitised yet**: you can inspect the record’s metadata, but not the actual  content. These cases are marked with a “closed eye” icon in the result list of [the Search tool](https://mediasuite.clariah.nl/tool/single-search). Look at the item's metadata in the Resource viewer to find out whether an item has actually been digitised. Should you need to view the item in question, the best way to solve this is to contact (or visit) the institution that preserves it.
 
-* The **resource is digitized, but the institution prohibits play-out** via the Media Suite (because, for example, of privacy or copyright restrictions). This scenario mostly applies to items in the DANS oral history collection containing sensitive content.
+* The **resource is digitised, but the institution prohibits play-out** via the Media Suite (because, for example, of privacy or copyright restrictions). This scenario mostly applies to items in the DANS oral history collection containing sensitive content.
 
 * The **resource’s content is  available, but requires additional authentication or access request**. Again, this scenario applies mostly to some collections from DANS.  You can use our [Contact information](/contact), or the contact information pages of the data providers if you find issues in viewing the content. Please check before if this is not due to a common technical problem (see the [Troubleshoting section](/documentation/troubleshooting)).
