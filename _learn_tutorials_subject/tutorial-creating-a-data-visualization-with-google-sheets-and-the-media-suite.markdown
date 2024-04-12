@@ -3,6 +3,8 @@ title: 'Tutorial: Creating a Data Visualization with Google Sheets and the Media
 date: 2024-02-14 11:04:00 +01:00
 categories:
 - Television Studies
+- Journalism
+- Critical Data Studies
 introduction: 'This tutorial centers around the creation of a data visualization in
   Google Sheets. While creating the visualization, the tutorial lets users reflect
   upon data in the CLARIAH Media Suite while implementing a criticial data studies
