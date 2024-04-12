@@ -2,13 +2,11 @@
 title: Bookmark
 ---
 
-# Bookmark
-
 To save individual items in the Media Suite, you can use the ‘Bookmark’ function.
 
 * For this, you first need to create a ‘User project’ in the Workspace.
 
-* Once you’ve done this, and you have found an item you want to save, open this item in the resource viewer. You can now click on the orange ‘Bookmark’ button on the right-top side of the screen. This will open the bookmark window.
+* Once you’ve done this, and you have found an item you want to save, open this item in the resource viewer. Click on the orange ‘Bookmark’ button on the right-top side of the screen. This will open the bookmark window.
 
 * In this window you need to create or select a Bookmark group. You can also select the user project you want to save your item in, by clicking on the drop-down menu.
 
