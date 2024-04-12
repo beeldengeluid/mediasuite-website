@@ -1,6 +1,6 @@
 ---
 title: 'Curated Playlist: Controversial Youth Television in the Netherlands'
-date: 2024-03-02 15:17:00 +01:00
+date: 2022-03-02 15:17:00 +01:00
 categories:
 - Television Studies
 - Media Studies
