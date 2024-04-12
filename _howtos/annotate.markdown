@@ -2,12 +2,10 @@
 title: Annotate
 ---
 
-# **Annotate**
-
 The Media Suite offers a manual annotation tool where it is possible to annotate on item level and on segment level. When annotating on item level, you add an annotation relating to the whole item. When annotating on segment level you add an annotation to a specific selection within that item.\
 \
 **Annotation on item level** \
-To annotate on item level, first select the item you wish to annotate, which will open in the ‘resource viewer’ environment. Go to ‘My Annotations’ on the right-hand side of the screen, and click on ‘Resource’. Clicking on “Resource” opens a drop-down menu with four options:
+To annotate on item level, first select the item you wish to annotate, which will open in the resource viewer. Go to ‘My Annotations’ on the right-hand side of the screen, and click on ‘Resource’. This will open a drop-down menu with four options:
 
 * **“Code”** allows you to label the media item using terms from existing thesauri (such as GTAA and UNESCO) or using your own custom-made taxonomy.
 
@@ -17,12 +15,12 @@ To annotate on item level, first select the item you wish to annotate, which wil
 
 * **“Metadata”** allows you to devise your own metadata scheme for the item.
 
-Once you have added annotations they will appear in the project overview in your workspace, just as your saved queries.\
+Once you have added your annotations, they will appear in the project overview in your workspace, just as your saved queries.\
 \
 **Annotation on segment level** \
 To annotate on segment level, you first need to create a segmentation layer. In a segmentation layer, you group together manually created segments according to, for example, a motif or a theme.
 
-* You create a segmentation layer by clicking on “ADD LAYER” on the left hand side below the video player and you can give the layer a name by double-clicking on the layer’s text box.
+* You create a segmentation layer by clicking on “ADD LAYER” on the left hand side below the video player. You can give the layer a name by double-clicking on the layer’s text box.
 
 * To subsequently create a segment, first pause the video or audio where you want to begin the segment. After having chosen a beginning point press “i” (“i” stands for “in”). A red line/time marker will appear at the point chosen.
 
