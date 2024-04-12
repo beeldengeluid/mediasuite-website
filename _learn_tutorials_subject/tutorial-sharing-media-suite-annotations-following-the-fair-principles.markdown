@@ -14,7 +14,7 @@ language: English
 layout: learn_tutorials_subject
 ---
 
-## # Tutorial description, case, and objectives 
+## Tutorial description, case, and objectives 
 This tutorial will introduce how to share and contextualise annotations created in the Media Suite in a way that follows the principles of FAIR (Findability, Accessibility, Interoperability, Reusability). The FAIR guiding principles emphasise “enhancing the ability of machines to automatically find and use data, in addition to supporting its reuse by individuals” (Wilkinson et al., 2016). FAIR must be seen as a way of thinking, a consensus, and does not make suggestions for specific technologies or solutions. Instead, it acts as a direction to help you evaluate your choices to make your research, data and datasets as accessible as possible to others. 
 
 
