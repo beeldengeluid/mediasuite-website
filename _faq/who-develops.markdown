@@ -34,8 +34,8 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 - Oana Inel (2017-2018)
 - Lora Aroyo (2016-2018)
 - [Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center, 2016-2018)
-- Werner Helmich (developer at Frontwise, 2017)
-- From September 2018 to February 2019, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve te[Resource viewer](/documentation/tools/resource-viewer)"
+- <a href="https://www.sudox.nl/?utm_source=mediasuite" target="_blank">Werner Helmich</a> (designer/developer at <a href="https://www.sudox.nl/?utm_source=mediasuite" target="_blank" style="color: #3c4248">SUDOX</a> who created the frontend of various Media Suite tools, 2017-2024)
+- From September 2018 to February 2019, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve the[Resource viewer](/documentation/tools/resource-viewer)
 - The Media Suite is developed in alignment with [CLARIAH WP2](https://clariah.nl/en/work-packages/technology) (the work package responsible for the overall infrastructure coordination)
 
 **Scholars involved**
