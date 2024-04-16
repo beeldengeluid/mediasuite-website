@@ -29,9 +29,9 @@ To go to the Compare tool, navigate to ‘Tools’ in the drop-down menu at the 
 
 * You will be prompted to the Search tool
 
-* There you can “Save a query” in a user project
+* There you can save a query in a user project
 
-* Then you are ready to use the Compare tool
+* You are now ready to use the Compare tool
 
 ## Chart options
 
@@ -45,7 +45,7 @@ By default, the chart is plotted with the numbers of results found per date inte
 
 The slider will then change to read ‘Relative’.
 
-By default, the relative frequencies (percentages) shown in the graph are calculated by dividing the number of items with hits by the total number of items in the collection within that year (or week, day, depending on the ‘date unit’). For example, if the value for 2018 is 5%, then this means that 5% of the items in the collection with the date 2018 matched the query.\
+By default, the relative frequencies (percentages) shown in the graph are calculated by dividing the number of items with hits by the total number of items in the collection within that year (or week, day, depending on the ‘date unit’). For example, if the value for 2018 is 5%, then this means that 5% of the items in the collection with the date 2018 matched the query.
 
 It is also possible to use the facets in the query as a reference. For example, you could have a query for the search term ‘politics’ with facets for mediaType ‘video’ and broadcaster ‘NOS’. Using the facets as a reference would show, per date interval, the percentage of videos from the NOS containing the term ‘politics’. To change the reference, click on the slider that says ‘to the collection’. This will change to read ‘to the query facets’. The chart is then displayed relative to the facets.
 
@@ -59,9 +59,9 @@ By default, the chart is displayed with values per year. Using the dropdown menu
 **![date_interval_dropdown.PNG](https://lh7-us.googleusercontent.com/V4yousCyN5V_O-peEufSWIqcltq7IVoTr5wuokm9NVdRC5qgGI2sLkyvhtco5KnI3Fwd0G-hb4ztRek6YNCbwnoWJSRQQOdo0vCQR1mHZvBlZeBQNzkSFz97WDAKlV_Fw6a85Hm0x71oxB2QmF1zyl0)**
 
 *Tip* : When using the option ‘day’, make sure you have set the date ranges for your queries to be as specific as possible. This makes the chart quicker to load and easier to read.
-*Tip* : When using the option ‘week’, be aware that the first few days of January often fall under the last week of the previous year. E.g. 1st January 2021 is in week 53 of 2020.
 
-## 
+*Tip* : When using the option ‘week’, be aware that the first few days of January often fall under the last week of the previous year. E.g. 1st January 2021 is in week 53 of 2020.
+ 
 
 ## Viewing search results
 
@@ -71,7 +71,7 @@ To view the results for a query for a given date interval, click on the bar/dot 
 
 *Tip* : Sometimes an item has more than one date value. You may then see results on the graph that fall outside your selected date range. For example, if you have searched for the date range 1913-1915, and an item has the dates 1913 and 1924, then you will also see results for 1924 on the graph. If you click on the point for 1924, then all results in 1924 matching your query will be shown, not only those that also have a date in the range 1913-1915. In such cases the number of results shown on the Search page may be larger than the number shown on the graph.
 
-Too see how the Compare tool is applied in research, please see the following pages in the ‘Learn’ environment:
+For examples of how the Compare tool is applied in research, please see the following pages in the ‘Learn’ environment:
 
 * [Tutorial](https://mediasuite.clariah.nl/learn/tool-tutorials/tutorial-searching-and-analysing-the-sound-and-vision-radio-collection-using-automatic-speech-recognition): Searching and analysing the Sound and Vision Radio Collection using Automatic Speech Recognition
 
