@@ -54,7 +54,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 * **Set the active project** in the upper right corner and choose the user project you wish to add items to. Please consult the tutorial [“Logging In, Workspace and Creating a User Project”](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-logging-in-workspace-and-creating-a-user-project) if you don’t know how to create a user project.
 
-* Then, Click **“Select Collection”** in the upper left corner. A drop-down menu now appears. Select the **“Sound and Vision Collection”**. You are now ready to start querying.
+* Then, Click **“Select Collection”** in the upper left corner. A drop-down menu now appears. Select the **“Sound and Vision Archive”**. You are now ready to start querying.
 
 ![image10-278c0e.png](/uploads/image10-278c0e.png)
 
