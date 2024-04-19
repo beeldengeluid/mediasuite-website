@@ -69,7 +69,6 @@ It is also possible to use taxonomies and controlled vocabularies that are share
 
 * Does your research fit best within an AV heritage context or can you make use of more generic thesauri (for example UNESCO), and what would be the potential drawbacks of the latter?
 
-### 
 
 *Comments*
 
