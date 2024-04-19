@@ -1,7 +1,6 @@
 ---
 title: 'Tutorial: Sharing Media Suite annotations following the FAIR principles'
 date: 2024-04-12 11:02:00 +02:00
-published: false
 categories:
 - Media Studies
 tags:
