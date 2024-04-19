@@ -72,7 +72,7 @@ In this step, you will learn to use the search tool to find interviews pertainin
 
 * Try the above phrases both with and without **“quotation marks”**. Take note of the difference this makes in terms of the search results you get.
 
-* **Search using other boolean query operators** to combine different terms. Boolean query operators can combine search terms to make your queries more specific. An example is quotation marks, but there are more. For a quick explanation of how these work, [click here.](https://mediasuite.clariah.nl/documentation/howtos/single-search#search-boolean) You may try the following: **vrouw AND werk**, **onderwijs NOT hij**, **vrouwen\***, but feel free to use different operators as you please.
+* **Search using other boolean query operators** to combine different terms. Boolean query operators can combine search terms to make your queries more specific. An example is quotation marks, but there are more. For a quick explanation of how these work, [click here](https://apus.libanswers.com/faq/2310#:~:text=Boolean%20operators%20are%20the%20words,precise%20%2D%20and%20save%20you%20time!). You may try the following: **vrouw AND werk**, **onderwijs NOT hij**, **vrouwen\***, but feel free to use different operators as you please.
 
 * **Compare results of searching with and without boolean operators.** Notice the difference in both the amount of results and the results themselves.
 
