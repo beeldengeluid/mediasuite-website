@@ -131,3 +131,18 @@ Myles Axton, Arie Baak, Niklas Blomberg, et al. “The FAIR Guiding Principles f
 Feeling overwhelmed with all the options? You can find an overview of all the annotation options discussed in this tutorial here below:
 
 ![Schermafbeelding 2024-04-12 om 12.22.14.png](/uploads/Schermafbeelding%202024-04-12%20om%2012.22.14.png)
+
+## Thesauri
+
+Looking for a suitable thesauri? Here are some thesauri you could consider for your research:
+
+* Atria Vrouwenthesaurus https://atria.nl/bibliotheek-archief/collectie/thesaurus/?core=thes&facet.field=%7B!ex%3Dcategory%20key%3Dcategory%7Dcategory&facet.mincount=1&facet=true&fq%5B%5D=&fq%5B%5D=taal%3Aned&letter=&q=&rows=10&sort=keywordSort%2Basc&wt=json&start=0. 
+
+* Linked Open Vocabularies: https://lov.linkeddata.es/dataset/lov/Links to an external site.
+
+* Onomy: https://onomy.org/Links to an external site.
+
+* Schema: https://schema.org/Links to an external site.
+
+* Network of Terms: 
+https://termennetwerk.netwerkdigitaalerfgoed.nl/Links to an external site.
