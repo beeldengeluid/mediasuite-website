@@ -9,7 +9,7 @@ tags:
 introduction: This tutorial will introduce how to share and contextualise annotations
   created in the Media Suite in a way that follows the principles of FAIR (Findability,
   Accessibility, Interoperability, Reusability).
-author: Meg Weijers
+author: Meg Weijers, Universiteit van Amsterdam
 language: English
 layout: learn_tutorials_subject
 ---
