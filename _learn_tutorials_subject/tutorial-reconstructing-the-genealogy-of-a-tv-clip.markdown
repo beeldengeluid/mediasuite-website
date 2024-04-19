@@ -64,7 +64,7 @@ This tutorial may be used for a workshop series with or as part of a tutorial pa
 
 * [Searching and Bookmarking for Television History](https://mediasuite.clariah.nl/learn/tool-tutorials/searching-and-bookmarking-for-television-history)
 
-* Basic tutorial Viewing Rates (forthcoming)
+* [Basic tutorial Viewing Rates](https://mediasuite.clariah.nl/learn/subject-tutorials/the-viewing-rates-of-the-fabeltjeskrant)Basic tutorial Viewing Rates (forthcoming)
 
 ### Acknowledgements
 
@@ -112,7 +112,7 @@ This tutorial was made in the context of the courses Television History Online a
 
 * To get the answer, we have to consult a broadcast schedule. In the Netherlands broadcast schedules are published in broadcast magazines. However, these are not broadly available. The KB holds [broadcast magazines until 1961](https://www.delpher.nl/nl/tijdschriften/results?query=&facets%5BalternativeFacet%5D%5B%5D=Katholieke\+radio-gids&facets%5BalternativeFacet%5D%5B%5D=Radio-tv-gids%2C\+de&page=1&sortfield=datedesc&cql%5B%5D=(alternative\+all\+%22Gids%22)&coll=dts). The Netherlands Institute for Sound and Vision has the more recent digitized broadcast magazines (from 1962 onwards), but these are not available outside of the building due to copyright reasons. If you want to search recent broadcast magazines, you can make an appointment with the Customer Service of Sound and Vision to use their in-house search system DAAN.
 
-* A good alternative to arrive at broadcast schedules are newspapers. Newspapers until the 1990s can be found in [Delpher](http://delpher.nl), the newspaper database of the Royal Library (KB) with for example the archives of[ De Volkskrant ](https://www.delpher.nl/nl/kranten/results?query=&page=1&sortfield=datedesc&cql%5B%5D=(date\+_gte_\+%2201-12-1950%22)&cql%5B%5D=ppn\+any\+(412869594\+OR\+412869608\+OR\+412869632\+OR\+412869624\+OR\+412869616\+OR\+43066950X)&coll=dddtitel)(until 1995) or [NRC](https://www.delpher.nl/nl/kranten/results?query=&facets%5BtitleString%5D%5B0%5D=NRC\+Handelsblad&page=1&sortfield=datedesc&cql%5B0%5D=%28date\+_gte_\+%2201-12-1950%22%29&coll=dddtitel&redirect=true) (until 1994). After this date, it is advisable to search in the commercial database NexisUni at your university library (e.g. [here](https://login.proxy.library.uu.nl/login?utm_source=other&qurl=http%3A%2F%2Fwww.nexisuni.com) the one of Utrecht University). However, the challenge of using NexisUni for historical research is that it removes the lay-out and photos, and only shows the plain text.
+* A good alternative to arrive at broadcast schedules are newspapers. Newspapers until the 1990s can be found in [Delpher](http://delpher.nl), the newspaper database of the Royal Library (KB) with for example the archives of De Volkskrant (until 1995) or NRC (until 1994). After this date, it is advisable to search in the commercial database NexisUni at your university library (e.g. [here](https://login.proxy.library.uu.nl/login?utm_source=other&qurl=http%3A%2F%2Fwww.nexisuni.com) the one of Utrecht University). However, the challenge of using NexisUni for historical research is that it removes the lay-out and photos, and only shows the plain text.
 
   **![](https://lh3.googleusercontent.com/BYGlE9_vAvPb9X63IhJGAiq1ZEQOjYrSLbXd8LjhsrDP26UbjqBQJvTQW65BlSgVv4jkzOBVo_SzLjkYRNlDeKXaYWe-8_fO8Ha31SiE_xchypronIFwX1gamZoCY22brHumFDsbOSE312eMTzgZvMaL6X2QHoHGCJowD0ZR6fsGJGNjxlcG0GQ7)**
 
@@ -127,7 +127,7 @@ This tutorial was made in the context of the courses Television History Online a
 
 ### **Step 4. Broadcast schedules in digitized Viewing Rate Reports**
 
-* As explained in the [Viewing Rates tutoria](https://mediasuite.clariah.nl/learn/subject-tutorials/viewing-rates-for-television-history)l, the digitized Viewing Rate Reports as part of the Media Suite contain the exact broadcast time, the viewing density and the viewers’ appreciation index.
+* As explained in the [Viewing Rates tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/viewing-rates-for-television-history), the digitized Viewing Rate Reports as part of the Media Suite contain the exact broadcast time, the viewing density and the viewers’ appreciation index.
 
 * It is only possible to find viewing rates until 1994, so it should be possible to retrieve the viewing rates for the Jiskefet broadcast of 1991. The reports are compiled in weekly reports so I search broadly for “Jiskefet” in a 10-day timeframe (10/09/1991 to 30/09/1991)  in order to be sure I find the correct week in which the program is scheduled. Open the first result in your result list, which is indicated with the date ‘16-09-1991’.
 
