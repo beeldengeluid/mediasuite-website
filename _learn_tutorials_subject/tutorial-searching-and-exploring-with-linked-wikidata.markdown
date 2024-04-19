@@ -57,7 +57,7 @@ As of 2021 the NISV has begun making collection data available as Linked Data wi
 
 ![image3.jpg](/uploads/image3.jpg)
 
-* Before exploring the linked data functionality in the Media Suite, you first have to familiarize yourself with the person metadata available in the environment. To do so, go to the Media Suite and choose the “Sound & Vision Archive” before beginning your search. Moreover, you may want to create a user project in order to be able to bookmark items and save queries. For a brief tutorial on how to create a user project see [here].(https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-logging-in-workspace-and-creating-a-user-project)
+* Before exploring the linked data functionality in the Media Suite, you first have to familiarize yourself with the person metadata available in the environment. To do so, go to the Media Suite and choose the “Sound & Vision Archive” before beginning your search. Moreover, you may want to create a user project in order to be able to bookmark items and save queries. For a brief tutorial on how to create a user project see [here](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-logging-in-workspace-and-creating-a-user-project)
 
 * The Media Suite Search Tool supports search in three different search layers (for a brief explanation of these three layers see the Search How-to on the Media Suite Help page):
 
