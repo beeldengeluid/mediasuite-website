@@ -125,28 +125,27 @@ Having established that language is not a determining factor in deciding if radi
 \
 These specific *Radio Oranje* recordings can be found when manually searching through the list of broadcasters in the collection, within the search field of the BBC (see screenshot above). Here, I find [one recording](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608090078897031&cid=daan-catalogue-radio&bodyClass=noHeader&singleResource=1) that consists of presenter Bertie Winand announcing aid in the form of food drops (which, seen the location and year, are not the same as presenter Stanley Maxted reported). In the 15 minute fragment, he discusses specific instructions while also warning the occupier not to prevent these drops from happening. This is a good example of how these forms of international Dutch broadcasts do seem very dependent on specific contexts and often require further research in order to fully understand.
 
-\
+
 **Category 4: International exchanges**
 
-In my search for international material in the radio collection, I also encountered the broadcaster ‘Radiodiffusion Francaise’. While I would expect French language material in this search, I also found a recording called [DE FRANSE WETENSCHAP EN FILOSOFIE (LA VIEW SCIENTIFIQUE ET PHILOSOPHIQUE DE LA FRANCE.](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150134364831&cid=daan-catalogue-radio&bodyClass=noHeader&singleResource=1) The description states that this is an overview of French science, but in Dutch (see screenshot below). Apparently, this is presented by a Dutch speaking doctor called Van Deinse, who works at the Pasteur institute in Paris. From the metadata it is hard to determine the exact nature of the recording, but when I search further through the 8 videos labelled under the same broadcaster, I encounter [another fragment](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608080068325531&cid=daan-catalogue-radio) where the description explains that this was part of an international programme exchange between a French and a Dutch broadcaster in 1948.\
-\
+In my search for international material in the radio collection, I also encountered the broadcaster ‘Radiodiffusion Francaise’. While I would expect French language material in this search, I also found a recording called [DE FRANSE WETENSCHAP EN FILOSOFIE (LA VIEW SCIENTIFIQUE ET PHILOSOPHIQUE DE LA FRANCE.](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150134364831&cid=daan-catalogue-radio&bodyClass=noHeader&singleResource=1) The description states that this is an overview of French science, but in Dutch (see screenshot below). Apparently, this is presented by a Dutch speaking doctor called Van Deinse, who works at the Pasteur institute in Paris. From the metadata it is hard to determine the exact nature of the recording, but when I search further through the 8 videos labelled under the same broadcaster, I encounter [another fragment](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608080068325531&cid=daan-catalogue-radio) where the description explains that this was part of an international programme exchange between a French and a Dutch broadcaster in 1948.
+
 **![](https://lh4.googleusercontent.com/K6JMUt5nCqAPmRFbVg5-UthQ7izXVQLQeAqePwlCxJbsgJoN7aK8bqXWTX9KPa1J8Uo5VZtEin6ody8vH9_wvLoGPNNvdJmWISy0OllOfc0rw8qTuNScXvYNrlRXbEVR4kBSFQlAA7CQL-mtXA)**\
-**Screenshot of the fragment from Radiodiffusion Francaise called \*DISCOURS DE D. STIKKER SUR LA PRESTATION DE SERMENT DE LA REINE JULIANA - DISCOURS DE D. STIKKER SUR LA PRESTATION DE SERMENT DE LA REINE JULIANA \*(Toespraak van D. Stikker ter gelegenheid van de eedaflegging door koningin Juliana) (Radiodiffusion Francaise, 1948): [Link to audio](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608080068325531&cid=daan-catalogue-radio) (login required).**\
-\
-In this second fragment, Dutch minister of Foreign affairs D. Stikker presents a narration of the coronation of Queen Juliana, while simultaneously discussing the difficulties The Netherlands faced in the reconstruction in the years after the war. While the metadata description is in Dutch, the entire fragment itself is in French and presents an interesting example of what an international radio exchange can look like. It would appear that the first recording I found is also part of this exchange, as it is recorded in the same year, but it is difficult to determine this for sure. \
-\
-Programme exchanges like this, show that the medium can not only create or strengthen national communities, but can also be deployed across borders. The concept of European heritage, for example, shows how the imagined communities previously discussed are not necessarily limited to nations. Exchanges like this, between Dutch and French broadcasters, can therefore also serve as political tools.\
-\
-To summarise, this playlist has identified four different conceptualisations of international radio. Through these descriptions, it has shown the complexity of the concept and the importance of defining the required material in the preliminary stages of research. Additionally, it has highlighted the diversity of the material that can be found with the Media Suite, and presented a number of search techniques that can help a user to retrieve this data. Both the categories as well as the search techniques are not exhaustive and users are encouraged to rethink the boundaries of what they consider to be international. This way, the richness of the collections present in the Media Suite can be discovered in its full potential. \
-\
-\
+**Screenshot of the fragment from Radiodiffusion Francaise called \*DISCOURS DE D. STIKKER SUR LA PRESTATION DE SERMENT DE LA REINE JULIANA - DISCOURS DE D. STIKKER SUR LA PRESTATION DE SERMENT DE LA REINE JULIANA \*(Toespraak van D. Stikker ter gelegenheid van de eedaflegging door koningin Juliana) (Radiodiffusion Francaise, 1948): [Link to audio](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608080068325531&cid=daan-catalogue-radio) (login required).**
+
+In this second fragment, Dutch minister of Foreign affairs D. Stikker presents a narration of the coronation of Queen Juliana, while simultaneously discussing the difficulties The Netherlands faced in the reconstruction in the years after the war. While the metadata description is in Dutch, the entire fragment itself is in French and presents an interesting example of what an international radio exchange can look like. It would appear that the first recording I found is also part of this exchange, as it is recorded in the same year, but it is difficult to determine this for sure. 
+
+Programme exchanges like this, show that the medium can not only create or strengthen national communities, but can also be deployed across borders. The concept of European heritage, for example, shows how the imagined communities previously discussed are not necessarily limited to nations. Exchanges like this, between Dutch and French broadcasters, can therefore also serve as political tools.
+
+To summarise, this playlist has identified four different conceptualisations of international radio. Through these descriptions, it has shown the complexity of the concept and the importance of defining the required material in the preliminary stages of research. Additionally, it has highlighted the diversity of the material that can be found with the Media Suite, and presented a number of search techniques that can help a user to retrieve this data. Both the categories as well as the search techniques are not exhaustive and users are encouraged to rethink the boundaries of what they consider to be international. This way, the richness of the collections present in the Media Suite can be discovered in its full potential. 
+
 **References**
 
-\
-Anderson, Benedict. *Imagined Communities: Reflections on the Origins and Spread of Nationalism.* London: Verso, 1991. \
-\
-De Cesari, Chiara and Ann Rigney. “Introduction”. In *Transnational Memory: Circulation, Articulation, Scales.* Edited by Chiara De Cesari and Ann Rigney. Berlin: De Gruyter, 2014. \
-\
+
+Anderson, Benedict. *Imagined Communities: Reflections on the Origins and Spread of Nationalism.* London: Verso, 1991. 
+
+De Cesari, Chiara and Ann Rigney. “Introduction”. In *Transnational Memory: Circulation, Articulation, Scales.* Edited by Chiara De Cesari and Ann Rigney. Berlin: De Gruyter, 2014. 
+
 Föllmer, Golo and Alexander Badenoch. “Transnationalizing Radio Research: New Encounters with an Old Medium.” In *Transnationalizing Radio Research: New Encounters with an Old Medium.* Edited by Golo Föllmer and Alexander Badenoch. Bielefeld: Transcript Verlag, 2018.
 
 Haslach, Robert D. *Netherlands World Broadcasting*. Media, Pa.: L. Miller Pub.1983.
