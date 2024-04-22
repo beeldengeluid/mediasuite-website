@@ -2,14 +2,12 @@
 title: Export data
 ---
 
-Via the Workspace, you can export:
+In the Media Suite, it is also possible to export your user projects, your bookmarks and your annotations. You can do so in the workspace.
 
-- Your user projects
-- Your bookmarks
-- Your annotations
+* **User project**: In the workspace, select the user projects you want to export. A menu will pop-up at the bottom of the page where you can select ‘Export’.
 
-The collections' metadata, and the content itself (media objects) cannot be exported or downloaded in all cases.
+* **Bookmarks**: In the workspace, select the user project in which you have saved the bookmarks. Go to the bookmark tab, and select the items you wish to export. Click on ‘Export’ at the bottom of the page.
 
-The resulting file from exporting the user data mentioned above is a JSON file.
+* **Annotations**: Select the user project in which you have saved your annotations. Go to the annotations tab, and select the annotations you wish to export. Click on ‘Export’ at the bottom of the page.
 
-*(Last update: July, 2018)*. *If you have any questions, please [contact us](/contact).*
+The collections’ metadata, and the media objects themself cannot be exported or downloaded. The resulting file from exporting the user data mentioned above is a JSON file.
