@@ -27,7 +27,7 @@ The “collection inspection” functionalities support the scholarly tasks of d
 
    * If you want to check the metadata completeness of a section of the collection (e.g., for resources of a certain media type)
 
-5. If you are interested in the completeness of the ASR (automatic speech recognition) transcripts in the Netherlands Institute for Sound and Vision audio-visual collection, it is recommended to select this data layer in the Search tool, and see its availability over time through the Date, sorting (PREFERRED) field.
+5. If you are interested in the completeness of the ASR (automatic speech recognition) transcripts held by the Netherlands Institute for Sound and Vision, it is recommended to select this data layer in the Search tool, and see its availability over time through the Date, sorting (PREFERRED) field.
 
 ### Metadata dictionaries
 
