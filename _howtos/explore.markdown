@@ -35,7 +35,7 @@ Steps:
 
   * Located in / Location for
 
-* You can click on any entity of the type above, and start a navigation journey through the connected (linked-data) entities. This is led by the curiosity of the user, driven by the need to experience serendipitous encounters. In this fashion, exploratory search can lead to discovery of unexpected media resources or surprising connections between other entities” .
+* You can click on any entity of the type above, and start a navigation journey through the connected (linked-data) entities. This is led by the curiosity of the user, driven by the need to experience serendipitous encounters. In this fashion, exploratory search can lead to discovery of unexpected media resources or surprising connections between other entities .
 
 
 * Observe the “Exploration path” that appears on the left of your screen. When you click on an entity, you will see a panel opening on the left side. This panel stores your queries, entities, path bookmarks, and personal notes. This means that, every time you click on an entity in the middle panel browser, that entity is stored here. In the Exploration path panel you can:
