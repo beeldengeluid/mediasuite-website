@@ -3,7 +3,7 @@ title: Explore
 date: 2022-03-17 09:33:00 +01:00
 ---
 
-The Media Suite offers a tool for [Exploratory search](https://mediasuite.clariah.nl/tool/exploratory-search). This tool offers the possibility to explore and discover the Media Suite’s collections in an open-ended way. The Explore tool only uses part of the data available in the Media Suite, namely the [Open Images collection](https://mediasuitedata.clariah.nl/dataset?groups=open-images-project) from the Netherlands Institute for Sound and Vision, EYE Film Museum and Natuurbeelden.
+The Media Suite offers a tool for [exploratory search](https://mediasuite.clariah.nl/tool/exploratory-search). This tool offers the possibility to explore and discover the Media Suite’s collections in an open-ended way. The Explore tool only uses part of the data available in the Media Suite, namely the [Open Images collection](https://mediasuitedata.clariah.nl/dataset?groups=open-images-project) from the Netherlands Institute for Sound and Vision, EYE Film Museum and Natuurbeelden.
 
 ## How to use
 
