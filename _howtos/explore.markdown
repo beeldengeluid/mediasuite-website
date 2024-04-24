@@ -52,6 +52,6 @@ Steps:
 
     * If you “Save” your path, you get the option to save it to the Media Suite [Workspace](https://mediasuite.clariah.nl/documentation/howtos/work-in-a-workspace). If you click on this option, you will see a pop-up window asking you to select a User project . If you haven’t created a user project, first go to the Workspace to create one.
 
-    * Once you have saved your path, you can visit it in the Media Suite Workspace by going to the User project where you created it, to the tab “Tool sessions.”
+    * Once you have saved your path, you can visit it in the Media Suite Workspace by going to the User project where you created it and to the tab “Tool sessions.”
 
     * You can also “Load” (recreate) and “Export” your exploration path.
