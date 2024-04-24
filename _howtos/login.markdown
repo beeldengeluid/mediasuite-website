@@ -26,6 +26,6 @@ Limited access to the Media Suite can occur :
 
 * **If your institution does not appear in the SURFconext list**. This means your institution is not connected. This issue has to be solved by your Dutch university or research institution. Your institution also has to connect to the CLARIN service (that the Media Suite belongs to), in the local SURFconext settings. If your institute is not listed in the Media Suite, you have to ask your local ICT helpdesk to make this connection. Every institution has one or more SURFcontext maintainers who should be able to do this for you.
 
-* **When you don’t have a Dutch institutional affiliation**. This happens when you find the institution in the SURFconext list, but you don’t have valid credentials to log in. It is impossible to use the Media Suite without these institutional credentials.
+* **When you don’t have a Dutch institutional affiliation**. It is impossible to use the Media Suite without Dutch institutional credentials.
 
 * **When a non-Dutch institution wants to have access to the Media Suite**. This is not possible. A possible solution may be to ask a Dutch host institution listed in the SURFConext institutions to create a temporary institutional account.
