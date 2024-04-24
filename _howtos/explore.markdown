@@ -42,7 +42,7 @@ Steps:
 
   * Bookmark entities in this path (use the star icon)
 
-    * Please note that the Bookmark button in the exploration tool saves items and entities in your path. This option is different from the bookmark option when you view objects in the [Resource viewer](https://mediasuite.clariah.nl/documentation/howtos/resource-viewer). If you bookmark the resources there, they will be saved in your Workspace
+    * Please note that the Bookmark button in the exploration tool saves items and entities in your path. This option is different from the bookmark option when you view objects in the Resource viewer. If you bookmark the resources there, they will be saved in your Workspace
 
 
   * Add user comments or notes, by clicking on the three vertical dots on the left side of the bookmark icon and choose “annotate”. These comments are inserted between the entities, they allow you to add commentary to the path, so you can build a “narrative” of your exploration.
