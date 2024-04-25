@@ -14,7 +14,7 @@ To log in to the Media Suite, follow these steps:
 
 5. Use your institutional credentials to log in, wait until the service connects
 
-6. You will arrive at the CLARIAH [Media Suite workspace](https://mediasuite.clariah.nl/documentation/workspace)
+6. You will arrive at the CLARIAH Media Suite workspace
 
 For more information see [this tutorial ](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-logging-in-workspace-and-creating-a-user-project)on logging in and creating a workspace, and [this FAQ page](https://mediasuite.clariah.nl/documentation/faq/who-can-access) for more background information. Also see our [Screencast: How to log in to the Media Suite](https://www.youtube.com/watch?v=2z0xUblnZwo&index=1&list=PLM8OWdLwjOmcOOikb_vCgB3ouY98PKvge)
 
