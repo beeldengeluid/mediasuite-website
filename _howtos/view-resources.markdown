@@ -25,7 +25,7 @@ Under an audio or video file in the Resource viewer, you will find a timeline.
 
 * Interact with the timeline by searching, zooming in/out and scrolling through it by using the buttons above the timeline or using the mouse.
 
-* If the resource has any automatic enrichments (like ASR) or annotations, they are visible on timelines below the player.
+* If the resource has any automatic enrichments (like ASR) or annotations, they are visible on the timeline below the player.
 
 * You can also create annotations on a new timeline by clicking the “Add layer” button and using the keyboard shortcuts outlined in the [Annotate page](https://mediasuite.clariah.nl/documentation/howtos/annotate).
 
@@ -45,7 +45,7 @@ In the metadata panel you will find the top-level metadata. At the bottom of thi
 
 The second tab in this block is labelled “Content Annotations”. Here you will find available enrichments to the data (like ASR). These are interactive, meaning you can search through these annotations or navigate the fragment by clicking through them.
 
-**Tip**: What appears in the Metadata block depends on how metadata fields are filled in for the given collection. Check the collection description in [the Media Suite data registry ](https://mediasuitedata.clariah.nl/)for more information.
+*Tip:* What appears in the Metadata block depends on how metadata fields are filled in for the given collection. Check the collection description in [the Media Suite data registry ](https://mediasuitedata.clariah.nl/)for more information.
 
 ### <a name="annotate"></a> Annotate resources and items
 
@@ -57,4 +57,4 @@ For examples of the Resource viewer functionalities in action, see the following
 
 * [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/tutorial-segmenting-and-annotating-sesamstraat): Segmenting and Annotating Sesamstraat
 
-* [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/tutorial-searching-and-analysing-the-sound-and-vision-radio-collection-using-automatic-speech-recognition): Searching and analysing the Sound and Vision Radio Collection using Automatic Speech Recognition\\
+* [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/tutorial-searching-and-analysing-the-sound-and-vision-radio-collection-using-automatic-speech-recognition): Searching and analysing the Sound and Vision Radio Collection using Automatic Speech Recognition
