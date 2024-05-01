@@ -121,7 +121,7 @@ To facilitate more precise queries, users can also use “search layers”, whic
 
 Selecting a field cluster makes your search more precise, but it can mean that you miss results outside of those fields. Also be aware that the completeness of the metadata in the field(s) will affect your search results.\
 \
-***Tip***\*\*: \*\*You can use the Collection Inspector to check completeness of metadata fields and to read descriptions of metadata fields\\
+***Tip***: You can use the Collection Inspector to check completeness of metadata fields and to read descriptions of metadata fields.
 
 ### <a name="field-cluster"></a> Search per field (field cluster selector)
 
@@ -181,7 +181,7 @@ To generate a term chart visualisation, select a keyword field from the ‘Selec
 
 ![keyword_field_selection-5506ef.PNG](/uploads/keyword_field_selection-5506ef.PNG)
 
-*Tip*: Is the metadata field you want not listed in the dropdown? Only *keyword *metadata fields, fields which contain values from a defined set of options, can be plotted on term charts. Other fields, such as textual descriptions, cannot be plotted as they have an infinite number of possible values.
+*Tip*: Is the metadata field you want not listed in the dropdown? Only \*keyword \*metadata fields, fields which contain values from a defined set of options, can be plotted on term charts. Other fields, such as textual descriptions, cannot be plotted as they have an infinite number of possible values.
 
 If none of the results in your search query contain the selected field, you will see a warning message. Otherwise, a chart appears.
 
@@ -191,7 +191,7 @@ If none of the results in your search query contain the selected field, you will
 
 When you select a keyword field for a chart, it is automatically added as a filter beside your search query. When you change your selection, the filter is removed again. Clicking on a bar or point in the term chart will filter your search with the metadata field value represented by that point. For example, if you click on ‘photo’ as a category, then your search result will be filtered to show only items in the category ‘photo’. The term chart continues to show all the available values, so you can easily switch between values, e.g. between ‘photo’ and ‘music programmes’. This works the same way as the filters on the left hand side of the search page.
 
-***Tip: ***Line chart/histogram and absolute/relative options are available the same as for time line charts.
+*Tip*: Line chart/histogram and absolute/relative options are available the same as for time line charts.
 
 ### <a name="facets"></a> Filter using facets
 
