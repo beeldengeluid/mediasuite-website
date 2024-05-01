@@ -17,7 +17,7 @@ This page explains the functionalities available in the ‘Resource viewer’. I
 
 ### <a name="play-view"></a> Play and view media
 
-In the resource viewer, you can play and view the media resources that [are available ](https://mediasuite.clariah.nl/documentation/faq/can-play-view)in the Media Suite. If the resource has  been [ASR processed](https://mediasuite.clariah.nl/documentation/glossary/transcription), you can also find an interactive transcript with which you can navigate the video or audio file.\
+In the resource viewer, you can play and view the media resources that [are available ](https://mediasuite.clariah.nl/documentation/faq/can-play-view)in the Media Suite. If the resource has  been [ASR processed](https://mediasuite.clariah.nl/documentation/glossary/transcription), you can also find an interactive transcript with which you can navigate the video or audio file.
 
 ### <a name="timeline"></a> Understand the timeline
 
@@ -29,7 +29,7 @@ Under an audio or video file in the Resource viewer, you will find a timeline.
 
 * You can also create annotations on a new timeline by clicking the “Add layer” button and using the keyboard shortcuts outlined in the [Annotate page](https://mediasuite.clariah.nl/documentation/howtos/annotate).
 
-Important: For long running program’s, such as full-day ‘Tweede Kamer’ recordings, it can look like the timeline is empty for some layers (e.g. sections are so short relative to the program’s length the elements are very thin). Be sure to zoom in or out on the timeline.
+*Important*: For long running program’s, such as full-day ‘Tweede Kamer’ recordings, it can look like the timeline is empty for some layers (e.g. sections are so short relative to the program’s length the elements are very thin). Be sure to zoom in or out on the timeline.
 
 ### <a name="metadata"></a> Understand the metadata block
 
@@ -45,7 +45,7 @@ In the metadata panel you will find the top-level metadata. At the bottom of thi
 
 The second tab in this block is labelled “Content Annotations”. Here you will find available enrichments to the data (like ASR). These are interactive, meaning you can search through these annotations or navigate the fragment by clicking through them.
 
-***Tip** *: What appears in the Metadata block depends on how metadata fields are filled in for the given collection. Check the collection description in [the Media Suite data registry ](https://mediasuitedata.clariah.nl/)for more information.
+\***Tip** \*: What appears in the Metadata block depends on how metadata fields are filled in for the given collection. Check the collection description in [the Media Suite data registry ](https://mediasuitedata.clariah.nl/)for more information.
 
 ### <a name="annotate"></a> Annotate resources and items
 
@@ -57,4 +57,4 @@ For examples of the Resource viewer functionalities in action, see the following
 
 * [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/tutorial-segmenting-and-annotating-sesamstraat): Segmenting and Annotating Sesamstraat
 
-* [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/tutorial-searching-and-analysing-the-sound-and-vision-radio-collection-using-automatic-speech-recognition): Searching and analysing the Sound and Vision Radio Collection using Automatic Speech Recognition\
+* [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/tutorial-searching-and-analysing-the-sound-and-vision-radio-collection-using-automatic-speech-recognition): Searching and analysing the Sound and Vision Radio Collection using Automatic Speech Recognition\\
