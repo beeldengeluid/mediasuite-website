@@ -45,7 +45,7 @@ In the metadata panel you will find the top-level metadata. At the bottom of thi
 
 The second tab in this block is labelled “Content Annotations”. Here you will find available enrichments to the data (like ASR). These are interactive, meaning you can search through these annotations or navigate the fragment by clicking through them.
 
-\***Tip** \*: What appears in the Metadata block depends on how metadata fields are filled in for the given collection. Check the collection description in [the Media Suite data registry ](https://mediasuitedata.clariah.nl/)for more information.
+**Tip**: What appears in the Metadata block depends on how metadata fields are filled in for the given collection. Check the collection description in [the Media Suite data registry ](https://mediasuitedata.clariah.nl/)for more information.
 
 ### <a name="annotate"></a> Annotate resources and items
 
