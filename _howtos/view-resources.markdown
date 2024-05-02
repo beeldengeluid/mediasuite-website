@@ -13,7 +13,6 @@ This page explains the functionalities available in the ‘Resource viewer’. I
 
 [Annotate resources and items](#annotate)
 
-### 
 
 ### <a name="play-view"></a> Play and view media
 
