@@ -29,8 +29,6 @@ This page will discuss:
 
 ---
 
-### 
-
 ### <a name="search-boolean"></a>Use search expressions (Boolean operators)
 
 One way of refining your search query is through ‘boolean operators’. With these types of queries, it is possible to elaborate on how you want your keywords to relate to each other. In the Media Suite, the following boolean operators are supported:
@@ -121,7 +119,7 @@ To facilitate more precise queries, users can also use “search layers”, whic
 
 Selecting a field cluster makes your search more precise, but it can mean that you miss results outside of those fields. Also be aware that the completeness of the metadata in the field(s) will affect your search results.\
 \
-***Tip***: You can use the Collection Inspector to check completeness of metadata fields and to read descriptions of metadata fields.
+*Tip*: You can use the Collection Inspector to check completeness of metadata fields and to read descriptions of metadata fields.
 
 ### <a name="field-cluster"></a> Search per field (field cluster selector)
 
