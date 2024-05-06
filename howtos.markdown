@@ -12,11 +12,9 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 * [Log in](/documentation/howtos/login)
 
-* [Find and select collections](/documentation/howtos/data)
-
-* [Inspect metadata quality](/documentation/howtos/inspect-collections)
-
 * [Understand the metadata](/documentation/howtos/inspect-collections)
+
+* [Explore](https://mediasuite.clariah.nl/documentation/howtos/explore)
 
 * [Work with user projects](/documentation/howtos/work-in-a-workspace)
 
@@ -24,16 +22,14 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 
 * [Bookmark](/documentation/howtos/bookmark)
 
-* [Save queries](/documentation/howtos/save-queries)
-
 * [Compare queries](/documentation/howtos/compare-queries)
 
 * [Read, view resources](/documentation/howtos/view-resources)
 
 * [Annotate](/documentation/howtos/annotate)
 
+* [Export data ](https://mediasuite.clariah.nl/documentation/howtos/export)
+
+* [Read viewing and listening rates ](https://mediasuite.clariah.nl/documentation/howtos/read-viewing-and-listening-rates)
+
 * [Conduct advanced analyses with Jupyter notebooks](/documentation/howtos/jupyter-notebooks)
-
-* [Work with your own collections](/documentation/howtos/user-collections) (in progress)
-
-*More up to date information will be added soon. If you have any questions, please [contact us](/contact)*
