@@ -28,11 +28,3 @@ The “collection inspection” functionalities support the scholarly tasks of d
    * If you want to check the metadata completeness of a section of the collection (e.g., for resources of a certain media type)
 
 5. If you are interested in the completeness of the ASR (automatic speech recognition) transcripts held by the Netherlands Institute for Sound and Vision, it is recommended to select this data layer in the Search tool, and see its availability over time through the Date, sorting (PREFERRED) field.
-
-### Metadata dictionaries
-
-Because the Media Suite has been built following the principles of metadata transparency (which means minimal intervention is done regarding normalisation and cleaning of the metadata), users may face difficulties in understanding what a specific metadata field means, or how to use it.
-
-The Media Suite does provide an example of good practice in documenting the metadata schemas for users. This is done via “metadata dictionaries,” which provide definitions of the metadata field (regardless of their labels) when they are used in the Media Suite. We have integrated this dictionary for one collection (The Netherlands Institute for Sound and Vision). Here, the institution has created a file with a technical label of the field, a more user-friendly label and a user-oriented definition of the field. This data has been integrated in the Media Suite (which can be observed, for instance, when you click on the drop-down menu in the Inspector tool).
-
-The CLARIAH WP5 team encourages other providing institutions to create and publish these metadata dictionaries as part of their metadata schemas and documentation.
