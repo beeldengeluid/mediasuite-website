@@ -45,13 +45,4 @@ Steps:
     * Please note that the Bookmark button in the exploration tool saves items and entities in your path. This option is different from the bookmark option when you view objects in the Resource viewer. If you bookmark the resources there, they will be saved in your Workspace
 
 
-  * Add user comments or notes, by clicking on the three vertical dots on the left side of the bookmark icon and choose “annotate”. These comments are inserted between the entities, they allow you to add commentary to the path, so you can build a “narrative” of your exploration.
-
-
-  * You can also clear your path, save it, load it, or export it. For these actions, click on the three vertical dots on the right side of the Exploration path menu:
-
-    * If you “Save” your path, you get the option to save it to the Media Suite [Workspace](https://mediasuite.clariah.nl/documentation/howtos/work-in-a-workspace). If you click on this option, you will see a pop-up window asking you to select a User project . If you haven’t created a user project, first go to the Workspace to create one.
-
-    * Once you have saved your path, you can visit it in the Media Suite Workspace by going to the User project where you created it and to the tab “Tool sessions.”
-
-    * You can also “Load” (recreate) and “Export” your exploration path.
+* Add user comments or notes, by clicking on the three vertical dots on the left side of the bookmark icon and choose “annotate”. These comments are inserted between the entities, they allow you to add commentary to the path, so you can build a “narrative” of your exploration.
