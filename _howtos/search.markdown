@@ -137,9 +137,9 @@ Users can also customise their own search layer by selecting in which field, or 
 
 ### <a name="autocomplete-functionality"></a> Autocomplete functionality
 
-Some collections have a thesaurus with set lists of terms, e.g. names of persons, that are used in the metadata. For these collections, the lists are used to offer autocomplete options when searching. Check the collection description in [the Media Suite data registry](https://mediasuitedata.clariah.nl/)\[autocomplete.PNG\] to see if a given collection has autocomplete functionality, and for what sorts of terms.
+Some collections have a thesaurus with set lists of terms, e.g. names of persons, that are used in the metadata. For these collections, the lists are used to offer autocomplete options when searching for people. Check the collection description in [the Media Suite data registry](https://mediasuitedata.clariah.nl/)\[autocomplete.PNG\] to see if a given collection has autocomplete functionality.
 
-To use autocomplete, simply type the name or word you are interested in into the Search field. You will get a list of options to choose from. As the option is a thesaurus term, it can have multiple labels. Searching with this functionality entails that the search looks for an exact match for any one of the labels. The results will depend on what sort of labels are used, for example. If a thesaurus only contains labels in one language then those terms will not be found in other languages. To find out what sort of labels are used, consult the collection description.
+To use autocomplete, simply type the name of the person you are interested in into the Search field. You will get a list of options to choose from. As the option is a thesaurus term, it can have multiple labels. Searching with this functionality entails that the search looks for an exact match for any one of the labels. The results will depend on what sort of labels are used, for example. If a thesaurus only contains labels in one language then those terms will not be found in other languages. To find out what sort of labels are used, consult the collection description.
 
 ![](/uploads/autocomplete.PNG)
 
