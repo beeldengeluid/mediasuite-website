@@ -1,5 +1,6 @@
 ---
 title: Alignment
+position: 3
 ---
 
 By Roeland Ordelman
