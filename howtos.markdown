@@ -31,5 +31,3 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](/
 * [Export data ](https://mediasuite.clariah.nl/documentation/howtos/export)
 
 * [Read viewing and listening rates ](https://mediasuite.clariah.nl/documentation/howtos/read-viewing-and-listening-rates)
-
-* [Conduct advanced analyses with Jupyter notebooks](/documentation/howtos/jupyter-notebooks)
