@@ -1,6 +1,6 @@
 ---
 title: 'Tutorial: Creating a Data Visualization with Google Sheets and the Media Suite'
-date: 2024-02-14 11:04:00 +01:00
+date: 2024-02-14 16:24:00 +01:00
 categories:
 - Television Studies
 - Journalism

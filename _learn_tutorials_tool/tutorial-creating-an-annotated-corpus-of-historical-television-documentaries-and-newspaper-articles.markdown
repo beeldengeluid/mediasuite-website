@@ -1,11 +1,10 @@
 ---
 title: 'Tutorial: Creating an Annotated Corpus of Historical Television Documentaries
   and Newspaper Articles'
-date: 2022-09-23 16:59:00 +02:00
-tags:
+date: 2022-09-22 10:04:00 +02:00
+categories:
 - Television History
 - Media Studies
-position: 12
 introduction: Focusing on the documentary and curatorial work of Dutch architect Herman
   Haan, in this tutorial you will learn how to compile and annotate a corpus of historical
   television documentaries and newspaper articles.

@@ -1,10 +1,9 @@
 ---
 title: 'Tutorial: Searching and Exploring with Linked Data and Wikidata in the Media
   Suite'
-date: 2021-12-05 12:06:00 +01:00
+date: 2021-12-05 10:54:00 +01:00
 categories:
 - Media Studies
-position: 0
 introduction: In this tutorial you learn how to use Linked Data  to refine you search
   results in combination with the metadata categories “Persons - all”, “Persons -
   production”,  “Persons - guests” and “Persons - subject of discussion”. The tutorial
@@ -12,8 +11,6 @@ introduction: In this tutorial you learn how to use Linked Data  to refine you s
   using the Media Suite Search tool, while also exploring links to Wikidata outside
   of the Media Suite environment.
 author: Mari Wigham & Christian Olesen
-functionalities:
-- Search
 collections:
 - Sound & Vision Audiovisual Collection
 user_level: Advanced

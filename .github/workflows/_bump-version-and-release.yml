@@ -1,0 +1,25 @@
+name: Release main branch with a bumped tag version
+
+on:
+  workflow_call:
+
+jobs:
+  bump-version: # TODO only calculate next version if something has changed in this repo
+    runs-on: ubuntu-latest
+    outputs:
+      tag: ${{ steps.bumped-tag.outputs.tag }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: bumped-tag
+        run: |
+          VERSION=`gh release view --json tagName --jq '.tagName' | awk -F. '{OFS="."; $NF+=1; print $0}'`; \
+            echo "tag=${VERSION}" >> $GITHUB_OUTPUT
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  release: # TODO only create release if something has changed in this repo
+    if: ${{needs.bump-version.outputs.tag != ''}}
+    uses: ./.github/workflows/_release-with-built-site-as-artifact.yml
+    needs: [bump-version]
+    with:
+      tag: ${{needs.bump-version.outputs.tag}}

@@ -2,20 +2,29 @@
 title: Bookmark
 ---
 
-### Background
+To save individual items in the Media Suite, you can use the ‘Bookmark’ function.
 
-Based on the study of scholarly needs done in the requirement analysis phase of the CLARIAH Media Suite development, it was observed that, when browsing collections, scholars need to make selections of smaller "corpora" for closer investigation. To support this task, the Media Suite offers a bookmarking option.
+* For this, you first need to create a ‘User project’ in the Workspace.
 
-### How to use
+* Once you’ve done this, and you have found an item you want to save, open this item in the resource viewer. Click on the orange ‘Bookmark’ button on the right-top side of the screen. This will open the bookmark window.
 
-- In the Work space, start by creating your own [User project](/documentation/howtos/work-in-a-workspace)
-- In the [Search tool](/documentation/howtos/search), make your query according to your wishes
-- Once you get a result list, use the icons on the left of the items to mark/unmark the items of your preference
-- You will get a dialog window inviting you to save your bookmarks to the user project that you created in the first step
-  - Note: there will be improvements in Version 4 allowing you to "remember" your selected items when changing pages in the search results
-- Another way to bookmark, individual items in this case, is via the [Resource viewer](/documentation/howtos/view-resources), you will find a "star" icon in the viewer, and also the option to select the active User project in which you want to save your bookmark.
-- To see the resulting list of bookmarks, you can go to the [Workspace](/documentation/howtos/work-in-a-workspace) and find them in the User project where you have saved them.
+* In this window you need to create or select a Bookmark group. You can also select the user project you want to save your item in, by clicking on the drop-down menu.
 
+* Click on ‘Save’. You can now find this item in your selected user project.
 
+\
+It is also possible to bookmark multiple search results at the same time.
 
-*(Last update: October 2, 2018)*. *If you have any questions, please [contact us](/contact).*
+* To do this, go to your search results and select the checkboxes next to the items you want to save.
+
+* Now click on the blue checkmark box at the top of the results list. In this drop-down menu, click on ‘Bookmark selection’.
+
+* Select or create your bookmark group, and select the correct user project.
+
+* Click on ‘Save’. You can now find these items in your selected user project in the Workspace.
+
+For more information on Bookmarking, please see the following pages:
+
+* [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/searching-and-bookmarking-for-television-history): Searching and Bookmarking for Television History
+
+* [Tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-finding-and-bookmarking-oral-history-interviews): Finding and Bookmarking Oral History Interviews
