@@ -21,7 +21,6 @@ language: English
 ## Media Suite Tutorial: How to export your data outside the Media Suite
 
 1. ### Tutorial description, case, and objectives
-   
 
 Sometimes you want to keep, save, and share your data stored in the Media Suite outside the online environment. As your work in the Media Suite is tied to a (temporary) university account, keeping your data in the environment might not be attractive for the long term; online environments can be unstable (think of bugs), may change and, in a more advanced stage of a data-driven research project, you might want to clean and link your data to other datasets. This tutorial therefore covers sharing your created annotations outside the CLARIAH Media Suite.
 
@@ -49,7 +48,11 @@ This tutorial is suited for advanced users having experience in working with the
 
 * Depending on what you want to export, you can click immediately on the project or click on the project and tick the boxes in front of the bookmarks or annotations you want to export (see screenshot 1).
 
+**![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdwh2l0KuGIjFLqAlcC1UtdgpoK6hpiW76f0rv9n6XP8h3qo15HkhpmEf4vYmIm8ykF9jCCLoSLnED5e11RdGa3QTzdXYZtUTr9Fiwj03oircN_wyLKm9V0u_iW5T7XXignJzpf9uzjS7dWfsCgDR1ImqQ?key=xQHtRrFmRbfS2DOM8_aAzg)**
+
 * On the bottom of the screen, you can now choose between “Delete” and “Export”. When clicking on “Export”, a new tab will appear containing a JSON scheme (data written in a certain format so it becomes machine-readable). See screenshot 2.
+
+**![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfzYgq7U9D9xueWve5E1CfjGAMIAI5u67anrZQmUvsXz_R2N6F1T3thSvFkWbWZqdOEjx67uhlOtTZ89bttogWq50vAA3OPLkjJgJMHFdhTINxg5VFP8EihrkOuelmOEGbW_T6yKHN-uAbWAL2yMxCoUCRh?key=xQHtRrFmRbfS2DOM8_aAzg)**
 
 ### Creating a JSON file on your computer
 
@@ -69,6 +72,7 @@ As mentioned in the introduction, it is not (yet) possible to export a JSON-File
 
 * Copy the scheme, paste it into the editor and click on save or use cmd \+ S. See screenshot 3.
 
+**![](https://lh7-us.googleusercontent.com/docsz/AD_4nXc9wX_BAQSZlO7Es--1q0tOoBsrb8mn8yFzIxcufrwQFTR8LHm1G4bqjBnTL-H2UyzOFElrb2P4iYZWPyGGM4F3MaqcCt72D27pRCp5G0GeVgPFZIswGksQJ3_Ex9d6xJUkXyJ5Ps0v42qwMyJIEgnl1lI?key=xQHtRrFmRbfS2DOM8_aAzg)**
 
 * You have now saved the JSON scheme in a JSON file, well done!
 
