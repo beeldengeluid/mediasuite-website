@@ -1,7 +1,7 @@
 ---
 title: Media Suite Quick Guide
+date: 2024-06-10 13:44:00 +02:00
 position: 2
-date: 2024-06-10 12:44:00 +01:00
 header: Media Suite Quick Guide
 link_txt: Quick Guide
 link_url: https://mediasuite.clariah.nl/documentation/quick-start-guide

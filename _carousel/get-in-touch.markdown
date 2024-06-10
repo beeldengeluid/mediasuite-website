@@ -5,6 +5,7 @@ date: 2020-09-04 14:45:00 +02:00
 tags:
 - community
 - gitter
+position: 5
 header: Get in touch!
 link_txt: 'Media Suite Gitter '
 link_url: https://gitter.im/beeldengeluid/mediasuite-announce
