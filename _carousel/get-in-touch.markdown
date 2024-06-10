@@ -1,6 +1,5 @@
 ---
 title: Get in touch
-position: 4
 date: 2020-09-04 14:45:00 +02:00
 tags:
 - community
