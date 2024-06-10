@@ -1,7 +1,6 @@
 ---
 title: 'Tutorial: Sharing Media Suite annotations following the FAIR principles'
-date: 2024-04-12 11:02:00 +02:00
-published: false
+date: 2024-05-13 14:33:00 +02:00
 categories:
 - Media Studies
 tags:
@@ -12,10 +11,9 @@ introduction: This tutorial will introduce how to share and contextualise annota
   Accessibility, Interoperability, Reusability).
 author: Meg Weijers, Universiteit van Amsterdam
 language: English
-layout: learn_tutorials_subject
 ---
 
-## Tutorial description, case, and objectives
+### Tutorial description, case, and objectives
 
 This tutorial will introduce how to share and contextualise annotations created in the Media Suite in a way that follows the principles of FAIR (Findability, Accessibility, Interoperability, Reusability). The FAIR guiding principles emphasise “enhancing the ability of machines to automatically find and use data, in addition to supporting its reuse by individuals” (Wilkinson et al., 2016). FAIR must be seen as a way of thinking, a consensus, and does not make suggestions for specific technologies or solutions. Instead, it acts as a direction to help you evaluate your choices to make your research, data and datasets as accessible as possible to others.
 
@@ -51,7 +49,7 @@ Codes stand for “classifications from selected or custom vocabularies”, whic
 
 In the CLARIAH Media Suite, there are two thesauri you can choose from: **GTAA** and **UNESCO**. GTAA stands for Gemeenschappelijke Thesaurus voor Audiovisuele Archieven (Common Thesaurus for Audiovisual Archives) and is being used by several Dutch Archives such as NISV and Eye Filmmuseum. The UNESCO thesaurus is more suitable for interdisciplinary research not specifically tied to audiovisual material or the Netherlands. Depending on the scope and potential uses of your research, you can choose a thesaurus (or both) accordingly.
 
-![Schermafbeelding 2024-04-12 om 11.35.07.png](/uploads/Schermafbeelding%202024-04-12%20om%2011.35.07.png)
+![Schermafbeelding 2024-04-12 om 11.35.07.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/Schermafbeelding%202024-04-12%20om%2011.35.07.png?download)
 
 Creating annotations that make use of these thesauri has the benefit that your annotations fit a standard format, which makes your data more findable next to other datasets. A downside of using a thesaurus is that the terms might not fit the specifics of your research. For example, film-related terms, such as “production company” and “militant cinema”, have different meanings in other disciplines or due to their niche usage might not always be included in a thesaurus.  In this case, **customised codes** might be a better fit.
 
@@ -69,12 +67,11 @@ It is also possible to use taxonomies and controlled vocabularies that are share
 
 * Does your research fit best within an AV heritage context or can you make use of more generic thesauri (for example UNESCO), and what would be the potential drawbacks of the latter?
 
-
 *Comments*
 
 Comments are textual comments or notes and are a good place to write down anything that can’t be tied to a controlled vocabulary. The difference between codes and comments is the way they are being ordered within your project. Codes are used to categorize bookmarked items and connect them to other bookmarked items whereas comments are used to write down information specific to the bookmarked item itself. Therefore, codes can be used for a more quantitative approach, such as dividing all your bookmarked films into colour or black and white film. Comments, on the other hand, can be used to write down information specific to the item itself that does not necessarily relate to the other bookmarked items. For instance, you can point out wrong titles or write down questions. Below, you can see the differences between comments and codes:
 
-![Schermafbeelding 2024-04-12 om 11.45.13.png](/uploads/Schermafbeelding%202024-04-12%20om%2011.45.13.png)
+![Schermafbeelding 2024-04-12 om 11.45.13.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/Schermafbeelding%202024-04-12%20om%2011.45.13.png?download)
 
 For the clarity of potential users of your dataset, it is advised to still make this section consistent in some way. For example, you can create an overview of how you have been using this comment section. Use terms that don’t have ambiguous meanings and are open to multiple interpretations. Also in the case of comments, a README file can help you specify what these comments were created for.
 
@@ -84,15 +81,13 @@ For the clarity of potential users of your dataset, it is advised to still make 
 
 * Are there terms you could use to write down your comments accurately? If so, what are your definitions of these terms?
 
-
-
 *Links*
 
 Links refer to external web resources, identified by URLs. In the CLARIAH Media Suite, you can make use of two APIs that provide access to URLs from shared vocabularies, namely **Wikidata** and **Europeana**. It is also possible to add your own URLs under **Custom** if you wish to use a different vocabulary. Links to shared vocabularies enable you to describe your dataset with well-defined, shared terms, making it possible to link it to data outside the CLARIAH Media Suite that uses the same terms. Using shared terms helps researchers to find data, link them across collections and reuse them in different contexts, supporting the FAIR principles.
 
 **Wikidata** is a freely accessible knowledge base that is readable and editable for humans and machines. It is a practical way to add contextual information (for example, persons, organizations, geographical places, historical events) as annotations in a readable manner, as long as there are items about what you refer to. Wikidata is also used for the Sound and Vision Collections and to make connections with it in the Media Suite. In the [tutorial on searching and exploring with linked Wikidata](https://mediasuite.clariah.nl/learn/subject-tutorials/tutorial-searching-and-exploring-with-linked-wikidata), it is explained how LOD can help to identify different entities with the same name and searching inside and outside the Media Suite while using it. For more information on how Wikidata works click [here](https://www.wikidata.org/wiki/Wikidata:Introduction).
 
-![Schermafbeelding 2024-04-12 om 12.00.41.png](/uploads/Schermafbeelding%202024-04-12%20om%2012.00.41.png)![Schermafbeelding 2024-04-12 om 12.00.58.png](/uploads/Schermafbeelding%202024-04-12%20om%2012.00.58.png)
+![Schermafbeelding 2024-04-12 om 12.00.41.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/Schermafbeelding%202024-04-12%20om%2012.00.41.png?download)![Schermafbeelding 2024-04-12 om 12.00.58.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/Schermafbeelding%202024-04-12%20om%2012.00.58.png?download)
 
 **Europeana** is an organisation that “supports the cultural heritage sector in its digital transformation” (Europeana, last accessed on March 8, 2024, https://www.europeana.eu/nl/share-your-data). On Europeana, you can find a variety of online heritage collections from European archives ranging from film to books, arts, photography, music, fashion, and archaeology. Europeana is therefore a great way to link your audiovisual materials to other types of cultural heritage within a European context.
 
@@ -105,7 +100,7 @@ If you want to link the item to a web source, such as a YouTube video, you can s
 *Metadata*
 Metadata are metadata fields that you can customise yourself. As the items from the CLARIAH Media Suite contain metadata from the database in which the item is stored, this specific place is for the researcher’s own metadata. Like the comments annotations, it is advised to make this section as consistent as possible and to make clear what purpose the created metadata serve. However, it should be noted that this functionality is very labour-intensive. It is advised to use this function primarily when you need to create a controlled vocabulary from scratch. You can also find controlled vocabularies that might be a good fit with your research on onomy.org/. Onomy is a website “where you can create and share taxonomies, folksonomies, and other forms of controlled vocabularies for use on the semantic web” (onomy.org, https://onomy.org/). Here, you can also share your customised thesaurus once you have created one so other researchers can use yours.
 
-![Schermafbeelding 2024-04-12 om 12.17.20-b89616.png](/uploads/Schermafbeelding%202024-04-12%20om%2012.17.20-b89616.png)
+![Schermafbeelding 2024-04-12 om 12.17.20-b89616.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/Schermafbeelding%202024-04-12%20om%2012.17.20-b89616.png?download)
 
 ## Add your FAIR dataset to a repository
 
@@ -130,13 +125,13 @@ Myles Axton, Arie Baak, Niklas Blomberg, et al. “The FAIR Guiding Principles f
 
 Feeling overwhelmed with all the options? You can find an overview of all the annotation options discussed in this tutorial here below:
 
-![Schermafbeelding 2024-04-12 om 12.22.14.png](/uploads/Schermafbeelding%202024-04-12%20om%2012.22.14.png)
+![Schermafbeelding 2024-04-12 om 12.22.14.png](/api/v2/sites/5f0d8446d8ca0147add16b71/source/_uploads/Schermafbeelding%202024-04-12%20om%2012.22.14.png?download)
 
 ## Thesauri
 
 Looking for a suitable thesauri? Here are some thesauri you could consider for your research:
 
-* Atria Vrouwenthesaurus https://atria.nl/bibliotheek-archief/collectie/thesaurus/?core=thes&facet.field=%7B!ex%3Dcategory%20key%3Dcategory%7Dcategory&facet.mincount=1&facet=true&fq%5B%5D=&fq%5B%5D=taal%3Aned&letter=&q=&rows=10&sort=keywordSort%2Basc&wt=json&start=0. 
+* Atria Vrouwenthesaurus https://atria.nl/bibliotheek-archief/collectie/thesaurus/?core=thes&facet.field=%7B!ex%3Dcategory%20key%3Dcategory%7Dcategory&facet.mincount=1&facet=true&fq%5B%5D=&fq%5B%5D=taal%3Aned&letter=&q=&rows=10&sort=keywordSort%2Basc&wt=json&start=0.
 
 * Linked Open Vocabularies: https://lov.linkeddata.es/dataset/lov/Links to an external site.
 
@@ -144,5 +139,5 @@ Looking for a suitable thesauri? Here are some thesauri you could consider for y
 
 * Schema: https://schema.org/Links to an external site.
 
-* Network of Terms: 
-https://termennetwerk.netwerkdigitaalerfgoed.nl/Links to an external site.
+* Network of Terms:
+  https://termennetwerk.netwerkdigitaalerfgoed.nl/Links to an external site.
