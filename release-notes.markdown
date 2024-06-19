@@ -8,6 +8,8 @@ layout: release-notes
 
 Here, you will find the release notes of previous versions of the Media Suite. You can also view these previous versions with the [Wayback Machine](https://web.archive.org/web/20240000000000\*/mediasuite.clariah.nl). 
 
+* [Version 7.0 (14-03-2023)](/documentation/release-notes/version-7-dot-0)
+
 * [Version 6.8 (14-03-2023)](/documentation/release-notes/version-6-dot-8)
 
 * [Version 6.4 (04-07-2022)](/documentation/release-notes/version-6-dot-4)
