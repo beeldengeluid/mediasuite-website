@@ -21,6 +21,7 @@
 							<a id="menu_tools_compare" class="dropdown-item" href="{{ '/tool/query-comparison' | relative_url }}">Compare</a>
 							<!-- endif  -->
 							<a class="dropdown-item" href="{{ '/tool/exploratory-search' | relative_url }}">Explore</a>
+							<a id="menu_tools_factrank" class="dropdown-item" href="{{ '/tool/factrank' | relative_url }}">FactRank</a>
 						</div>
 					</li>
 					<!-- if user != None and user.id != 'ANONYMOUS' -->
@@ -36,7 +37,7 @@
 					<li class="nav-item">
 						<a class="nav-link text-light" href="https://mediasuitedatastories.clariah.nl/">Data Stories &#8599;</a>
 					</li>
-				</ul>				
+				</ul>
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item{% if page.menu == 'about' %} active{% endif %}">
 						<a class="nav-link" href="{{ '/about' | relative_url }}">About</a>

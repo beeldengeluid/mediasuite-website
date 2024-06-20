@@ -13,6 +13,7 @@
 			</div>
 		</div>
 		<div class="card-deck d-flex justify-content-center my-3">
+
 			<div id="tools_page_inspect" class="card text-center">
 				<a href="{{ '/tool/collection-inspector' | relative_url }}"><img src="{{ '/assets/img/icon-inspect.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Collection inspector"></a>
 				<div class="card-body">
@@ -24,6 +25,7 @@
 					<a href="{{ '/tool/collection-inspector' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
 				</div>
 			</div>
+
 			<div id="tools_page_search" class="card text-center">
 				<a href="{{ '/tool/single-search' | relative_url }}"><img src="{{ '/assets/img/icon-search.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Basic faceted search"></a>
 				<div class="card-body">
@@ -35,6 +37,7 @@
 					<a href="{{ '/tool/single-search' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
 				</div>
 			</div>
+
 			<!-- if user != None and user.id != 'ANONYMOUS' -->
 			<div id="tools_page_compare" class="card text-center">
 				<a href="{{ '/tool/query-comparison' | relative_url }}"><img src="{{ '/assets/img/icon-compare.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Comparative search"></a>
@@ -48,6 +51,7 @@
 				</div>
 			</div>
 			<!-- endif  -->
+
 			<div id="tools_page_explore" class="card text-center">
 				<a href="{{ '/tool/exploratory-search' | relative_url }}"><img src="{{ '/assets/img/icon-explore.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Exploratory browser"></a>
 				<div class="card-body">
@@ -59,6 +63,31 @@
 					<a href="{{ '/tool/exploratory-search' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
 				</div>
 			</div>
+
+			<div id="tools_page_similarity" class="card text-center">
+				<a href="{{ '/tool/similarity' | relative_url }}"><img src="{{ '/assets/img/icon-similarity.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Similarity"></a>
+				<div class="card-body">
+					<h5 class="card-title">Similarity</h5>
+					<p class="card-text">Keyframe based explorative search and similarity analysis.</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/documentation/howtos' | relative_url }}#similarity" class="card-link btn btn-link text-uppercase">Details</a>
+					<a href="{{ '/tool/similarity' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
+				</div>
+			</div>
+
+			<div id="tools_page_factrank" class="card text-center">
+				<a href="{{ '/tool/factrank' | relative_url }}"><img src="{{ '/assets/img/icon-factrank.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="FactRank"></a>
+				<div class="card-body">
+					<h5 class="card-title">FactRank</h5>
+					<p class="card-text">Find factual statements that are worth factchecking.</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/documentation/howtos' | relative_url }}#factrank" class="card-link btn btn-link text-uppercase">Details</a>
+					<a href="{{ '/tool/factrank' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
+				</div>
+			</div>
+
 		</div>
 	</div>
 </main>
