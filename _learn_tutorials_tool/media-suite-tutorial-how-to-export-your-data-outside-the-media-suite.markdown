@@ -36,7 +36,7 @@ Upon completing this tutorial, you will know how to use the Media Suite for tran
 This tutorial supports sharing and contextualising annotations and research data. In general, the tutorial may be used in any field where building, annotating, and linking corpora consisting of different media items are necessary skills, such as qualitative analysis research.
 
 **Prerequisites**
-This tutorial is suited for advanced users having experience in working with the CLARIAH Media Suite. It is also recommended to be familiar with the annotation workflow before continuing with [this tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-searching-annotating-and-linking-for-film-historical-research). If you’re not familiar with this, you can consult the tutorial on this topic here.
+This tutorial is suited for advanced users having experience in working with the CLARIAH Media Suite. It is also recommended to be familiar with the annotation workflow before continuing with this tutorial. If you’re not familiar with this, you can consult the tutorial on this topic [here](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-searching-annotating-and-linking-for-film-historical-research).
 
 ### How to generate a JSON file and make it human-readable
 
