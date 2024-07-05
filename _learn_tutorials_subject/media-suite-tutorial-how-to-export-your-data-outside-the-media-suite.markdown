@@ -24,7 +24,6 @@ language: English
 
 Sometimes you want to keep, save, and share your data stored in the Media Suite outside the online environment. As your work in the Media Suite is tied to a (temporary) university account, keeping your data in the environment might not be attractive for the long term; online environments can be unstable (think of bugs), may change and, in a more advanced stage of a data-driven research project, you might want to clean and link your data to other datasets. This tutorial therefore covers sharing your created annotations outside the CLARIAH Media Suite.
 
-
 In the CLARIAH Media Suite, you can export your data, such as annotations and bookmarks, as a JSON file. A JSON file is a format for exchanging data between two different systems in a standardised, machine-readable manner.\* JSON files, with knowledge of how to use them in a programming, can be used to extract quantitative findings from the dataset. It also enables merging and enhancing datasets. This means that even if you’re not planning on continuing with your research, others might still benefit from your dataset if you store it in an accessible place. However, there is one downside to the current version of the CLARIAH Media Suite: it does not yet have the option to download a JSON file onto your computer or laptop directly. Therefore, sharing your data outside the Media Suite requires some additional steps. This tutorial covers the steps on how to transfer data from the Media Suite into a JSON file.
 
 \*James Walker, “What is a JSON and how do you use it?”, How-To-Geek, last updated on August 12th, 2022, accessed on January 5th, 2024, https://www.howtogeek.com/devops/what-is-json-and-how-do-you-use-it/.
@@ -36,7 +35,7 @@ Upon completing this tutorial, you will know how to use the Media Suite for tran
 This tutorial supports sharing and contextualising annotations and research data. In general, the tutorial may be used in any field where building, annotating, and linking corpora consisting of different media items are necessary skills, such as qualitative analysis research.
 
 **Prerequisites**
-This tutorial is suited for advanced users having experience in working with the CLARIAH Media Suite. It is also recommended to be familiar with the annotation workflow before continuing with [this tutorial](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-searching-annotating-and-linking-for-film-historical-research). If you’re not familiar with this, you can consult the tutorial on this topic here.
+This tutorial is suited for advanced users having experience in working with the CLARIAH Media Suite. It is also recommended to be familiar with the annotation workflow before continuing with this tutorial. If you’re not familiar with this, you can consult the tutorial on this topic [here](https://mediasuite.clariah.nl/learn/subject-tutorials/media-suite-tutorial-searching-annotating-and-linking-for-film-historical-research).
 
 ### How to generate a JSON file and make it human-readable
 
