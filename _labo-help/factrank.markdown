@@ -10,6 +10,8 @@ This is the "FactRank" tool. In this brief help page you will:
 
 [Learn more about this tool's model and data](#data)
 
+If you want to see the onboarding tour (again), navigate to the <a href="/tool/factrank#tour">FactRank tool with #tour.</a>
+
 ## <a name="intro"></a>Intro
 
 The FactRank tool allows you to find factual statements that are worth factchecking.
