@@ -12,12 +12,10 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 **Development team at NISV**
 
-- [Jaap Blom](https://clariah.nl/en/about/who-is-who/wp5/jaap-blom)
+- Jaap Blom
 - [Willem Melder](https://www.beeldengeluid.nl/en/knowledge/experts/willem-melder)
-- [Mari Wigham](https://www.linkedin.com/in/mariwigham) 
+- [Mari Wigham](https://www.linkedin.com/in/mariwigham)
 - Johannes Wassenaar
-- Jonathan Blok 
-- Eduardo Navarrete 
 
 **Requirement analysts, documentation and dissemination**
 
@@ -45,7 +43,7 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 - Thomas Poell
 - Norah Karrouche
 - Kaspar von Beelen
-- Bernhard Rieder 
+- Bernhard Rieder
 
 **Scholars from the [CLARIAH research pilot projects](/documentation/faq/what-are-research-pilots)**
 
