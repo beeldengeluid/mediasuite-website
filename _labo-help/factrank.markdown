@@ -38,4 +38,7 @@ The media viewer will show the resource related to the selected statement. It wi
 
 FactRank data is created by applying the <a href="https://factrank.org" target="_blank">FactRank</a> model to the video and audio on a subset of the Sound and Vision catalog. New data will be added constantly.
 
-Statements with a FactRank score < 20 have been excluded from the index.
+Over het model schrijven de makers zelf:
+<i>'FactRank gebruikt een deep-learning model getraind op duizenden uitspraken, die handmatig gelabeld zijn door studenten van de Universiteit Leiden, die op hun beurt werden opgeleid door experten op het gebied van journalistiek en factchecken.'</i>
+
+Een uitgebreide verantwoording staat in de paper: <a href="https://people.cs.kuleuven.be/~bettina.berendt/FactRank/" target="_blank">FactRank: Developing Automated Claim Detection for Dutch-Language Fact-Checkers.</a>
