@@ -46,7 +46,7 @@ This tutorial is aimed at BA or MA students who are becoming familiar with telev
 
 ## Tutorial structure
 
-This tutorial will first provide a **theoretical introduction** to Williams’ conceptualisation of flow in linear broadcasting. Hereafter, the situation in the Netherlands will be addressed through a quick summary of the **Dutch historic broadcasting landscape**. Finally, this theory will be applied in the **tutorial assignment**, where students will compare a historic Dutch television schedule with an archived recording to understand how flow can be identified. If you are already familiar with the theory, and want to immediately continue with the tutorial assignment, click [here](https://docs.google.com/document/d/1e0r6e8qjKOgcTy65vbcSdmjlHi42Iw6mnXdOIj5807s/edit?tab=t.0#heading=h.ftey8kjn7cye).\
+This tutorial will first provide a **theoretical introduction** to Williams’ conceptualisation of flow in linear broadcasting. Hereafter, the situation in the Netherlands will be addressed through a quick summary of the **Dutch historic broadcasting landscape**. Finally, this theory will be applied in the **tutorial assignment**, where students will compare a historic Dutch television schedule with an archived recording to understand how flow can be identified. \
 \
 *Please note:* As this tutorial works with a very large ‘Weekly Recording’ video file, it is possible that you will come across some loading problems in the Media Suite. We are working to resolve this issue. If you encounter this problem, it is recommended to refresh the page. If this does not work, please log out and log back in again. Please also work in Google Chrome, as this works best with the Media Suite.
 
