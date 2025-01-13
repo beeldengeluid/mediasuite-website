@@ -1,6 +1,6 @@
 ---
 title: Version 7.3
-date: 2025-01-13 10:21:00 +02:00
+date: 2025-01-13 09:21:00 +01:00
 ---
 
 ## New features & bug fixes:

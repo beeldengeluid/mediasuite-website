@@ -1,6 +1,6 @@
 ---
 title: Version 7.2
-date: 2024-12-02 15:26:00 +02:00
+date: 2024-12-02 14:26:00 +01:00
 ---
 
 ## New collections added
