@@ -18,9 +18,13 @@ Depending on the type of research, this additional (reflective) context could im
 
 ## New Similarity search tool available
 
-A limited part of the Sound and Vision Archive now has keyframe images available, which can be found using the `Only resources with keyframes [Experimental]` option available below the main search bar in the [Search tool](https://mediasuite.clariah.nl/tool/single-search).
+A limited\* part of the Sound and Vision archive now has keyframe images available, which can be found using the `Only resources with keyframes [Experimental]` option available below the main search bar in the [Search tool](https://mediasuite.clariah.nl/tool/single-search).
 
-Results found using this option can be inspected in the new (experimental) Similarity search tool, which can bes used to find similar audiovisual content within the Sound and Vision collection.
+Results found using this option can be inspected in the new (experimental) Similarity search tool, which can be used to find similar audiovisual content within the Sound and Vision collection.
+
+Because only a limited part of the archive was processed, results may vary (e.g., to find another instance of "a video showing a drone" we should have processed other videos that have "drones" visible).
+
+**Note** \*: this functionality requires processing of the archival data which requires a lot of compute power.
 
 
 ## Improved FactRank tool
