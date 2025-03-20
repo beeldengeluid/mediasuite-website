@@ -1,4 +1,4 @@
-[![Deploy main branch to mediasuite.clariah.nl at night](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/nightly-production-deploy.yml/badge.svg)](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/nightly-production-deploy.yml)
+![Deploy main branch to mediasuite.clariah.nl at night](https://github.com/beeldengeluid/mediasuite-website/actions/workflows/main-branch.yml/badge.svg)
 # Media Suite website
 
 This is the code repository for the website content within the [CLARIAH Media Suite](https://mediasuite.clariah.nl)
