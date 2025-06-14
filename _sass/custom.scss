@@ -26,9 +26,9 @@ $h5-font-size: $font-size-base * 1.05 !default;
 // Colors
 
 $theme-colors: (
-    "primary": #468dcb,
-    /* blue */ "secondary": #f26c50,
-    /* orange */ "light": #faf6f6 /* light pink */,
+    /* blue */ "primary": #468dcb,
+    /* orange */ "secondary": #f26c50,
+    /* light pink */ "light": #faf6f6
 );
 
 $link-color: #f26c50; /* orange */
@@ -48,8 +48,8 @@ $btn-font-family: $headings-font-family;
 $btn-border-radius: 2px;
 
 // Navbar
-
-$navbar-nav-link-padding-x: 16px;
+$navbar-nav-link-padding-x: 1rem;
+$navbar-padding-y: 0;
 
 // Caret
 $caret-spacing: 0.4rem;
@@ -65,6 +65,7 @@ $dropdown-padding-y: 0;
 
 body {
     padding-top: 125px;
+    overflow-y: scroll;
 }
 
 header,
@@ -73,13 +74,14 @@ footer {
 }
 
 header .nav-item {
-    border-top: 3px solid transparent;
-    border-bottom: 3px solid transparent;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
 }
 
 header .nav-item.active {
-    border-top: 3px solid transparent;
-    border-bottom: 3px solid #468dcb;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid map-get($theme-colors, "primary");
+    background-repeat: no-repeat;
 }
 
 img {
@@ -88,12 +90,13 @@ img {
 }
 
 .img-animate {
-    transition: transform 1s ease-out, box-shadow 1s ease-out;
+    transition: box-shadow 0.3s ease-out;
+    border-radius: 50%;
+    box-shadow: 0 0 0 0px map-get($theme-colors, "light");
 }
 
 .img-animate:hover {
-    transform: scale(1.05);
-    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 0 5px map-get($theme-colors, "light");
 }
 
 h2,
@@ -131,10 +134,24 @@ body#home header .bg-dark {
 // Limit width to 1600px on desktop;
 .navbar-wrapper {
     width: 100%;
-    @media (min-width: 1600px) {
+    @media (min-width: 960px) {
         display: flex;
+        align-items: center;
         max-width: 1600px;
         margin: 0 auto;
+    }
+}
+
+// Make buttons full bar height
+.navbar-nav {
+    .nav-link {
+        padding-top: 1.7rem;
+        padding-bottom: 1.7rem;
+    }
+
+    .dropdown-menu {
+        top: 80%;
+        left: -16px;
     }
 }
 
@@ -181,6 +198,11 @@ body#home header .bg-dark {
             font-size: 0.9rem;
         }
     }
+}
+
+// Card
+.card-title {
+    font-size: 1.4rem;
 }
 
 // Carousel styling (TODO: relative positioning, responsive)
@@ -237,4 +259,18 @@ article.tutorial img {
 
 iframe {
     border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+// Card Deck Tools
+.card-deck-tools {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    row-gap: $card-deck-margin * 2;
+
+    .card {
+        min-width: 250px;
+        width: 100%;
+        max-width: 250px;
+    }
 }
