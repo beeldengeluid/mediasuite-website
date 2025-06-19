@@ -24,17 +24,20 @@ $h4-font-size: $font-size-base * 1.1 !default;
 $h5-font-size: $font-size-base * 1.05 !default;
 
 // Colors
+$cl-orange: #f46041;
+$cl-blue: #2e85d1;
+$cl-light-gray: #faf6f6;
 
 $theme-colors: (
-    /* blue */ "primary": #468dcb,
-    /* orange */ "secondary": #f26c50,
-    /* light pink */ "light": #faf6f6
+    "primary": $cl-blue,
+    "secondary": $cl-orange,
+    "light": $cl-light-gray,
 );
 
-$link-color: #f26c50; /* orange */
+$link-color: $cl-orange;
 
 $list-group-active-color: #212529; /* body font color */
-$list-group-active-bg: #faf6f6; /* light pink */
+$list-group-active-bg: $cl-light-gray; /* light pink */
 $list-group-active-border-color: rgba(0, 0, 0, 0.125); /* same as non-active */
 
 // Carousel
@@ -99,14 +102,6 @@ img {
     box-shadow: 0 0 0 5px map-get($theme-colors, "light");
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin-top: $spacer * 1.9;
-}
-
 // Homepage
 
 body#home {
@@ -128,6 +123,11 @@ body#home header .bg-dark {
 
 .banner-mask {
     background-image: url("../img/banner-mask.jpg");
+}
+
+.clariah-logo {
+    max-width: 80%;
+    width: 350px;
 }
 
 // Navbar
@@ -152,6 +152,8 @@ body#home header .bg-dark {
     .dropdown-menu {
         top: 80%;
         left: -16px;
+        font-size: 0.9rem;
+        line-height: 1.5rem;
     }
 }
 
@@ -242,6 +244,14 @@ article.tutorial h5 {
     margin-bottom: 1rem;
 }
 
+h1 {
+    margin-bottom: 2rem;
+}
+
+p {
+    max-width: 720px;
+}
+
 article.tutorial img {
     display: block;
     border: 1px solid #000;
@@ -274,3 +284,5 @@ iframe {
         max-width: 250px;
     }
 }
+
+// Homepage
