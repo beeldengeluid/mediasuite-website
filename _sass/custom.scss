@@ -48,7 +48,8 @@ $carousel-indicator-active-bg: #333;
 // Buttons
 
 $btn-font-family: $headings-font-family;
-$btn-border-radius: 2px;
+$btn-border-radius: 19px;
+$btn-padding-x: 15px;
 
 // Navbar
 $navbar-nav-link-padding-x: 1rem;
@@ -61,6 +62,9 @@ $caret-width: 0.35rem;
 
 // Dropdown
 $dropdown-padding-y: 0;
+
+// Breakpoints
+$headerSizeShift: 840px;
 
 @import "bootstrap/scss/bootstrap.scss";
 
@@ -133,20 +137,31 @@ body#home header .bg-dark {
 // Navbar
 // Limit width to 1600px on desktop;
 .navbar-wrapper {
+    position: relative;
     width: 100%;
-    @media (min-width: 960px) {
-        display: flex;
-        align-items: center;
-        max-width: 1600px;
-        margin: 0 auto;
+    display: flex;
+    align-items: center;
+    max-width: 1600px;
+    margin: 0 auto;
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+
+        .navbar-collapse {
+            width: 100%;
+        }
     }
 }
 
 // Make buttons full bar height
 .navbar-nav {
-    .nav-link {
-        padding-top: 1.7rem;
-        padding-bottom: 1.7rem;
+    @media (min-height: $headerSizeShift) {
+        .nav-link {
+            padding-top: 1.7rem;
+            padding-bottom: 1.7rem;
+        }
     }
 
     .dropdown-menu {
@@ -162,6 +177,36 @@ body#home header .bg-dark {
     position: absolute;
     right: 10px;
     top: 25px;
+}
+
+.navbar-brand {
+    margin-right: 15px;
+
+    img {
+        object-fit: cover;
+        height: 100%;
+        box-sizing: border-box;
+        object-position: center center;
+    }
+}
+
+// Small screen height
+@media (min-width: 768px) and (max-height: $headerSizeShift) {
+    .navbar-wrapper {
+        max-height: 51px;
+    }
+
+    .navbar-brand {
+        padding: 0;
+        overflow: hidden;
+        height: 51px;
+
+        img {
+            height: 51px;
+            margin-top: 0 !important;
+            object-position: center -31px;
+        }
+    }
 }
 
 // Mobile menu layout
@@ -189,6 +234,7 @@ body#home header .bg-dark {
         position: relative;
         width: 100%;
         border-radius: 0;
+        left: 0;
 
         &.bg-light {
             background-color: rgba(white, 0.1) !important;
