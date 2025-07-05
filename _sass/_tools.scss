@@ -1,0 +1,13 @@
+// Card Deck Tools
+.card-deck-tools {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
+  row-gap: $card-deck-margin * 2;
+
+  .card {
+    min-width: 250px;
+    width: 100%;
+    max-width: 250px;
+  }
+}

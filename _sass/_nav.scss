@@ -1,0 +1,184 @@
+// Navbar
+
+header .nav-item {
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+}
+
+header .nav-item.active {
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid map-get($theme-colors, "primary");
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  @include media-breakpoint-down(md) {
+    padding: 0;
+  }
+}
+
+// Limit width to 1600px on desktop;
+.navbar-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  max-width: 1600px;
+  margin: 0 auto;
+
+  @include media-breakpoint-down(md) {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 90px;
+
+    .navbar-collapse {
+      width: 100%;
+    }
+  }
+}
+
+// Make buttons full bar height
+.navbar-collapse {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  .navbar-nav {
+    height: 100%;
+
+    @media (min-height: $headerSizeShift) {
+      .nav-link {
+        height: 100%;
+        display: flex;
+        align-items: center;
+      }
+    }
+
+    .dropdown-menu {
+      top: 80%;
+      left: -16px;
+      font-size: 0.9rem;
+      line-height: 1.5rem;
+      width: 46px;
+
+      &[aria-labelledby="navbarDropdownWorkspace"] {
+        width: 180px;
+      }
+
+      @include media-breakpoint-down(md) {
+        height: auto;
+        width: 100%;
+      }
+    }
+  }
+}
+
+// Position hamburger menu on navbar right
+.navbar-toggler {
+  position: absolute;
+  right: 10px;
+  top: 25px;
+}
+
+.navbar-brand {
+  margin-right: 15px;
+
+  @include media-breakpoint-down(md) {
+    padding-left: 15px;
+  }
+
+  img {
+    object-fit: cover;
+    box-sizing: border-box;
+    object-position: center center;
+  }
+}
+
+// Small screen height
+@media (min-width: 768px) and (max-height: $headerSizeShift) {
+  .navbar-wrapper {
+    max-height: 51px;
+  }
+
+  .navbar-brand {
+    padding: 0;
+    overflow: hidden;
+    height: 51px;
+
+    img {
+      height: 51px;
+      margin-top: 0 !important;
+    }
+  }
+}
+
+// Mobile menu layout
+@include media-breakpoint-down(md) {
+  .navbar-collapse {
+    background-color: #343a40;
+    flex-direction: column;
+    height: auto;
+
+    .navbar-wrapper {
+      height: auto;
+    }
+
+    > span:last-child {
+      border-bottom: none;
+    }
+
+    .nav-item {
+      width: 100%;
+    }
+
+    .navbar-nav {
+      width: 100%;
+    }
+
+    .nav-link,
+    .navbar-text {
+      padding-left: 0.95rem;
+      width: 100%;
+      display: block;
+      border-bottom: 1px solid rgba(white, 0.2);
+    }
+
+    #menu_login a {
+      margin-left: 5px;
+      margin-top: 10px;
+
+      @include media-breakpoint-down(md) {
+        width: 100%;
+      }
+    }
+  }
+
+  .nav-item.dropdown {
+    display: flex;
+    flex-direction: column;
+
+    @include media-breakpoint-down(md) {
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    .navbar-nav .dropdown-menu {
+      width: 100% !important;
+      border-radius: 0;
+      left: 0;
+
+      &.bg-light {
+        background-color: rgba(white, 0.1) !important;
+      }
+
+      .dropdown-item {
+        color: white;
+        line-height: 2.4rem;
+        font-size: 0.9rem;
+      }
+    }
+  }
+}

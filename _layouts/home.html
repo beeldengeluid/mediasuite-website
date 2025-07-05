@@ -1,86 +1,75 @@
 {% include header.html %}
-{% assign items = site.carousel | sort: 'position' %}
 <main role="main" class="flex-shrink-0">
+	<!-- Banner -->
 	<div class="container-fluid banner">
-		<div id="carousel-home" class="carousel slide carousel-fade float-right bg-white shadow" data-ride="carousel">
-			<ol class="carousel-indicators">
-				{% for item in items %}
-				<li data-target="#carousel-home" data-slide-to="{{ item.position | abs | minus: 1 }}"{% if item.position == 1 %} class="active"{% endif %}></li>
-				{% endfor %}
-			</ol>
-			<div class="carousel-inner">
-				{% for item in items %}
-				<div class="carousel-item{% if item.position == 1 %} active{% endif %}" data-interval="10000">
-					<div class="card border-0">
-						<div class="card-body">
-							{% if item.header %}
-							<h5 class="card-title">{{ item.header }}</h5>
-							{% endif %}
-							<p class="card-text text-justify">{{ item.content | strip_html }}</p>
-						</div>
-						<div class="card-footer border-0 bg-transparent">
-							<a href="{{ item.link_url }}" target="{{ item.link_target }}" class="card-link btn btn-primary btn-sm text-uppercase">{{ item.link_txt }}</a>
-						</div>
+			<div class="banner-inner d-flex justify-content-around align-items-center flex-wrap">
+				<!-- Welcome -->
+				<div id="welcome-home" class="ml-md-5">
+					<h1>A research environment for digital humanities</h1>
+					<p class="mb-1">The Media Suite is a research environment of the Dutch infrastructure for digital humanities and social sciences (CLARIAH). It facilitates scholarly research with large Dutch media collections by providing advanced search and analysis tools.</p>
+					<div class="mt-4">
+						<a href="/login" class="btn btn-secondary">Get started</a>
+						<a href="/learn" class="btn btn-black ml-2">Learn more</a>
 					</div>
 				</div>
-				{% endfor %}
-			</div>
-			<a class="carousel-control-prev" href="#carousel-home" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#carousel-home" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
-		</div>
-	</div>
-	<div class="container py-5">
-		<div class="card-deck">
-			<div class="card text-center border-0">
-				<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/img/bigicon-data.png' | relative_url }}" width="176" class="mx-auto rounded-circle img-animate" alt="Data"></a>
-				<div class="card-body">
-					<h4 class="card-title mt-1">Data</h4>
-					<p class="card-text">Access important Dutch audio-visual collections (radio, television, films, oral history interviews) and contextual material. All available collections and their data are registered in a common inventory.</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/data' | relative_url }}" class="card-link btn btn-primary text-uppercase">Check out the data</a>
-				</div>
-			</div>
-			<div class="card text-center border-0">
-				<a href="{{ '/tools' | relative_url }}"><img src="{{ '/assets/img/bigicon-tools.png' | relative_url }}" width="176" class="mx-auto rounded-circle img-animate" alt="Tools"></a>
-				<div class="card-body">
-					<h4 class="card-title mt-1">Tools</h4>
-					<p class="card-text">Use some of the CLARIAH open source tools that allow researchers to perform search, annotation, automatic speech recognition, and other analysis tasks with the available data.</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/tools' | relative_url }}" class="card-link btn btn-primary text-uppercase">Use the tools</a>
-				</div>
-			</div>
-			<div class="card text-center border-0">
-				<a href="{{ '/workspace' | relative_url }}"><img src="{{ '/assets/img/bigicon-workspace.png' | relative_url }}" width="176" class="mx-auto rounded-circle img-animate" alt="Workspace"></a>
-				<div class="card-body">
-					<h4 class="card-title mt-1">Workspace</h4>
-					<p class="card-text">Functional work space and experimental Jupyter notebooks to work with your corpus and user data (bookmarks, annotations, queries and search sessions).</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/workspace' | relative_url }}" class="card-link btn btn-primary text-uppercase">Discover your workspace</a>
-				</div>
+
+				<!-- Tool Carousel -->
+				<div id="carousel-home" class="carousel slide carousel-fade d-flex flex-column mr-md-5" data-ride="carousel">
+
+					<div class="carousel-inner">
+						{% for tool in site.data.tools %}
+						<div class="carousel-item{% if forloop.index == 1 %} active{% endif %}" data-interval="7000" style="background-image: url(https://picsum.photos/id/{{forloop.index}}/1080/720);">
+
+						</div>
+						{% endfor %}
+					</div>
+
+					<ol class="carousel-indicators">
+						{% for tool in site.data.tools %}
+						<li data-target="#carousel-home" data-slide-to="{{ forloop.index | abs | minus: 1 }}"{% if forloop.index == 1 %} class="active"{% endif %}></li>
+						{% endfor %}
+					</ol>
 			</div>
 		</div>
 	</div>
+
+	<!-- Features -->
+	<div class="container py-5 my-5">
+		<div class="card-deck-features card-deck">
+			{% for card in site.data.features %}
+				{% include info_card.html
+					title=card.title
+					content=card.content
+					image=card.image
+					action=card.action
+					href=card.href
+				%}
+			{% endfor %}
+		</div>
+	</div>
+
+	<!-- Clariah -->
 	<div class="container-fluid banner-mask py-5">
 		<div class="d-flex justify-content-center">
 			<div class="card text-center border-0 bg-transparent py-5" style="width: 28rem;">
-				<img src="{{ '/assets/img/clariah.svg' | relative_url }}" class="mx-auto mb-2 clariah-logo" alt="CLARIAH">
+				<img src="{{ '/assets/img/clariah.svg' | relative_url }}" width="268" class="mx-auto mb-2 clariah-logo" alt="CLARIAH">
 				<div class="card-body">
 					<p class="card-text">The Media Suite is one of the CLARIAH research environments. CLARIAH is a project funded by the NWO that aims at the realisation of a common infrastructure for the humanities and social sciences.</p>
 				</div>
 				<div class="card-footer border-0 bg-transparent">
-					<a href="https://clariah.nl/" class="card-link btn btn-secondary text-uppercase">More information</a>
+					<a href="https://clariah.nl/" class="card-link btn btn-black">More information</a>
 				</div>
 			</div>
 		</div>
 	</div>
 </main>
+
+<script>
+	// Listen to scroll event, add sticky class to navbar
+  window.addEventListener('scroll', () => {
+    const header = document.getElementById('navbar');
+    header.classList.toggle('sticky', window.scrollY > 0);
+  });
+</script>
+
 {% include footer.html %}

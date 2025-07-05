@@ -1,0 +1,16 @@
+- path: /assets/images/tool/search.jpg
+  name: "Search"
+- path: /assets/images/tool/resource_viewer.jpg
+  name: "Resource viewer"
+- path: /assets/images/tool/inspect.jpg
+  name: "Inspect"
+- path: /assets/images/tool/compare.jpg
+  name: "Compare"
+- path: /assets/images/tool/workspace.jpg
+  name: "Workspace"
+- path: /assets/images/tool/factrank.jpg
+  name: "Factrank"
+- path: /assets/images/tool/similarity.jpg
+  name: "Similarity"
+- path: /assets/images/tool/explore.jpg
+  name: "Explore"
