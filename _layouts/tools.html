@@ -1,94 +1,24 @@
 {% include header.html %}
+
 <main role="main" class="flex-shrink-0 my-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-4 text-center">
-				<img src="{{ '/assets/img/bigicon-tools.png' | relative_url }}" width="176" class="mx-auto mb-5" alt="Media Suite Tools">
-			</div>
-			<div class="col-md-8 pt-2">
-				{{ content }}
-				<p class="text-center pt-2">
-					<a href="{{ '/documentation/howtos' | relative_url }}" class="btn btn-light text-uppercase">See Howtos</a>
-				</p>
-			</div>
-		</div>
-		<div class="card-deck d-flex justify-content-center my-3 flex-wrap card-deck-tools">
+  <div class="container">
+    <!-- Tools intro -->
+    <div class="d-flex align-items-center justify-content-center pb-5">
+      <div class="col-md-4 text-center">
+        <img src="{{ '/assets/img/bigicon-tools.png' | relative_url }}" width="176" class="rounded-circle mx-auto" alt="Media Suite Tools" />
+      </div>
+      <div class="col-md-6 pt-2 d-flex justify-content-center flex-column gap-3">
+        <h2 class="mb-3">Tools</h2>
+        {{ content }}
+        <p class="mb-3">
+          <a href="{{ '/documentation/howtos' | relative_url }}" class="btn btn-primary">See how-tos</a>
+        </p>
+      </div>
+    </div>
 
-			<div id="tools_page_inspect" class="card text-center">
-				<a href="{{ '/tool/collection-inspector' | relative_url }}"><img src="{{ '/assets/img/icon-inspect.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Collection inspector"></a>
-				<div class="card-body">
-					<h5 class="card-title">Inspect</h5>
-					<p class="card-text">Supports data criticism by providing various views on collection metadata</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/documentation/howtos/inspect-collections' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
-					<a href="{{ '/tool/collection-inspector' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
-				</div>
-			</div>
-
-			<div id="tools_page_search" class="card text-center">
-				<a href="{{ '/tool/single-search' | relative_url }}"><img src="{{ '/assets/img/icon-search.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Basic faceted search"></a>
-				<div class="card-body">
-					<h5 class="card-title">Search</h5>
-					<p class="card-text">Supports distant reading, corpus selection and close reading.</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/documentation/howtos/search' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
-					<a href="{{ '/tool/single-search' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
-				</div>
-			</div>
-
-			<!-- if user != None and user.id != 'ANONYMOUS' -->
-			<div id="tools_page_compare" class="card text-center">
-				<a href="{{ '/tool/query-comparison' | relative_url }}"><img src="{{ '/assets/img/icon-compare.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Comparative search"></a>
-				<div class="card-body">
-					<h5 class="card-title">Compare</h5>
-					<p class="card-text">Supports comparative analysis of collections.</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/documentation/howtos/compare-queries' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
-					<a href="{{ '/tool/query-comparison' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
-				</div>
-			</div>
-			<!-- endif  -->
-
-			<div id="tools_page_explore" class="card text-center">
-				<a href="{{ '/tool/exploratory-search' | relative_url }}"><img src="{{ '/assets/img/icon-explore.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Exploratory browser"></a>
-				<div class="card-body">
-					<h5 class="card-title">Explore</h5>
-					<p class="card-text">Supports open-ended browsing to facilitate serendipitous discovery.</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/documentation/howtos/explore' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
-					<a href="{{ '/tool/exploratory-search' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
-				</div>
-			</div>
-
-			<div id="tools_page_similarity" class="card text-center">
-				<a href="{{ '/tool/similarity' | relative_url }}"><img src="{{ '/assets/img/icon-similarity.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Similarity"></a>
-				<div class="card-body">
-					<h5 class="card-title">Similarity</h5>
-					<p class="card-text">Keyframe based explorative search and similarity analysis.</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/documentation/howtos' | relative_url }}#similarity" class="card-link btn btn-link text-uppercase">Details</a>
-					<a href="{{ '/tool/similarity' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
-				</div>
-			</div>
-
-			<div id="tools_page_factrank" class="card text-center">
-				<a href="{{ '/tool/factrank' | relative_url }}"><img src="{{ '/assets/img/icon-factrank.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="FactRank"></a>
-				<div class="card-body">
-					<h5 class="card-title">FactRank</h5>
-					<p class="card-text">Find factual statements that are worth factchecking.</p>
-				</div>
-				<div class="card-footer border-0 bg-transparent">
-					<a href="{{ '/documentation/howtos' | relative_url }}#factrank" class="card-link btn btn-link text-uppercase">Details</a>
-					<a href="{{ '/tool/factrank' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
-				</div>
-			</div>
-
-		</div>
-	</div>
+    <!-- Tool cards -->
+    <div class="card-deck d-flex justify-content-center my-5 flex-wrap card-deck-tools">{% for tool in site.data.tools %} {% include tool_card.html tool=tool %} {% endfor %}</div>
+  </div>
 </main>
+
 {% include footer.html %}
