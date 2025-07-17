@@ -1,16 +1,55 @@
-- path: /assets/images/tool/search.jpg
+- id: tools_page_search
   name: "Search"
-- path: /assets/images/tool/resource_viewer.jpg
+  description: "Supports distant reading, corpus selection and close reading."
+  image: /assets/img/tools/tool-search.webp
+  url: /documentation/howtos/search
+  docs: /tool/single-search
+
+- id: tools_page_resource_viewer
   name: "Resource viewer"
-- path: /assets/images/tool/inspect.jpg
+  description: "View and annotate temporal and spatial media resources."
+  image: /assets/img/tools/tool-resource-viewer.webp
+  url: /tool/resource-viewer?id=2101608140120119931&cid=daan-catalogue-aggr&st=polygoonjournaal
+  docs: /documentation/howtos/view-resources
+
+- id: tools_page_inspect
   name: "Inspect"
-- path: /assets/images/tool/compare.jpg
+  description: "Supports data criticism by providing various views on collection metadata"
+  image: /assets/img/tools/tool-inspect.webp
+  url: /tool/collection-inspector
+  docs: /documentation/howtos/inspect-collections
+
+- id: tools_page_compare
   name: "Compare"
-- path: /assets/images/tool/workspace.jpg
-  name: "Workspace"
-- path: /assets/images/tool/factrank.jpg
+  description: "Supports comparative analysis of collections."
+  image: /assets/img/tools/tool-compare.webp
+  url: /tool/query-comparison
+  docs: /documentation/howtos/compare-queries
+
+- id: tools_page_factrank
   name: "Factrank"
-- path: /assets/images/tool/similarity.jpg
+  description: "Find factual statements that are worth factchecking."
+  image: /assets/img/tools/tool-factrank.webp
+  url: /tool/factrank
+  docs: /documentation/howtos#factrank
+
+- id: tools_page_similarity
   name: "Similarity"
-- path: /assets/images/tool/explore.jpg
+  description: "Keyframe based explorative search and similarity analysis."
+  image: /assets/img/tools/tool-similarity.webp
+  url: /tool/similarity
+  docs: /documentation/howtos#similarity
+
+- id: tools_page_projects
+  name: "Projects"
+  description: "Build a corpus and work with bookmarks, annotations and saved queries."
+  image: /assets/img/tools/tool-workspace.webp
+  url: /workspace/projects
+  docs: /documentation/howtos/work-in-a-workspace
+
+- id: tools_page_explore
   name: "Explore"
+  description: "Supports open-ended browsing to facilitate serendipitous discovery."
+  image: /assets/img/tools/tool-explore.webp
+  url: /tool/exploratory-search
+  docs: /documentation/howtos/explore
