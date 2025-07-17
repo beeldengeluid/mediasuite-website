@@ -18,9 +18,7 @@
 
 					<div class="carousel-inner">
 						{% for tool in site.data.tools %}
-						<div class="carousel-item{% if forloop.index == 1 %} active{% endif %}" data-interval="7000" style="background-image: url(https://picsum.photos/id/{{forloop.index}}/1080/720);">
-
-						</div>
+						<div class="carousel-item{% if forloop.index == 1 %} active{% endif %}" data-interval="7000" style="background-image: url({{tool.image|relative_url}});"></div>
 						{% endfor %}
 					</div>
 
