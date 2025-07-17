@@ -161,15 +161,14 @@ article.tutorial img {
   font-family: "Open Sans", Roboto, sans-serif !important;
 }
 
-// iFrame border
+// iFrame
 
 iframe {
   border: 1px solid rgba(0, 0, 0, 0.1);
+  max-width: 100%;
 }
 
+// Button transition
 .btn {
   transition: background-color 0.2s ease-out, opacity 0.2s ease-out;
-
-  &:hover {
-  }
 }
