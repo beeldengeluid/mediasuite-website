@@ -1,73 +1,91 @@
-	{% include site_tracking.html %}
-	<header>
-		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-			<a class="navbar-brand" href="{{ '/' | relative_url }}">
-				<img src="{{ '/assets/img/MS-V5.svg' | relative_url }}" width="170" style="margin-top:-25px" alt="CLARIAH Media Suite" loading="lazy">
-			</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="navbarCollapse">
-				<ul class="navbar-nav mr-auto">
-					<li class="nav-item{% if page.menu == 'data' %} active{% endif %} d-flex align-items-center">
-						<a class="nav-link text-light" href="{{ '/data' | relative_url }}">Data</a>
-					</li>
-					<li id="menu_tools" class="nav-item dropdown{% if page.menu == 'tools' %} active{% endif %} d-flex align-items-center">
-						<a class="nav-link text-light dropdown-toggle" href="{{ '/tools' | relative_url }}" id="navbarDropdownTools" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tools</a>
-						<div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownTools">
-							<a class="dropdown-item" href="{{ '/tool/collection-inspector' | relative_url }}">Inspect</a>
-							<a class="dropdown-item" href="{{ '/tool/single-search' | relative_url }}">Search</a>
-							<!-- if user != None and user.id != 'ANONYMOUS' -->
-							<a id="menu_tools_compare" class="dropdown-item" href="{{ '/tool/query-comparison' | relative_url }}">Compare</a>
-							<!-- endif  -->
-							<a class="dropdown-item" href="{{ '/tool/exploratory-search' | relative_url }}">Explore</a>
-							<a id="menu_tools_factrank" class="dropdown-item" href="{{ '/tool/factrank' | relative_url }}">FactRank</a>
-						</div>
-					</li>
-					<!-- if user != None and user.id != 'ANONYMOUS' -->
-					<li id="menu_workspace" class="nav-item dropdown{% if page.menu == 'workspace' %} active{% endif %} d-flex align-items-center">
-						<a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownWorkspace" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Workspace</a>
-						<div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownWorkspace">
-							<a class="dropdown-item" href="{{ '/workspace/projects' | relative_url }}">User Projects <span id="project_count" class="badge badge-pill badge-primary">0</span></a>
-							<a class="dropdown-item" href="{{ '/workspace/projects/create' | relative_url }}">Create User Project +</a>
-							<a id="menu_workspace_sets" class="dropdown-item" href="{{ '/workspace/sets' | relative_url }}">Resource Sets</a>
-						</div>
-					</li>
-					<!-- endif -->
-					<li class="nav-item">
-						<a class="nav-link text-light" href="https://mediasuitedatastories.clariah.nl/">Data Stories &#8599;</a>
-					</li>
-				</ul>
-				<ul class="navbar-nav ml-auto">
-					<li class="nav-item{% if page.menu == 'about' %} active{% endif %}">
-						<a class="nav-link" href="{{ '/about' | relative_url }}">About</a>
-					</li>
-					<li class="nav-item{% if page.menu == 'blog' %} active{% endif %}">
-						<a class="nav-link" href="{{ '/blog' | relative_url }}">Blog</a>
-					</li>
-					<li class="nav-item{% if page.menu == 'learn' %} active{% endif %}">
-						<a class="nav-link" href="{{ '/learn' | relative_url }}">Learn</a>
-					</li>
-					<li class="nav-item{% if page.menu == 'help' %} active{% endif %}">
-						<a class="nav-link" href="{{ '/documentation' | relative_url }}">Help</a>
-					</li>
-					<li class="nav-item{% if page.menu == 'contact' %} active{% endif %}">
-						<a class="nav-link" href="{{ '/contact' | relative_url }}">Contact</a>
-					</li>
-					<!-- if user != None and user.id != 'ANONYMOUS' -->
-					<li id="menu_account" class="nav-item dropdown">
-						<a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownAccount" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Account</a>
-						<div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownAccount">
-							<a class="dropdown-item" href="{{ '/logout' | relative_url }}">Logout</a>
-						</div>
-					</li>
-					<!-- else -->
-					<li  id="menu_login" class="nav-item">
-						<a class="nav-link text-light" href="{{ '/login' | relative_url }}">Login</a>
-					</li>
-					<!-- endif -->
-				</ul>
-				<span id="menu_user_name" class="navbar-text">[My username]</span>
-			</div>
-		</nav>
-	</header>
+{% include site_tracking.html %}
+<header>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" id="navbar">
+    <div class="navbar-wrapper">
+      <a class="navbar-brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/img/MS-V5.svg' | relative_url }}" width="160" alt="CLARIAH Media Suite" loading="lazy" />
+      </a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item{% if page.menu == 'data' %} active{% endif %} d-flex align-items-center">
+            <a class="nav-link text-light" href="{{ '/data' | relative_url }}">Data</a>
+          </li>
+          <li id="menu_tools" class="nav-item dropdown{% if page.menu == 'tools' %} active{% endif %} d-flex align-items-center">
+            <a class="nav-link text-light dropdown-toggle" href="{{ '/tools' | relative_url }}" id="navbarDropdownTools" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tools</a>
+            <div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownTools">
+              <a class="dropdown-item" href="{{ '/tool/collection-inspector' | relative_url }}">Inspect</a>
+              <a class="dropdown-item" href="{{ '/tool/single-search' | relative_url }}">Search</a>
+              <!-- if user != None and user.id != 'ANONYMOUS' -->
+              <a id="menu_tools_compare" class="dropdown-item" href="{{ '/tool/query-comparison' | relative_url }}">Compare</a>
+              <!-- endif  -->
+              <a class="dropdown-item" href="{{ '/tool/exploratory-search' | relative_url }}">Explore</a>
+              <a id="menu_tools_factrank" class="dropdown-item" href="{{ '/tool/factrank' | relative_url }}">FactRank</a>
+            </div>
+          </li>
+          <!-- if user != None and user.id != 'ANONYMOUS' -->
+          <li id="menu_workspace" class="nav-item dropdown{% if page.menu == 'workspace' %} active{% endif %} d-flex align-items-center">
+            <a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownWorkspace" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Workspace</a>
+            <div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownWorkspace">
+              <a class="dropdown-item" href="{{ '/workspace/projects' | relative_url }}">
+                User Projects
+                <span id="project_count" class="badge badge-pill badge-primary">0</span>
+              </a>
+              <a class="dropdown-item" href="{{ '/workspace/projects/create' | relative_url }}">Create User Project +</a>
+              <a id="menu_workspace_sets" class="dropdown-item" href="{{ '/workspace/sets' | relative_url }}">Resource Sets</a>
+            </div>
+          </li>
+          <!-- endif -->
+          <li class="nav-item">
+            <a class="nav-link text-light" href="https://mediasuitedatastories.clariah.nl/" target="_blank">
+              Data Stories
+              <svg class="ml-2" width="14" height="14" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                <path opacity="0.4" fill="currentColor" d="M432 320H400a16 16 0 0 0 -16 16V448H64V128H208a16 16 0 0 0 16-16V80a16 16 0 0 0 -16-16H48A48 48 0 0 0 0 112V464a48 48 0 0 0 48 48H400a48 48 0 0 0 48-48V336A16 16 0 0 0 432 320zM488 0h-128c-21.4 0-32.1 25.9-17 41l35.7 35.7L135 320.4a24 24 0 0 0 0 34L157.7 377a24 24 0 0 0 34 0L435.3 133.3 471 169c15 15 41 4.5 41-17V24A24 24 0 0 0 488 0z" />
+              </svg>
+            </a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item{% if page.menu == 'about' %} active{% endif %}">
+            <a class="nav-link" href="{{ '/about' | relative_url }}">About</a>
+          </li>
+          <li class="nav-item{% if page.menu == 'blog' %} active{% endif %}">
+            <a class="nav-link" href="{{ '/blog' | relative_url }}">Blog</a>
+          </li>
+          <li class="nav-item{% if page.menu == 'learn' %} active{% endif %}">
+            <a class="nav-link" href="{{ '/learn' | relative_url }}">Learn</a>
+          </li>
+          <li class="nav-item{% if page.menu == 'help' %} active{% endif %}">
+            <a class="nav-link" href="{{ '/documentation' | relative_url }}">Help</a>
+          </li>
+          <li class="nav-item{% if page.menu == 'contact' %} active{% endif %}">
+            <a class="nav-link" href="{{ '/contact' | relative_url }}">Contact</a>
+          </li>
+          <!-- if user != None and user.id != 'ANONYMOUS' -->
+          <li id="menu_account" class="nav-item dropdown">
+            <a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownAccount" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <svg width="14" height="14" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="mr-2">
+                <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                <path fill="currentColor" opacity="0.4" d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z" />
+              </svg>
+              <span id="menu_user_name">Account</span>
+            </a>
+            <div class="dropdown-menu bg-light" style="z-index: 1112" aria-labelledby="navbarDropdownAccount">
+              <a class="dropdown-item" href="{{ '/logout' | relative_url }}">Logout</a>
+            </div>
+          </li>
+          <!-- else -->
+          <li id="menu_login" class="d-flex align-items-center">
+            <a class="btn btn-black py-1 px-3 mr-2" href="{{ '/login' | relative_url }}">Login</a>
+          </li>
+          <!-- endif -->
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

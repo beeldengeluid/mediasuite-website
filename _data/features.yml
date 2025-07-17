@@ -1,0 +1,23 @@
+- title: "Data"
+  content: "Access important Dutch audio-visual collections (radio, television, films, oral history interviews) and contextual material. All available collections and their data are registered in a common inventory."
+  image: "/assets/img/bigicon-data.png"
+  action: "Checkout the data"
+  href: "/data"
+
+- title: "Tools"
+  content: "Use some of the CLARIAH open source tools that allow researchers to perform search, annotation, automatic speech recognition, and other analysis tasks with the available data."
+  image: "/assets/img/bigicon-tools.png"
+  action: "Use the tools"
+  href: "/tools"
+
+- title: "Workspace"
+  content: "Functional work space and experimental Jupyter notebooks to work with your corpus and user data (bookmarks, annotations, queries and search sessions)."
+  image: "/assets/img/bigicon-workspace.png"
+  action: "Discover your workspace"
+  href: "/workspace"
+
+- title: "Learn"
+  content: "Learn how to use digital audiovisual collections and tools, and resources like FAQs, How-Tos, troubleshooting tips, a glossary, and a Quick Start Guide to support effective use of the platform."
+  image: "/assets/img/bigicon-learn.png"
+  action: "Visit the guides"
+  href: "/documentation"

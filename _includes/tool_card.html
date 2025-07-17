@@ -1,0 +1,17 @@
+<div id="{{ include.tool.id }}" class="tool-card card d-flex flex-column border-0 flex-shrink-0 gy-2 align-items-start">
+  <a href="{{ include.href | relative_url }}">
+    <img width="560" src="{{ include.tool.image | relative_url }}" alt="{{ include.tool.title }}" />
+  </a>
+  <h2 class="card-title mt-3 mb-3">{{ include.tool.name }}</h2>
+  <p class="card-text mb-3">{{ include.tool.description }}</p>
+
+  <div class="flex-grow-1"></div>
+
+  <div class="d-flex">
+    {% if include.tool.url %}
+    <a class="card-link btn btn-primary mr-2" href="{{ include.tool.url | relative_url }}">Open</a>
+    {% endif %} {% if include.tool.docs %}
+    <a class="card-link btn btn-gray ml-0" href="{{ include.tool.docs | relative_url }}">Details</a>
+    {% endif %}
+  </div>
+</div>
