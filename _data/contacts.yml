@@ -1,0 +1,11 @@
+- title: "General questions"
+  content: 'Please contact Rana Klein of the MediaSuite development team at <a href="mailto:mediastudies@clariah.nl">mediastudies@clariah.nl</a>'
+  image: "/assets/img/portrait_contact_general.webp"
+  action: "Send mail"
+  href: "mailto:mediastudies@clariah.nl"
+
+- title: "Technical coordination"
+  content: 'Please contact Roeland Ordelman - technical coordinator of the MediaSuite - at <a href="mailto:rordelman@beeldengeluid.nl">rordelman@beeldengeluid.nl</a> '
+  image: "/assets/img/portrait_contact_technical.webp"
+  action: "Send mail"
+  href: "mailto:rordelman@beeldengeluid.nl"

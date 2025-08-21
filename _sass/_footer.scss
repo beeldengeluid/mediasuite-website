@@ -1,0 +1,10 @@
+footer {
+  &.bg-dark {
+    background-image: linear-gradient(0, #343a40e5, #343a40e5), url("../img/tv-grid.webp");
+    background-color: #343a40;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% center;
+    background-repeat: no-repeat;
+  }
+}

@@ -1,0 +1,21 @@
+// Card Deck Tools
+.card-deck-tools {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 60px;
+  row-gap: 60px !important;
+
+  .card {
+    flex-basis: 510px;
+    width: 580px;
+    max-width: 100%;
+
+    img {
+      transition: opacity 0.3s ease-out;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}

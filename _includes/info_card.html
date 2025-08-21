@@ -1,0 +1,13 @@
+<div class="info-card card d-flex flex-column flex-md-row border-0 flex-shrink-0 gx-2">
+  <div class="flex-shrink-0 d-flex justify-content-center">
+    <a href="{{ include.href | relative_url }}">
+      <img width="135" src="{{ include.image | relative_url }}" alt="{{ include.title }}" class="rounded-circle img-animate" />
+    </a>
+  </div>
+  <div class="d-flex flex-column align-items-start">
+    <h2 class="card-title mt-1 mb-3">{{ include.title }}</h2>
+    <p class="card-text mb-4">{{ include.content }}</p>
+    <div class="flex-grow-1"></div>
+    <a class="card-link btn btn-primary" href="{{ include.href | relative_url }}">{{ include.action }}</a>
+  </div>
+</div>
