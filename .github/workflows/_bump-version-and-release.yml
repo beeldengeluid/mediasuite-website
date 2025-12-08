@@ -9,7 +9,7 @@ jobs:
     outputs:
       tag: ${{ steps.bumped-tag.outputs.tag }}
     steps:
-      - uses: actions/checkout@v6.0.0
+      - uses: actions/checkout@v6.0.1
       - id: bumped-tag
         run: |
           VERSION=`gh release view --json tagName --jq '.tagName' | awk -F. '{OFS="."; $NF+=1; print $0}'`; \
