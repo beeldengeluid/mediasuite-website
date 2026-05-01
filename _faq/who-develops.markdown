@@ -14,12 +14,11 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 - Jaap Blom
 - [Willem Melder](https://www.beeldengeluid.nl/en/knowledge/experts/willem-melder)
-- [Mari Wigham](https://www.linkedin.com/in/mariwigham)
 - Johannes Wassenaar
 
 **Requirement analysts, documentation and dissemination**
 
-- [Liliana Melgar](https://www.linkedin.com/in/lilimelgar/?locale=en_US) (requirements analyst, researcher and tester)
+- [Liliana Melgar](https://www.linkedin.com/in/lilimelgar/?locale=en_US) (requirements analyst, researcher and tester, 2016-2020)
 - [Eva Baaren](https://www.linkedin.com/in/baaren/) (liaison digital humanities, 2016-2018)
 - Tom Slootweg (2018-)
 - Iris van Vliet (2018)
@@ -27,14 +26,15 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 **Development researchers and collaborators**
 
-- [Marijn Koolen](https://marijnkoolen.com/) (part of the development team between 2016-2017, currently developing together with NISV a [scholarly web annotation client](https://clariah.github.io/scholarly-web-annotation-client/) and leading the initiative for scholarly annotations interoperability)
+- [Marijn Koolen](https://marijnkoolen.com/) (part of the development team between 2016-2017; after that worked together with NISV a [scholarly web annotation client](https://clariah.github.io/scholarly-web-annotation-client/) and led the initiative for scholarly annotations interoperability)
 - [Victor de Boer](https://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
 - Oana Inel (2017-2018)
 - Lora Aroyo (2016-2018)
 - [Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center, 2016-2018)
 - <a href="https://www.sudox.nl/?utm_source=mediasuite" target="_blank">Werner Helmich</a> (designer/developer at <a href="https://www.sudox.nl/?utm_source=mediasuite" target="_blank" style="color: #3c4248">SUDOX</a>, created the user interfaces of multiple Media Suite tools, 2017-2024)
 - From September 2018 to February 2019, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve the [Resource viewer](/documentation/tools/resource-viewer)
-- The Media Suite is developed in alignment with [CLARIAH WP2](https://clariah.nl/en/work-packages/technology) (the work package responsible for the overall infrastructure coordination)
+- [Mari Wigham](https://www.linkedin.com/in/mariwigham)
+
 
 **Scholars involved**
 
@@ -47,17 +47,16 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 **Scholars from the [CLARIAH research pilot projects](/documentation/faq/what-are-research-pilots)**
 
-- [CrossEWT project](https://clariah.nl/projecten/research-pilots/crossewt): Susan Hoogervorst
-- [Dream project](https://clariah.nl/projecten/research-pilots/dream): Toine Peters and Berrie van der Molen
-- [M&M project](https://clariah.nl/projecten/research-pilots/m-m): Susan Aasman, Tom Slootweg, Rob Wegter, Vincent Ros
-- [MIMEHIST project](https://clariah.nl/projecten/research-pilots/mimehist): Christian Olesen, Kathleen Lodze
-- [NarDis project](https://clariah.nl/projecten/research-pilots/nardis): Sabrina Sauer, Berber Hagedoorn
-- [ReSpoNs project](https://clariah.nl/projecten/research-pilots/respons): Marcel Broersma, Frank Harbers, Mark Vallinga
-
+- [CrossEWT project](https://publications.beeldengeluid.nl/pub/1890): Susan Hoogervorst
+- [Dream project](https://www.stichtingfarmaceutischerfgoed.nl/nieuws/2022/10/proefschrift-berrie-van-der-molen): Toine Peters and Berrie van der Molen
+- **M&M project**: Susan Aasman, Tom Slootweg, Rob Wegter, Vincent Ros
+- [MIMEHIST project](https://publications.beeldengeluid.nl/pub/1904): Christian Olesen, Kathleen Lodze
+- [NarDis project](https://publications.beeldengeluid.nl/pub/1891): Sabrina Sauer, Berber Hagedoorn
+- **ReSpoNs project**: Marcel Broersma, Frank Harbers, Mark Vallinga
 
 
 > See Also [Wie is Wie / Who is Who in CLARIAH](https://clariah.nl/people).
 
 
 
-*(Last edit: January 31, 2019)*. *If you have any questions, please [contact us]( /contact ).*
+*(Last edit: April 30, 2026)*. *If you have any questions, please [contact us]( /contact ).*
