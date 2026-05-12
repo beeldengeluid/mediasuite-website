@@ -1,6 +1,6 @@
 ---
 title: Version 7.5
-date: 2025-08-22 11:34:00 +01:00
+date: 2025-08-22 12:34:00 +02:00
 ---
 
 ## New features & bug fixes:
