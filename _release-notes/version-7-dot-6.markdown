@@ -1,6 +1,6 @@
 ---
 title: Version 7.6
-date: 2026-10-06 13:30:00 +01:00
+date: 2026-10-06 14:30:00 +02:00
 ---
 
 ## New features & bug fixes (Sound & Vision archive):
